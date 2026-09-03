@@ -1,0 +1,109 @@
+30 Patch Control
+
+1
+1
+1
+Principal.tex
+26
+20
+7
+
+capitulos\conclusiones.tex
+TeX
+17838075 0 -1 27 -1 1 380 380 1114 1162 0 1 61 0 -1 -1 0 0 52 -1 -1 52 1 0 1 -1  0 -1 0
+apendices\apendice1.tex
+TeX
+1060859 4 -1 22 -1 21 50 50 369 424 0 1 301 0 -1 -1 0 0 22 -1 -1 22 1 0 21 -1  0 -1 0
+apendices\anexo1.tex
+TeX:CP0
+1060859 0 -1 281 -1 289 25 25 344 399 0 1 277 92 -1 -1 0 0 1045 -1 -1 1045 1 0 289 -1  0 -1 0
+apendices\anexo2.tex
+TeX
+17838075 1 -1 1015 -1 34 38 38 937 831 0 1 49 23 -1 -1 0 0 32 -1 -1 32 1 0 34 -1  0 -1 0
+apendices\apendice3.tex
+TeX
+1060859 0 -1 42 -1 33 0 0 319 374 0 1 445 0 -1 -1 0 0 234 -1 -1 234 1 0 33 -1  0 -1 0
+apendices\anexo3.tex
+TeX
+1060859 2 -1 503 -1 516 0 0 820 374 0 1 637 184 -1 -1 0 0 34 -1 -1 34 1 0 516 -1  0 -1 0
+capitulos\disedetallado.tex
+TeX
+17838075 0 27 12 -1 270 114 114 848 896 0 1 49 253 -1 -1 0 0 28 -1 -1 28 1 0 270 -1  0 -1 0
+upiita.cls
+TeX:STY
+269496306 0 5 26 4 1 154 154 752 562 1 0 101 -460 -1 0 0 3 0 0 3 1 1 0 1 4  0 0 0
+configuracion\upiitatesis.sty
+TeX:STY:ES
+1060850 4 195 108 195 109 125 125 743 499 0 0 1325 667 -1 -1 0 0 32 0 0 32 1 0 109 195  0 0 0
+preliminares\Nomenclatura.tex
+TeX
+1060859 0 -1 392 -1 392 304 304 1290 1086 0 1 49 345 -1 -1 0 0 0 -1 -1 0 1 0 392 -1  0 0 0
+preliminares\Resumen.tex
+TeX
+1060859 0 -1 44 -1 390 75 75 895 449 0 1 301 276 -1 -1 0 0 17 -1 -1 17 1 0 390 -1  0 -1 0
+Principal.tex
+TeX:ES
+152055803 0 -1 3606 -1 3560 132 132 730 540 1 1 613 713 -1 0 0 45 130 -1 -1 2545 1 0 3560 -1  0 -1 0
+preliminares\introduccion.tex
+TeX
+1060859 0 -1 74 -1 167 114 114 975 896 0 1 313 69 -1 -1 0 0 0 -1 -1 0 1 0 167 -1  0 -1 0
+apendices\apendice2.tex
+TeX
+1060859 0 12 48 -1 46 190 190 1089 983 0 1 49 46 -1 -1 0 0 42 -1 -1 42 1 0 46 -1  0 -1 0
+capitulos\diseconceptual.tex
+TeX
+1060859 0 -1 0 -1 0 150 150 970 524 0 1 49 0 -1 -1 0 0 30 -1 -1 30 1 0 0 -1  0 -1 0
+preliminares\abstract.tex
+TeX
+1060859 1 -1 394 -1 373 76 76 937 858 0 1 49 299 -1 -1 0 0 18 -1 -1 18 1 0 373 -1  0 -1 0
+capitulos\Discusion.tex
+TeX
+1060859 0 -1 0 -1 0 342 342 1203 1124 0 1 49 0 -1 -1 0 0 44 -1 -1 44 1 0 0 -1  0 -1 0
+capitulos\marcoreferencia.tex
+TeX
+1060859 0 -1 0 -1 30 228 228 1089 1010 0 1 409 0 -1 -1 0 0 30 -1 -1 30 1 0 30 -1  0 -1 0
+preliminares\Simbologia.tex
+TeX
+1060859 0 -1 0 -1 36 266 266 1127 1048 0 1 145 69 -1 -1 0 0 22 -1 -1 22 1 0 36 -1  0 -1 0
+capitulos\implementacion.tex
+TeX
+1060859 0 -1 94 -1 137 114 114 975 896 0 1 505 92 -1 -1 0 0 36 -1 -1 36 1 0 137 -1  0 -1 0
+D:\Program Files\WinEdt Team\WinEdt 10\Exec\PDF\PDFCloseDoc.edt
+ASCII:EDT
+269494138 7 52 1 51 1 342 342 1076 1124 1 0 101 552 -1 -1 0 0 21 0 0 21 1 0 1 51  0 0 0
+configuracion\estilodoc.tex
+TeX
+269496315 0 -1 578 -1 243 304 304 1038 1086 0 1 205 161 -1 -1 0 0 -1 -1 -1 -1 1 0 243 -1  0 0 0
+configuracion\fncychap.sty
+TeX:STY:UNIX
+269594610 1 159 9 159 20 266 266 1000 1048 0 0 257 667 -1 -1 0 0 -1 -1 -1 -1 1 0 20 159  0 0 0
+D:\Program Files\WinEdt Team\WinEdt 10\Exec\PDF\PDF Search.edt
+ASCII:EDT
+269494138 7 113 1 112 1 152 152 886 934 1 0 101 552 -1 -1 0 0 -1 -1 -1 -1 1 0 1 112  0 0 0
+XBiblioteca.bib
+BibTeX
+269485042 0 0 1 11 75 220 220 1571 713 0 1 558 176 -1 -1 0 0 75 3 3 75 1 0 75 11  0 -1 0
+Principal.toc
+TeX:AUX
+269496306 0 0 1 33 29 125 125 978 592 0 0 248 510 -1 -1 0 0 -1 -1 -1 -1 1 0 29 33  0 0 0
+
+*Principal.tex
+>
+*preliminares/Resumen
+*preliminares/abstract
+*preliminares/Nomenclatura
+*preliminares/Simbologia
+*preliminares/introduccion
+*capitulos/marcoreferencia
+*capitulos/diseconceptual
+*capitulos/disedetallado
+*capitulos/implementacion
+*capitulos/Discusion
+*capitulos/conclusiones
+*apendices/apendice1
+*apendices/apendice2
+*apendices/apendice3
+*apendices/anexo1
+*apendices/anexo2
+*apendices/anexo3
+<

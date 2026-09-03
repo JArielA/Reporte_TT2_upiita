@@ -1,0 +1,52 @@
+\section{Ejemplo cálculo de temperatura final}\label{Ap:temp_final}
+
+Partiendo de la ley de Newton para la transferencia de calor, se tiene:\cite{LeyNewtonCalor}
+
+\[Q = h \cdot A \cdot \Delta T\]
+
+Siendo:
+
+\begin{itemize}
+  \item Q es la tasa de transferencia de calor
+  \item h es el coeficiente de transferencia de calor por convección
+  \item A es el área de contacto
+  \item $\delta$T es la diferencia de temperatura entre el objeto y el fluido
+\end{itemize}
+Se retoman los cálculos obtenidos para un cilindro de acuerdo con la ley de Fourier y la ley de Newton para la transferencia de calor.
+\[Q_{\text{conducción}} = Q_{\text{convección}}\]
+
+\[\frac{{2\pi L K (T_i - T_f)}}{{\ln\left(\frac{{r_0}}{{r_1}}\right)}} = h A (T_f - T_{\text{aire}})
+\]
+Se despeja Tf para conocer la temperatura que tendrá el compostador en la cara externa.
+\[T_f \left(hA+\frac{2\pi LK}{\ln\left(\frac{r_0}{r_1}\right)}\right) = \frac{2\pi LKT_i}{\ln\left(\frac{r_0}{r_1}\right)} + hAT_{\text{aire}}
+\]
+Finalmente se obtiene:
+\[T_f = \frac{\left(\frac{2\pi LKT_i}{\ln\left(\frac{r_0}{r_1}\right)} + hAT_{\text{aire}}\right)}{\left(hA+\frac{2\pi LK}{\ln\left(\frac{r_0}{r_1}\right)}\right)}
+\]
+Se ha propuesto, usar tres grados Celsius como temperatura del aire. Es importante señalar que la constante de convección del aire puede variar dependiendo de diversos factores, como la velocidad del flujo de aire, la temperatura y la presión por lo que su valor se encuentra en un rango de cinco a veinticinco W/(m²·K), por lo que se propondrá utilizar un valor de veinticuatro W/(m²·K). Proponiendo que al interior del contenedor exista una temperatura (Ti) de cincuenta grados Celsius.
+
+Se presentan los valores a sustituir:
+
+\begin{itemize}
+  \item L=0.73 m
+  \item r0=0.228 m
+  \item A es el área de contacto
+  \item r1=0.227 m
+  \item K=51.9 W/mK
+  \item h=24 W/(m²·K)
+  \item Ti=50°C = 323K
+  \item Taire=3°C=276K
+\end{itemize}
+Sustituyendo los valores en la temperatura final calculada (Tf), se tiene:
+
+\[\frac{\left(\frac{{2\pi \cdot 0.73 \, \text{m} \cdot 51.9 \, \text{W/mK}}}{{\ln\left(\frac{{0.228 \, \text{m}}}{{0.227 \, \text{m}}}\right)}}\right) \cdot (323 \, \text{K})
++ (24 \, \text{W/(m}^2 \, \text{K}) \cdot 276 \, \text{K} \cdot \left((2\pi \cdot 0.228 \, \text{m} \cdot 0.73 \, \text{m}) + (2\pi \cdot 0.228 \, \text{m}^2)\right))
+}{\left(24 \, \text{W/(m}^2 \, \text{K})\right) \cdot \left(\left(2\pi \cdot 0.227 \, \text{m} \cdot 0.73 \, \text{m}\right) + \left(2\pi \cdot 0.227 \, \text{m}^2\right)\right) + \left(\frac{{2\pi \cdot 0.73 \, \text{m} \cdot 51.9 \, \text{W/mK}}}{{\ln\left(\frac{{0.228 \, \text{m}}}{{0.227 \, \text{m}}}\right)}}\right)
+}
+\]
+Se obtiene la potencia sustituyendo Tf en alguno de los lados de la igualdad, obteniendo:
+
+\[Q = \left(24 \, \text{W/(m}^2 \, \text{K}\right) \cdot \left(\left(2\pi \cdot 0.228 \, \text{m} \cdot 0.73 \, \text{m}\right) + \left(2\pi \cdot 0.228 \, \text{m}^2\right)\right) \cdot (323 \, \text{K} - 322.97 \, \text{K})
+\]
+\[Q = 1.547 \, \text{kW}
+\]

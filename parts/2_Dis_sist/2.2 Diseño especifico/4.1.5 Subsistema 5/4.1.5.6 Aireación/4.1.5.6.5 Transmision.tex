@@ -1,0 +1,127 @@
+\textbf{Diseño de la transmisión por Bandas}
+
+Para realizar el diseño de la transmisión por banda, se requiere seguir la metodología mostrada en [cita],  la potencia requerida $(P_{req})$ debe ser multiplicado por un factor de servicio, dicho factor se muestra en la siguiente imagen
+ (Figura \ref{fg:Factores}). 
+
+De la tabla se observa que el factor de servicio para un motor eléctrico con movimiento uniforme es de 1.
+
+Por lo que la potencia de diseño es igual a la potencia requerida.
+
+\begin{center}
+    $P_d = P_{req}=37.5 W$
+\end{center}
+
+Potencia de transmitida:  37.5 W=0.05 Hp \\
+Velocidad entrada: 18 RPM $V_M=18 rpm$ \\
+Velocidad salida: 5 RPM $V_C=5 rpm$ \\
+Tiempo de uso:  < 6 horas por día \\
+
+
+Se determinó el tipo de banda a utilizar con respecto a la siguiente imagen 
+ (Figura \ref{fg:Bandas}). 
+
+Se tiene una potencia y velocidad muy baja, por lo que la banda a  utilizar es 3VX.
+
+La relación de velocidades nominales está determinada por:
+
+\begin{center}
+	$Relacion= \frac{18}{5} = 3.6$
+\end{center}
+
+Se calculó el tamaño de la polea motriz, si se desea tener una velocidad de la banda de $ v_b = 28 Ft/min$, como guía para seleccionar la polea motriz, el diámetro de la polea motriz está determinada por:
+ 
+\begin{center}
+	$D_M = \frac{18*v_b}{\pi*n_1}  =\frac{18*28}{\pi*18} = 8.91 in$
+\end{center}
+
+El tamaño de polea estándar más próximo es de:
+
+\begin{center}
+	$D_M = 9 in$
+\end{center}
+
+Para la polea conducida $P_C$ se buscó una que permita mantener la relación deseada
+
+\begin{center}
+	$D_C = \frac{9}{3.6 } = 2.5 in$
+\end{center}
+
+Revisando las tablas de valores estándar de las poleas se tiene:
+
+\begin{center}
+	$D_C = 2.5 in$
+\end{center}
+
+Se calculó la potencia nominal a partir de la tabla (\ref{fg:Banda3V}).
+
+La potencia nominal de la banda es $P_n = 1 Hp$
+
+Se calculó una distancia tentativa de la distancia de los centros utilizando la siguiente fórmula:
+
+\begin{center}
+	$ D_C < C < 3(D_C + D_M)$ \\
+	$ 2.5 in < C < 3(2.5 + 9) in$ \\
+	$ 2.5 in < C < 34.5 in $
+\end{center}
+
+
+Se propone una distancia $C$ de :
+
+\begin{center}
+	$C=17 in $
+\end{center}
+
+Se procedió a calcular la longitud de la banda necesaria, utilizando:
+ 
+\begin{center}
+	$L = 2C  + 1.57(D_C + D_M) + \frac{(D_C - D_M)^2}{4C}$ \\
+\end{center}
+
+Sustituyendo todos los valores se obtiene que:
+
+\begin{center}
+	$L =2(17) +1.57(9 + 2.5)+ \frac{(9 - 2.5)^2}{4(17)} = 52.68 in$
+\end{center}
+
+La longitud estándar más próxima al valor calculado, respecto a la tabla (\ref{fg:Longitud}).
+
+Es de $L=53 in$ por lo que se procede a calcular la distancia real entre ejes, siguiendo la fórmula:
+
+\begin{center}
+	$B = 4L-6.28(D_C + D_M) = 4(53)-6.28(9 + 2.5) = 139.78$
+	
+\end{center}
+	
+\begin{center}
+	$C = \frac{B+ \sqrt{(B)^2 - 32(D_C - D_M)^2}}{16} = \frac{139.78+ \sqrt{(139.78)^2 - 32(9 - 2.5)^2}}{16}$ \\
+	$C=17.16 in$
+\end{center}
+
+Ahora se calculas el ángulo de contacto de la banda en la polea menor con la fórmula:
+
+\begin{center}
+	$\theta = 180^o - 2sen^{-1}[\frac{D_C - D_M}{2C}] = 180^o - 2sen^{-1}[\frac{9 - 2.5}{2*17.16}]= 177.34^o$
+\end{center}
+
+Determinar los factores de corrección con las tablas (\ref{fg:theta}) (\ref{fg:L}).
+
+Por lo que se tiene que:
+
+$C_\theta = 0.99$
+
+Y para $L = 53 in$ en banda 3V $C_L = 0.96$  
+
+La potencia normal corregida por la banda y la cantidad de banda necesarias para manejar la potencia de diseño.
+
+\begin{center}
+	$P_{correg} =C_\theta * C_L * P_N = 0.99 * 0.96 * 1/4 Hp$ \\
+	$P_{correg} = 0.2376 Hp = 177 W$
+\end{center}
+
+Para determinar el número de bandas necesarias:
+
+\begin{center}
+	$N_B = \frac{P_d}{P_{correg}} = \frac{37.5 W}{177 W} = 0.21$ bandas 
+\end{center}
+
+Por lo que se utilizará 1 banda Tipo 3VX

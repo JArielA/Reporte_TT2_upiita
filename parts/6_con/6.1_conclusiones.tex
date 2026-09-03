@@ -1,0 +1,46 @@
+% 3.1 Conclusiones
+
+\section{Conclusiones}
+
+
+A lo largo de la materia de Trabajo Terminal II se llevó a cabo la idea planteada desde Protocolo de Investigación y desarrollada en Trabajo Terminal I, para llegar al punto culminante, un Sistema Semiautomático Generador de Compost a partir de Residuos Alimenticios.
+
+Durante este largo camino se presentaron problemas y desafíos que en un principio no se tomaron en cuenta, por ello fue necesario verificar si las propuestas iniciales eran realizables, y en los casos donde estas no lo eran, fue necesario modificar y adaptar soluciones que  permitieran llegar al objetivo deseado.
+
+A lo largo de este último año se diseñaron y realizaron los diversos sistemas que componen el proyecto, estos sistemas se conforman de distintos elementos mecánicos, eléctricos, electrónicos y códigos de programación, que al integrarlos permiten el correcto funcionamiento del sistema.
+
+Es por ello que a lo largo del proyecto fue necesario verificar que los sistemas funcionaran de manera correcta y se ajustaran a todos los requerimientos que el proyecto necesitaba .
+
+Así es como se determinó que uno de los sistemas planteados en un inicio, el sistema de humedad, era totalmente innecesario, los residuos manejados poseen por si mismos una gran cantidad de agua, misma que durante el proceso es liberada en forma de lixiviados y vapor de agua, eliminando cualquier necesidad de agregar más agua al sistema, y por consecuencia elimina la necesidad de disponer de este sistema.
+
+Una de las complicaciones fue el sistema de calefacción, el sistema previamente concebido presentaba muchos problemas en su elaboración e implementación, por lo que se tuvo que buscar otra alternativa para elevar la temperatura del sistema, se encontró un cinturón diseñado para elevar la temperatura de los contenedores de aceite, el cual permite regular su temperatura y cuenta con un sistema de protección que hace que se apague al llegar a la temperatura seleccionada, eliminando así el riesgo de incendio, por estas características resultó ser una opción viable y de fácil adaptación al sistema previamente diseñado y en complemento con un recubrimiento de fibra de vidrio que permitió elevar y mantener la temperatura del sistema en los rangos de temperatura necesarios para el correcto funcionamiento del proyecto al mismo tiempo que protege al usuario de una quemadura generada por el cinturón.
+
+También es importante resaltar los problemas observados con el sistema de trituración, ya que una pieza diseñada para conducir los residuos al interior del contenedor resultó en el bloqueo de la salida del triturador, dificultando en gran medida esta etapa del proceso, y como se menciona en un capitulo anterior, al diseñar una nueva pieza que no obstruyera esta salida, la trituración procedió con problemas menores.
+
+El realizar varias pruebas permitió observar las mejores condiciones de operación para el sistema, resaltando que mantener una temperatura elevada durante la fase Termófila del sistema es vital para el proceso de compostaje, ya que permite la evaporación del agua en los residuos procesados.
+
+A sí mismo resalta la importancia de utilizar materiales adecuados y de calidad en la totalidad del proyecto, ya que después de realizar una serie de pruebas,la pintura al interior del contenedor se desprendió casi en su totalidad, la atmósfera al interior del contenedor, caliente y muy húmeda, sumada a la continua fricción de los residuos termino por arrancar la pintura de las paredes internas.
+
+Como se mencionó previamente, se presentaron cortes de energía eléctrica durante la fase de pruebas, una situación que no se había tomado en consideración, sin embargo permite enriquecer este proyecto, puesto que a raíz de este inconveniente, se han propuesto algunas ideas que buscan erradicar el problema. Es importante remarcar este problema, ya que si el dispositivo se encuentra en un área donde los cortes de energía son constantes, puede presentar dificultades para funcionar de manera óptima y los resultados no serán los adecuados ya que por el momento no se guarda el punto del proceso en el que se quedó la última vez por lo que hay que estar programando la ESP32 de manera constante.
+
+El registro de datos podría ser de bastante utilidad sobre todo en la fase de pruebas ya que retomando el punto anterior habría permitido saber  en que punto se detuvo el proceso. Una conexión estable de WiFI habría permitido registrar los datos recopilados por el sensor, y aunque se intentó atacar el problema con otra alternativa, guardando de manera local mediante el modulo de tarjeta SD, este último presentó problemas para registrar la totalidad de datos, puesto que se estimaba tener al final del proceso cerca de 8500 meiciones sin embargo solo se registraron 2000, y en otros intentos registraba ciertos lapsos de tiempo.
+
+El monitoreo del proceso de manera remota, puede ser bastante útil sin embargo requiere de una señal estable de WiFi y que esta última presente una buena intensidad. 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{comment}
+Durante este trabajo se construyo un sistema macatrónico capaz de procesar los desechos orgánicos para producir compost a partir de una idea que surgió de un protocolo de investigación y que fue materializado gracias a un diseño conceptual. 
+
+Para realizarlo, fue necesario diseñar diversos sistemas y módulos, para lo cual, fue necesario fabricar diversos elementos mecánicos, diseñar los circuitos eléctricos y electrónicos requeridos, así como coordinar las tareas y los ciclos de trabajo por medio de la tarjeta de desarrollo.
+
+A diferencia de lo presentado en Trabajo Terminal I, en esta tiempo han salido a la luz diversos detalles que fueron poniendo en prueba las soluciones técnicas solucionadas, así como los materiales y elementos antes seleccionados. Por lo que fue necesario realizar algunos cambios, con el fin de cumplir los objetivos propuestos.
+
+La flexibilidad que otorga la metodología de diseño mecatrónicos VDI-2206, fue lo que permitió que diversos módulos y sistemas fueran evolucionando, según las necesidades técnicas, tecnológicas e incluso económicas que se fueron presentado a lo largo de la fabricación del dispositivo.
+
+Un ejemplo fue el cambio en el sistema de calentamiento del sistema, pasando de unos módulos de resistencias eléctricas tipo parrilla, se encontró una solución que consta de un cinturón especial para calentar botes de aceite, el cual mejoró el rendimiento del sistema de calefacción y cuenta con protecciones que permiten que sea seguro de implementar y no signifique un riesgo para el usuario.
+
+Otra ventaja de usar esta metodología de diseño, es que permite un diseño modular entre las diferentes áreas que conforman la mecatrónica, implementando y verificando cada uno de los módulos por separado. De esta manera, la dependencia entre ellos es mínima, por lo que se permite una mayor flexibilidad al evaluar o validar alguna de las soluciones tecnológicas al momento de su integración.
+\end{comment}
+
+\clearpage

@@ -1,0 +1,37 @@
+\textbf{Selección del motor}
+
+Una vez calculada la potencia consumida, por el eje de aireación es posible calcular y seleccionar el motor necesario para mover la carga.
+
+Dado que se requiere una velocidad comprendida entre 3 y 6 rpm, y una potencia baja, el motor a seleccionar es un motor de baja potencia y baja velocidad.
+$monofásico$
+
+\begin{table}[h]
+    \centering
+    \caption{Características del motor seleccionado} 
+    \begin{tabular}{c|c|c}
+        Potencia & Tensión & RPM \\
+        1/4 hp  & 127-220 V & 1750 
+    \end{tabular}
+    \label{tab:DatosMotro}
+\end{table}
+
+Se propone un reductor de velocidad conectado a la flecha del motor principal, el reductor se compone de una corona y un tornillo sin fin, ya que este mecanismo permite una alta relación de reducción.
+
+La segunda etapa de reducción está compuesta por una banda de transmisión, ya que al ser un un mecanismo síncrono permite una velocidad constante a la salida, además de una eficiencia del $95\%$.
+
+Al considerar las perdidas de potencia en las distintas etapas de reducción, se calculó la potencia real requerida. 
+
+La eficiencia del reductor de corona y tornillo sin fin es de $82\%$.
+
+Se tomará una eficiencia de $75\%$ para la caja reductora y $90\%$ para la banda.\cite{Mott}
+
+\begin{center}
+    $P_{Req}=\frac{(25.2 W)}{(0.75)(0.9)}$\\
+\end{center}
+\begin{center}    
+    $P_{Req}=37.33 W\%$\\
+\end{center}
+\begin{center}
+    $P_{Req}\approx 37.5 W\%$ 
+\end{center}
+

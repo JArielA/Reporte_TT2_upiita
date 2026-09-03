@@ -1,0 +1,51 @@
+\section{Propios del desarrollo tecnológico o investigación}
+
+En este reporte de Trabajo Terminal I se tiene como objetivo principal realizar el diseño del sistema de compostaje, materializando una propuesta de diseño conceptual, construyendo y validando cada uno de los módulos que lo componen.
+
+Para lograr este punto en general, se han realizado análisis  e investigaciones documentales previas que han ayudado a delimitar las opciones de soluciones tecnológicas a cada uno de los requerimientos y necesidades.
+
+Una vez seleccionada cada una de las soluciones propuestas se ha realizado un análisis sobre las cuestiones que rodean a la solución, remarcando las ventajas y contrastándolas con las desventajas para sustentar la selección, también, de ser posible, se realizó una simulación para reforzar los argumentos de selección.
+
+Las simulaciones se realizaron por medio de herramientas computacionales, utilizando el software de Matlab, Simulink, MD Solid y SolidWorks.
+
+En este trabajo se han tomado en cuenta los conocimientos y las experiencias que se han obtenido a lo largo de la carrera, por lo cual, muchas de las soluciones y argumentos mostrados, cuentan con una visión de la ingeniería que se ha desarrollado a lo largo de la carrera.
+
+Es por lo que, los diseños electrónicos son muy parecidos a diversos ejercicios y practicas que se han realizado durante algunas unidades de aprendizaje, por que ya se conoce su funcionamiento y en el proyecto se toman como una aplicación directa.
+
+Estos sistemas electrónicos son los de monitoreo de la temperatura y de la humedad, también los circuito de activación de cada uno de los motores y la bomba de agua. Lo mismo pasa con la interfaz Humano - máquina y el uso de la tarjeta ESP32 para diversos proyectos de electrónica y control.
+
+De esta manera se puede confiar en el funcionamiento de los circuitos propuestos, solo cuidando detalles en la manufactura de los PCB para evitar errores en las pistas y verificando que la impresión se haga de forma correcta para que cada componente electrónico esté instalado en el lugar donde le corresponde.
+
+En caso de las leyes de control, en este caso se han utilizado simulaciones computacionales. En caso de los controles ON/OFF, la simulación no se realizo con mucho rigor debido a que es un control  sencillo que únicamente refleja un cambio de estado para activar o desactivar algún actuador del sistema.
+
+Para la temperatura dento del contenedor, se realizó una simulación de un contenedor cerrado, siendo este sometido a diferentes estímulos térmicos, con los datos obtenidos en dicho experimento, se observa que la aplicación de un controlador PID es una buena opción para realizar el control de temperatura del compostador, además de tener en cuenta otras consideraciones para los fenómenos de las pérdidas de calor.
+
+Estas consideraciones sobre las pérdidas de calor fueron una de las bases por las cuales se considero un rediseño del contenedor donde se llevará a cabo el proceso de compostaje, ya que este al estar expuesto al intemperie, especialmente a cambios de temperatura que afectan directamente al ambiente interno y por lo tanto, alterar el funcionamiento del monitoreo y de la activación de los actuadores.
+
+Es por lo que se trabajó en la búsqueda de un material que aislara el contenedor del ambiente y conserve la temperatura a interior, para la cual se han realizado simulaciones de transferencia de calor con diversos materiales para conseguir el recubrimiento que más convenga de acuerdo a las necesidades del proyecto y se adapte a las condiciones ambientales de la Ciudad de México. Es importante mencionar que las pruebas realizadas con la fibra de vidrio, presentaron una reducción de la pérdida de calor de cinco veces con respecto al contenedor sin material aislante y permite mantener la temperatura de la cara externa un par de grados por encima de la temperatura ambiental. 
+
+Por estas razones se cree que es viable realizar la construcción del contenedor, aún así, es necesario poder tener el contenedor construido y medianamente funcionando para poder realizar la correcta sintonización del controlador.
+
+Por otro lado en cuanto a la ventilación de la cámara de compostaje, se realizaron algunas simulaciones proponiendo distintas distribuciones para los ventiladores en las que se observó cuál de ellas presentaba una distribución y recorrido uniforme del aire al interior del contenedor. 
+
+Para el caso del eje del sistema de aireación se tomaron en cuenta diversas ideas para su elaboración. los principales detalles en el, fue la implementación de las palas con el mismo eje y que sea capaz de mover toda la carga propuesta. 
+
+De esta manera, se decantó por un eje cilíndrico que atravesara de forma horizontal el contenedor, el cual estará perforado con unas roscas donde se van a colocar las palas planas. De esta forma se han realizado los estudios necesarios, donde el eje se somete a los diferentes momentos y cargas generadas durante su implementación.
+
+De la simulación realizada, se destaca que el eje puede soportar esfuerzos de 33.5 Mpa y utilizando un acero ANSI 1045 con un limite elástico de 530 MPa, valida el diseño de eje propuesto y por lo que se puede pasar a su proceso de fabricación.
+
+%no se que mas quieras poner en lo de trituración marco, esta bien man, si no ahorita a ver que mas le pongo, falta lo del puto impacto ambiental
+%Tienes el documento de octavio donde habla de que es el impacto ambiental?, o esta en el teams? ya te lo mande por whats
+Para el sistema de trituración se tomo en cuenta que sera una persona la encargada de imprimir el momento de torsión necesario para la trituración de la materia orgánica, por lo que fue necesario conocer la fuerza promedio que puede aplicar una persona, teniendo esos datos y una propuesta de utilizar un sistema de tornillo helicoidal y un rallador, se propuso seleccionar un dispositivo comercial que realizará una acción similar, por lo que se termino seleccionando un molino manual de carne, el cual mediante un tornillo helicoidal de paso variable y una cuchilla trituran la carne hasta dimensiones que se adaptan a nuestros requerimientos.
+
+Con esta selección, se busco la manera de disminuir los procesos de fabricación requeridos durante la elaboración del proyecto, así como aprovechar mejor los tiempos que se disponen para la integración del sistema y sus pruebas.
+
+En cuanto a la parte de la estructura, se realizaron simulaciones sobre un modelo de estructura convencional la cual estará encargada de soportar el peso de todos los componentes y la materia orgánica al interior del contenedor. 
+
+Las validaciones numéricas se centraron en estudios estáticos, donde se busco observar como es que se reparte la carga de los componentes en toda la estructura y ver qué puntos son susceptibles a un fallo. 
+
+Para validar los puntos críticos fue necesario calcular el esfuerzo máximo en esos puntos de apoyo y calcular el factor de seguridad de la estructura, en este caso el factor de seguridad ha sido de 31, el cual se ha considerado más que suficiente para el evitar problemas en la estructura.
+
+También se observo que la deformación máxima en algunas vigas de la estructura, de tal forma que se puedan evitar deformaciones a largo plazo que puedan afectar el funcionamiento de todo el sistema o que provoque algún desperfecto en algún elemento mecánico.
+
+Con los valores obtenidos, se observó que la estructura propuesta es una buena opción para llevar a cabo el proceso de compostaje, por lo tanto, este diseño se puede fabricar.

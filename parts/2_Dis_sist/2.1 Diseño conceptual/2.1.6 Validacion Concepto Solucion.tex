@@ -1,0 +1,48 @@
+\subsection{Validación del sistema}
+
+Con las opciones ya delimitadas por las rutas de diseño en la matriz morfológica, se realiza un análisis numérico utilizando el proceso analítico jerárquico (AHP). Este proceso realiza una evaluación de cada una de las opciones, basado en la ponderación de diversos criterios, que estarán ordenados y ponderados del más importante al más flexible.
+
+Para el caso de este proyecto, los criterios requeridos se han ordenado de la siguiente manera:
+
+\begin{itemize}
+    \item Costo.
+    \item Facilidad de manufactura
+    \item Disponibilidad
+    \item Seguridad de uso
+    \item Facilidad de uso
+    \item Integración
+    \item Mantenimiento
+    \item Durabilidad
+    \item Ergonomía
+    \item Portabilidad
+    \item Estética
+\end{itemize}
+
+Con estos criterios, se realiza una estimación numérica al comparar el peso que tiene un criterio sobre otro. De esta manera, se obtiene un porcentaje que simboliza el peso de cada uno de los criterios al momento de tomar una decisión.
+
+Los cálculos detallados de esta estimación se encuentran en la tabla del apéndice \ref{Ap:Crit}, donde los resultados obtenidos están recopilados en la tabla \ref{tab:Cuanticrit}.
+
+\begin{table}[h]
+    \centering
+    \caption{Cuantificación de los criterios} 
+    \begin{tabular}{|c|c|}
+    \hline
+        Criterio & Ponderación \% \\ \hline
+        Costo &  16.7 \\ \hline
+        Facilidad de manufactura & 15.7  \\ \hline
+        Disponibilidad & 13.9  \\ \hline
+        Seguridad de uso & 13.9 \\ \hline
+        Facilidad de uso & 10.2  \\ \hline
+        Integración & 8.3  \\ \hline
+        Mantenimiento & 7.4 \\ \hline
+        Durabilidad & 6.5 \\ \hline
+        Ergonomía & 5.6 \\   \hline
+        Portabilidad & 0.9  \\  \hline
+        Estética & 0.9 \\ \hline
+    \end{tabular}
+    \label{tab:Cuanticrit}
+\end{table}
+
+Con estas ponderaciones, se realiza una nueva hoja de cálculo donde se realiza la ponderación de las diferentes soluciones técnicas mediante las matrices de AHP. Con ayuda de este proceso, se obtiene una calificación, basada en los criterios mencionados, con la cual se puede respaldar la selección de alguna de las opciones.
+
+En este trabajo, los cálculos de las Matrices de AHP están descritos a detalle en el apéndice \ref{Ap:AHPMat}.

@@ -1,0 +1,43 @@
+\section{Ejemplo de cálculo de calor para un cilindro}\label{Ap:Temp_cilindro}
+
+Si T1 > T2 el flujo de calor radial se da desde el interior hasta el exterior del contenedor.
+\begin{center}
+    
+    $Q = -AK\frac{\Delta T}{\Delta \varepsilon} $
+\end{center}
+
+Se tienen dos áreas de las paredes de un cilindro hueco:
+\begin{center}
+    
+$A_{\text{int}} = 2\pi r_1 L$ 
+\end{center}
+\begin{center}
+    
+$A_{\text{ext}} = 2\pi r_2 L$
+\end{center}
+Se toma un radio de referencia r que varía desde r1 hasta r2 
+
+Sustituyendo el área de la pared de un cilindro, tomando en cuenta el radio de referencia r.
+
+
+\[
+Q = -(2\pi rL) \frac{dT}{dr}
+\]
+
+\[
+\frac{-Q}{2\pi L} \int_{r_1}^{r_2} \frac{dr}{r} = k \int_{T_1}^{T_2} dT
+\]
+
+\[
+\frac{-Q}{2\pi L} (\ln r_2 - \ln r_1) = k(T_2 - T_1)
+\]
+
+\[
+Q = \frac{k2\pi L(T_1 - T_2)}{\ln(r_2/r_1)}
+\]
+
+Para las tapas del cilindro:
+
+\[
+Q = \frac{k2\pi r^2 (T_2 - T_1)}{\varepsilon}
+\]

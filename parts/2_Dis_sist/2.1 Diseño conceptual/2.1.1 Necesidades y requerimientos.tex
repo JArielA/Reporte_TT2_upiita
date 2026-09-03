@@ -1,0 +1,62 @@
+\subsection{Necesidades y requerimientos}
+
+Para el desarrollo del proyecto, es muy importante identificar cada una de las necesidades que se pueden encontrar al momento de realizar el planteamiento del problema. Estas necesidades están sintetizadas en la tabla \ref{tab:Necesidades}. 
+
+\begin{table}[h]
+  \centering
+  \begin{tabular}{|c|c|c|}
+    \hline
+    No. & Necesidad & Clasificación \\
+    \hline
+    N1 & Procesar residuos orgánicos & Funcional \\
+    N2 & Controlar temperatura & Funcional \\
+    N3 & Controlar humedad & Funcional \\
+    N4 & Producir una mezcla homogénea con los residuos ingresados & Funcional \\
+    N5 & Disminuir el tamaño de los residuos & Funcional \\
+    N6 & Capacidad de almacenamiento & Funcional \\
+    N7 & Aislamiento térmico & Funcional \\
+    N8 & Estabilidad estructural & No Funcional \\
+    N9 & Monitorización de producto & Funcional \\
+    N10 & Filtrar malos olores & Funcional \\
+    N11 & Durabilidad del producto & No Funcional \\
+    \hline
+  \end{tabular}
+  \caption{Necesidades}
+  \label{tab:Necesidades}
+\end{table}
+
+
+Los requerimientos nacen de las necesidades funcionales del sistema y estos deben de ser medibles y alcanzables para asegurar el funcionamiento del proyecto. Es de esta forma que se pueden establecer los siguientes requerimientos mostrados en la tabla \ref{tab:requerimientos}.
+\clearpage
+    
+\begin{table}
+  \centering
+  \begin{tabularx}{\linewidth}{|c|X|c|c|c|c|}
+    \hline
+    \# & Descripción & NF & F & Importancia & Valor \\
+    \hline
+    R1 & Duración del ciclo de procesamiento &  & X & 5 & 72 horas \\ \hline
+    R2 & Triturar residuos Vegetales y Frutales & & X & 5 & dureza < 10 HB \\ \hline
+    R3 & Realizar el control de temperatura de acuerdo con las fases del proceso & & X & 5 & \makecell{ -Fase Mesófila I: 25-45 $^oC$  \\ -Fase Termofila: 45-60 $^oC$ \\ -Fase Mesófila II: 45-30 $^oC$ } \\ \hline
+    R4 & Realizar el control de humedad & & X & 5 & 40-60 $\%$ \\ \hline
+    R5 & Velocidad angular del eje de aireación & & X & 5 & 4-6 rpm \\ \hline
+    R6 & Tamaño del residuo antes del triturado & & X & 4 & 30-50 mm \\ \hline
+    R7 & Tamaño del residuo después del triturado & X & & 4 & 3-4 mm \\ \hline
+    R8 & Volumen del contenedor & & X & 4 & 120 L \\ \hline
+    R9 & Masa total de residuos a procesar por ciclo & X & & 4 & 8-15 kg \\ \hline
+    R10 & Reducción de la perdida de calor & & X & 3 & \makecell{ Conductividad térmica \\ < 51.9 W/mK} \\ \hline
+    R11 & Estabilidad Estructural & X & & 5 & Factor de Seguridad > 8 \\ \hline
+    R12 & Envío de mediciones a base de datos & & X & 2 & 2 veces por minuto\\ \hline
+    R13 & Área de trabajo & & X & 2 & 1.5 m$^2$ \\
+    \hline
+  \end{tabularx}
+  \caption{Requerimientos}
+  \label{tab:requerimientos}
+\end{table}
+
+\clearpage
+
+De las tablas anteriores se detectó que debe tener componentes de alta fiabilidad, ya que funcionará continuamente durante una gran cantidad de tiempo, y materiales de baja fiabilidad podrían llevar al mal funcionamiento del sistema.
+
+\newpage
+

@@ -1,0 +1,49 @@
+\textbf{Verificación subsistema 4}
+
+Se configuró el dimmer para buscar una reducción de velocidad del motor de trituración, sin embargo la implementación del dimmer causó un imprevisto, la disminución del voltaje de alimentación al motor causo que la corriente de arranque fuera muy alta, por lo que continuamente el fusible de protección del dimmer era quemado, por lo que al final se optó por eliminar su uso.
+
+Para verificar el funcionamiento del sistema de trituración, se realizaron pruebas con diversos tipos de desechos orgánicos. En la primera prueba, se utilizaron hojas de lechuga, tallos de cebollas, cáscaras de melón, trozos y cáscaras de zanahoria, así como trozos de papa.
+
+En esta primera prueba, los trozos de papa fueron triturados en su totalidad, sin ningún tipo de inconveniente, a diferencia de los trozos de zanahoria, que por ser de tamaño aproximado de 5 cm de largo por 1.5 cm de ancho, atascaron la salida del molino, impidiendo la expulsión de la materia y frenando en seco al motor (Figura \ref{fg:Atasco tritu}).
+
+ \begin{figure}[h]
+            \centering
+            \includegraphics[scale=0.15]{images/Capitulo_Imple/S7/atorado.jpeg}
+            \caption{Triturador atascado}
+            \label{fg:Atasco tritu}
+ \end{figure}
+ 
+Para el caso de las hojas de lechuga, los tallos de cebollas, las cáscaras de zanahoria y melón, el sistema de trituración no era muy eficiente. Debido a que son elementos muy delgados y muy largos que se quedan atrapados alrededor del tornillo sin fin o en las paredes  del molino.
+
+El resultado de esta prueba fue de ayuda para delimitar el tamaño de los residuos a la entrada de la trituración, esto deben de estar en un rango de 1 a 3 cm de largo por 1 a 3 cm ancho. Tampoco se le deben de introducir tallos enteros, ni cáscaras.
+ 
+Para la segunda prueba de trituración, se utilizaron residuos de papa, zanahoria, sandía, melón y jícama. Estos elementos fueron previamente picados para cumplir con el requerimiento de entrada.
+
+Con las muestras picadas, se procedió a introducir los desechos al triturador, esto se hizo de forma lenta, para evitar que se atasquen.
+
+Este proceso llevó a mejores resultados, moler todos los residuos provoco un par de pequeños atascos, sin embargo a diferencia del primer experimento no generó más problemas.
+
+De esta manera, se obtuvo una materia molida a través de un cedazo con aberturas de 3 mm (Figura \ref{fg:Mat tritu}), de esta manera, la materia se comenzó a almacenar dentro del contenedor.
+
+ \begin{figure}[h]
+            \centering
+            \includegraphics[scale=0.073]{images/Capitulo_Imple/S7/triturado.jpeg}
+            \caption{Materia recién salida del triturador}
+            \label{fg:Mat tritu}
+ \end{figure}
+ 
+ \clearpage
+ 
+Por otro lado, estas pruebas permitieron notar que el adaptador que conecta al triturador con la estructura de PVC también contribuía con el atascamiento de la materia triturada ya que el diámetro interior no era del tamaño adecuado, y observando el triturado de los vegetales, el equipo se percató que la mayor parte de la materia sale por los orificios más cercanos al perímetro del cedazo. 
+
+Por tal motivo fue necesario diseñar otra pieza que permita el paso de la materia mediante un diámetro mayor, pero que al mismo tiempo pueda conectarse con la estructura de PVC que ya se tenía construida. 
+
+Para solucionar este problema, se pensó en el diseño del un cono excéntrico como el que se muestra a continuación:
+ \begin{figure}[h]
+            \centering
+            \includegraphics[scale=0.7]{images/Pruebas/Pruebas_S4/cono_excentrico.jpg}
+            \caption{Adaptador con cono excéntrico}
+            \label{fg:conexcentrico}
+ \end{figure}
+
+\clearpage
