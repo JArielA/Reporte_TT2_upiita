@@ -3,159 +3,159 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1}{\ignorespaces Diagrama de flujo de una instalación típica de compostaje In-vessel \cite {EPA2020}}}{xxxiv}{figure.0.1}%
-\contentsline {figure}{\numberline {2}{\ignorespaces Diagrama del modelo V de la metodología VDI-2206 \cite {IRI2017} }}{xxxviii}{figure.0.2}%
-\contentsline {figure}{\numberline {3}{\ignorespaces Etapas de la metodología VDI-2206 \cite {IRI2017} }}{xxxviii}{figure.0.3}%
+\contentsline {figure}{\numberline {1}{\ignorespaces Diagrama de flujo de una instalación típica de compostaje In-vessel \cite {EPA2020}}}{xxiv}{figure.0.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Diagrama del modelo V de la metodología VDI-2206 \cite {IRI2017} }}{xxviii}{figure.0.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Etapas de la metodología VDI-2206 \cite {IRI2017} }}{xxviii}{figure.0.3}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4}{\ignorespaces Diagrama de flujo del funcionamiento general del sistema}}{xlv}{figure.0.4}%
-\contentsline {figure}{\numberline {5}{\ignorespaces Diagrama FBS del sistema}}{xlix}{figure.0.5}%
-\contentsline {figure}{\numberline {6}{\ignorespaces IDEF0 del sistema}}{l}{figure.0.6}%
-\contentsline {figure}{\numberline {7}{\ignorespaces IDEF0 Nodo: A0}}{li}{figure.0.7}%
-\contentsline {figure}{\numberline {8}{\ignorespaces Arquitectura física propuesta}}{liv}{figure.0.8}%
-\contentsline {figure}{\numberline {9}{\ignorespaces Conceptos Generados}}{lvi}{figure.0.9}%
-\contentsline {figure}{\numberline {10}{\ignorespaces Boceto seleccionado}}{lix}{figure.0.10}%
-\contentsline {figure}{\numberline {11}{\ignorespaces Configuración Pull Up}}{lxii}{figure.0.11}%
-\contentsline {figure}{\numberline {12}{\ignorespaces Circuito esquemático de la interfaz}}{lxiii}{figure.0.12}%
-\contentsline {figure}{\numberline {13}{\ignorespaces Control PID}}{lxiv}{figure.0.13}%
-\contentsline {figure}{\numberline {14}{\ignorespaces Control On/Off}}{lxv}{figure.0.14}%
-\contentsline {figure}{\numberline {15}{\ignorespaces Ejemplo de conexión del sensor DS18B20 a una tarjeta de desarrollo \cite {TempSensor}}}{lxvii}{figure.0.15}%
-\contentsline {figure}{\numberline {16}{\ignorespaces Ejemplo de conexión del sensor de humedad DHT11 a una tarjeta de desarrollo \cite {DHT11acon}}}{lxviii}{figure.0.16}%
-\contentsline {figure}{\numberline {17}{\ignorespaces Integración de los sensores en la tarjeta de desarrollo}}{lxviii}{figure.0.17}%
-\contentsline {figure}{\numberline {18}{\ignorespaces Salidas y entradas de comunicación con la unidad de procesamiento}}{lxix}{figure.0.18}%
-\contentsline {figure}{\numberline {19}{\ignorespaces Multicontacto uso industrial}}{lxxii}{figure.0.19}%
-\contentsline {figure}{\numberline {20}{\ignorespaces Brazo de Palanca Humana}}{lxxii}{figure.0.20}%
-\contentsline {figure}{\numberline {21}{\ignorespaces Molino de carne manual}}{lxxiv}{figure.0.21}%
-\contentsline {figure}{\numberline {22}{\ignorespaces Modelo CAD del molino de carne manual}}{lxxv}{figure.0.22}%
-\contentsline {figure}{\numberline {23}{\ignorespaces Contenedor de acero laminado propuesto}}{lxxvi}{figure.0.23}%
-\contentsline {figure}{\numberline {24}{\ignorespaces Temperaturas registradas en enero del 2023 en la Ciudad de México}}{lxxviii}{figure.0.24}%
-\contentsline {figure}{\numberline {25}{\ignorespaces Parrilla para elevar la temperatura}}{lxxix}{figure.0.25}%
-\contentsline {figure}{\numberline {26}{\ignorespaces Resistencia tipo resorte}}{lxxx}{figure.0.26}%
-\contentsline {figure}{\numberline {27}{\ignorespaces Modelo físico del sistema de regulación de temperatura}}{lxxxi}{figure.0.27}%
-\contentsline {figure}{\numberline {28}{\ignorespaces Ventilador propuesto para el sistema de ventilación}}{lxxxiii}{figure.0.28}%
-\contentsline {figure}{\numberline {29}{\ignorespaces Configuración de ventiladores, aire inyectado entrada del triturador }}{lxxxiv}{figure.0.29}%
-\contentsline {figure}{\numberline {30}{\ignorespaces Circuito de activación de los actuadores \cite {Transis_33}}}{lxxxv}{figure.0.30}%
-\contentsline {figure}{\numberline {31}{\ignorespaces Fuerza tangencial aplicada a la cuña}}{xci}{figure.0.31}%
-\contentsline {figure}{\numberline {32}{\ignorespaces Factores de confiabilidad}}{xciv}{figure.0.32}%
-\contentsline {figure}{\numberline {33}{\ignorespaces Factores de dise\~{n}o aproximado}}{xcv}{figure.0.33}%
-\contentsline {figure}{\numberline {34}{\ignorespaces Fuerzas del lado del eje con 1 pala}}{xcv}{figure.0.34}%
-\contentsline {figure}{\numberline {35}{\ignorespaces Fuerzas del lado del eje con 2 palas}}{xcvi}{figure.0.35}%
-\contentsline {figure}{\numberline {36}{\ignorespaces Diseño de eje}}{xcviii}{figure.0.36}%
-\contentsline {figure}{\numberline {37}{\ignorespaces Estudio Esfuerzos}}{xcix}{figure.0.37}%
-\contentsline {figure}{\numberline {38}{\ignorespaces Estructura}}{c}{figure.0.38}%
-\contentsline {figure}{\numberline {39}{\ignorespaces Análisis Esfuerzos de la Estructura final}}{ci}{figure.0.39}%
-\contentsline {figure}{\numberline {40}{\ignorespaces Factor de seguridad en la estructura}}{cii}{figure.0.40}%
-\contentsline {figure}{\numberline {41}{\ignorespaces Análisis de Deformación de la Estructura final}}{ciii}{figure.0.41}%
-\contentsline {figure}{\numberline {42}{\ignorespaces Integración final del sistema de compostaje}}{cvi}{figure.0.42}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Diagrama de flujo del funcionamiento general del sistema}}{xxxv}{figure.0.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Diagrama FBS del sistema}}{xxxix}{figure.0.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces IDEF0 del sistema}}{xl}{figure.0.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces IDEF0 Nodo: A0}}{xli}{figure.0.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Arquitectura física propuesta}}{xliv}{figure.0.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Conceptos Generados}}{xlvi}{figure.0.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Boceto seleccionado}}{xlix}{figure.0.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Configuración Pull Up}}{lii}{figure.0.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Circuito esquemático de la interfaz}}{liii}{figure.0.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Control PID}}{liv}{figure.0.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Control On/Off}}{lv}{figure.0.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Ejemplo de conexión del sensor DS18B20 a una tarjeta de desarrollo \cite {TempSensor}}}{lvii}{figure.0.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Ejemplo de conexión del sensor de humedad DHT11 a una tarjeta de desarrollo \cite {DHT11acon}}}{lviii}{figure.0.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Integración de los sensores en la tarjeta de desarrollo}}{lviii}{figure.0.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Salidas y entradas de comunicación con la unidad de procesamiento}}{lix}{figure.0.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Multicontacto uso industrial}}{lxii}{figure.0.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Brazo de Palanca Humana}}{lxii}{figure.0.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Molino de carne manual}}{lxiv}{figure.0.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Modelo CAD del molino de carne manual}}{lxv}{figure.0.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Contenedor de acero laminado propuesto}}{lxvi}{figure.0.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Temperaturas registradas en enero del 2023 en la Ciudad de México}}{lxviii}{figure.0.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Parrilla para elevar la temperatura}}{lxix}{figure.0.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Resistencia tipo resorte}}{lxx}{figure.0.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Modelo físico del sistema de regulación de temperatura}}{lxxi}{figure.0.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Ventilador propuesto para el sistema de ventilación}}{lxxiii}{figure.0.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Configuración de ventiladores, aire inyectado entrada del triturador }}{lxxiv}{figure.0.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Circuito de activación de los actuadores \cite {Transis_33}}}{lxxv}{figure.0.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Fuerza tangencial aplicada a la cuña}}{lxxxi}{figure.0.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Factores de confiabilidad}}{lxxxiv}{figure.0.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Factores de dise\~{n}o aproximado}}{lxxxv}{figure.0.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Fuerzas del lado del eje con 1 pala}}{lxxxv}{figure.0.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Fuerzas del lado del eje con 2 palas}}{lxxxvi}{figure.0.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Diseño de eje}}{lxxxviii}{figure.0.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Estudio Esfuerzos}}{lxxxix}{figure.0.37}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Estructura}}{xc}{figure.0.38}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Análisis Esfuerzos de la Estructura final}}{xci}{figure.0.39}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Factor de seguridad en la estructura}}{xcii}{figure.0.40}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Análisis de Deformación de la Estructura final}}{xciii}{figure.0.41}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Integración final del sistema de compostaje}}{xcvi}{figure.0.42}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {43}{\ignorespaces Circuito de prueba de la interfaz}}{cx}{figure.0.43}%
-\contentsline {figure}{\numberline {44}{\ignorespaces Implementación de los botones}}{cx}{figure.0.44}%
-\contentsline {figure}{\numberline {45}{\ignorespaces Menú desplegado por la interfaz}}{cxi}{figure.0.45}%
-\contentsline {figure}{\numberline {46}{\ignorespaces Representación del tiempo del proceso}}{cxi}{figure.0.46}%
-\contentsline {figure}{\numberline {47}{\ignorespaces Identificación del proceso en ejecución}}{cxi}{figure.0.47}%
-\contentsline {figure}{\numberline {48}{\ignorespaces Página web compostador}}{cxii}{figure.0.48}%
-\contentsline {figure}{\numberline {49}{\ignorespaces Estado sensor DS18B20 y DHT11}}{cxii}{figure.0.49}%
-\contentsline {figure}{\numberline {50}{\ignorespaces Indicador de temperatura baja}}{cxiii}{figure.0.50}%
-\contentsline {figure}{\numberline {51}{\ignorespaces Indicador temperatura media}}{cxiii}{figure.0.51}%
-\contentsline {figure}{\numberline {52}{\ignorespaces Error sensor DS18B20}}{cxiii}{figure.0.52}%
-\contentsline {figure}{\numberline {53}{\ignorespaces Error sensor DHT11}}{cxiv}{figure.0.53}%
-\contentsline {figure}{\numberline {54}{\ignorespaces Activación ventilador}}{cxiv}{figure.0.54}%
-\contentsline {figure}{\numberline {55}{\ignorespaces Activación motor}}{cxiv}{figure.0.55}%
-\contentsline {figure}{\numberline {56}{\ignorespaces Activación resistencia}}{cxiv}{figure.0.56}%
-\contentsline {figure}{\numberline {57}{\ignorespaces Temporizador regresivo}}{cxiv}{figure.0.57}%
-\contentsline {figure}{\numberline {58}{\ignorespaces Base de datos }}{cxiv}{figure.0.58}%
-\contentsline {figure}{\numberline {59}{\ignorespaces Mostrar aumento de temperatura}}{cxv}{figure.0.59}%
-\contentsline {figure}{\numberline {60}{\ignorespaces Mostrar descenso de temperatura}}{cxvi}{figure.0.60}%
-\contentsline {figure}{\numberline {61}{\ignorespaces Ejecutando fermentación}}{cxvii}{figure.0.61}%
-\contentsline {figure}{\numberline {62}{\ignorespaces Ejecutando elevación de temperatura}}{cxviii}{figure.0.62}%
-\contentsline {figure}{\numberline {63}{\ignorespaces Verificación del tiempo}}{cxix}{figure.0.63}%
-\contentsline {figure}{\numberline {64}{\ignorespaces Conexión de los sensores en la protoboard}}{cxx}{figure.0.64}%
-\contentsline {figure}{\numberline {65}{\ignorespaces Sensor DHT11 que se utilizó}}{cxxi}{figure.0.65}%
-\contentsline {figure}{\numberline {66}{\ignorespaces Circuito de prueba de la interfaz}}{cxxii}{figure.0.66}%
-\contentsline {figure}{\numberline {67}{\ignorespaces Sistema de trituración montado}}{cxxx}{figure.0.67}%
-\contentsline {figure}{\numberline {68}{\ignorespaces Triturador atascado}}{cxxxi}{figure.0.68}%
-\contentsline {figure}{\numberline {69}{\ignorespaces Materia recién salida del triturador}}{cxxxii}{figure.0.69}%
-\contentsline {figure}{\numberline {70}{\ignorespaces Adaptador con cono excéntrico}}{cxxxiii}{figure.0.70}%
-\contentsline {figure}{\numberline {71}{\ignorespaces Contenedor de acero antes}}{cxxxiv}{figure.0.71}%
-\contentsline {figure}{\numberline {72}{\ignorespaces Contenedor de acero con una capa de pintura}}{cxxxv}{figure.0.72}%
-\contentsline {figure}{\numberline {73}{\ignorespaces Contenedor montado en el eje}}{cxxxv}{figure.0.73}%
-\contentsline {figure}{\numberline {74}{\ignorespaces Cinturón calentador de tambos}}{cxxxvi}{figure.0.74}%
-\contentsline {figure}{\numberline {75}{\ignorespaces Adaptador para filtro}}{cxxxvii}{figure.0.75}%
-\contentsline {figure}{\numberline {76}{\ignorespaces Ajuste de parámetros software de impresión}}{cxxxvii}{figure.0.76}%
-\contentsline {figure}{\numberline {77}{\ignorespaces Impresión 3D adaptador para filtro}}{cxxxviii}{figure.0.77}%
-\contentsline {figure}{\numberline {78}{\ignorespaces Adaptador montado en el contenedor}}{cxxxviii}{figure.0.78}%
-\contentsline {figure}{\numberline {79}{\ignorespaces Adaptador ensamblado con filtro}}{cxxxix}{figure.0.79}%
-\contentsline {figure}{\numberline {80}{\ignorespaces Diseño adaptador para ventilador en SolidWorks}}{cxxxix}{figure.0.80}%
-\contentsline {figure}{\numberline {81}{\ignorespaces Impresión 3D adaptador para ventilador}}{cxl}{figure.0.81}%
-\contentsline {figure}{\numberline {82}{\ignorespaces Montaje del sistema de aireación}}{cxli}{figure.0.82}%
-\contentsline {figure}{\numberline {83}{\ignorespaces Pala soldada a sección de tubo con cuerda}}{cxlii}{figure.0.83}%
-\contentsline {figure}{\numberline {84}{\ignorespaces Proceso de fresado del eje}}{cxlii}{figure.0.84}%
-\contentsline {figure}{\numberline {85}{\ignorespaces Instalación de los elementos del tambo sin recubrimiento}}{cxliii}{figure.0.85}%
-\contentsline {figure}{\numberline {86}{\ignorespaces Contenedor con el recubrimiento instalado}}{cxliv}{figure.0.86}%
-\contentsline {figure}{\numberline {87}{\ignorespaces Montaje de componentes en estructura}}{cxlv}{figure.0.87}%
-\contentsline {figure}{\numberline {88}{\ignorespaces Estructura del sistema de compostaje}}{cxlvi}{figure.0.88}%
-\contentsline {figure}{\numberline {89}{\ignorespaces Montaje de componentes en estructura}}{cxlvii}{figure.0.89}%
-\contentsline {figure}{\numberline {90}{\ignorespaces Instalación del eje de aireación dentro del contenedor}}{cxlix}{figure.0.90}%
-\contentsline {figure}{\numberline {91}{\ignorespaces Instalación del filtro de olores}}{cl}{figure.0.91}%
-\contentsline {figure}{\numberline {92}{\ignorespaces Sistema de trituración instalado}}{cli}{figure.0.92}%
-\contentsline {figure}{\numberline {93}{\ignorespaces Sistema de transmisión instalado}}{clii}{figure.0.93}%
-\contentsline {figure}{\numberline {94}{\ignorespaces Contantores instalados}}{cliii}{figure.0.94}%
-\contentsline {figure}{\numberline {95}{\ignorespaces Muestra del sistema de compostaje completo}}{cliv}{figure.0.95}%
-\contentsline {figure}{\numberline {96}{\ignorespaces Instalación del eje de aireación dentro del contenedor}}{clv}{figure.0.96}%
-\contentsline {figure}{\numberline {97}{\ignorespaces Instalación del filtro de olores}}{clvi}{figure.0.97}%
-\contentsline {figure}{\numberline {98}{\ignorespaces Sistema de trituración instalado}}{clvii}{figure.0.98}%
-\contentsline {figure}{\numberline {99}{\ignorespaces Sistema de transmisión instalado}}{clviii}{figure.0.99}%
-\contentsline {figure}{\numberline {100}{\ignorespaces Contantores instalados}}{clix}{figure.0.100}%
-\contentsline {figure}{\numberline {101}{\ignorespaces Muestra del sistema de compostaje completo}}{clx}{figure.0.101}%
-\contentsline {figure}{\numberline {102}{\ignorespaces Carga primera prueba}}{clxi}{figure.0.102}%
-\contentsline {figure}{\numberline {103}{\ignorespaces Primera muestra de composta obtenida}}{clxii}{figure.0.103}%
-\contentsline {figure}{\numberline {104}{\ignorespaces Segunda carga}}{clxiii}{figure.0.104}%
-\contentsline {figure}{\numberline {105}{\ignorespaces Segunda muestra de composta obtenida}}{clxiv}{figure.0.105}%
-\contentsline {figure}{\numberline {106}{\ignorespaces Tercera prueba carga}}{clxv}{figure.0.106}%
-\contentsline {figure}{\numberline {107}{\ignorespaces Tercera prueba descarga}}{clxvi}{figure.0.107}%
-\contentsline {figure}{\numberline {108}{\ignorespaces Cuarta prueba descarga}}{clxvii}{figure.0.108}%
-\contentsline {figure}{\numberline {109}{\ignorespaces Quinta prueba carga}}{clxviii}{figure.0.109}%
-\contentsline {figure}{\numberline {110}{\ignorespaces Quinta prueba descarga}}{clxix}{figure.0.110}%
-\contentsline {figure}{\numberline {111}{\ignorespaces Sexta prueba carga}}{clxix}{figure.0.111}%
-\contentsline {figure}{\numberline {112}{\ignorespaces Sexta prueba descarga}}{clxx}{figure.0.112}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Circuito de prueba de la interfaz}}{c}{figure.0.43}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Implementación de los botones}}{c}{figure.0.44}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Menú desplegado por la interfaz}}{ci}{figure.0.45}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Representación del tiempo del proceso}}{ci}{figure.0.46}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Identificación del proceso en ejecución}}{ci}{figure.0.47}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Página web compostador}}{cii}{figure.0.48}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Estado sensor DS18B20 y DHT11}}{cii}{figure.0.49}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Indicador de temperatura baja}}{ciii}{figure.0.50}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Indicador temperatura media}}{ciii}{figure.0.51}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Error sensor DS18B20}}{ciii}{figure.0.52}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Error sensor DHT11}}{civ}{figure.0.53}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Activación ventilador}}{civ}{figure.0.54}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Activación motor}}{civ}{figure.0.55}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Activación resistencia}}{civ}{figure.0.56}%
+\contentsline {figure}{\numberline {57}{\ignorespaces Temporizador regresivo}}{civ}{figure.0.57}%
+\contentsline {figure}{\numberline {58}{\ignorespaces Base de datos }}{civ}{figure.0.58}%
+\contentsline {figure}{\numberline {59}{\ignorespaces Mostrar aumento de temperatura}}{cv}{figure.0.59}%
+\contentsline {figure}{\numberline {60}{\ignorespaces Mostrar descenso de temperatura}}{cvi}{figure.0.60}%
+\contentsline {figure}{\numberline {61}{\ignorespaces Ejecutando fermentación}}{cvii}{figure.0.61}%
+\contentsline {figure}{\numberline {62}{\ignorespaces Ejecutando elevación de temperatura}}{cviii}{figure.0.62}%
+\contentsline {figure}{\numberline {63}{\ignorespaces Verificación del tiempo}}{cix}{figure.0.63}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Conexión de los sensores en la protoboard}}{cx}{figure.0.64}%
+\contentsline {figure}{\numberline {65}{\ignorespaces Sensor DHT11 que se utilizó}}{cxi}{figure.0.65}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Circuito de prueba de la interfaz}}{cxii}{figure.0.66}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Sistema de trituración montado}}{cxx}{figure.0.67}%
+\contentsline {figure}{\numberline {68}{\ignorespaces Triturador atascado}}{cxxi}{figure.0.68}%
+\contentsline {figure}{\numberline {69}{\ignorespaces Materia recién salida del triturador}}{cxxii}{figure.0.69}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Adaptador con cono excéntrico}}{cxxiii}{figure.0.70}%
+\contentsline {figure}{\numberline {71}{\ignorespaces Contenedor de acero antes}}{cxxiv}{figure.0.71}%
+\contentsline {figure}{\numberline {72}{\ignorespaces Contenedor de acero con una capa de pintura}}{cxxv}{figure.0.72}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Contenedor montado en el eje}}{cxxv}{figure.0.73}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Cinturón calentador de tambos}}{cxxvi}{figure.0.74}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Adaptador para filtro}}{cxxvii}{figure.0.75}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Ajuste de parámetros software de impresión}}{cxxvii}{figure.0.76}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Impresión 3D adaptador para filtro}}{cxxviii}{figure.0.77}%
+\contentsline {figure}{\numberline {78}{\ignorespaces Adaptador montado en el contenedor}}{cxxviii}{figure.0.78}%
+\contentsline {figure}{\numberline {79}{\ignorespaces Adaptador ensamblado con filtro}}{cxxix}{figure.0.79}%
+\contentsline {figure}{\numberline {80}{\ignorespaces Diseño adaptador para ventilador en SolidWorks}}{cxxix}{figure.0.80}%
+\contentsline {figure}{\numberline {81}{\ignorespaces Impresión 3D adaptador para ventilador}}{cxxx}{figure.0.81}%
+\contentsline {figure}{\numberline {82}{\ignorespaces Montaje del sistema de aireación}}{cxxxi}{figure.0.82}%
+\contentsline {figure}{\numberline {83}{\ignorespaces Pala soldada a sección de tubo con cuerda}}{cxxxii}{figure.0.83}%
+\contentsline {figure}{\numberline {84}{\ignorespaces Proceso de fresado del eje}}{cxxxii}{figure.0.84}%
+\contentsline {figure}{\numberline {85}{\ignorespaces Instalación de los elementos del tambo sin recubrimiento}}{cxxxiii}{figure.0.85}%
+\contentsline {figure}{\numberline {86}{\ignorespaces Contenedor con el recubrimiento instalado}}{cxxxiv}{figure.0.86}%
+\contentsline {figure}{\numberline {87}{\ignorespaces Montaje de componentes en estructura}}{cxxxv}{figure.0.87}%
+\contentsline {figure}{\numberline {88}{\ignorespaces Estructura del sistema de compostaje}}{cxxxvi}{figure.0.88}%
+\contentsline {figure}{\numberline {89}{\ignorespaces Montaje de componentes en estructura}}{cxxxvii}{figure.0.89}%
+\contentsline {figure}{\numberline {90}{\ignorespaces Instalación del eje de aireación dentro del contenedor}}{cxxxix}{figure.0.90}%
+\contentsline {figure}{\numberline {91}{\ignorespaces Instalación del filtro de olores}}{cxl}{figure.0.91}%
+\contentsline {figure}{\numberline {92}{\ignorespaces Sistema de trituración instalado}}{cxli}{figure.0.92}%
+\contentsline {figure}{\numberline {93}{\ignorespaces Sistema de transmisión instalado}}{cxlii}{figure.0.93}%
+\contentsline {figure}{\numberline {94}{\ignorespaces Contantores instalados}}{cxliii}{figure.0.94}%
+\contentsline {figure}{\numberline {95}{\ignorespaces Muestra del sistema de compostaje completo}}{cxliv}{figure.0.95}%
+\contentsline {figure}{\numberline {96}{\ignorespaces Instalación del eje de aireación dentro del contenedor}}{cxlv}{figure.0.96}%
+\contentsline {figure}{\numberline {97}{\ignorespaces Instalación del filtro de olores}}{cxlvi}{figure.0.97}%
+\contentsline {figure}{\numberline {98}{\ignorespaces Sistema de trituración instalado}}{cxlvii}{figure.0.98}%
+\contentsline {figure}{\numberline {99}{\ignorespaces Sistema de transmisión instalado}}{cxlviii}{figure.0.99}%
+\contentsline {figure}{\numberline {100}{\ignorespaces Contantores instalados}}{cxlix}{figure.0.100}%
+\contentsline {figure}{\numberline {101}{\ignorespaces Muestra del sistema de compostaje completo}}{cl}{figure.0.101}%
+\contentsline {figure}{\numberline {102}{\ignorespaces Carga primera prueba}}{cli}{figure.0.102}%
+\contentsline {figure}{\numberline {103}{\ignorespaces Primera muestra de composta obtenida}}{clii}{figure.0.103}%
+\contentsline {figure}{\numberline {104}{\ignorespaces Segunda carga}}{cliii}{figure.0.104}%
+\contentsline {figure}{\numberline {105}{\ignorespaces Segunda muestra de composta obtenida}}{cliv}{figure.0.105}%
+\contentsline {figure}{\numberline {106}{\ignorespaces Tercera prueba carga}}{clv}{figure.0.106}%
+\contentsline {figure}{\numberline {107}{\ignorespaces Tercera prueba descarga}}{clvi}{figure.0.107}%
+\contentsline {figure}{\numberline {108}{\ignorespaces Cuarta prueba descarga}}{clvii}{figure.0.108}%
+\contentsline {figure}{\numberline {109}{\ignorespaces Quinta prueba carga}}{clviii}{figure.0.109}%
+\contentsline {figure}{\numberline {110}{\ignorespaces Quinta prueba descarga}}{clix}{figure.0.110}%
+\contentsline {figure}{\numberline {111}{\ignorespaces Sexta prueba carga}}{clix}{figure.0.111}%
+\contentsline {figure}{\numberline {112}{\ignorespaces Sexta prueba descarga}}{clx}{figure.0.112}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {113}{\ignorespaces Repartición de los gastos}}{clxxx}{figure.0.113}%
+\contentsline {figure}{\numberline {113}{\ignorespaces Repartición de los gastos}}{clxx}{figure.0.113}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {114}{\ignorespaces Estudio térmico del contenedor}}{ccxxx}{figure.Alph0.114}%
-\contentsline {figure}{\numberline {115}{\ignorespaces Salida de potencia del modelo}}{ccxxx}{figure.Alph0.115}%
-\contentsline {figure}{\numberline {116}{\ignorespaces Salida de Potencia total del modelo}}{ccxxxi}{figure.Alph0.116}%
-\contentsline {figure}{\numberline {117}{\ignorespaces Estudio térmico con fibra de vidrio}}{ccxxxi}{figure.Alph0.117}%
-\contentsline {figure}{\numberline {118}{\ignorespaces Salida de Potencia con fibra de vidrio}}{ccxxxii}{figure.Alph0.118}%
-\contentsline {figure}{\numberline {119}{\ignorespaces Salida de potencia total con fibra de vidrio}}{ccxxxiii}{figure.Alph0.119}%
-\contentsline {figure}{\numberline {120}{\ignorespaces Estudio térmico para una temperatura de 16°C}}{ccxxxiv}{figure.Alph0.120}%
-\contentsline {figure}{\numberline {121}{\ignorespaces Salida de potencia temperatura de 16°C}}{ccxxxiv}{figure.Alph0.121}%
-\contentsline {figure}{\numberline {122}{\ignorespaces Estudio térmico para una temperatura de 16°C}}{ccxxxv}{figure.Alph0.122}%
-\contentsline {figure}{\numberline {123}{\ignorespaces Salida de potencia temperatura de 16°C}}{ccxxxv}{figure.Alph0.123}%
-\contentsline {figure}{\numberline {124}{\ignorespaces Estudio térmico para una temperatura de 31.6°C}}{ccxxxv}{figure.Alph0.124}%
-\contentsline {figure}{\numberline {125}{\ignorespaces Salida de potencia temperatura de 31.6°C}}{ccxxxvi}{figure.Alph0.125}%
-\contentsline {figure}{\numberline {126}{\ignorespaces Estudio térmico para una temperatura de 31.6°C con aislante térmico}}{ccxxxvi}{figure.Alph0.126}%
-\contentsline {figure}{\numberline {127}{\ignorespaces Salida de potencia temperatura de 31.6°C con aislante térmico}}{ccxxxvi}{figure.Alph0.127}%
-\contentsline {figure}{\numberline {128}{\ignorespaces Factores de Servicio para bandas V}}{ccxxxviii}{figure.Alph0.128}%
-\contentsline {figure}{\numberline {129}{\ignorespaces Gráfica para la selección de bandas}}{ccxxxix}{figure.Alph0.129}%
-\contentsline {figure}{\numberline {130}{\ignorespaces Capacidad Banda 3V}}{ccxl}{figure.Alph0.130}%
-\contentsline {figure}{\numberline {131}{\ignorespaces Longitudes de Bandas estándar}}{ccxli}{figure.Alph0.131}%
-\contentsline {figure}{\numberline {132}{\ignorespaces Factor theta}}{ccxli}{figure.Alph0.132}%
-\contentsline {figure}{\numberline {133}{\ignorespaces Factor Longitud}}{ccxlii}{figure.Alph0.133}%
-\contentsline {figure}{\numberline {134}{\ignorespaces Tamaño de cuña en función del diámetro del eje }}{ccxliii}{figure.Alph0.134}%
-\contentsline {figure}{\numberline {135}{\ignorespaces Resistencia a la fatiga}}{ccxliv}{figure.Alph0.135}%
-\contentsline {figure}{\numberline {136}{\ignorespaces Fuerzas, Esfuerzos y Momentos del lado del eje con 1 pala}}{ccxlv}{figure.Alph0.136}%
-\contentsline {figure}{\numberline {137}{\ignorespaces Fuerzas, Esfuerzos y Momentos del lado del eje con 2 palas}}{ccxlvi}{figure.Alph0.137}%
-\contentsline {figure}{\numberline {138}{\ignorespaces Comunicación Simulink-Arduino}}{ccxlvii}{figure.Alph0.138}%
-\contentsline {figure}{\numberline {139}{\ignorespaces Curva de calentamiento LM35}}{ccxlviii}{figure.Alph0.139}%
-\contentsline {figure}{\numberline {140}{\ignorespaces Función de transferencia obtenida con Simulink}}{ccxlviii}{figure.Alph0.140}%
-\contentsline {figure}{\numberline {141}{\ignorespaces Control PID y comunicación Simulink-Arduino}}{ccxlix}{figure.Alph0.141}%
-\contentsline {figure}{\numberline {142}{\ignorespaces PID Tuner Simulink}}{ccxlix}{figure.Alph0.142}%
-\contentsline {figure}{\numberline {143}{\ignorespaces Configuración de ventiladores en la misma cara lateral}}{ccl}{figure.Alph0.143}%
-\contentsline {figure}{\numberline {144}{\ignorespaces Configuración de ventiladores en caras laterales opuestas}}{ccli}{figure.Alph0.144}%
-\contentsline {figure}{\numberline {145}{\ignorespaces Configuración de ventiladores, aire inyectado directamente en la mezcla }}{cclii}{figure.Alph0.145}%
+\contentsline {figure}{\numberline {114}{\ignorespaces Estudio térmico del contenedor}}{ccxxvi}{figure.Alph0.114}%
+\contentsline {figure}{\numberline {115}{\ignorespaces Salida de potencia del modelo}}{ccxxvi}{figure.Alph0.115}%
+\contentsline {figure}{\numberline {116}{\ignorespaces Salida de Potencia total del modelo}}{ccxxvii}{figure.Alph0.116}%
+\contentsline {figure}{\numberline {117}{\ignorespaces Estudio térmico con fibra de vidrio}}{ccxxvii}{figure.Alph0.117}%
+\contentsline {figure}{\numberline {118}{\ignorespaces Salida de Potencia con fibra de vidrio}}{ccxxviii}{figure.Alph0.118}%
+\contentsline {figure}{\numberline {119}{\ignorespaces Salida de potencia total con fibra de vidrio}}{ccxxix}{figure.Alph0.119}%
+\contentsline {figure}{\numberline {120}{\ignorespaces Estudio térmico para una temperatura de 16°C}}{ccxxx}{figure.Alph0.120}%
+\contentsline {figure}{\numberline {121}{\ignorespaces Salida de potencia temperatura de 16°C}}{ccxxx}{figure.Alph0.121}%
+\contentsline {figure}{\numberline {122}{\ignorespaces Estudio térmico para una temperatura de 16°C}}{ccxxxi}{figure.Alph0.122}%
+\contentsline {figure}{\numberline {123}{\ignorespaces Salida de potencia temperatura de 16°C}}{ccxxxi}{figure.Alph0.123}%
+\contentsline {figure}{\numberline {124}{\ignorespaces Estudio térmico para una temperatura de 31.6°C}}{ccxxxi}{figure.Alph0.124}%
+\contentsline {figure}{\numberline {125}{\ignorespaces Salida de potencia temperatura de 31.6°C}}{ccxxxii}{figure.Alph0.125}%
+\contentsline {figure}{\numberline {126}{\ignorespaces Estudio térmico para una temperatura de 31.6°C con aislante térmico}}{ccxxxii}{figure.Alph0.126}%
+\contentsline {figure}{\numberline {127}{\ignorespaces Salida de potencia temperatura de 31.6°C con aislante térmico}}{ccxxxii}{figure.Alph0.127}%
+\contentsline {figure}{\numberline {128}{\ignorespaces Factores de Servicio para bandas V}}{ccxxxiv}{figure.Alph0.128}%
+\contentsline {figure}{\numberline {129}{\ignorespaces Gráfica para la selección de bandas}}{ccxxxv}{figure.Alph0.129}%
+\contentsline {figure}{\numberline {130}{\ignorespaces Capacidad Banda 3V}}{ccxxxvi}{figure.Alph0.130}%
+\contentsline {figure}{\numberline {131}{\ignorespaces Longitudes de Bandas estándar}}{ccxxxvii}{figure.Alph0.131}%
+\contentsline {figure}{\numberline {132}{\ignorespaces Factor theta}}{ccxxxvii}{figure.Alph0.132}%
+\contentsline {figure}{\numberline {133}{\ignorespaces Factor Longitud}}{ccxxxviii}{figure.Alph0.133}%
+\contentsline {figure}{\numberline {134}{\ignorespaces Tamaño de cuña en función del diámetro del eje }}{ccxxxix}{figure.Alph0.134}%
+\contentsline {figure}{\numberline {135}{\ignorespaces Resistencia a la fatiga}}{ccxl}{figure.Alph0.135}%
+\contentsline {figure}{\numberline {136}{\ignorespaces Fuerzas, Esfuerzos y Momentos del lado del eje con 1 pala}}{ccxli}{figure.Alph0.136}%
+\contentsline {figure}{\numberline {137}{\ignorespaces Fuerzas, Esfuerzos y Momentos del lado del eje con 2 palas}}{ccxlii}{figure.Alph0.137}%
+\contentsline {figure}{\numberline {138}{\ignorespaces Comunicación Simulink-Arduino}}{ccxliii}{figure.Alph0.138}%
+\contentsline {figure}{\numberline {139}{\ignorespaces Curva de calentamiento LM35}}{ccxliv}{figure.Alph0.139}%
+\contentsline {figure}{\numberline {140}{\ignorespaces Función de transferencia obtenida con Simulink}}{ccxliv}{figure.Alph0.140}%
+\contentsline {figure}{\numberline {141}{\ignorespaces Control PID y comunicación Simulink-Arduino}}{ccxlv}{figure.Alph0.141}%
+\contentsline {figure}{\numberline {142}{\ignorespaces PID Tuner Simulink}}{ccxlv}{figure.Alph0.142}%
+\contentsline {figure}{\numberline {143}{\ignorespaces Configuración de ventiladores en la misma cara lateral}}{ccxlvi}{figure.Alph0.143}%
+\contentsline {figure}{\numberline {144}{\ignorespaces Configuración de ventiladores en caras laterales opuestas}}{ccxlvii}{figure.Alph0.144}%
+\contentsline {figure}{\numberline {145}{\ignorespaces Configuración de ventiladores, aire inyectado directamente en la mezcla }}{ccxlviii}{figure.Alph0.145}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces Características del motor de aireación}}{cclxxvii}{figure.Alph1.1}%
+\contentsline {figure}{\numberline {A.1}{\ignorespaces Características del motor de aireación}}{cclxxiii}{figure.Alph1.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {B.1}{\ignorespaces Motor de Lavadora Koblenz de 16 Kg}}{cclxxix}{figure.Alph2.1}%
-\contentsline {figure}{\numberline {B.2}{\ignorespaces Especificaciones del motor de lavadora Koblenz}}{cclxxx}{figure.Alph2.2}%
+\contentsline {figure}{\numberline {B.1}{\ignorespaces Motor de Lavadora Koblenz de 16 Kg}}{cclxxv}{figure.Alph2.1}%
+\contentsline {figure}{\numberline {B.2}{\ignorespaces Especificaciones del motor de lavadora Koblenz}}{cclxxvi}{figure.Alph2.2}%
 \addvspace {10\p@ }
