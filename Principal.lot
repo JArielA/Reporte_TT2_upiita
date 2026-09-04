@@ -1,0 +1,64 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1}{\ignorespaces Tipos de proceso de compostaje}}{xxxiii}{table.0.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces Tipos de agitadores}}{xxxv}{table.0.2}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3}{\ignorespaces Necesidades}}{xlii}{table.0.3}%
+\contentsline {table}{\numberline {4}{\ignorespaces Requerimientos}}{xliii}{table.0.4}%
+\contentsline {table}{\numberline {5}{\ignorespaces Modelos propuestos}}{lv}{table.0.5}%
+\contentsline {table}{\numberline {6}{\ignorespaces Cuantificación de los criterios}}{lvii}{table.0.6}%
+\contentsline {table}{\numberline {7}{\ignorespaces Modelo seleccionado}}{lviii}{table.0.7}%
+\contentsline {table}{\numberline {8}{\ignorespaces Características de la ESP32}}{lxi}{table.0.8}%
+\contentsline {table}{\numberline {9}{\ignorespaces Características de la Pantalla LCD 20X4}}{lxi}{table.0.9}%
+\contentsline {table}{\numberline {10}{\ignorespaces Características de los botones de la interfaz}}{lxii}{table.0.10}%
+\contentsline {table}{\numberline {11}{\ignorespaces Características del sensor DS18B20}}{lxvi}{table.0.11}%
+\contentsline {table}{\numberline {12}{\ignorespaces Características del sensor DHT11}}{lxvii}{table.0.12}%
+\contentsline {table}{\numberline {13}{\ignorespaces Opciones de alimentación eléctrica}}{lxxi}{table.0.13}%
+\contentsline {table}{\numberline {14}{\ignorespaces Caption}}{lxxviii}{table.0.14}%
+\contentsline {table}{\numberline {15}{\ignorespaces Caption}}{lxxix}{table.0.15}%
+\contentsline {table}{\numberline {16}{\ignorespaces Características de la bomba sumergible de agua}}{lxxxii}{table.0.16}%
+\contentsline {table}{\numberline {17}{\ignorespaces Características del ventilador}}{lxxxiii}{table.0.17}%
+\contentsline {table}{\numberline {18}{\ignorespaces Datos críticos}}{lxxxvi}{table.0.18}%
+\contentsline {table}{\numberline {19}{\ignorespaces Características del motor seleccionado}}{lxxxvii}{table.0.19}%
+\contentsline {table}{\numberline {20}{\ignorespaces Propiedades Acero ANSI 1045}}{xciii}{table.0.20}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {21}{\ignorespaces Valores de potencia de los elementos eléctricos del sistema}}{cxxiii}{table.0.21}%
+\contentsline {table}{\numberline {22}{\ignorespaces Consumo energético en fermentación}}{cxxiv}{table.0.22}%
+\contentsline {table}{\numberline {23}{\ignorespaces Consumo energético en aireación}}{cxxv}{table.0.23}%
+\contentsline {table}{\numberline {24}{\ignorespaces Consumo energético cuando se eleva la temperatura}}{cxxv}{table.0.24}%
+\contentsline {table}{\numberline {25}{\ignorespaces Consumo energético del sistema de trituración}}{cxxvi}{table.0.25}%
+\contentsline {table}{\numberline {26}{\ignorespaces Consumo total de los elementos eléctricos del sistema}}{cxxvii}{table.0.26}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {27}{\ignorespaces Cotos de elementos mecánicos}}{clxxiv}{table.0.27}%
+\contentsline {table}{\numberline {28}{\ignorespaces Cotos de la tornillería}}{clxxv}{table.0.28}%
+\contentsline {table}{\numberline {29}{\ignorespaces Cotos de elementos electrónicos}}{clxxvi}{table.0.29}%
+\contentsline {table}{\numberline {30}{\ignorespaces Cotos de elementos eléctricos}}{clxxvii}{table.0.30}%
+\contentsline {table}{\numberline {31}{\ignorespaces Cotos de materiales}}{clxxvii}{table.0.31}%
+\contentsline {table}{\numberline {32}{\ignorespaces Cotos de elementos consumibles}}{clxxviii}{table.0.32}%
+\contentsline {table}{\numberline {33}{\ignorespaces Cotos de Herramientas}}{clxxviii}{table.0.33}%
+\contentsline {table}{\numberline {34}{\ignorespaces Cotos de mano de obra externa}}{clxxix}{table.0.34}%
+\contentsline {table}{\numberline {35}{\ignorespaces Cotos totales del proyecto}}{clxxix}{table.0.35}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {36}{\ignorespaces Costos de materiales y componentes}}{clxxxvii}{table.0.36}%
+\contentsline {table}{\numberline {37}{\ignorespaces Herramienta y equipo}}{clxxxviii}{table.0.37}%
+\contentsline {table}{\numberline {38}{\ignorespaces Manufactura externa}}{clxxxviii}{table.0.38}%
+\contentsline {table}{\numberline {39}{\ignorespaces Gasto total}}{clxxxix}{table.0.39}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {40}{\ignorespaces Matriz morfológica para el diseño del sistema de compostaje}}{ccxii}{table.Alph0.40}%
+\contentsline {table}{\numberline {41}{\ignorespaces Cuantificación de los criterios}}{ccxvi}{table.Alph0.41}%
+\contentsline {table}{\numberline {42}{\ignorespaces Valores asignados para la evaluación de criterios}}{ccxvii}{table.Alph0.42}%
+\contentsline {table}{\numberline {43}{\ignorespaces AHP modulo de trituración}}{ccxviii}{table.Alph0.43}%
+\contentsline {table}{\numberline {44}{\ignorespaces AHP contenedor Y palas}}{ccxix}{table.Alph0.44}%
+\contentsline {table}{\numberline {45}{\ignorespaces AHP Transmisión de movimiento y medir temperatura}}{ccxx}{table.Alph0.45}%
+\contentsline {table}{\numberline {46}{\ignorespaces AHP Medir humedad, Aumentar Temperatura y humedad}}{ccxxi}{table.Alph0.46}%
+\contentsline {table}{\numberline {47}{\ignorespaces AHP Oxigenación del sistema y unidad de procesamiento}}{ccxxii}{table.Alph0.47}%
+\contentsline {table}{\numberline {48}{\ignorespaces AHP Interfaz Hombre - maquina}}{ccxxiii}{table.Alph0.48}%
+\contentsline {table}{\numberline {49}{\ignorespaces Tarjetas de desarrollo}}{ccxxiv}{table.Alph0.49}%
+\contentsline {table}{\numberline {50}{\ignorespaces Ponderaciones para la matriz de decisión}}{ccxxv}{table.Alph0.50}%
+\contentsline {table}{\numberline {51}{\ignorespaces Ejemplo de toma de decisión de la tarjeta de desarrollo}}{ccxxvi}{table.Alph0.51}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

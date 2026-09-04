@@ -48,7 +48,7 @@ DHT dht(DHTPIN, DHTTYPE);  // Declaracion del sensor DHT11
 float hum, tem;          //Variables de lectura de las variables fisicas
 float hum_lcd, tem_lcd;  //Variables para mostrar en el LCD
 
-// Definición de tiempos de espera
+// Definicion de tiempos de espera
 #define DELAY_1_SECOND 1000
 #define DELAY_5_SECONDS 5000
 #define DELAY_10_SECONDS 10000
@@ -103,7 +103,7 @@ void setup() {
   xTaskCreatePinnedToCore(
     AiroFunction,    //Nombre del loop creado
     "AiroFunction",  //Nombre
-    10000,           //Tamaño de la pila
+    10000,           //Tamano de la pila
     NULL,            //Parametro casi siempre Nulo
     1,               //Prioridad de la tarea
     &taskAiro,       //Nombre de la tarea
@@ -112,7 +112,7 @@ void setup() {
   xTaskCreatePinnedToCore(
     TimeContFunction,    //Nombre del loop creado
     "TimeContFunction",  //Nombre
-    10000,               //Tamaño de la pila
+    10000,               //Tamano de la pila
     NULL,                //Parametro casi siempre Nulo
     1,                   //Prioridad de la tarea
     &taskTimeCont,       //Nombre de la tarea
@@ -120,7 +120,7 @@ void setup() {
   xTaskCreatePinnedToCore(
     Monitoreo,    //Nombre del loop creado
     "Monitoreo",  //Nombre
-    10000,        //Tamaño de la pila
+    10000,        //Tamano de la pila
     NULL,         //Parametro casi siempre Nulo
     1,            //Prioridad de la tarea
     &taskMoni,    //Nombre de la tarea
@@ -128,7 +128,7 @@ void setup() {
   xTaskCreatePinnedToCore(
     TempControl,       //Nombre del loop creado
     "TempControl",     //Nombre
-    10000,             //Tamaño de la pila
+    10000,             //Tamano de la pila
     NULL,              //Parametro casi siempre Nulo
     1,                 //Prioridad de la tarea
     &taskTempControl,  //Nombre de la tarea

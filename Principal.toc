@@ -1,0 +1,107 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Agradecimientos}{ix}{chapter*.1}%
+\contentsline {chapter}{Resumen}{xvii}{chapter*.3}%
+\contentsline {chapter}{Abstract}{xix}{chapter*.4}%
+\contentsline {chapter}{\listfigurename }{xxvi}{chapter*.5}%
+\contentsline {chapter}{\listtablename }{xxix}{chapter*.8}%
+\contentsline {chapter}{Marco de Referencia}{xxxi}{chapter*.10}%
+\contentsline {section}{\numberline {0.1}Marco Teórico}{xxxi}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Residuos orgánicos alimenticios}{xxxi}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Compostaje}{xxxi}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Tipos de procesos de compostaje}{xxxii}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {0.1.4}Proceso de compostaje In Vessel}{xxxii}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {0.1.5}Digestión aeróbica}{xxxiv}{subsection.0.1.5}%
+\contentsline {subsection}{\numberline {0.1.6}Sistema de agitación}{xxxiv}{subsection.0.1.6}%
+\contentsline {subsection}{\numberline {0.1.7}Sistema de trituración}{xxxvi}{subsection.0.1.7}%
+\contentsline {subsection}{\numberline {0.1.8}Sistema de Control}{xxxvi}{subsection.0.1.8}%
+\contentsline {subsection}{\numberline {0.1.9}Interfaz Humano-Máquina}{xxxvi}{subsection.0.1.9}%
+\contentsline {section}{\numberline {0.2}Marco Procedimental}{xxxviii}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Metodología VDI-2206}{xxxviii}{subsection.0.2.1}%
+\contentsline {chapter}{Diseño del sistema}{xli}{chapter*.11}%
+\contentsline {section}{\numberline {0.3}Diseño Conceptual}{xli}{section.0.3}%
+\contentsline {subsection}{\numberline {0.3.1}Necesidades y requerimientos}{xli}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {0.3.2}Funcionamiento general}{xlv}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {0.3.3}Arquitectura funcional}{xlvi}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {0.3.4}Arquitectura física}{li}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {0.3.5}Propuesta solución}{liv}{subsection.0.3.5}%
+\contentsline {subsection}{\numberline {0.3.6}Validación del sistema}{lvi}{subsection.0.3.6}%
+\contentsline {subsection}{\numberline {0.3.7}Selección de diseño conceptual}{lviii}{subsection.0.3.7}%
+\contentsline {section}{\numberline {0.4}Diseño Específico del Sistema}{lix}{section.0.4}%
+\contentsline {subsection}{\numberline {0.4.1}Sistema de administración de comportamiento $S_1$}{lix}{subsection.0.4.1}%
+\contentsline {subsubsection}{\numberline {0.4.1.1}Selección de tarjeta de desarrollo}{lx}{subsubsection.0.4.1.1}%
+\contentsline {subsubsection}{\numberline {0.4.1.2}Interfaz Humano - Máquina}{lx}{subsubsection.0.4.1.2}%
+\contentsline {subsubsection}{\numberline {0.4.1.3}Módulo de toma de decisiones $M_{12}$}{lxiii}{subsubsection.0.4.1.3}%
+\contentsline {subsection}{\numberline {0.4.2}Sistema de procesamiento de datos $s_2$}{lxv}{subsection.0.4.2}%
+\contentsline {subsubsection}{\numberline {0.4.2.1}Adquirir los datos $M_{21}$}{lxv}{subsubsection.0.4.2.1}%
+\contentsline {subsubsection}{\numberline {0.4.2.2}Acondicionamiento de señales $M_{22}$}{lxvi}{subsubsection.0.4.2.2}%
+\contentsline {subsubsection}{\numberline {0.4.2.3}Comunicación interna $M_{23}$}{lxviii}{subsubsection.0.4.2.3}%
+\contentsline {subsection}{\numberline {0.4.3}Sistema de energía $S_3$}{lxx}{subsection.0.4.3}%
+\contentsline {subsubsection}{\numberline {0.4.3.1}Criterios de selección de la Fuente de alimentación}{lxx}{subsubsection.0.4.3.1}%
+\contentsline {subsubsection}{\numberline {0.4.3.2}Selección de la fuente de alimentación}{lxxi}{subsubsection.0.4.3.2}%
+\contentsline {subsection}{\numberline {0.4.4}Trituración $S_4$}{lxxii}{subsection.0.4.4}%
+\contentsline {subsubsection}{\numberline {0.4.4.1}Momento generado por un humano}{lxxiii}{subsubsection.0.4.4.1}%
+\contentsline {subsubsection}{\numberline {0.4.4.2}Validación del sistema de trituración}{lxxiv}{subsubsection.0.4.4.2}%
+\contentsline {subsection}{\numberline {0.4.5}Sistema de procesamiento de materia $S_5$}{lxxv}{subsection.0.4.5}%
+\contentsline {subsubsection}{\numberline {0.4.5.1}Diseño del contenedor}{lxxv}{subsubsection.0.4.5.1}%
+\contentsline {subsubsection}{\numberline {0.4.5.2}Sistema de autorregulación de temperatura}{lxxix}{subsubsection.0.4.5.2}%
+\contentsline {subsubsection}{\numberline {0.4.5.3}Sistema de autorregulación de humedad}{lxxxi}{subsubsection.0.4.5.3}%
+\contentsline {subsubsection}{\numberline {0.4.5.4}Sistema de ventilación}{lxxxii}{subsubsection.0.4.5.4}%
+\contentsline {subsubsection}{\numberline {0.4.5.5}Circuitos de activación de los actuadores}{lxxxiv}{subsubsection.0.4.5.5}%
+\contentsline {subsubsection}{\numberline {0.4.5.6}Sistema de Aireación }{lxxxv}{subsubsection.0.4.5.6}%
+\contentsline {subsection}{\numberline {0.4.6}Sistema estructural $S_6$}{xcviii}{subsection.0.4.6}%
+\contentsline {subsubsection}{\numberline {0.4.6.1}Diseño de estructura}{xcix}{subsubsection.0.4.6.1}%
+\contentsline {subsubsection}{\numberline {0.4.6.2}Validación de computacional}{c}{subsubsection.0.4.6.2}%
+\contentsline {section}{\numberline {0.5}Integración}{cii}{section.0.5}%
+\contentsline {section}{\numberline {0.6}Diseño Detallado}{cvii}{section.0.6}%
+\contentsline {subsection}{\numberline {0.6.1}Detalle módulo 1 (M{l})}{cvii}{subsection.0.6.1}%
+\contentsline {subsubsection}{\numberline {0.6.1.1}Validación (M{l})}{cvii}{subsubsection.0.6.1.1}%
+\contentsline {subsection}{\numberline {0.6.2}Detalle módulo 2 (M{2})}{cvii}{subsection.0.6.2}%
+\contentsline {subsubsection}{\numberline {0.6.2.1}Validación (M{2})}{cvii}{subsubsection.0.6.2.1}%
+\contentsline {subsection}{\numberline {0.6.3}Detalle módulo n (M{n})}{cvii}{subsection.0.6.3}%
+\contentsline {subsubsection}{\numberline {0.6.3.1}Validación (M{n})}{cvii}{subsubsection.0.6.3.1}%
+\contentsline {subsection}{\numberline {0.6.4}Integración sistema mecatrónico}{cvii}{subsection.0.6.4}%
+\contentsline {subsection}{\numberline {0.6.5}Validación sistema mecatrónico}{cvii}{subsection.0.6.5}%
+\contentsline {chapter}{Implementación del sistema}{cix}{chapter*.12}%
+\contentsline {subsection}{\numberline {0.6.6}Sistema de administración de comportamiento $S_1$}{cix}{subsection.0.6.6}%
+\contentsline {subsection}{\numberline {0.6.7}Sistema de procesamiento de datos $S_2$}{cxx}{subsection.0.6.7}%
+\contentsline {subsection}{\numberline {0.6.8}Sistema de energía $S_3$}{cxxiii}{subsection.0.6.8}%
+\contentsline {subsection}{\numberline {0.6.9}Sistema de trituración $S_4$}{cxxviii}{subsection.0.6.9}%
+\contentsline {subsection}{\numberline {0.6.10}Sistema de procesamiento de materia $S_5$}{cxxxiv}{subsection.0.6.10}%
+\contentsline {subsection}{\numberline {0.6.11}Sistema estructural $S_6$}{cxlv}{subsection.0.6.11}%
+\contentsline {subsection}{\numberline {0.6.12}Integración del sistema}{cxlix}{subsection.0.6.12}%
+\contentsline {subsection}{\numberline {0.6.13}Integración del sistema}{clv}{subsection.0.6.13}%
+\contentsline {chapter}{Análisis de resultados}{clxxi}{chapter*.13}%
+\contentsline {subsection}{\numberline {0.6.14}Análisis de ingeniería del proyecto}{clxxi}{subsection.0.6.14}%
+\contentsline {subsection}{\numberline {0.6.15}Análisis de costos del proyecto}{clxxii}{subsection.0.6.15}%
+\contentsline {subsection}{\numberline {0.6.16}Valor de nuestro trabajo}{clxxxi}{subsection.0.6.16}%
+\contentsline {chapter}{Análisis de resultados}{clxxxiii}{chapter*.14}%
+\contentsline {section}{Propios del desarrollo tecnológico o investigación}{clxxxiii}{section*.15}%
+\contentsline {section}{Análisis de Costos}{clxxxvi}{section*.16}%
+\contentsline {section}{Impacto ambiental}{cxc}{section*.17}%
+\contentsline {section}{Sustentabilidad}{cxcii}{section*.18}%
+\contentsline {chapter}{Conclusiones}{cxciii}{chapter*.19}%
+\contentsline {section}{Conclusiones}{cxciii}{section*.20}%
+\contentsline {section}{Recomendación y trabajo a futuro}{cxcvi}{section*.21}%
+\contentsline {part}{Apéndices}{cxcix}{part.1}%
+\contentsline {section}{Diagramas IDEF-0}{cci}{section*.23}%
+\contentsline {section}{Apéndice 3: Diagramas IDEF-0}{cci}{section*.23}%
+\contentsline {section}{Matriz Morfológica}{ccxi}{section*.24}%
+\contentsline {section}{Apéndice 2: Diagramas FBS}{ccxi}{section*.24}%
+\contentsline {section}{Descripción de Criterios de Selección}{ccxiv}{section*.25}%
+\contentsline {section}{Matrices AHP}{ccxvii}{section*.26}%
+\contentsline {section}{Ejemplo de proceso de selección}{ccxxiv}{section*.27}%
+\contentsline {section}{Ejemplo de cálculo de calor para un cilindro}{ccxxvii}{section*.28}%
+\contentsline {section}{Ejemplo cálculo de temperatura final}{ccxxviii}{section*.29}%
+\contentsline {section}{Estudios Térmicos}{ccxxx}{section*.30}%
+\contentsline {section}{Cálculos de la estructura}{ccxxxvii}{section*.31}%
+\contentsline {section}{Potencia Consumida}{ccxxxvii}{section*.32}%
+\contentsline {section}{Diseño de la transmisión por bandas}{ccxxxviii}{section*.33}%
+\contentsline {section}{Diseño de la cuña}{ccxxxix}{section*.34}%
+\contentsline {section}{Diseño del eje de Aireación}{ccxl}{section*.35}%
+\contentsline {section}{Ejemplo de procedimiento PID}{ccxlvii}{section*.36}%
+\contentsline {section}{Simulaciones sistema de ventilación}{ccl}{section*.37}%
+\contentsline {section}{Código del sistema de compostaje}{ccliii}{section*.38}%
+\contentsline {part}{Anexos}{cclxxv}{part.2}%
+\contentsline {chapter}{Anexo 1. Placa del motor de aireación}{cclxxvii}{appendix*.39}%
+\contentsline {chapter}{Anexo 2. Placa del motor de tituración}{cclxxix}{appendix*.40}%
+\contentsline {chapter}{Anexo 3 (Anexo título 3)}{cclxxxi}{appendix*.41}%
