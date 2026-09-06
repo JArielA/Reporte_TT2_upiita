@@ -1005,16 +1005,9 @@ INPUT .\images\Capitulo_Imple\S5\tambo_solo.jpeg
 INPUT .\images\Capitulo_Imple\S5\tambo_solo.jpeg
 INPUT .\images\Capitulo_Imple\S5\tambo_solo.jpeg
 INPUT .\images\Capitulo_Imple\S5\tambo_solo.jpeg
-INPUT .\parts\3_Imple\3.6 Sistema 6\3.6.2 Verificacion.tex
-INPUT .\parts\3_Imple\3.6 Sistema 6\3.6.2 Verificacion.tex
-INPUT parts\3_Imple\3.6 Sistema 6\3.6.2 Verificacion.tex
-INPUT .\images\Pruebas_S6\montar_componentes.jpeg
-INPUT .\images\Pruebas_S6\montar_componentes.jpeg
-INPUT .\images\Pruebas_S6\montar_componentes.jpeg
-INPUT .\images\Pruebas_S6\montar_componentes.jpeg
-INPUT .\images\Pruebas_S6\montar_componentes.jpeg
-INPUT .\images\Pruebas_S6\montar_componentes.jpeg
-INPUT .\images\Pruebas_S6\montar_componentes.jpeg
+INPUT .\parts\3_Imple\3.5 Sistema 5\3.5.2 Verificacion.tex
+INPUT .\parts\3_Imple\3.5 Sistema 5\3.5.2 Verificacion.tex
+INPUT parts\3_Imple\3.5 Sistema 5\3.5.2 Verificacion.tex
 INPUT .\parts\3_Imple\3.6 Sistema 6\3.6.0 Sistema 6.tex
 INPUT .\parts\3_Imple\3.6 Sistema 6\3.6.0 Sistema 6.tex
 INPUT parts\3_Imple\3.6 Sistema 6\3.6.0 Sistema 6.tex
@@ -1028,7 +1021,12 @@ INPUT .\images\Capitulo_Imple\S6\estructura.jpeg
 INPUT .\images\Capitulo_Imple\S6\estructura.jpeg
 INPUT .\images\Capitulo_Imple\S6\estructura.jpeg
 INPUT .\images\Capitulo_Imple\S6\estructura.jpeg
+INPUT .\parts\3_Imple\3.6 Sistema 6\3.6.2 Verificacion.tex
+INPUT .\parts\3_Imple\3.6 Sistema 6\3.6.2 Verificacion.tex
 INPUT parts\3_Imple\3.6 Sistema 6\3.6.2 Verificacion.tex
+INPUT .\images\Pruebas_S6\montar_componentes.jpeg
+INPUT .\images\Pruebas_S6\montar_componentes.jpeg
+INPUT .\images\Pruebas_S6\montar_componentes.jpeg
 INPUT .\images\Pruebas_S6\montar_componentes.jpeg
 INPUT .\images\Pruebas_S6\montar_componentes.jpeg
 INPUT .\images\Pruebas_S6\montar_componentes.jpeg

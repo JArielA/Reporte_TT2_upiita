@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  5 SEP 2026 18:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  5 SEP 2026 20:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1167,9 +1167,6 @@ LaTeX Warning: Label `fg:adaptador_ventilador' multiply defined.
 LaTeX Warning: Label `fg:estructura elaborada' multiply defined.
 
 
-LaTeX Warning: Label `fg:estructura elaborada' multiply defined.
-
-
 LaTeX Warning: Label `fg:palas_dentro' multiply defined.
 
 
@@ -1525,8 +1522,8 @@ Overfull \hbox (0.66826pt too wide) detected at line 21
  []
 
 
-Overfull \hbox (3.38832pt too wide) detected at line 22
- []\T1/cmr/m/n/10.95 lxxx
+Overfull \hbox (6.41441pt too wide) detected at line 22
+ []\T1/cmr/m/n/10.95 lxxxi
  []
 
 
@@ -1760,77 +1757,72 @@ Overfull \hbox (6.41441pt too wide) detected at line 57
  []
 
 
-Overfull \hbox (3.38832pt too wide) detected at line 58
- []\T1/cmr/m/n/10.95 lxxx
- []
-
-
-Overfull \hbox (6.41441pt too wide) detected at line 59
+Overfull \hbox (6.41441pt too wide) detected at line 58
  []\T1/cmr/m/n/10.95 lxxxi
  []
 
 
-Overfull \hbox (9.4405pt too wide) detected at line 60
+Overfull \hbox (9.4405pt too wide) detected at line 59
  []\T1/cmr/m/n/10.95 lxxxii
  []
 
 
-Overfull \hbox (12.16057pt too wide) detected at line 61
+Overfull \hbox (12.16057pt too wide) detected at line 60
  []\T1/cmr/m/n/10.95 lxxxiv
  []
 
 
-Overfull \hbox (9.13448pt too wide) detected at line 62
+Overfull \hbox (9.13448pt too wide) detected at line 61
  []\T1/cmr/m/n/10.95 lxxxv
  []
 
 
-Overfull \hbox (12.16057pt too wide) detected at line 63
+Overfull \hbox (12.16057pt too wide) detected at line 62
  []\T1/cmr/m/n/10.95 lxxxvi
  []
 
 
-Overfull \hbox (15.18666pt too wide) detected at line 64
+Overfull \hbox (15.18666pt too wide) detected at line 63
  []\T1/cmr/m/n/10.95 lxxxvii
  []
 
 
-Overfull \hbox (18.21275pt too wide) detected at line 65
+Overfull \hbox (18.21275pt too wide) detected at line 64
  []\T1/cmr/m/n/10.95 lxxxviii
  []
 
 
-Overfull \hbox (12.16057pt too wide) detected at line 66
+Overfull \hbox (12.16057pt too wide) detected at line 65
  []\T1/cmr/m/n/10.95 lxxxix
  []
 
 
-Overfull \hbox (2.78766pt too wide) detected at line 70
+Overfull \hbox (2.78766pt too wide) detected at line 69
  []\T1/cmr/m/n/10.95 xciii
  []
 
 
-Overfull \hbox (2.48163pt too wide) detected at line 71
+Overfull \hbox (2.48163pt too wide) detected at line 70
  []\T1/cmr/m/n/10.95 xciv
  []
 
 
-Overfull \hbox (2.48163pt too wide) detected at line 73
+Overfull \hbox (2.48163pt too wide) detected at line 72
  []\T1/cmr/m/n/10.95 xcvi
  []
 
 
-Overfull \hbox (5.50772pt too wide) detected at line 74
+Overfull \hbox (5.50772pt too wide) detected at line 73
  []\T1/cmr/m/n/10.95 xcvii
  []
 
 
-Overfull \hbox (8.53381pt too wide) detected at line 75
+Overfull \hbox (8.53381pt too wide) detected at line 74
  []\T1/cmr/m/n/10.95 xcviii
  []
 
 
-Overfull \hbox (2.48163pt too wide) detected at line 76
+Overfull \hbox (2.48163pt too wide) detected at line 75
  []\T1/cmr/m/n/10.95 xcix
  []
 
@@ -1927,7 +1919,7 @@ LaTeX Info: Redefining \% on input line 61.
 
 
 ]) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.2 Principio de funcionamiento.tex
-<images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png, id=383, 1168.8468pt x 1013.7072pt>
+<images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png, id=381, 1168.8468pt x 1013.7072pt>
 File: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png Graphic file (type png)
 <use images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png>
 Package pdftex.def Info: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png  used on input line 9.
@@ -1949,7 +1941,7 @@ LaTeX Info: Redefining \% on input line 19.
 LaTeX Info: Redefining \. on input line 53.
 LaTeX Info: Redefining \% on input line 53.
  [29]
-<images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png, id=401, 1579.9025pt x 1241.63875pt>
+<images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png, id=399, 1579.9025pt x 1241.63875pt>
 File: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png Graphic file (type png)
 <use images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png  used on input line 62.
@@ -1961,7 +1953,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Info: Redefining \. on input line 67.
 LaTeX Info: Redefining \% on input line 67.
 [30]
-<images/Capitulo 6 Apéndices/01 IDEF 0/General.png, id=406, 1541.2782pt x 1176.0738pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/General.png, id=404, 1541.2782pt x 1176.0738pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/General.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/General.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/General.png  used on input line 71.
@@ -1981,7 +1973,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.2}) h
                                                   \__shipout_drop_firstpage_...
 l.78 
       <./images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>]
-<images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png, id=414, 1593.45313pt x 1213.53375pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png, id=412, 1593.45313pt x 1213.53375pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used on input line 81.
@@ -2012,7 +2004,7 @@ l.5
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
  [34]
-<images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png, id=433, 2176.60236pt x 1287.3696pt>
+<images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png, id=431, 2176.60236pt x 1287.3696pt>
 File: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png Graphic file (type png)
 <use images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png  used on input line 24.
@@ -2037,7 +2029,7 @@ l.5 D
 
 LaTeX Warning: Reference `Ap:Mat_Morfo' on page xxxvii undefined on input line 7.
 
-<images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png, id=445, 1181.41376pt x 566.115pt>
+<images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png, id=443, 1181.41376pt x 566.115pt>
 File: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png Graphic file (type png)
 <use images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png>
 Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png  used on input line 36.
@@ -2077,7 +2069,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.0.4}) ha
                                                   \__shipout_drop_firstpage_...
 l.1 \subsection{Selección de diseño conceptual}
                                                  ]
-<images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png, id=463, 566.115pt x 611.28375pt>
+<images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png, id=461, 566.115pt x 611.28375pt>
 File: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png Graphic file (type png)
 <use images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png>
 Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png  used on input line 45.
@@ -2130,12 +2122,12 @@ LaTeX Warning: Reference `Ap:Codigo_completo' on page xliii undefined on input l
 [43
 
 ]
-<images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg, id=484, 2900.8375pt x 1132.23pt>
+<images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg, id=482, 2900.8375pt x 1132.23pt>
 File: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg  used on input line 21.
 (pdftex.def)             Requested size: 290.10074pt x 113.22963pt.
-<images/Capitulo_Imple/S1/interfaz/botones_int.jpeg, id=485, 1497.595pt x 1606.0pt>
+<images/Capitulo_Imple/S1/interfaz/botones_int.jpeg, id=483, 1497.595pt x 1606.0pt>
 File: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg  used on input line 28.
@@ -2153,22 +2145,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.9}) h
                                                   \__shipout_drop_firstpage_...
 l.33 \clearpage
                 <./images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg> <./images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>]
-<images/Capitulo_Imple/S1/interfaz/menu.jpeg, id=493, 3011.25pt x 1893.0725pt>
+<images/Capitulo_Imple/S1/interfaz/menu.jpeg, id=491, 3011.25pt x 1893.0725pt>
 File: images/Capitulo_Imple/S1/interfaz/menu.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/menu.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/menu.jpeg  used on input line 38.
 (pdftex.def)             Requested size: 167.11256pt x 105.05809pt.
-<images/Capitulo_Imple/S1/interfaz/tiempo.jpeg, id=494, 3011.25pt x 1730.465pt>
+<images/Capitulo_Imple/S1/interfaz/tiempo.jpeg, id=492, 3011.25pt x 1730.465pt>
 File: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/tiempo.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg  used on input line 45.
 (pdftex.def)             Requested size: 167.11256pt x 96.03401pt.
-<images/Capitulo_Imple/S1/interfaz/proceso.jpeg, id=495, 3011.25pt x 1734.48pt>
+<images/Capitulo_Imple/S1/interfaz/proceso.jpeg, id=493, 3011.25pt x 1734.48pt>
 File: images/Capitulo_Imple/S1/interfaz/proceso.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/proceso.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/proceso.jpeg  used on input line 52.
 (pdftex.def)             Requested size: 167.11256pt x 96.25684pt.
-<images/Web/pagina_compostador.png, id=496, 1425.07407pt x 669.2503pt>
+<images/Web/pagina_compostador.png, id=494, 1425.07407pt x 669.2503pt>
 File: images/Web/pagina_compostador.png Graphic file (type png)
 <use images/Web/pagina_compostador.png>
 Package pdftex.def Info: images/Web/pagina_compostador.png  used on input line 62.
@@ -2193,12 +2185,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.12}) 
                                                   \__shipout_drop_firstpage_...
 l.68 
       <./images/Capitulo_Imple/S1/interfaz/menu.jpeg> <./images/Capitulo_Imple/S1/interfaz/tiempo.jpeg> <./images/Capitulo_Imple/S1/interfaz/proceso.jpeg>]
-<images/Web/temp_hum_web.png, id=502, 1156.32pt x 324.46219pt>
+<images/Web/temp_hum_web.png, id=500, 1156.32pt x 324.46219pt>
 File: images/Web/temp_hum_web.png Graphic file (type png)
 <use images/Web/temp_hum_web.png>
 Package pdftex.def Info: images/Web/temp_hum_web.png  used on input line 71.
 (pdftex.def)             Requested size: 115.63876pt x 32.4481pt.
-<images/Web/indicador.png, id=503, 272.51813pt x 130.23656pt>
+<images/Web/indicador.png, id=501, 272.51813pt x 130.23656pt>
 File: images/Web/indicador.png Graphic file (type png)
 <use images/Web/indicador.png>
 Package pdftex.def Info: images/Web/indicador.png  used on input line 80.
@@ -2216,42 +2208,42 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.14}) 
                                                   \__shipout_drop_firstpage_...
 l.84         \end{figure}
                           <./images/Web/pagina_compostador.png> <./images/Web/temp_hum_web.png>]
-<images/Web/indicador_temp.png, id=509, 268.75406pt x 124.96687pt>
+<images/Web/indicador_temp.png, id=507, 268.75406pt x 124.96687pt>
 File: images/Web/indicador_temp.png Graphic file (type png)
 <use images/Web/indicador_temp.png>
 Package pdftex.def Info: images/Web/indicador_temp.png  used on input line 87.
 (pdftex.def)             Requested size: 26.87697pt x 12.4974pt.
-<images/Web/error_ds18.png, id=510, 568.37344pt x 337.26pt>
+<images/Web/error_ds18.png, id=508, 568.37344pt x 337.26pt>
 File: images/Web/error_ds18.png Graphic file (type png)
 <use images/Web/error_ds18.png>
 Package pdftex.def Info: images/Web/error_ds18.png  used on input line 95.
 (pdftex.def)             Requested size: 56.84067pt x 33.72797pt.
-<images/Web/dht11_web.png, id=511, 564.60938pt x 328.97906pt>
+<images/Web/dht11_web.png, id=509, 564.60938pt x 328.97906pt>
 File: images/Web/dht11_web.png Graphic file (type png)
 <use images/Web/dht11_web.png>
 Package pdftex.def Info: images/Web/dht11_web.png  used on input line 103.
 (pdftex.def)             Requested size: 56.46423pt x 32.89983pt.
-<images/Web/ventilador_web.png, id=512, 270.25969pt x 127.97812pt>
+<images/Web/ventilador_web.png, id=510, 270.25969pt x 127.97812pt>
 File: images/Web/ventilador_web.png Graphic file (type png)
 <use images/Web/ventilador_web.png>
 Package pdftex.def Info: images/Web/ventilador_web.png  used on input line 111.
 (pdftex.def)             Requested size: 27.02754pt x 12.79855pt.
-<images/Web/motor_web.png, id=513, 269.50688pt x 123.46124pt>
+<images/Web/motor_web.png, id=511, 269.50688pt x 123.46124pt>
 File: images/Web/motor_web.png Graphic file (type png)
 <use images/Web/motor_web.png>
 Package pdftex.def Info: images/Web/motor_web.png  used on input line 118.
 (pdftex.def)             Requested size: 26.95226pt x 12.34683pt.
-<images/Web/resistencia_web.png, id=514, 268.75406pt x 124.96687pt>
+<images/Web/resistencia_web.png, id=512, 268.75406pt x 124.96687pt>
 File: images/Web/resistencia_web.png Graphic file (type png)
 <use images/Web/resistencia_web.png>
 Package pdftex.def Info: images/Web/resistencia_web.png  used on input line 125.
 (pdftex.def)             Requested size: 26.87697pt x 12.4974pt.
-<images/Web/temporizador_web.png, id=515, 271.0125pt x 126.4725pt>
+<images/Web/temporizador_web.png, id=513, 271.0125pt x 126.4725pt>
 File: images/Web/temporizador_web.png Graphic file (type png)
 <use images/Web/temporizador_web.png>
 Package pdftex.def Info: images/Web/temporizador_web.png  used on input line 133.
 (pdftex.def)             Requested size: 27.10283pt x 12.64798pt.
-<images/Web/Db_compostador.png, id=516, 1041.8925pt x 553.31718pt>
+<images/Web/Db_compostador.png, id=514, 1041.8925pt x 553.31718pt>
 File: images/Web/Db_compostador.png Graphic file (type png)
 <use images/Web/Db_compostador.png>
 Package pdftex.def Info: images/Web/Db_compostador.png  used on input line 140.
@@ -2326,7 +2318,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.23}) 
                                                   \__shipout_drop_firstpage_...
 l.145 \clearpage
                  <./images/Web/dht11_web.png> <./images/Web/ventilador_web.png> <./images/Web/motor_web.png> <./images/Web/resistencia_web.png> <./images/Web/temporizador_web.png> <./images/Web/Db_compostador.png>]) (parts/3_Imple/3.1 Sistema 1/3.1.2 Verificacion.tex
-<images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg, id=526, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg, id=524, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg  used on input line 9.
@@ -2348,7 +2340,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.24}) 
                                                   \__shipout_drop_firstpage_...
 l.14 \clearpage
                 <./images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>]
-<images/Pruebas/Pruebas_S1/mostrar_datos.jpeg, id=537, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/mostrar_datos.jpeg, id=535, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg  used on input line 20.
@@ -2363,7 +2355,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.25}) 
                                                   \__shipout_drop_firstpage_...
 l.25 \clearpage
                 <./images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>]
-<images/Pruebas/Pruebas_S1/fermentacion.jpeg, id=544, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/fermentacion.jpeg, id=542, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/fermentacion.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/fermentacion.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/fermentacion.jpeg  used on input line 31.
@@ -2378,7 +2370,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.26}) 
                                                   \__shipout_drop_firstpage_...
 l.35 \clearpage
                 <./images/Pruebas/Pruebas_S1/fermentacion.jpeg>]
-<images/Pruebas/Pruebas_S1/elevando_temp.jpeg, id=549, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/elevando_temp.jpeg, id=547, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/elevando_temp.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/elevando_temp.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/elevando_temp.jpeg  used on input line 39.
@@ -2393,7 +2385,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.27}) 
                                                   \__shipout_drop_firstpage_...
 l.44 \clearpage
                 <./images/Pruebas/Pruebas_S1/elevando_temp.jpeg>]
-<images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg, id=555, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg, id=553, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg  used on input line 50.
@@ -2421,7 +2413,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
 (parts/3_Imple/3.2 Sistema 2/3.2.1 Implemetacion.tex
-<images/Capitulo_Imple/S2/CTO_SEN.jpeg, id=561, 4015.0pt x 3011.25pt>
+<images/Capitulo_Imple/S2/CTO_SEN.jpeg, id=559, 4015.0pt x 3011.25pt>
 File: images/Capitulo_Imple/S2/CTO_SEN.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/CTO_SEN.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/CTO_SEN.jpeg  used on input line 7.
@@ -2436,12 +2428,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.29}) 
                                                   \__shipout_drop_firstpage_...
 l.11 \clearpage
                 <./images/Capitulo_Imple/S2/CTO_SEN.jpeg>]
-<images/Capitulo_Imple/S2/DHT11_FIS.jpeg, id=568, 1327.96124pt x 1606.0pt>
+<images/Capitulo_Imple/S2/DHT11_FIS.jpeg, id=566, 1327.96124pt x 1606.0pt>
 File: images/Capitulo_Imple/S2/DHT11_FIS.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/DHT11_FIS.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/DHT11_FIS.jpeg  used on input line 17.
 (pdftex.def)             Requested size: 132.8039pt x 160.6094pt.
-<images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg, id=570, 2938.98pt x 2830.575pt>
+<images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg, id=568, 2938.98pt x 2830.575pt>
 File: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg  used on input line 26.
@@ -2603,7 +2595,7 @@ LaTeX Info: Redefining \% on input line 8.
 [63
 
 ]
-<images/Capitulo_Imple/S4/trituracion.jpeg, id=613, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S4/trituracion.jpeg, id=611, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S4/trituracion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S4/trituracion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S4/trituracion.jpeg  used on input line 24.
@@ -2625,7 +2617,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.32}) 
                                                   \__shipout_drop_firstpage_...
 l.29 \clearpage
                 <./images/Capitulo_Imple/S4/trituracion.jpeg>]) (parts/3_Imple/3.4 Sistema 4/3.4.2 Verificacion.tex
-<images/Capitulo_Imple/S7/atorado.jpeg, id=623, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/atorado.jpeg, id=621, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/atorado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/atorado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/atorado.jpeg  used on input line 11.
@@ -2643,7 +2635,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.33}) 
                                                   \__shipout_drop_firstpage_...
 l.17 
       <./images/Capitulo_Imple/S7/atorado.jpeg>]
-<images/Capitulo_Imple/S7/triturado.jpeg, id=629, 4015.0pt x 3011.25pt>
+<images/Capitulo_Imple/S7/triturado.jpeg, id=627, 4015.0pt x 3011.25pt>
 File: images/Capitulo_Imple/S7/triturado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/triturado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/triturado.jpeg  used on input line 30.
@@ -2656,7 +2648,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.34}) 
                                                   \__shipout_drop_firstpage_...
 l.35  \clearpage
                  <./images/Capitulo_Imple/S7/triturado.jpeg>]
-<images/Pruebas/Pruebas_S4/cono_excentrico.jpg, id=635, 418.56375pt x 395.97937pt>
+<images/Pruebas/Pruebas_S4/cono_excentrico.jpg, id=633, 418.56375pt x 395.97937pt>
 File: images/Pruebas/Pruebas_S4/cono_excentrico.jpg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S4/cono_excentrico.jpg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S4/cono_excentrico.jpg  used on input line 44.
@@ -2684,7 +2676,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
 
 (parts/3_Imple/3.5 Sistema 5/3.5.1 Implementacion.tex
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg, id=640, 1204.5pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg, id=638, 1204.5pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg  used on input line 12.
@@ -2699,12 +2691,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.36}) 
                                                   \__shipout_drop_firstpage_...
 l.17 \newpage
               <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg, id=645, 677.53125pt x 950.80219pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg, id=643, 677.53125pt x 950.80219pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg  used on input line 20.
 (pdftex.def)             Requested size: 121.95036pt x 171.13701pt.
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg, id=646, 1606.0pt x 903.375pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg, id=644, 1606.0pt x 903.375pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg  used on input line 29.
@@ -2722,7 +2714,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.38}) 
                                                   \__shipout_drop_firstpage_...
 l.33         \newpage
                       <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>]
-<images/Capitulo_Imple/S5/Actuadores/calentador.png, id=652, 659.46375pt x 538.01pt>
+<images/Capitulo_Imple/S5/Actuadores/calentador.png, id=650, 659.46375pt x 538.01pt>
 File: images/Capitulo_Imple/S5/Actuadores/calentador.png Graphic file (type png)
 <use images/Capitulo_Imple/S5/Actuadores/calentador.png>
 Package pdftex.def Info: images/Capitulo_Imple/S5/Actuadores/calentador.png  used on input line 42.
@@ -2742,7 +2734,7 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 48.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 48.
 
 Missing character: There is no � in font cmr10!
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png, id=653, 548.80031pt x 441.90094pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png, id=651, 548.80031pt x 441.90094pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png  used on input line 57.
@@ -2750,7 +2742,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adapta
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png, id=654, 595.47469pt x 482.55281pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png, id=652, 595.47469pt x 482.55281pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png  used on input line 66.
@@ -2776,12 +2768,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.41}) 
                                                   \__shipout_drop_firstpage_...
 l.70  \newpage
                <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg, id=663, 676.02562pt x 1005.7575pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg, id=661, 676.02562pt x 1005.7575pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg  used on input line 74.
 (pdftex.def)             Requested size: 121.67935pt x 181.02853pt.
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg, id=664, 903.375pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg, id=662, 903.375pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg  used on input line 83.
@@ -2799,17 +2791,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.43}) 
                                                   \__shipout_drop_firstpage_...
 l.88  \newpage
                <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg, id=670, 903.375pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg, id=668, 903.375pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg  used on input line 91.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
-<images/Pruebas_S5/pieza_ventilador.jpg, id=671, 565.36218pt x 417.81094pt>
+<images/Pruebas_S5/pieza_ventilador.jpg, id=669, 565.36218pt x 417.81094pt>
 File: images/Pruebas_S5/pieza_ventilador.jpg Graphic file (type jpg)
 <use images/Pruebas_S5/pieza_ventilador.jpg>
 Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador.jpg  used on input line 98.
 (pdftex.def)             Requested size: 84.80066pt x 62.66893pt.
-<images/Pruebas_S5/pieza_ventilador_impresa.png, id=672, 755.07094pt x 703.87968pt>
+<images/Pruebas_S5/pieza_ventilador_impresa.png, id=670, 755.07094pt x 703.87968pt>
 File: images/Pruebas_S5/pieza_ventilador_impresa.png Graphic file (type png)
 <use images/Pruebas_S5/pieza_ventilador_impresa.png>
 Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador_impresa.png  used on input line 105.
@@ -2831,110 +2823,105 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.0.45}) 
                                                   \__shipout_drop_firstpage_...
 l.115 
        <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg> <./images/Pruebas_S5/pieza_ventilador.jpg>]
-<images/Capitulo_Imple/S5/Aireacion.jpeg, id=678, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S5/Aireacion.jpeg, id=676, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/Aireacion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/Aireacion.jpeg>
-Package pdftex.def Info: images/Capitulo_Imple/S5/Aireacion.jpeg  used on input line 127.
+Package pdftex.def Info: images/Capitulo_Imple/S5/Aireacion.jpeg  used on input line 126.
 (pdftex.def)             Requested size: 180.6718pt x 321.19432pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Info: Redefining \. on input line 134.
-LaTeX Info: Redefining \% on input line 134.
+LaTeX Info: Redefining \. on input line 133.
+LaTeX Info: Redefining \% on input line 133.
 [75
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.46}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.134 
+l.133 
        <./images/Pruebas_S5/pieza_ventilador_impresa.png>]
-<images/Pruebas_S5/pala_soldada.jpeg, id=683, 1606.0pt x 903.375pt>
+<images/Pruebas_S5/pala_soldada.jpeg, id=681, 1606.0pt x 903.375pt>
 File: images/Pruebas_S5/pala_soldada.jpeg Graphic file (type jpg)
 <use images/Pruebas_S5/pala_soldada.jpeg>
-Package pdftex.def Info: images/Pruebas_S5/pala_soldada.jpeg  used on input line 139.
+Package pdftex.def Info: images/Pruebas_S5/pala_soldada.jpeg  used on input line 138.
 (pdftex.def)             Requested size: 321.19432pt x 180.6718pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo_Imple/S5/fresado.JPG, id=685, 3276.24pt x 2457.18pt>
+<images/Capitulo_Imple/S5/fresado.JPG, id=683, 3276.24pt x 2457.18pt>
 File: images/Capitulo_Imple/S5/fresado.JPG Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/fresado.JPG>
-Package pdftex.def Info: images/Capitulo_Imple/S5/fresado.JPG  used on input line 149.
+Package pdftex.def Info: images/Capitulo_Imple/S5/fresado.JPG  used on input line 148.
 (pdftex.def)             Requested size: 294.84888pt x 221.13666pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg, id=687, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg, id=685, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg>
-Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg  used on input line 159.
+Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg  used on input line 158.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 165.
-LaTeX Info: Redefining \% on input line 165.
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
 [76
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.47}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.165 
+l.164 
        <./images/Capitulo_Imple/S5/Aireacion.jpeg>]
 
 LaTeX Warning: Text page lxxvii contains only floats.
 
-LaTeX Info: Redefining \. on input line 165.
-LaTeX Info: Redefining \% on input line 165.
+LaTeX Info: Redefining \. on input line 164.
+LaTeX Info: Redefining \% on input line 164.
 [77
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.48}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.165 
+l.164 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.49}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.165 
+l.164 
        <./images/Pruebas_S5/pala_soldada.jpeg> <./images/Capitulo_Imple/S5/fresado.JPG>]
-<images/Capitulo_Imple/S5/tambo_solo.jpeg, id=697, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S5/tambo_solo.jpeg, id=695, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/tambo_solo.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/tambo_solo.jpeg>
-Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_solo.jpeg  used on input line 168.
+Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_solo.jpeg  used on input line 167.
 (pdftex.def)             Requested size: 216.80064pt x 289.06754pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (parts/3_Imple/3.6 Sistema 6/3.6.2 Verificacion.tex
-<images/Pruebas_S6/montar_componentes.jpeg, id=698, 1092.08pt x 1606.0pt>
-File: images/Pruebas_S6/montar_componentes.jpeg Graphic file (type jpg)
-<use images/Pruebas_S6/montar_componentes.jpeg>
-Package pdftex.def Info: images/Pruebas_S6/montar_componentes.jpeg  used on input line 6.
-(pdftex.def)             Requested size: 147.42444pt x 216.80064pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+) (parts/3_Imple/3.5 Sistema 5/3.5.2 Verificacion.tex
 Underfull \vbox (badness 6236) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 15.
-LaTeX Info: Redefining \% on input line 15.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
  [78
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.50}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.15 F
-      inalmente fue necesario colocar soportes que permitieran fijar el trit... <./images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg>]
-LaTeX Info: Redefining \. on input line 16.
-LaTeX Info: Redefining \% on input line 16.
+l.13 
+      <./images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg>]
+Underfull \vbox (badness 7151) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
  [79
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.51}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.16 \newpage
-              <./images/Capitulo_Imple/S5/tambo_solo.jpeg>])) (parts/3_Imple/3.6 Sistema 6/3.6.0 Sistema 6.tex
+l.15 
+      <./images/Capitulo_Imple/S5/tambo_solo.jpeg>]
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [80])) (parts/3_Imple/3.6 Sistema 6/3.6.0 Sistema 6.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
@@ -2948,31 +2935,20 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
 (parts/3_Imple/3.6 Sistema 6/3.6.1 Implementacion.tex
-<images/Capitulo_Imple/S6/estructura.jpeg, id=709, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S6/estructura.jpeg, id=710, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S6/estructura.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S6/estructura.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S6/estructura.jpeg  used on input line 13.
 (pdftex.def)             Requested size: 121.95036pt x 216.80064pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 LaTeX Info: Redefining \. on input line 18.
 LaTeX Info: Redefining \% on input line 18.
-[80
+ [81
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.52}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.18  \clearpage
-                 <./images/Pruebas_S6/montar_componentes.jpeg>]
-LaTeX Info: Redefining \. on input line 18.
-LaTeX Info: Redefining \% on input line 18.
- [81
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.53}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.18  \clearpage
                  <./images/Capitulo_Imple/S6/estructura.jpeg>]) (parts/3_Imple/3.6 Sistema 6/3.6.2 Verificacion.tex
+<images/Pruebas_S6/montar_componentes.jpeg, id=715, 1092.08pt x 1606.0pt>
 File: images/Pruebas_S6/montar_componentes.jpeg Graphic file (type jpg)
 <use images/Pruebas_S6/montar_componentes.jpeg>
 Package pdftex.def Info: images/Pruebas_S6/montar_componentes.jpeg  used on input line 6.
@@ -2982,15 +2958,15 @@ LaTeX Info: Redefining \% on input line 16.
  [82
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.54}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.53}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.16 \newpage
-             ]
+              <./images/Pruebas_S6/montar_componentes.jpeg>]
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
  [83])) (parts/3_Imple/3.7_Integracion/3.7_Integracion.tex (parts/3_Imple/3.7_Integracion/3.7.1_Integracion_del_dispositivo.tex
-<images/Capitulo_Imple/S7/palas_dentro.jpeg, id=727, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/palas_dentro.jpeg, id=725, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/palas_dentro.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/palas_dentro.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/palas_dentro.jpeg  used on input line 9.
@@ -2998,12 +2974,12 @@ Package pdftex.def Info: images/Capitulo_Imple/S7/palas_dentro.jpeg  used on inp
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
  [84
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.55}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.54}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.14  \clearpage
                  <./images/Capitulo_Imple/S7/palas_dentro.jpeg>]
-<images/Capitulo_Imple/S7/perfora.jpeg, id=733, 1606.0pt x 1204.5pt>
+<images/Capitulo_Imple/S7/perfora.jpeg, id=731, 1606.0pt x 1204.5pt>
 File: images/Capitulo_Imple/S7/perfora.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/perfora.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/perfora.jpeg  used on input line 21.
@@ -3013,12 +2989,12 @@ LaTeX Info: Redefining \% on input line 26.
  [85
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.56}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.55}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.26  \clearpage
                  <./images/Capitulo_Imple/S7/perfora.jpeg>]
-<images/Capitulo_Imple/S7/Sal_trituracion.jpeg, id=740, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/Sal_trituracion.jpeg, id=738, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/Sal_trituracion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Sal_trituracion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Sal_trituracion.jpeg  used on input line 31.
@@ -3028,12 +3004,12 @@ LaTeX Info: Redefining \% on input line 36.
  [86
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.57}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.56}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.36 \clearpage
                 <./images/Capitulo_Imple/S7/Sal_trituracion.jpeg>]
-<images/Capitulo_Imple/S7/motor.jpeg, id=746, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/motor.jpeg, id=744, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/motor.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/motor.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/motor.jpeg  used on input line 43.
@@ -3043,12 +3019,12 @@ LaTeX Info: Redefining \% on input line 48.
  [87
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.58}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.57}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.48 \clearpage
                 <./images/Capitulo_Imple/S7/motor.jpeg>]
-<images/Capitulo_Imple/S7/cableado.jpeg, id=752, 1606.0pt x 1204.5pt>
+<images/Capitulo_Imple/S7/cableado.jpeg, id=750, 1606.0pt x 1204.5pt>
 File: images/Capitulo_Imple/S7/cableado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/cableado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/cableado.jpeg  used on input line 53.
@@ -3058,12 +3034,12 @@ LaTeX Info: Redefining \% on input line 60.
  [88
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.59}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.58}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.60 \clearpage
                 <./images/Capitulo_Imple/S7/cableado.jpeg>]
-<images/Capitulo_Imple/S7/sistema_integrado.jpeg, id=758, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/sistema_integrado.jpeg, id=756, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/sistema_integrado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/sistema_integrado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/sistema_integrado.jpeg  used on input line 65.
@@ -3073,7 +3049,7 @@ LaTeX Info: Redefining \% on input line 70.
  [89
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.60}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.59}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.70  \clearpage
@@ -3087,7 +3063,7 @@ LaTeX Info: Redefining \% on input line 14.
  [90
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.61}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.60}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.14  \clearpage
@@ -3101,7 +3077,7 @@ LaTeX Info: Redefining \% on input line 26.
  [91
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.62}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.61}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.26  \clearpage
@@ -3115,7 +3091,7 @@ LaTeX Info: Redefining \% on input line 36.
  [92
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.63}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.62}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.36 \clearpage
@@ -3129,7 +3105,7 @@ LaTeX Info: Redefining \% on input line 48.
  [93
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.64}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.63}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.48 \clearpage
@@ -3143,7 +3119,7 @@ LaTeX Info: Redefining \% on input line 60.
  [94
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.65}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.64}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.60 \clearpage
@@ -3157,12 +3133,12 @@ LaTeX Info: Redefining \% on input line 70.
  [95
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.66}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.65}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.70  \clearpage
                 ]) (parts/3_Imple/3.7_Integracion/3.7.2_Validacion.tex
-<images/Pruebas/Pruebas_compost/carga1.jpeg, id=794, 1033.8625pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga1.jpeg, id=792, 1033.8625pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga1.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga1.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga1.jpeg  used on input line 12.
@@ -3172,12 +3148,12 @@ LaTeX Info: Redefining \% on input line 16.
  [96
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.67}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.66}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.16 \clearpage
                 <./images/Pruebas/Pruebas_compost/carga1.jpeg>]
-<images/Capitulo_Imple/S7/Val/Prueba1.jpeg, id=800, 963.6pt x 1284.8pt>
+<images/Capitulo_Imple/S7/Val/Prueba1.jpeg, id=798, 963.6pt x 1284.8pt>
 File: images/Capitulo_Imple/S7/Val/Prueba1.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Val/Prueba1.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba1.jpeg  used on input line 26.
@@ -3187,12 +3163,12 @@ LaTeX Info: Redefining \% on input line 30.
  [97
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.68}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.67}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.30 \clearpage
                 <./images/Capitulo_Imple/S7/Val/Prueba1.jpeg>]
-<images/Pruebas/Pruebas_compost/carga2.jpeg, id=806, 677.53125pt x 1132.23pt>
+<images/Pruebas/Pruebas_compost/carga2.jpeg, id=804, 677.53125pt x 1132.23pt>
 File: images/Pruebas/Pruebas_compost/carga2.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga2.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga2.jpeg  used on input line 39.
@@ -3202,12 +3178,12 @@ LaTeX Info: Redefining \% on input line 43.
  [98
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.69}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.68}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.43 \clearpage
                 <./images/Pruebas/Pruebas_compost/carga2.jpeg>]
-<images/Capitulo_Imple/S7/Val/Prueba2.jpeg, id=811, 963.6pt x 1284.8pt>
+<images/Capitulo_Imple/S7/Val/Prueba2.jpeg, id=809, 963.6pt x 1284.8pt>
 File: images/Capitulo_Imple/S7/Val/Prueba2.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Val/Prueba2.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba2.jpeg  used on input line 51.
@@ -3217,12 +3193,12 @@ LaTeX Info: Redefining \% on input line 55.
  [99
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.70}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.69}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.55 \clearpage
                 <./images/Capitulo_Imple/S7/Val/Prueba2.jpeg>]
-<images/Pruebas/Pruebas_compost/carga3.jpeg, id=816, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga3.jpeg, id=814, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga3.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga3.jpeg  used on input line 64.
@@ -3235,17 +3211,17 @@ LaTeX Info: Redefining \% on input line 70.
  [100
 
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.71}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.70}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.70 
       <./images/Pruebas/Pruebas_compost/carga3.jpeg>]
-<images/Pruebas/Pruebas_compost/descarga3.jpeg, id=821, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga3.jpeg, id=819, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga3.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga3.jpeg  used on input line 73.
 (pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
-<images/Pruebas/Pruebas_compost/descarga4.jpeg, id=822, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga4.jpeg, id=820, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga4.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga4.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga4.jpeg  used on input line 84.
@@ -3254,7 +3230,7 @@ Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga4.jpeg  used on 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Pruebas/Pruebas_compost/carga5.jpeg, id=823, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga5.jpeg, id=821, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga5.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga5.jpeg  used on input line 94.
@@ -3262,7 +3238,7 @@ Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga5.jpeg  used on inp
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Pruebas/Pruebas_compost/descarga5.jpeg, id=824, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga5.jpeg, id=822, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga5.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga5.jpeg  used on input line 101.
@@ -3273,7 +3249,7 @@ Underfull \vbox (badness 3168) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 105.
 LaTeX Info: Redefining \% on input line 105.
  [101
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.72}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.71}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.105 
@@ -3281,12 +3257,12 @@ l.105
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Pruebas/Pruebas_compost/carga6.jpeg, id=829, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga6.jpeg, id=827, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga6.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga6.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga6.jpeg  used on input line 110.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
-<images/Pruebas/Pruebas_compost/descarga6.jpeg, id=830, 782.925pt x 1043.9pt>
+<images/Pruebas/Pruebas_compost/descarga6.jpeg, id=828, 782.925pt x 1043.9pt>
 File: images/Pruebas/Pruebas_compost/descarga6.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga6.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga6.jpeg  used on input line 117.
@@ -3303,7 +3279,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 176.
 LaTeX Info: Redefining \% on input line 176.
  [102
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.73}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.72}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.176 \include{parts/3_Imple/3.0_Implemetacion}
@@ -3311,7 +3287,7 @@ l.176 \include{parts/3_Imple/3.0_Implemetacion}
 LaTeX Info: Redefining \. on input line 176.
 LaTeX Info: Redefining \% on input line 176.
  [103
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.74}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.73}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.176 \include{parts/3_Imple/3.0_Implemetacion}
@@ -3319,12 +3295,12 @@ l.176 \include{parts/3_Imple/3.0_Implemetacion}
 LaTeX Info: Redefining \. on input line 176.
 LaTeX Info: Redefining \% on input line 176.
  [104
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.75}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.74}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.176 \include{parts/3_Imple/3.0_Implemetacion}
                                                
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.76}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.75}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.176 \include{parts/3_Imple/3.0_Implemetacion}
@@ -3332,7 +3308,7 @@ l.176 \include{parts/3_Imple/3.0_Implemetacion}
 LaTeX Info: Redefining \. on input line 176.
 LaTeX Info: Redefining \% on input line 176.
  [105
-pdfTeX warning (ext4): destination with the same identifier (name{figure.0.77}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.76}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
 l.176 \include{parts/3_Imple/3.0_Implemetacion}
@@ -3497,10 +3473,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 38703 strings out of 467870
- 824498 string characters out of 5419324
- 1376208 words of memory out of 5000000
- 66435 multiletter control sequences out of 15000+600000
+ 38706 strings out of 467870
+ 824670 string characters out of 5419324
+ 1375208 words of memory out of 5000000
+ 66438 multiletter control sequences out of 15000+600000
  747138 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,18n,121p,1082b,1312s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -3508,9 +3484,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{section*.14} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
-Output written on Principal.pdf (116 pages, 17608515 bytes).
+Output written on Principal.pdf (116 pages, 17609121 bytes).
 PDF statistics:
- 1680 PDF objects out of 1728 (max. 8388607)
- 293 named destinations out of 1000 (max. 500000)
+ 1678 PDF objects out of 1728 (max. 8388607)
+ 292 named destinations out of 1000 (max. 500000)
  621 words of extra memory for PDF output out of 10000 (max. 10000000)
 

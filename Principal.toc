@@ -19,7 +19,7 @@
 \contentsline {subsection}{\numberline {0.1.10}Sistema de energía $S_3$}{lviii}{subsection.0.1.10}%
 \contentsline {subsection}{\numberline {0.1.11}Sistema de trituración $S_4$}{lxiii}{subsection.0.1.11}%
 \contentsline {subsection}{\numberline {0.1.12}Sistema de procesamiento de materia $S_5$}{lxix}{subsection.0.1.12}%
-\contentsline {subsection}{\numberline {0.1.13}Sistema estructural $S_6$}{lxxx}{subsection.0.1.13}%
+\contentsline {subsection}{\numberline {0.1.13}Sistema estructural $S_6$}{lxxxi}{subsection.0.1.13}%
 \contentsline {subsection}{\numberline {0.1.14}Integración del sistema}{lxxxiv}{subsection.0.1.14}%
 \contentsline {subsection}{\numberline {0.1.15}Integración del sistema}{xc}{subsection.0.1.15}%
 \contentsline {part}{Referencias}{cvii}{chapter*.13}%
