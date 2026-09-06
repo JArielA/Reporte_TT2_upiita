@@ -1,0 +1,3516 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  5 SEP 2026 18:53
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**c:/Users/Dan/Reporte_TT2_upiita/Principal.tex
+(c:/Users/Dan/Reporte_TT2_upiita/Principal.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+Copyright Juan Carlos Guzmán Salgado Griselda Sánchez Otero Diego Alonso Flores Hernández
+(upiita.cls
+Document Class: upiita 2004/02/16 v1.4f Standard LaTeX document class
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
+\babel@savecnt=\count275
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input line 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input line 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input line 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
+\U@D=\dimen148
+\l@unhyphenated=\language79
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count276
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex)
+Package babel Info: Importing font and identification data for spanish
+(babel)             from babel-es.ini. Reported on input line 4320.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks17
+\es@quotdepth=\count277
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 149.
+LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 149.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip49
+\f@nch@offset@elh=\skip50
+\f@nch@offset@erh=\skip51
+\f@nch@offset@olh=\skip52
+\f@nch@offset@orh=\skip53
+\f@nch@offset@elf=\skip54
+\f@nch@offset@erf=\skip55
+\f@nch@offset@olf=\skip56
+\f@nch@offset@orf=\skip57
+\f@nch@height=\skip58
+\f@nch@footalignment=\skip59
+\f@nch@widthL=\skip60
+\f@nch@widthC=\skip61
+\f@nch@widthR=\skip62
+\@temptokenb=\toks20
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count278
+\c@chapter=\count279
+\c@section=\count280
+\c@subsection=\count281
+\c@subsubsection=\count282
+\c@paragraph=\count283
+\c@subparagraph=\count284
+\c@figure=\count285
+\c@table=\count286
+\abovecaptionskip=\skip63
+\belowcaptionskip=\skip64
+\bibindent=\dimen149
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count287
+)) (configuracion/upiitatesis.sty
+NOTICE: This macro file is NOT proprietary and may be freely copied and distributed.
+
+LaTeX Warning: You have requested package `configuracion/upiitatesis',
+               but the package provides `upiitatesis'.
+
+Package: upiitatesis 2023/05/09v2 LaTeX package (Revised chapters)
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box53
+\extrarowheight=\dimen151
+\NC@list=\toks21
+\extratabsurround=\skip65
+\backup@length=\skip66
+\ar@cellbox=\box54
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks22
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip67
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks23
+\ex@=\dimen152
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen153
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count288
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count289
+\leftroot@=\count290
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count291
+\DOTSCASE@=\count292
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box55
+\strutbox@=\box56
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen154
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count293
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count294
+\dotsspace@=\muskip17
+\c@parentequation=\count295
+\dspbrk@lvl=\count296
+\tag@help=\toks24
+\row@=\count297
+\column@=\count298
+\maxfields@=\count299
+\andhelp@=\toks25
+\eqnshift@=\dimen155
+\alignsep@=\dimen156
+\tagshift@=\dimen157
+\tagwidth@=\dimen158
+\totwidth@=\dimen159
+\lineht@=\dimen160
+\@envbody=\toks26
+\multlinegap=\skip68
+\multlinetaggap=\skip69
+\mathdisplay@stack=\toks27
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/bbding\bbding.sty
+Package: bbding 1999/04/15 v1.01 Dingbats symbols
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fourier\fourier-orns.sty
+Package: fourier-orns 2024/09/08 2.4 fourier-ornaments package
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.sty
+Package: eucal 2009/06/22 v3.00 Euler Script fonts
+LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
+(Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup6
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\montserrat.sty
+Package: montserrat 2019/11/07 v1.03
+ `montserrat' v1.03, 2019/11/07 Style file for Montserrat and Alternates (msharpe) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1enc.def
+File: ly1enc.def 2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
+Now handling font encoding LY1 ...
+... processing UTF-8 mapping file for font encoding LY1
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\ly1enc.dfu
+File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
+Applying: [2024-11-01] Use figureversions if present on input line 74.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
+Package: figureversions 2025-04-29 v1.0.1 Figure versions
+)
+Already applied: [0000-00-00] Fall back to v1 on input line 76.
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count300
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+)) (configuracion/romanidx.sty) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
+File: lettrine.sty 2025-12-06 v2.83 (Daniel Flipo)
+\c@DefaultLines=\count301
+\c@DefaultDepth=\count302
+\DefaultFindent=\dimen161
+\DefaultNindent=\dimen162
+\DefaultSlope=\dimen163
+\DiscardVskip=\dimen164
+\L@lbox=\box57
+\c@L@lines=\count303
+\c@L@depth=\count304
+\L@Pindent=\dimen165
+\L@Findent=\dimen166
+\L@Nindent=\dimen167
+\L@lraise=\dimen168
+\L@first=\dimen169
+\L@next=\dimen170
+\L@slope=\dimen171
+\L@height=\dimen172
+\L@novskip=\dimen173
+\L@target@ht=\dimen174
+\L@target@dp=\dimen175
+\L@target@tht=\dimen176
+\LettrineWidth=\dimen177
+\LettrineHeight=\dimen178
+\LettrineDepth=\dimen179
+\L@finalht=\dimen180
+\L@finaldp=\dimen181
+
+Loading lettrine.cfg
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg)
+\Lettrine@tweaks=\toks30
+\Llist@everypar=\toks31
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count305
+\mult@box=\box58
+\multicol@leftmargin=\dimen182
+\c@unbalance=\count306
+\c@collectmore=\count307
+\doublecol@number=\count308
+\multicoltolerance=\count309
+\multicolpretolerance=\count310
+\full@width=\dimen183
+\page@free=\dimen184
+\premulticols=\dimen185
+\postmulticols=\dimen186
+\multicolsep=\skip70
+\multicolbaselineskip=\skip71
+\partial@page=\box59
+\last@line=\box60
+\mc@boxedresult=\box61
+\maxbalancingoverflow=\dimen187
+\mult@rightbox=\box62
+\mult@grightbox=\box63
+\mult@firstbox=\box64
+\mult@gfirstbox=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\c@minrows=\count311
+\c@columnbadness=\count312
+\c@finalcolumnbadness=\count313
+\last@try=\dimen188
+\multicolovershoot=\dimen189
+\multicolundershoot=\dimen190
+\mult@nat@firstbox=\box102
+\colbreak@box=\box103
+\mc@col@check@num=\count314
+\g__mc_curr_col_int=\count315
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
+Package: nextpage 2009/09/03 v1.1a additional page commands
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+LaTeX Info: Redefining \color on input line 762.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip72
+\thanksmargin=\skip73
+\droptitle=\skip74
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box104
+\beforetitleunit=\skip75
+\aftertitleunit=\skip76
+\ttl@plus=\dimen191
+\ttl@minus=\dimen192
+\ttl@toksa=\toks32
+\titlewidth=\dimen193
+\titlewidthlast=\dimen194
+\titlewidthfirst=\dimen195
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
+Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
+\RW=\skip77
+\mylen=\skip78
+\myhi=\skip79
+\px=\skip80
+\py=\skip81
+\pyy=\skip82
+\pxx=\skip83
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count316
+\Gm@cntv=\count317
+\c@Gm@tempcnt=\count318
+\Gm@bindingoffset=\dimen196
+\Gm@wd@mp=\dimen197
+\Gm@odd@mp=\dimen198
+\Gm@even@mp=\dimen199
+\Gm@layoutwidth=\dimen256
+\Gm@layoutheight=\dimen257
+\Gm@layouthoffset=\dimen258
+\Gm@layoutvoffset=\dimen259
+\Gm@dimlist=\toks33
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count319
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen260
+\Hy@linkcounter=\count320
+\Hy@pagecounter=\count321
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count322
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4066.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count323
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen261
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count324
+\Field@Width=\dimen262
+\Fld@charsize=\dimen263
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring ON on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+
+
+Package hyperref Warning: Option `pdfpagelabels' is turned off
+(hyperref)                because \thepage is undefined.
+
+\c@Item=\count325
+\c@Hfootnote=\count326
+)
+Package hyperref Info: Driver: hpdftex.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count327
+\c@bookmark@seq@number=\count328
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip84
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2026-05-21 v1.32 PDF bookmarks (HO)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count329
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+File: bkm-pdftex.def 2026-05-21 v1.32 bookmark driver for pdfTeX (HO)
+\BKM@id=\count330
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+))
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count331
+\calc@Bcount=\count332
+\calc@Adimen=\dimen264
+\calc@Bdimen=\dimen265
+\calc@Askip=\skip85
+\calc@Bskip=\skip86
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count333
+\calc@Cskip=\skip87
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
+\ESO@tempdima=\dimen266
+\ESO@tempdimb=\dimen267
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen268
+\Gin@req@width=\dimen269
+)
+\AM@pagewidth=\dimen270
+\AM@pageheight=\dimen271
+\AM@fboxrule=\dimen272
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2026/03/30 v0.6h Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count334
+\AM@pagebox=\box105
+\AM@global@opts=\toks34
+\AM@pagecnt=\count335
+\AM@toc@title=\toks35
+\AM@lof@heading=\toks36
+\c@AM@survey=\count336
+\AM@templatesizebox=\box106
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
+Package: nomencl 2021/11/10 v5.6 Nomenclature package
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
+Package: tocbasic 2026/02/02 v3.49.2 KOMA-Script package (handling toc-files)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hooks)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line 370.
+)
+\scr@dte@tocline@numberwidth=\skip88
+\scr@dte@tocline@numbox=\box107
+)
+Package tocbasic Info: setting babel extension for `nlo' on input line 187.
+Package tocbasic Info: setting babel extension for `nls' on input line 188.
+\nomlabelwidth=\dimen273
+\nom@tempdim=\dimen274
+\nomitemsep=\skip89
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2026-08-23 v3.5.6 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count337
+\l__siunitx_number_exponent_fixed_int=\count338
+\l__siunitx_number_min_decimal_int=\count339
+\l__siunitx_number_min_integer_int=\count340
+\l__siunitx_number_round_precision_int=\count341
+\l__siunitx_number_lower_threshold_int=\count342
+\l__siunitx_number_upper_threshold_int=\count343
+\l__siunitx_number_group_first_int=\count344
+\l__siunitx_number_group_size_int=\count345
+\l__siunitx_number_group_min_int=\count346
+\l__siunitx_number_group_minimum_int=\count347
+\l__siunitx_compound_count_int=\count348
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
+)
+\l__siunitx_table_tmp_box=\box108
+\l__siunitx_table_tmp_dim=\dimen275
+\l__siunitx_table_column_width_dim=\dimen276
+\l__siunitx_table_integer_box=\box109
+\l__siunitx_table_decimal_box=\box110
+\l__siunitx_table_uncert_box=\box111
+\l__siunitx_table_before_box=\box112
+\l__siunitx_table_after_box=\box113
+\l__siunitx_table_before_dim=\dimen277
+\l__siunitx_table_carry_dim=\dimen278
+\l__siunitx_unit_tmp_int=\count349
+\l__siunitx_unit_position_int=\count350
+\l__siunitx_unit_total_int=\count351
+\l__siunitx_sexagesimal_tmp_dim=\dimen279
+\l__siunitx_sexagesimal_marker_box=\box114
+\l__siunitx_sexagesimal_unit_box=\box115
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
+\AP@output=\toks37
+\AP@partial=\box116
+\AP@footins=\box117
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
+\everycr=\toks38
+\minrowclearance=\skip90
+\rownum=\count352
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count353
+\float@exts=\toks39
+\float@box=\box118
+\@float@everytoks=\toks40
+\@floatcapt=\box119
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip91
+\LTright=\skip92
+\LTpre=\skip93
+\LTpost=\skip94
+\LTchunksize=\count354
+\LTcapwidth=\dimen280
+\LT@head=\box120
+\LT@firsthead=\box121
+\LT@foot=\box122
+\LT@lastfoot=\box123
+\LT@gbox=\box124
+\LT@cols=\count355
+\LT@rows=\count356
+\c@LT@tables=\count357
+\c@LT@chunks=\count358
+\LT@p@ftn=\toks41
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip95
+\multirow@cntb=\count359
+\multirow@dima=\skip96
+\bigstrutjot=\dimen281
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
+\c@r@tfl@t=\count360
+\rotFPtop=\skip97
+\rotFPbot=\skip98
+\rot@float@box=\box125
+\rot@mess@toks=\toks42
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count361
+\lst@gtempboxa=\box126
+\lst@token=\toks43
+\lst@length=\count362
+\lst@currlwidth=\dimen282
+\lst@column=\count363
+\lst@pos=\count364
+\lst@lostspace=\dimen283
+\lst@width=\dimen284
+\lst@newlines=\count365
+\lst@lineno=\count366
+\lst@maxwidth=\dimen285
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count367
+\lst@skipnumbers=\count368
+\lst@framebox=\box127
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip99
+\subfigcapskip=\skip100
+\subfigcaptopadj=\dimen286
+\subfigbottomskip=\skip101
+\subfigcapmargin=\dimen287
+\subfiglabelskip=\skip102
+\c@subfigure=\count369
+\c@lofdepth=\count370
+\c@subtable=\count371
+\c@lotdepth=\count372
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+\subfig@top=\skip103
+\subfig@bottom=\skip104
+)
+\@indexfile=\write3
+\openout3 = `Principal.idx'.
+
+
+Writing index file Principal.idx
+\c@reconocimientos=\count373
+\c@teorema=\count374
+\c@definicion=\count375
+\c@ejemplo=\count376
+\c@axioma=\count377
+\c@caso=\count378
+\c@creditos=\count379
+\c@algoritmo=\count380
+\c@conclusion=\count381
+\c@observacion=\count382
+\c@condicion=\count383
+\c@conjectura=\count384
+\c@corolario=\count385
+\c@criterio=\count386
+\c@ejercicio=\count387
+\c@lema=\count388
+\c@metodo=\count389
+\c@notacion=\count390
+\c@problema=\count391
+\c@proposicion=\count392
+\c@comentario=\count393
+\c@solucion=\count394
+\c@resumen=\count395
+\@nomenclaturefile=\write4
+\openout4 = `Principal.nlo'.
+
+Package nomencl Info: Writing nomenclature file Principal.nlo on input line 438.
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+\CommentStream=\write5
+ Excluding comment 'comment') (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen288
+\TX@old@table=\dimen289
+\TX@old@col=\dimen290
+\TX@target=\dimen291
+\TX@delta=\dimen292
+\TX@cols=\count396
+\TX@ftn=\toks44
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen293
+\c@nlinenum=\count397
+\TeXr@lab=\toks45
+) (arduino_code.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks46
+\pgfutil@tempdima=\dimen294
+\pgfutil@tempdimb=\dimen295
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box128
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks47
+\pgfkeys@temptoks=\toks48
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks49
+))
+\pgf@x=\dimen296
+\pgf@y=\dimen297
+\pgf@xa=\dimen298
+\pgf@ya=\dimen299
+\pgf@xb=\dimen300
+\pgf@yb=\dimen301
+\pgf@xc=\dimen302
+\pgf@yc=\dimen303
+\pgf@xd=\dimen304
+\pgf@yd=\dimen305
+\w@pgf@writea=\write6
+\r@pgf@reada=\read3
+\c@pgf@counta=\count398
+\c@pgf@countb=\count399
+\c@pgf@countc=\count400
+\c@pgf@countd=\count401
+\t@pgf@toka=\toks50
+\t@pgf@tokb=\toks51
+\t@pgf@tokc=\toks52
+\pgf@sys@id@count=\count402
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count403
+\pgfsyssoftpath@bigbuffer@items=\count404
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen306
+\pgfmath@count=\count405
+\pgfmath@box=\box129
+\pgfmath@toks=\toks53
+\pgfmath@stack@operand=\toks54
+\pgfmath@stack@operation=\toks55
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count406
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen307
+\pgf@picmaxx=\dimen308
+\pgf@picminy=\dimen309
+\pgf@picmaxy=\dimen310
+\pgf@pathminx=\dimen311
+\pgf@pathmaxx=\dimen312
+\pgf@pathminy=\dimen313
+\pgf@pathmaxy=\dimen314
+\pgf@xx=\dimen315
+\pgf@xy=\dimen316
+\pgf@yx=\dimen317
+\pgf@yy=\dimen318
+\pgf@zx=\dimen319
+\pgf@zy=\dimen320
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen321
+\pgf@path@lasty=\dimen322
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen323
+\pgf@shorten@start@additional=\dimen324
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box130
+\pgf@hbox=\box131
+\pgf@layerbox@main=\box132
+\pgf@picture@serial@count=\count407
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen325
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen326
+\pgf@pt@y=\dimen327
+\pgf@pt@temp=\dimen328
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen329
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen330
+\pgf@sys@shading@range@num=\count408
+\pgf@shadingcount=\count409
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box133
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box134
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen331
+\pgf@nodesepend=\dimen332
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen333
+\pgffor@skip=\dimen334
+\pgffor@stack=\toks56
+\pgffor@toks=\toks57
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count410
+\pgfplotmarksize=\dimen335
+)
+\tikz@lastx=\dimen336
+\tikz@lasty=\dimen337
+\tikz@lastxsaved=\dimen338
+\tikz@lastysaved=\dimen339
+\tikz@lastmovetox=\dimen340
+\tikz@lastmovetoy=\dimen341
+\tikzleveldistance=\dimen342
+\tikzsiblingdistance=\dimen343
+\tikz@figbox=\box135
+\tikz@figbox@bg=\box136
+\tikz@tempbox=\box137
+\tikz@tempbox@bg=\box138
+\tikztreelevel=\count411
+\tikznumberofchildren=\count412
+\tikznumberofcurrentchild=\count413
+\tikz@fig@count=\count414
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count415
+\pgfmatrixcurrentcolumn=\count416
+\pgf@matrix@numberofcolumns=\count417
+)
+\tikz@expandcount=\count418
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks58
+\verbatim@line=\toks59
+\verbatim@in@stream=\read4
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+))
+\tcb@titlebox=\box139
+\tcb@upperbox=\box140
+\tcb@lowerbox=\box141
+\tcb@phantombox=\box142
+\c@tcbbreakpart=\count419
+\c@tcblayer=\count420
+\c@tcolorbox@number=\count421
+\l__tcobox_tmpa_box=\box143
+\l__tcobox_tmpa_dim=\dimen344
+\tcb@temp=\box144
+\tcb@temp=\box145
+\tcb@temp=\box146
+\tcb@temp=\box147
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+Library (tcolorbox): 'tcblistingscore.code.tex' version '6.9.0'
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
+)
+\c@tcblisting=\count422
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image.sty
+Package: tikzfill.image 2026/04/23 v1.2.0 Image filling library for TikZ
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+File: tikzlibraryfill.image.code.tex 2026/04/23 v1.2.0 Image filling library
+\l__tikzfill_tmpa_dim=\dimen345
+\l__tikzfill_tmpb_dim=\dimen346
+\l__tikzfill_img_box=\box148
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+)) (Principal.aux
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 13.
+ (preliminares/resumen.aux) (preliminares/abstract.aux) (capitulos/marcoreferencia.aux) (parts/2_Dis_sist/2_Dis_sis.aux) (parts/3_Imple/3.0_Implemetacion.aux
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:pagina_web' multiply defined.
+
+
+LaTeX Warning: Label `fg:tambo_antes' multiply defined.
+
+
+LaTeX Warning: Label `fg:adaptador_ventilador' multiply defined.
+
+
+LaTeX Warning: Label `fg:estructura elaborada' multiply defined.
+
+
+LaTeX Warning: Label `fg:estructura elaborada' multiply defined.
+
+
+LaTeX Warning: Label `fg:palas_dentro' multiply defined.
+
+
+LaTeX Warning: Label `fg:Filtro_olores' multiply defined.
+
+
+LaTeX Warning: Label `fg:Instalacion_triturac' multiply defined.
+
+
+LaTeX Warning: Label `fg:Sist_trans_ints' multiply defined.
+
+
+LaTeX Warning: Label `fg:Instal_contac' multiply defined.
+
+
+LaTeX Warning: Label `fg:sistema integrado' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+
+LaTeX Warning: Label `fg:1_obtenida' multiply defined.
+
+))
+\openout1 = `Principal.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 111.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 111.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
+File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
+)
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 111.
+LaTeX Font Info:    ... okay on input line 111.
+LaTeX Info: Redefining \. on input line 111.
+LaTeX Info: Redefining \% on input line 111.
+\c@mv@tabular=\count423
+\c@mv@boldtabular=\count424
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count425
+\scratchdimen=\dimen347
+\scratchbox=\box149
+\nofMPsegments=\count426
+\nofMParguments=\count427
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count428
+\MPscratchDim=\dimen348
+\MPnumerator=\count429
+\makeMPintoPDFobject=\count430
+\everyMPtoPDFconversion=\toks61
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(73.71613pt, 430.00462pt, 110.57425pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=483.69684pt
+* \textheight=654.41338pt
+* \oddsidemargin=56.9055pt
+* \evensidemargin=38.30426pt
+* \topmargin=0.0pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=7.0pt
+* \columnsep=0.0pt
+* \skip\footins=20.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=-56.9055pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 111.
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
+File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 111.
+\c@lstlisting=\count431
+Package tocbasic Info: setting babel extension for `lol' on input line 111.
+<logos/LOGOPOLI.png, id=6, 525.965pt x 778.91pt>
+File: logos/LOGOPOLI.png Graphic file (type png)
+<use logos/LOGOPOLI.png>
+Package pdftex.def Info: logos/LOGOPOLI.png  used on input line 117.
+(pdftex.def)             Requested size: 56.9055pt x 84.26602pt.
+<logos/logoupiita.pdf, id=8, 140.75786pt x 98.6061pt>
+File: logos/logoupiita.pdf Graphic file (type pdf)
+<use logos/logoupiita.pdf>
+Package pdftex.def Info: logos/logoupiita.pdf  used on input line 117.
+(pdftex.def)             Requested size: 56.9055pt x 39.86452pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 117.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 117.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 117.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
+LaTeX Font Info:    Trying to load font information for T1+Montserrat-TLF on input line 117.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\t1montserrat-tlf.fd
+File: T1Montserrat-TLF.fd 2019/11/07 (autoinst) Font definitions for T1/Montserrat-TLF.
+)
+
+LaTeX Font Warning: Font shape `T1/Montserrat-TLF/sbx/n' undefined
+(Font)              using `T1/Montserrat-TLF/bx/n' instead on input line 117.
+
+LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/Montserrat-TLF/b/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `T1/Montserrat-TLF/b/n' aliased to
+(Font)              `T1/Montserrat-TLF/bold/n' on input line 117.
+LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bold/n' will be
+(Font)              scaled to size 20.74pt on input line 117.
+
+LaTeX Font Warning: Font shape `T1/Montserrat-TLF/sbx/n' undefined
+(Font)              using `T1/Montserrat-TLF/bx/n' instead on input line 117.
+
+LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/Montserrat-TLF/b/n' tried instead on input line 117.
+LaTeX Font Info:    Font shape `T1/Montserrat-TLF/b/n' aliased to
+(Font)              `T1/Montserrat-TLF/bold/n' on input line 117.
+LaTeX Font Info:    Font shape `T1/Montserrat-TLF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 117.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1
+
+{C:/Users/Dan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/montserrat/zmo_bapnwu.enc} <./logos/LOGOPOLI.png> <./logos/logoupiita.pdf>]
+File: logos/LOGOPOLI.png Graphic file (type png)
+<use logos/LOGOPOLI.png>
+Package pdftex.def Info: logos/LOGOPOLI.png  used on input line 118.
+(pdftex.def)             Requested size: 56.9055pt x 84.26602pt.
+File: logos/logoupiita.pdf Graphic file (type pdf)
+<use logos/logoupiita.pdf>
+Package pdftex.def Info: logos/logoupiita.pdf  used on input line 118.
+(pdftex.def)             Requested size: 56.9055pt x 39.86452pt.
+
+
+LaTeX Font Warning: Font shape `T1/Montserrat-TLF/sbx/n' undefined
+(Font)              using `T1/Montserrat-TLF/bx/n' instead on input line 118.
+
+
+LaTeX Font Warning: Font shape `T1/Montserrat-TLF/sbx/n' undefined
+(Font)              using `T1/Montserrat-TLF/bx/n' instead on input line 118.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.118 \acta
+                                %% Portada con firmas [1
+
+]
+Overfull \vbox (59.80887pt too high) has occurred while \output is active []
+
+ [2]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: includehead includefoot twoside 
+* h-part:(L,W,R)=(56.9055pt, 443.57849pt, 85.35826pt)
+* v-part:(T,H,B)=(42.67912pt, 682.8661pt, 69.42476pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=443.57849pt
+* \textheight=569.05511pt
+* \oddsidemargin=13.08826pt
+* \evensidemargin=13.08827pt
+* \topmargin=-29.59087pt
+* \headheight=42.67912pt
+* \headsep=28.45274pt
+* \topskip=11.0pt
+* \footskip=42.67912pt
+* \marginparwidth=2.84544pt
+* \marginparsep=2.84544pt
+* \columnsep=0.0pt
+* \skip\footins=20.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 \dedicatoria
+                                %%%modificar archivo dedica.tex [1
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for T1+Montserrat-LF on input line 119.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\t1montserrat-lf.fd
+File: T1Montserrat-LF.fd 2019/11/07 (autoinst) Font definitions for T1/Montserrat-LF.
+)
+LaTeX Font Info:    Font shape `T1/Montserrat-LF/bold/n' will be
+(Font)              scaled to size 20.74pt on input line 119.
+ (preliminares/dedicatoria.tex)
+pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.119 \dedicatoria
+                                %%%modificar archivo dedica.tex [2
+
+{C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/montserrat/zmo_umrhwx.enc}]
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.120 \agradecimientos
+                                %%%modificar archivo agradece.tex [1
+
+
+
+] (preliminares/agradecimientos.tex [7
+
+] [8
+
+]
+LaTeX Font Info:    Font shape `T1/Montserrat-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+ [9
+
+]) [10] (Principal.toc
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.69435pt too wide) detected at line 8
+ []\T1/cmr/m/n/10.95 xxiii
+ []
+
+
+Overfull \hbox (3.69435pt too wide) detected at line 9
+ []\T1/cmr/m/n/10.95 xxiii
+ []
+
+
+Overfull \hbox (6.41441pt too wide) detected at line 10
+ []\T1/cmr/m/n/10.95 xxvii
+ []
+
+
+Overfull \hbox (9.4405pt too wide) detected at line 11
+ []\T1/cmr/m/n/10.95 xxviii
+ []
+
+
+Overfull \hbox (9.4405pt too wide) detected at line 12
+ []\T1/cmr/m/n/10.95 xxxiii
+ []
+
+
+Overfull \hbox (9.13448pt too wide) detected at line 13
+ []\T1/cmr/m/n/10.95 xxxvi
+ []
+
+
+Overfull \hbox (15.18666pt too wide) detected at line 14
+ []\T1/cmr/m/n/10.95 xxxviii
+ []
+
+[11
+
+
+
+]
+Overfull \hbox (0.97429pt too wide) detected at line 17
+ []\T1/cmr/m/n/10.95 xliii
+ []
+
+
+Overfull \hbox (0.97429pt too wide) detected at line 19
+ []\T1/cmr/m/n/10.95 lviii
+ []
+
+
+Overfull \hbox (0.97429pt too wide) detected at line 20
+ []\T1/cmr/m/n/10.95 lxiii
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 21
+ []\T1/cmr/m/n/10.95 lxix
+ []
+
+
+Overfull \hbox (3.38832pt too wide) detected at line 22
+ []\T1/cmr/m/n/10.95 lxxx
+ []
+
+
+Overfull \hbox (12.16057pt too wide) detected at line 23
+ []\T1/cmr/m/n/10.95 lxxxiv
+ []
+
+)
+\tf@toc=\write7
+\openout7 = `Principal.toc'.
+
+LaTeX Font Info:    Font shape `T1/Montserrat-LF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 122.
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+Package babel Info: 'spanish' activates 'spanish' shorthands.
+(babel)             Reported on input line 122.
+LaTeX Font Info:    Trying to load font information for U+futs on input line 122.
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fourier\ufuts.fd
+File: ufuts.fd 2024/07/22 Fontinst v1.933 font definitions for U/futs.
+) [12]
+\openout2 = `preliminares/resumen.aux'.
+
+ (preliminares/resumen.tex [13
+
+
+
+])
+LaTeX Info: Redefining \. on input line 122.
+LaTeX Info: Redefining \% on input line 122.
+ [14]
+\openout2 = `preliminares/abstract.aux'.
+
+ (preliminares/abstract.tex [15
+
+
+
+
+
+])
+LaTeX Info: Redefining \. on input line 123.
+LaTeX Info: Redefining \% on input line 123.
+ [16] (Principal.lof
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (6.41441pt too wide) detected at line 6
+ []\T1/cmr/m/n/10.95 xxvii
+ []
+
+
+Overfull \hbox (3.38832pt too wide) detected at line 7
+ []\T1/cmr/m/n/10.95 xxxi
+ []
+
+
+Overfull \hbox (6.41441pt too wide) detected at line 8
+ []\T1/cmr/m/n/10.95 xxxii
+ []
+
+
+Overfull \hbox (9.4405pt too wide) detected at line 9
+ []\T1/cmr/m/n/10.95 xxxiii
+ []
+
+
+Overfull \hbox (9.13448pt too wide) detected at line 10
+ []\T1/cmr/m/n/10.95 xxxvi
+ []
+
+
+Overfull \hbox (15.18666pt too wide) detected at line 11
+ []\T1/cmr/m/n/10.95 xxxviii
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 14
+ []\T1/cmr/m/n/10.95 xliv
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 15
+ []\T1/cmr/m/n/10.95 xliv
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 19
+ []\T1/cmr/m/n/10.95 xlvi
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 20
+ []\T1/cmr/m/n/10.95 xlvi
+ []
+
+
+Overfull \hbox (3.69435pt too wide) detected at line 21
+ []\T1/cmr/m/n/10.95 xlvii
+ []
+
+
+Overfull \hbox (3.69435pt too wide) detected at line 22
+ []\T1/cmr/m/n/10.95 xlvii
+ []
+
+[17
+
+
+
+
+]
+Overfull \hbox (3.69435pt too wide) detected at line 23
+ []\T1/cmr/m/n/10.95 xlvii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 24
+ []\T1/cmr/m/n/10.95 xlviii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 25
+ []\T1/cmr/m/n/10.95 xlviii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 26
+ []\T1/cmr/m/n/10.95 xlviii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 27
+ []\T1/cmr/m/n/10.95 xlviii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 28
+ []\T1/cmr/m/n/10.95 xlviii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 29
+ []\T1/cmr/m/n/10.95 xlviii
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 39
+ []\T1/cmr/m/n/10.95 lxvi
+ []
+
+
+Overfull \hbox (3.69435pt too wide) detected at line 40
+ []\T1/cmr/m/n/10.95 lxvii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 41
+ []\T1/cmr/m/n/10.95 lxviii
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 42
+ []\T1/cmr/m/n/10.95 lxix
+ []
+
+
+Overfull \hbox (0.66826pt too wide) detected at line 45
+ []\T1/cmr/m/n/10.95 lxxi
+ []
+
+
+Overfull \hbox (3.69435pt too wide) detected at line 46
+ []\T1/cmr/m/n/10.95 lxxii
+ []
+
+
+Overfull \hbox (3.69435pt too wide) detected at line 47
+ []\T1/cmr/m/n/10.95 lxxii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 48
+ []\T1/cmr/m/n/10.95 lxxiii
+ []
+
+
+Overfull \hbox (6.72044pt too wide) detected at line 49
+ []\T1/cmr/m/n/10.95 lxxiii
+ []
+
+
+Overfull \hbox (6.41441pt too wide) detected at line 50
+ []\T1/cmr/m/n/10.95 lxxiv
+ []
+
+LaTeX Info: Redefining \. on input line 51.
+LaTeX Info: Redefining \% on input line 51.
+[18]
+Overfull \hbox (6.41441pt too wide) detected at line 51
+ []\T1/cmr/m/n/10.95 lxxiv
+ []
+
+
+Overfull \hbox (3.38832pt too wide) detected at line 52
+ []\T1/cmr/m/n/10.95 lxxv
+ []
+
+
+Overfull \hbox (6.41441pt too wide) detected at line 53
+ []\T1/cmr/m/n/10.95 lxxvi
+ []
+
+
+Overfull \hbox (9.4405pt too wide) detected at line 54
+ []\T1/cmr/m/n/10.95 lxxvii
+ []
+
+
+Overfull \hbox (9.4405pt too wide) detected at line 55
+ []\T1/cmr/m/n/10.95 lxxvii
+ []
+
+
+Overfull \hbox (12.4666pt too wide) detected at line 56
+ []\T1/cmr/m/n/10.95 lxxviii
+ []
+
+
+Overfull \hbox (6.41441pt too wide) detected at line 57
+ []\T1/cmr/m/n/10.95 lxxix
+ []
+
+
+Overfull \hbox (3.38832pt too wide) detected at line 58
+ []\T1/cmr/m/n/10.95 lxxx
+ []
+
+
+Overfull \hbox (6.41441pt too wide) detected at line 59
+ []\T1/cmr/m/n/10.95 lxxxi
+ []
+
+
+Overfull \hbox (9.4405pt too wide) detected at line 60
+ []\T1/cmr/m/n/10.95 lxxxii
+ []
+
+
+Overfull \hbox (12.16057pt too wide) detected at line 61
+ []\T1/cmr/m/n/10.95 lxxxiv
+ []
+
+
+Overfull \hbox (9.13448pt too wide) detected at line 62
+ []\T1/cmr/m/n/10.95 lxxxv
+ []
+
+
+Overfull \hbox (12.16057pt too wide) detected at line 63
+ []\T1/cmr/m/n/10.95 lxxxvi
+ []
+
+
+Overfull \hbox (15.18666pt too wide) detected at line 64
+ []\T1/cmr/m/n/10.95 lxxxvii
+ []
+
+
+Overfull \hbox (18.21275pt too wide) detected at line 65
+ []\T1/cmr/m/n/10.95 lxxxviii
+ []
+
+
+Overfull \hbox (12.16057pt too wide) detected at line 66
+ []\T1/cmr/m/n/10.95 lxxxix
+ []
+
+
+Overfull \hbox (2.78766pt too wide) detected at line 70
+ []\T1/cmr/m/n/10.95 xciii
+ []
+
+
+Overfull \hbox (2.48163pt too wide) detected at line 71
+ []\T1/cmr/m/n/10.95 xciv
+ []
+
+
+Overfull \hbox (2.48163pt too wide) detected at line 73
+ []\T1/cmr/m/n/10.95 xcvi
+ []
+
+
+Overfull \hbox (5.50772pt too wide) detected at line 74
+ []\T1/cmr/m/n/10.95 xcvii
+ []
+
+
+Overfull \hbox (8.53381pt too wide) detected at line 75
+ []\T1/cmr/m/n/10.95 xcviii
+ []
+
+
+Overfull \hbox (2.48163pt too wide) detected at line 76
+ []\T1/cmr/m/n/10.95 xcix
+ []
+
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
+[19])
+\tf@lof=\write8
+\openout8 = `Principal.lof'.
+
+LaTeX Info: Redefining \. on input line 124.
+LaTeX Info: Redefining \% on input line 124.
+ [20] (Principal.lot
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+
+Overfull \hbox (3.38832pt too wide) detected at line 6
+ []\T1/cmr/m/n/10.95 xxiv
+ []
+
+
+Overfull \hbox (0.36223pt too wide) detected at line 7
+ []\T1/cmr/m/n/10.95 xxv
+ []
+
+
+Overfull \hbox (12.16057pt too wide) detected at line 8
+ []\T1/cmr/m/n/10.95 xxxvii
+ []
+
+
+Overfull \hbox (9.13448pt too wide) detected at line 9
+ []\T1/cmr/m/n/10.95 xxxix
+ []
+
+
+Overfull \hbox (0.97429pt too wide) detected at line 12
+ []\T1/cmr/m/n/10.95 lviii
+ []
+
+)
+\tf@lot=\write9
+\openout9 = `Principal.lot'.
+
+ [21
+
+
+
+
+] [22
+
+]
+\openout2 = `capitulos/marcoreferencia.aux'.
+
+ (capitulos/marcoreferencia.tex)
+\openout2 = `parts/2_Dis_sist/2_Dis_sis.aux'.
+
+ (parts/2_Dis_sist/2_Dis_sis.tex (parts/2_Dis_sist/2.1 Diseño conceptual/2.1 Diseño Conceptual.tex (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.1 Necesidades y requerimientos.tex
+LaTeX Font Info:    Font shape `T1/Montserrat-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 1.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[23
+
+
+
+
+
+
+]
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [24
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.30 \clearpage
+               ]
+
+LaTeX Warning: Float too large for page by 8.38853pt on input line 55.
+
+LaTeX Info: Redefining \. on input line 57.
+LaTeX Info: Redefining \% on input line 57.
+[25
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.57 \clearpage
+               ]
+LaTeX Info: Redefining \. on input line 61.
+LaTeX Info: Redefining \% on input line 61.
+ [26
+
+
+]) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.2 Principio de funcionamiento.tex
+<images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png, id=383, 1168.8468pt x 1013.7072pt>
+File: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png Graphic file (type png)
+<use images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png>
+Package pdftex.def Info: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png  used on input line 9.
+(pdftex.def)             Requested size: 292.21098pt x 253.42618pt.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
+ [27
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.20 D
+      entro del recipiente de almacenaje, se realizará la etapa de control,... <./images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png>]) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.3 Arquitectura funcional.tex
+
+LaTeX Warning: Reference `Ap:IDEF0' on page xxviii undefined on input line 2.
+
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+[28]
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
+ [29]
+<images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png, id=401, 1579.9025pt x 1241.63875pt>
+File: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png Graphic file (type png)
+<use images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>
+Package pdftex.def Info: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png  used on input line 62.
+(pdftex.def)             Requested size: 473.97441pt x 372.4945pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+[30]
+<images/Capitulo 6 Apéndices/01 IDEF 0/General.png, id=406, 1541.2782pt x 1176.0738pt>
+File: images/Capitulo 6 Apéndices/01 IDEF 0/General.png Graphic file (type png)
+<use images/Capitulo 6 Apéndices/01 IDEF 0/General.png>
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/General.png  used on input line 71.
+(pdftex.def)             Requested size: 308.25018pt x 235.21059pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+ [31
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.78 
+      <./images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>]
+<images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png, id=414, 1593.45313pt x 1213.53375pt>
+File: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png Graphic file (type png)
+<use images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png>
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used on input line 81.
+(pdftex.def)             Requested size: 318.68498pt x 242.70245pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \vbox (badness 3989) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+ [32
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.89 
+      <./images/Capitulo 6 Apéndices/01 IDEF 0/General.png>]) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.4 Arquitectura fisica.tex
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [33
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.5 
+     <./images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png>]
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [34]
+<images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png, id=433, 2176.60236pt x 1287.3696pt>
+File: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png Graphic file (type png)
+<use images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png>
+Package pdftex.def Info: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png  used on input line 24.
+(pdftex.def)             Requested size: 435.31276pt x 257.46936pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+[35]) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.5 Propuestas solucion.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 5.
+LaTeX Info: Redefining \% on input line 5.
+ [36
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.5 D
+     entro de ella se trazan diversas rutas de diseño a través de las cual... <./images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png>]
+
+LaTeX Warning: Reference `Ap:Mat_Morfo' on page xxxvii undefined on input line 7.
+
+<images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png, id=445, 1181.41376pt x 566.115pt>
+File: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png Graphic file (type png)
+<use images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png>
+Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png  used on input line 36.
+(pdftex.def)             Requested size: 295.3527pt x 141.5284pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.6 Validacion Concepto Solucion.tex
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [37
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.4 
+    ]
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [38
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.17     \item P
+                ortabilidad <./images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png>]
+
+LaTeX Warning: Reference `Ap:Crit' on page xxxix undefined on input line 23.
+
+
+LaTeX Warning: Reference `Ap:AHPMat' on page xxxix undefined on input line 48.
+
+) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.7 Seleccion de diseno conceptual.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [39
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.1 \subsection{Selección de diseño conceptual}
+                                                 ]
+<images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png, id=463, 566.115pt x 611.28375pt>
+File: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png Graphic file (type png)
+<use images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png>
+Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png  used on input line 45.
+(pdftex.def)             Requested size: 226.44199pt x 244.50917pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+)
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [40
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.17 \newpage
+             ]))
+LaTeX Info: Redefining \. on input line 167.
+LaTeX Info: Redefining \% on input line 167.
+ [41
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.167 \include{parts/2_Dis_sist/2_Dis_sis}
+                                           <./images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png (PNG copy)>]
+\openout2 = `parts/3_Imple/3.0_Implemetacion.aux'.
+
+ (parts/3_Imple/3.0_Implemetacion.tex [42
+
+
+
+
+] (parts/3_Imple/3.1 Sistema 1/3.1.0 Sistema 1.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+(parts/3_Imple/3.1 Sistema 1/3.1.1 Implementacion.tex
+
+LaTeX Warning: Reference `Ap:Codigo_completo' on page xliii undefined on input line 5.
+
+[43
+
+]
+<images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg, id=484, 2900.8375pt x 1132.23pt>
+File: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg  used on input line 21.
+(pdftex.def)             Requested size: 290.10074pt x 113.22963pt.
+<images/Capitulo_Imple/S1/interfaz/botones_int.jpeg, id=485, 1497.595pt x 1606.0pt>
+File: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg  used on input line 28.
+(pdftex.def)             Requested size: 149.76826pt x 160.6094pt.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [44
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.33 \clearpage
+               
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.33 \clearpage
+                <./images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg> <./images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>]
+<images/Capitulo_Imple/S1/interfaz/menu.jpeg, id=493, 3011.25pt x 1893.0725pt>
+File: images/Capitulo_Imple/S1/interfaz/menu.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S1/interfaz/menu.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/menu.jpeg  used on input line 38.
+(pdftex.def)             Requested size: 167.11256pt x 105.05809pt.
+<images/Capitulo_Imple/S1/interfaz/tiempo.jpeg, id=494, 3011.25pt x 1730.465pt>
+File: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S1/interfaz/tiempo.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg  used on input line 45.
+(pdftex.def)             Requested size: 167.11256pt x 96.03401pt.
+<images/Capitulo_Imple/S1/interfaz/proceso.jpeg, id=495, 3011.25pt x 1734.48pt>
+File: images/Capitulo_Imple/S1/interfaz/proceso.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S1/interfaz/proceso.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/proceso.jpeg  used on input line 52.
+(pdftex.def)             Requested size: 167.11256pt x 96.25684pt.
+<images/Web/pagina_compostador.png, id=496, 1425.07407pt x 669.2503pt>
+File: images/Web/pagina_compostador.png Graphic file (type png)
+<use images/Web/pagina_compostador.png>
+Package pdftex.def Info: images/Web/pagina_compostador.png  used on input line 62.
+(pdftex.def)             Requested size: 142.51575pt x 66.92894pt.
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+ [45
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.68 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.68 
+     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.12}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.68 
+      <./images/Capitulo_Imple/S1/interfaz/menu.jpeg> <./images/Capitulo_Imple/S1/interfaz/tiempo.jpeg> <./images/Capitulo_Imple/S1/interfaz/proceso.jpeg>]
+<images/Web/temp_hum_web.png, id=502, 1156.32pt x 324.46219pt>
+File: images/Web/temp_hum_web.png Graphic file (type png)
+<use images/Web/temp_hum_web.png>
+Package pdftex.def Info: images/Web/temp_hum_web.png  used on input line 71.
+(pdftex.def)             Requested size: 115.63876pt x 32.4481pt.
+<images/Web/indicador.png, id=503, 272.51813pt x 130.23656pt>
+File: images/Web/indicador.png Graphic file (type png)
+<use images/Web/indicador.png>
+Package pdftex.def Info: images/Web/indicador.png  used on input line 80.
+(pdftex.def)             Requested size: 27.2534pt x 13.02441pt.
+LaTeX Info: Redefining \. on input line 84.
+LaTeX Info: Redefining \% on input line 84.
+ [46
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.13}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.84         \end{figure}
+                         
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.14}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.84         \end{figure}
+                          <./images/Web/pagina_compostador.png> <./images/Web/temp_hum_web.png>]
+<images/Web/indicador_temp.png, id=509, 268.75406pt x 124.96687pt>
+File: images/Web/indicador_temp.png Graphic file (type png)
+<use images/Web/indicador_temp.png>
+Package pdftex.def Info: images/Web/indicador_temp.png  used on input line 87.
+(pdftex.def)             Requested size: 26.87697pt x 12.4974pt.
+<images/Web/error_ds18.png, id=510, 568.37344pt x 337.26pt>
+File: images/Web/error_ds18.png Graphic file (type png)
+<use images/Web/error_ds18.png>
+Package pdftex.def Info: images/Web/error_ds18.png  used on input line 95.
+(pdftex.def)             Requested size: 56.84067pt x 33.72797pt.
+<images/Web/dht11_web.png, id=511, 564.60938pt x 328.97906pt>
+File: images/Web/dht11_web.png Graphic file (type png)
+<use images/Web/dht11_web.png>
+Package pdftex.def Info: images/Web/dht11_web.png  used on input line 103.
+(pdftex.def)             Requested size: 56.46423pt x 32.89983pt.
+<images/Web/ventilador_web.png, id=512, 270.25969pt x 127.97812pt>
+File: images/Web/ventilador_web.png Graphic file (type png)
+<use images/Web/ventilador_web.png>
+Package pdftex.def Info: images/Web/ventilador_web.png  used on input line 111.
+(pdftex.def)             Requested size: 27.02754pt x 12.79855pt.
+<images/Web/motor_web.png, id=513, 269.50688pt x 123.46124pt>
+File: images/Web/motor_web.png Graphic file (type png)
+<use images/Web/motor_web.png>
+Package pdftex.def Info: images/Web/motor_web.png  used on input line 118.
+(pdftex.def)             Requested size: 26.95226pt x 12.34683pt.
+<images/Web/resistencia_web.png, id=514, 268.75406pt x 124.96687pt>
+File: images/Web/resistencia_web.png Graphic file (type png)
+<use images/Web/resistencia_web.png>
+Package pdftex.def Info: images/Web/resistencia_web.png  used on input line 125.
+(pdftex.def)             Requested size: 26.87697pt x 12.4974pt.
+<images/Web/temporizador_web.png, id=515, 271.0125pt x 126.4725pt>
+File: images/Web/temporizador_web.png Graphic file (type png)
+<use images/Web/temporizador_web.png>
+Package pdftex.def Info: images/Web/temporizador_web.png  used on input line 133.
+(pdftex.def)             Requested size: 27.10283pt x 12.64798pt.
+<images/Web/Db_compostador.png, id=516, 1041.8925pt x 553.31718pt>
+File: images/Web/Db_compostador.png Graphic file (type png)
+<use images/Web/Db_compostador.png>
+Package pdftex.def Info: images/Web/Db_compostador.png  used on input line 140.
+(pdftex.def)             Requested size: 104.19534pt x 55.33495pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+[47
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.15}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.16}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.17}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                 <./images/Web/indicador.png> <./images/Web/indicador_temp.png> <./images/Web/error_ds18.png>]
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+ [48
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.18}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.19}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.20}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.21}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.22}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.23}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.145 \clearpage
+                 <./images/Web/dht11_web.png> <./images/Web/ventilador_web.png> <./images/Web/motor_web.png> <./images/Web/resistencia_web.png> <./images/Web/temporizador_web.png> <./images/Web/Db_compostador.png>]) (parts/3_Imple/3.1 Sistema 1/3.1.2 Verificacion.tex
+<images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg, id=526, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg  used on input line 9.
+(pdftex.def)             Requested size: 277.02917pt x 369.37224pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+[49
+
+]
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [50
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.24}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.14 \clearpage
+                <./images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>]
+<images/Pruebas/Pruebas_S1/mostrar_datos.jpeg, id=537, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg  used on input line 20.
+(pdftex.def)             Requested size: 301.12427pt x 401.49902pt.
+LaTeX Info: Redefining \. on input line 25.
+LaTeX Info: Redefining \% on input line 25.
+ [51
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.25}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.25 \clearpage
+                <./images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>]
+<images/Pruebas/Pruebas_S1/fermentacion.jpeg, id=544, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_S1/fermentacion.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_S1/fermentacion.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_S1/fermentacion.jpeg  used on input line 31.
+(pdftex.def)             Requested size: 301.12427pt x 401.49902pt.
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+ [52
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.26}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.35 \clearpage
+                <./images/Pruebas/Pruebas_S1/fermentacion.jpeg>]
+<images/Pruebas/Pruebas_S1/elevando_temp.jpeg, id=549, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_S1/elevando_temp.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_S1/elevando_temp.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_S1/elevando_temp.jpeg  used on input line 39.
+(pdftex.def)             Requested size: 301.12427pt x 401.49902pt.
+LaTeX Info: Redefining \. on input line 44.
+LaTeX Info: Redefining \% on input line 44.
+ [53
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.27}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.44 \clearpage
+                <./images/Pruebas/Pruebas_S1/elevando_temp.jpeg>]
+<images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg, id=555, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg  used on input line 50.
+(pdftex.def)             Requested size: 301.12427pt x 401.49902pt.
+LaTeX Info: Redefining \. on input line 56.
+LaTeX Info: Redefining \% on input line 56.
+ [54
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.28}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.56 \clearpage
+                <./images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg>])) (parts/3_Imple/3.2 Sistema 2/3.2.0 Sistema 2.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+(parts/3_Imple/3.2 Sistema 2/3.2.1 Implemetacion.tex
+<images/Capitulo_Imple/S2/CTO_SEN.jpeg, id=561, 4015.0pt x 3011.25pt>
+File: images/Capitulo_Imple/S2/CTO_SEN.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S2/CTO_SEN.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S2/CTO_SEN.jpeg  used on input line 7.
+(pdftex.def)             Requested size: 401.52353pt x 301.14264pt.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [55
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.29}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.11 \clearpage
+                <./images/Capitulo_Imple/S2/CTO_SEN.jpeg>]
+<images/Capitulo_Imple/S2/DHT11_FIS.jpeg, id=568, 1327.96124pt x 1606.0pt>
+File: images/Capitulo_Imple/S2/DHT11_FIS.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S2/DHT11_FIS.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S2/DHT11_FIS.jpeg  used on input line 17.
+(pdftex.def)             Requested size: 132.8039pt x 160.6094pt.
+<images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg, id=570, 2938.98pt x 2830.575pt>
+File: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg  used on input line 26.
+(pdftex.def)             Requested size: 440.82799pt x 424.56793pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+[56
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.30}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.30 \clearpage
+                <./images/Capitulo_Imple/S2/DHT11_FIS.jpeg>]
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [57
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.31}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.30 \clearpage
+                <./images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg>])) (parts/3_Imple/3.3 Sistema 3/3.3.0 Sistema 3.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+(parts/3_Imple/3.3 Sistema 3/3.3.1 Implementacion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|\T1/cmr/m/n/10.95 Potencia Ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\T1/cmr/m/n/10.95 ti-va no-mi-nal
+ []
+
+
+Underfull \hbox (badness 3536) in paragraph at lines 17--17
+[]|\T1/cmr/m/n/10.95 Potencia apa-
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 19--19
+[]|\T1/cmr/m/n/10.95 Motor de ai-
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 20--20
+[]|\T1/cmr/m/n/10.95 Circuito elec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
+[]|\T1/cmr/m/n/10.95 Resistencia
+ []
+
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+[58
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.30 
+     
+
+]
+LaTeX Info: Redefining \. on input line 67.
+LaTeX Info: Redefining \% on input line 67.
+ [59
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.67 
+     ]
+LaTeX Info: Redefining \. on input line 112.
+LaTeX Info: Redefining \% on input line 112.
+ [60
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.112 \end{equation*}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.9}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.112 \end{equation*}
+                     ]
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]|\T1/cmr/m/n/10.95 Potencia ac-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+\T1/cmr/m/n/10.95 ti-va no-mi-nal
+ []
+
+
+Underfull \hbox (badness 3219) in paragraph at lines 149--149
+[]|\T1/cmr/m/n/10.95 Motor de ai-
+ []
+
+
+Underfull \hbox (badness 7379) in paragraph at lines 150--150
+[]|\T1/cmr/m/n/10.95 Circuito elec-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]|\T1/cmr/m/n/10.95 Resistencia
+ []
+
+LaTeX Info: Redefining \. on input line 167.
+LaTeX Info: Redefining \% on input line 167.
+[61
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.10}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.167 \clearpage
+                ]
+LaTeX Info: Redefining \. on input line 167.
+LaTeX Info: Redefining \% on input line 167.
+ [62
+pdfTeX warning (ext4): destination with the same identifier (name{table.0.11}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.167 \clearpage
+                ])) (parts/3_Imple/3.4 Sistema 4/3.4.0 Sistema 4.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+(parts/3_Imple/3.4 Sistema 4/3.4.1 Implementacion.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+[63
+
+]
+<images/Capitulo_Imple/S4/trituracion.jpeg, id=613, 903.375pt x 1606.0pt>
+File: images/Capitulo_Imple/S4/trituracion.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S4/trituracion.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S4/trituracion.jpeg  used on input line 24.
+(pdftex.def)             Requested size: 271.01459pt x 481.80373pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+[64
+
+]
+LaTeX Info: Redefining \. on input line 29.
+LaTeX Info: Redefining \% on input line 29.
+ [65
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.32}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.29 \clearpage
+                <./images/Capitulo_Imple/S4/trituracion.jpeg>]) (parts/3_Imple/3.4 Sistema 4/3.4.2 Verificacion.tex
+<images/Capitulo_Imple/S7/atorado.jpeg, id=623, 1204.5pt x 1606.0pt>
+File: images/Capitulo_Imple/S7/atorado.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/atorado.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/atorado.jpeg  used on input line 11.
+(pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [66
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.33}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.17 
+      <./images/Capitulo_Imple/S7/atorado.jpeg>]
+<images/Capitulo_Imple/S7/triturado.jpeg, id=629, 4015.0pt x 3011.25pt>
+File: images/Capitulo_Imple/S7/triturado.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/triturado.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/triturado.jpeg  used on input line 30.
+(pdftex.def)             Requested size: 293.08644pt x 219.81483pt.
+LaTeX Info: Redefining \. on input line 35.
+LaTeX Info: Redefining \% on input line 35.
+ [67
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.34}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.35  \clearpage
+                 <./images/Capitulo_Imple/S7/triturado.jpeg>]
+<images/Pruebas/Pruebas_S4/cono_excentrico.jpg, id=635, 418.56375pt x 395.97937pt>
+File: images/Pruebas/Pruebas_S4/cono_excentrico.jpg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_S4/cono_excentrico.jpg>
+Package pdftex.def Info: images/Pruebas/Pruebas_S4/cono_excentrico.jpg  used on input line 44.
+(pdftex.def)             Requested size: 292.99261pt x 277.18367pt.
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [68
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.35}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.49 \clearpage
+                <./images/Pruebas/Pruebas_S4/cono_excentrico.jpg>])) (parts/3_Imple/3.5 Sistema 5/3.5.0 Sistema 5.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 2.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 2.
+
+(parts/3_Imple/3.5 Sistema 5/3.5.1 Implementacion.tex
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg, id=640, 1204.5pt x 1606.0pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg Graphic file (type jpg)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg  used on input line 12.
+(pdftex.def)             Requested size: 204.76228pt x 273.01639pt.
+LaTeX Info: Redefining \. on input line 17.
+LaTeX Info: Redefining \% on input line 17.
+ [69
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.36}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.17 \newpage
+              <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg>]
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg, id=645, 677.53125pt x 950.80219pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg Graphic file (type jpg)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg  used on input line 20.
+(pdftex.def)             Requested size: 121.95036pt x 171.13701pt.
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg, id=646, 1606.0pt x 903.375pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg Graphic file (type jpg)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg  used on input line 29.
+(pdftex.def)             Requested size: 321.19432pt x 180.6718pt.
+LaTeX Info: Redefining \. on input line 33.
+LaTeX Info: Redefining \% on input line 33.
+ [70
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.37}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.33         \newpage
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.38}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.33         \newpage
+                      <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>]
+<images/Capitulo_Imple/S5/Actuadores/calentador.png, id=652, 659.46375pt x 538.01pt>
+File: images/Capitulo_Imple/S5/Actuadores/calentador.png Graphic file (type png)
+<use images/Capitulo_Imple/S5/Actuadores/calentador.png>
+Package pdftex.def Info: images/Capitulo_Imple/S5/Actuadores/calentador.png  used on input line 42.
+(pdftex.def)             Requested size: 131.89041pt x 107.60008pt.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 46.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 46.
+
+Missing character: There is no � in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 48.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 48.
+
+Missing character: There is no � in font cmr10!
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png, id=653, 548.80031pt x 441.90094pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png Graphic file (type png)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png  used on input line 57.
+(pdftex.def)             Requested size: 192.08298pt x 154.66763pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png, id=654, 595.47469pt x 482.55281pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png Graphic file (type png)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png  used on input line 66.
+(pdftex.def)             Requested size: 190.55579pt x 154.42004pt.
+LaTeX Info: Redefining \. on input line 69.
+LaTeX Info: Redefining \% on input line 69.
+[71
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.39}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.69  \end{figure}
+                   <./images/Capitulo_Imple/S5/Actuadores/calentador.png (PNG copy)>]
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [72
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.40}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70  \newpage
+              
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.41}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70  \newpage
+               <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>]
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg, id=663, 676.02562pt x 1005.7575pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg Graphic file (type jpg)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg  used on input line 74.
+(pdftex.def)             Requested size: 121.67935pt x 181.02853pt.
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg, id=664, 903.375pt x 1606.0pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg Graphic file (type jpg)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg  used on input line 83.
+(pdftex.def)             Requested size: 90.34279pt x 160.6094pt.
+LaTeX Info: Redefining \. on input line 88.
+LaTeX Info: Redefining \% on input line 88.
+ [73
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.42}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.88  \newpage
+              
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.43}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.88  \newpage
+               <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>]
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg, id=670, 903.375pt x 1606.0pt>
+File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg Graphic file (type jpg)
+<use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg>
+Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg  used on input line 91.
+(pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
+<images/Pruebas_S5/pieza_ventilador.jpg, id=671, 565.36218pt x 417.81094pt>
+File: images/Pruebas_S5/pieza_ventilador.jpg Graphic file (type jpg)
+<use images/Pruebas_S5/pieza_ventilador.jpg>
+Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador.jpg  used on input line 98.
+(pdftex.def)             Requested size: 84.80066pt x 62.66893pt.
+<images/Pruebas_S5/pieza_ventilador_impresa.png, id=672, 755.07094pt x 703.87968pt>
+File: images/Pruebas_S5/pieza_ventilador_impresa.png Graphic file (type png)
+<use images/Pruebas_S5/pieza_ventilador_impresa.png>
+Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador_impresa.png  used on input line 105.
+(pdftex.def)             Requested size: 113.25575pt x 105.5774pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 115.
+LaTeX Info: Redefining \% on input line 115.
+[74
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.44}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.115 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.45}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.115 
+       <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg> <./images/Pruebas_S5/pieza_ventilador.jpg>]
+<images/Capitulo_Imple/S5/Aireacion.jpeg, id=678, 903.375pt x 1606.0pt>
+File: images/Capitulo_Imple/S5/Aireacion.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S5/Aireacion.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S5/Aireacion.jpeg  used on input line 127.
+(pdftex.def)             Requested size: 180.6718pt x 321.19432pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 134.
+LaTeX Info: Redefining \% on input line 134.
+[75
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.46}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.134 
+       <./images/Pruebas_S5/pieza_ventilador_impresa.png>]
+<images/Pruebas_S5/pala_soldada.jpeg, id=683, 1606.0pt x 903.375pt>
+File: images/Pruebas_S5/pala_soldada.jpeg Graphic file (type jpg)
+<use images/Pruebas_S5/pala_soldada.jpeg>
+Package pdftex.def Info: images/Pruebas_S5/pala_soldada.jpeg  used on input line 139.
+(pdftex.def)             Requested size: 321.19432pt x 180.6718pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Capitulo_Imple/S5/fresado.JPG, id=685, 3276.24pt x 2457.18pt>
+File: images/Capitulo_Imple/S5/fresado.JPG Graphic file (type jpg)
+<use images/Capitulo_Imple/S5/fresado.JPG>
+Package pdftex.def Info: images/Capitulo_Imple/S5/fresado.JPG  used on input line 149.
+(pdftex.def)             Requested size: 294.84888pt x 221.13666pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg, id=687, 903.375pt x 1606.0pt>
+File: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg  used on input line 159.
+(pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
+[76
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.47}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.165 
+       <./images/Capitulo_Imple/S5/Aireacion.jpeg>]
+
+LaTeX Warning: Text page lxxvii contains only floats.
+
+LaTeX Info: Redefining \. on input line 165.
+LaTeX Info: Redefining \% on input line 165.
+[77
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.48}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.165 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.49}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.165 
+       <./images/Pruebas_S5/pala_soldada.jpeg> <./images/Capitulo_Imple/S5/fresado.JPG>]
+<images/Capitulo_Imple/S5/tambo_solo.jpeg, id=697, 1204.5pt x 1606.0pt>
+File: images/Capitulo_Imple/S5/tambo_solo.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S5/tambo_solo.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_solo.jpeg  used on input line 168.
+(pdftex.def)             Requested size: 216.80064pt x 289.06754pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (parts/3_Imple/3.6 Sistema 6/3.6.2 Verificacion.tex
+<images/Pruebas_S6/montar_componentes.jpeg, id=698, 1092.08pt x 1606.0pt>
+File: images/Pruebas_S6/montar_componentes.jpeg Graphic file (type jpg)
+<use images/Pruebas_S6/montar_componentes.jpeg>
+Package pdftex.def Info: images/Pruebas_S6/montar_componentes.jpeg  used on input line 6.
+(pdftex.def)             Requested size: 147.42444pt x 216.80064pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 6236) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
+ [78
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.50}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.15 F
+      inalmente fue necesario colocar soportes que permitieran fijar el trit... <./images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg>]
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [79
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.51}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.16 \newpage
+              <./images/Capitulo_Imple/S5/tambo_solo.jpeg>])) (parts/3_Imple/3.6 Sistema 6/3.6.0 Sistema 6.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 1.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 1.
+
+(parts/3_Imple/3.6 Sistema 6/3.6.1 Implementacion.tex
+<images/Capitulo_Imple/S6/estructura.jpeg, id=709, 903.375pt x 1606.0pt>
+File: images/Capitulo_Imple/S6/estructura.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S6/estructura.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S6/estructura.jpeg  used on input line 13.
+(pdftex.def)             Requested size: 121.95036pt x 216.80064pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+[80
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.52}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.18  \clearpage
+                 <./images/Pruebas_S6/montar_componentes.jpeg>]
+LaTeX Info: Redefining \. on input line 18.
+LaTeX Info: Redefining \% on input line 18.
+ [81
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.53}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.18  \clearpage
+                 <./images/Capitulo_Imple/S6/estructura.jpeg>]) (parts/3_Imple/3.6 Sistema 6/3.6.2 Verificacion.tex
+File: images/Pruebas_S6/montar_componentes.jpeg Graphic file (type jpg)
+<use images/Pruebas_S6/montar_componentes.jpeg>
+Package pdftex.def Info: images/Pruebas_S6/montar_componentes.jpeg  used on input line 6.
+(pdftex.def)             Requested size: 147.42444pt x 216.80064pt.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [82
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.54}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.16 \newpage
+             ]
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [83])) (parts/3_Imple/3.7_Integracion/3.7_Integracion.tex (parts/3_Imple/3.7_Integracion/3.7.1_Integracion_del_dispositivo.tex
+<images/Capitulo_Imple/S7/palas_dentro.jpeg, id=727, 1204.5pt x 1606.0pt>
+File: images/Capitulo_Imple/S7/palas_dentro.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/palas_dentro.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/palas_dentro.jpeg  used on input line 9.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [84
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.55}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.14  \clearpage
+                 <./images/Capitulo_Imple/S7/palas_dentro.jpeg>]
+<images/Capitulo_Imple/S7/perfora.jpeg, id=733, 1606.0pt x 1204.5pt>
+File: images/Capitulo_Imple/S7/perfora.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/perfora.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/perfora.jpeg  used on input line 21.
+(pdftex.def)             Requested size: 321.19432pt x 240.89574pt.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [85
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.56}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.26  \clearpage
+                 <./images/Capitulo_Imple/S7/perfora.jpeg>]
+<images/Capitulo_Imple/S7/Sal_trituracion.jpeg, id=740, 1204.5pt x 1606.0pt>
+File: images/Capitulo_Imple/S7/Sal_trituracion.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/Sal_trituracion.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/Sal_trituracion.jpeg  used on input line 31.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [86
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.57}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 \clearpage
+                <./images/Capitulo_Imple/S7/Sal_trituracion.jpeg>]
+<images/Capitulo_Imple/S7/motor.jpeg, id=746, 1204.5pt x 1606.0pt>
+File: images/Capitulo_Imple/S7/motor.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/motor.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/motor.jpeg  used on input line 43.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [87
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.58}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.48 \clearpage
+                <./images/Capitulo_Imple/S7/motor.jpeg>]
+<images/Capitulo_Imple/S7/cableado.jpeg, id=752, 1606.0pt x 1204.5pt>
+File: images/Capitulo_Imple/S7/cableado.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/cableado.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/cableado.jpeg  used on input line 53.
+(pdftex.def)             Requested size: 321.19432pt x 240.89574pt.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [88
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.59}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \clearpage
+                <./images/Capitulo_Imple/S7/cableado.jpeg>]
+<images/Capitulo_Imple/S7/sistema_integrado.jpeg, id=758, 1204.5pt x 1606.0pt>
+File: images/Capitulo_Imple/S7/sistema_integrado.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/sistema_integrado.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/sistema_integrado.jpeg  used on input line 65.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [89
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.60}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70  \clearpage
+                 <./images/Capitulo_Imple/S7/sistema_integrado.jpeg>]) (parts/3_Imple/3.7_Integracion/3.7.1_Integracion_del_dispositivo.tex
+File: images/Capitulo_Imple/S7/palas_dentro.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/palas_dentro.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/palas_dentro.jpeg  used on input line 9.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 14.
+LaTeX Info: Redefining \% on input line 14.
+ [90
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.61}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.14  \clearpage
+                ]
+File: images/Capitulo_Imple/S7/perfora.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/perfora.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/perfora.jpeg  used on input line 21.
+(pdftex.def)             Requested size: 321.19432pt x 240.89574pt.
+LaTeX Info: Redefining \. on input line 26.
+LaTeX Info: Redefining \% on input line 26.
+ [91
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.62}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.26  \clearpage
+                ]
+File: images/Capitulo_Imple/S7/Sal_trituracion.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/Sal_trituracion.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/Sal_trituracion.jpeg  used on input line 31.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 36.
+LaTeX Info: Redefining \% on input line 36.
+ [92
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.63}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.36 \clearpage
+               ]
+File: images/Capitulo_Imple/S7/motor.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/motor.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/motor.jpeg  used on input line 43.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 48.
+LaTeX Info: Redefining \% on input line 48.
+ [93
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.64}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.48 \clearpage
+               ]
+File: images/Capitulo_Imple/S7/cableado.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/cableado.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/cableado.jpeg  used on input line 53.
+(pdftex.def)             Requested size: 321.19432pt x 240.89574pt.
+LaTeX Info: Redefining \. on input line 60.
+LaTeX Info: Redefining \% on input line 60.
+ [94
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.65}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60 \clearpage
+               ]
+File: images/Capitulo_Imple/S7/sistema_integrado.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/sistema_integrado.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/sistema_integrado.jpeg  used on input line 65.
+(pdftex.def)             Requested size: 240.89574pt x 321.19432pt.
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [95
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.66}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70  \clearpage
+                ]) (parts/3_Imple/3.7_Integracion/3.7.2_Validacion.tex
+<images/Pruebas/Pruebas_compost/carga1.jpeg, id=794, 1033.8625pt x 1606.0pt>
+File: images/Pruebas/Pruebas_compost/carga1.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/carga1.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga1.jpeg  used on input line 12.
+(pdftex.def)             Requested size: 155.07268pt x 240.8896pt.
+LaTeX Info: Redefining \. on input line 16.
+LaTeX Info: Redefining \% on input line 16.
+ [96
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.67}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.16 \clearpage
+                <./images/Pruebas/Pruebas_compost/carga1.jpeg>]
+<images/Capitulo_Imple/S7/Val/Prueba1.jpeg, id=800, 963.6pt x 1284.8pt>
+File: images/Capitulo_Imple/S7/Val/Prueba1.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/Val/Prueba1.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba1.jpeg  used on input line 26.
+(pdftex.def)             Requested size: 144.53375pt x 192.71169pt.
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [97
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.68}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.30 \clearpage
+                <./images/Capitulo_Imple/S7/Val/Prueba1.jpeg>]
+<images/Pruebas/Pruebas_compost/carga2.jpeg, id=806, 677.53125pt x 1132.23pt>
+File: images/Pruebas/Pruebas_compost/carga2.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/carga2.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga2.jpeg  used on input line 39.
+(pdftex.def)             Requested size: 101.62529pt x 169.82716pt.
+LaTeX Info: Redefining \. on input line 43.
+LaTeX Info: Redefining \% on input line 43.
+ [98
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.69}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.43 \clearpage
+                <./images/Pruebas/Pruebas_compost/carga2.jpeg>]
+<images/Capitulo_Imple/S7/Val/Prueba2.jpeg, id=811, 963.6pt x 1284.8pt>
+File: images/Capitulo_Imple/S7/Val/Prueba2.jpeg Graphic file (type jpg)
+<use images/Capitulo_Imple/S7/Val/Prueba2.jpeg>
+Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba2.jpeg  used on input line 51.
+(pdftex.def)             Requested size: 144.53375pt x 192.71169pt.
+LaTeX Info: Redefining \. on input line 55.
+LaTeX Info: Redefining \% on input line 55.
+ [99
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.70}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.55 \clearpage
+                <./images/Capitulo_Imple/S7/Val/Prueba2.jpeg>]
+<images/Pruebas/Pruebas_compost/carga3.jpeg, id=816, 903.375pt x 1606.0pt>
+File: images/Pruebas/Pruebas_compost/carga3.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/carga3.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga3.jpeg  used on input line 64.
+(pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
+
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 70.
+LaTeX Info: Redefining \% on input line 70.
+ [100
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.71}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.70 
+      <./images/Pruebas/Pruebas_compost/carga3.jpeg>]
+<images/Pruebas/Pruebas_compost/descarga3.jpeg, id=821, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_compost/descarga3.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/descarga3.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga3.jpeg  used on input line 73.
+(pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
+<images/Pruebas/Pruebas_compost/descarga4.jpeg, id=822, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_compost/descarga4.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/descarga4.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga4.jpeg  used on input line 84.
+(pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Pruebas/Pruebas_compost/carga5.jpeg, id=823, 1204.5pt x 1606.0pt>
+File: images/Pruebas/Pruebas_compost/carga5.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/carga5.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga5.jpeg  used on input line 94.
+(pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Pruebas/Pruebas_compost/descarga5.jpeg, id=824, 903.375pt x 1606.0pt>
+File: images/Pruebas/Pruebas_compost/descarga5.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/descarga5.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga5.jpeg  used on input line 101.
+(pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
+
+Underfull \vbox (badness 3168) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [101
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.72}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.105 
+       <./images/Pruebas/Pruebas_compost/descarga3.jpeg>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/Pruebas/Pruebas_compost/carga6.jpeg, id=829, 903.375pt x 1606.0pt>
+File: images/Pruebas/Pruebas_compost/carga6.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/carga6.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga6.jpeg  used on input line 110.
+(pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
+<images/Pruebas/Pruebas_compost/descarga6.jpeg, id=830, 782.925pt x 1043.9pt>
+File: images/Pruebas/Pruebas_compost/descarga6.jpeg Graphic file (type jpg)
+<use images/Pruebas/Pruebas_compost/descarga6.jpeg>
+Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga6.jpeg  used on input line 117.
+(pdftex.def)             Requested size: 117.43369pt x 156.57823pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+)))
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+ [102
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.73}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.176 \include{parts/3_Imple/3.0_Implemetacion}
+                                                <./images/Pruebas/Pruebas_compost/descarga4.jpeg>]
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+ [103
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.74}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.176 \include{parts/3_Imple/3.0_Implemetacion}
+                                                <./images/Pruebas/Pruebas_compost/carga5.jpeg>]
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+ [104
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.75}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.176 \include{parts/3_Imple/3.0_Implemetacion}
+                                               
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.76}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.176 \include{parts/3_Imple/3.0_Implemetacion}
+                                                <./images/Pruebas/Pruebas_compost/descarga5.jpeg> <./images/Pruebas/Pruebas_compost/carga6.jpeg>]
+LaTeX Info: Redefining \. on input line 176.
+LaTeX Info: Redefining \% on input line 176.
+ [105
+pdfTeX warning (ext4): destination with the same identifier (name{figure.0.77}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.176 \include{parts/3_Imple/3.0_Implemetacion}
+                                                <./images/Pruebas/Pruebas_compost/descarga6.jpeg>] [106
+
+
+
+] (Principal.bbl [107
+
+
+]
+Underfull \hbox (badness 2050) in paragraph at lines 71--76
+\T1/cmr/m/n/10.95 nues-tras co-ci-nas.'' [][]$\T1/cmtt/m/n/10.95 https : / / www . xatakahome . com / electrodomesticos-[]innovadores /
+ []
+
+
+Overfull \hbox (11.2405pt too wide) in paragraph at lines 71--76
+\T1/cmtt/m/n/10.95 whirpool-[]zera-[]acerca-[]el-[]reciclaje-[]de-[]organicos-[]acelerado-[]a-[]nuestras-[]cocinas$[][]\T1/cmr/m/n/10.95 ,
+ []
+
+LaTeX Info: Redefining \. on input line 90.
+LaTeX Info: Redefining \% on input line 90.
+[108]
+LaTeX Info: Redefining \. on input line 145.
+LaTeX Info: Redefining \% on input line 145.
+ [109]
+Underfull \hbox (badness 10000) in paragraph at lines 165--168
+[]\T1/cmr/m/n/10.95 AUTYCOM, ``�qu� es un sis-te-ma mhi?.'' [][]$\T1/cmtt/m/n/10.95 https : / / www . autycom . com /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+\T1/cmtt/m/n/10.95 sinadrives . com / es / control-[]de-[]maquinaria-[]control-[]en-[]lazo-[]abierto-[]cerrado/$[][]\T1/cmr/m/n/10.95 ,
+ []
+
+LaTeX Info: Redefining \. on input line 205.
+LaTeX Info: Redefining \% on input line 205.
+[110]
+Underfull \hbox (badness 10000) in paragraph at lines 222--227
+[]\T1/cmr/m/n/10.95 Naylamp me-ca-tro-nics, ``Tu-to-rial sen-sor de tem-pe-ra-tu-ra y hu-me-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--227
+\T1/cmr/m/n/10.95 dad dht11 y dht22.'' [][]$\T1/cmtt/m/n/10.95 https : / / naylampmechatronics . com / blog / 40 _
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 222--227
+\T1/cmtt/m/n/10.95 tutorial-[]sensor-[]de-[]temperatura-[]y-[]humedad-[]dht11-[]y-[]dht22 . html$[][]\T1/cmr/m/n/10.95 , 2016.  [On-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--233
+[]\T1/cmr/m/n/10.95 Geek Fac-tory, ``Ds18b20 con ar-duino: Sen-sor de tem-pe-ra-tu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--233
+\T1/cmr/m/n/10.95 ra di-gi-tal.'' [][]$\T1/cmtt/m/n/10.95 https : / / www . geekfactory . mx / tutoriales-[]arduino /
+ []
+
+
+Underfull \hbox (badness 3623) in paragraph at lines 229--233
+\T1/cmtt/m/n/10.95 ds18b20-[]con-[]arduino-[]sensor-[]de-[]temperatura-[]digital/$[][]\T1/cmr/m/n/10.95 , 2019.  [On-li-ne; ac-ces-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--244
+[]\T1/cmr/m/n/10.95 Rioski, ``Re-sis-ten-cia ti-po re-sor-te.'' [][]$\T1/cmtt/m/n/10.95 http : / / rioski . com / index . php /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--250
+[]\T1/cmr/m/n/10.95 Connor,Nick, ``�qu� es la ley de con-duc-ci�n t�r-mi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--250
+\T1/cmr/m/n/10.95 ca de fou-rier?.'' [][]$\T1/cmtt/m/n/10.95 https : / / www . thermal-[]engineering . org / es /
+ []
+
+
+Underfull \hbox (badness 4120) in paragraph at lines 246--250
+\T1/cmtt/m/n/10.95 que-[]es-[]la-[]ley-[]de-[]conduccion-[]termica-[]de-[]fourier-[]definicion/$[][]\T1/cmr/m/n/10.95 , 2020.  [On-li-
+ []
+
+LaTeX Info: Redefining \. on input line 256.
+LaTeX Info: Redefining \% on input line 256.
+[111]
+Underfull \hbox (badness 10000) in paragraph at lines 263--266
+[]\T1/cmr/m/n/10.95 INEGI, ``Cli-ma.'' [][]$\T1/cmtt/m/n/10.95 https : / / cuentame . inegi . org . mx / monografias / informacion / df /
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 268--273
+[]\T1/cmr/m/n/10.95 L�pez, Jo-n�s, ``Ayer fue el d�a m�s ca-lu-ro-so de es-te a�o; hoy se es-pe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--273
+\T1/cmr/m/n/10.95 ran tem-pe-ra-tu-ras si-mi-la-res.'' [][]$\T1/cmtt/m/n/10.95 https : / / www . excelsior . com . mx / comunidad /
+ []
+
+
+Overfull \hbox (32.34789pt too wide) in paragraph at lines 268--273
+\T1/cmtt/m/n/10.95 ayer-[]fue-[]el-[]dia-[]mas-[]caluroso-[]de-[]este-[]ano-[]hoy-[]se-[]esperan-[]temperaturas-[]similares /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--279
+[]\T1/cmr/m/n/10.95 Rivera Me-jo-ra-da, Jo-su� Ale-xis, ``Ma-triz de se-lec-ci�n.'' [][]$\T1/cmtt/m/n/10.95 https : / / www .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--279
+\T1/cmtt/m/n/10.95 linkedin . com / pulse / matriz-[]de-[]selección-[]josué-[]alexis-[]rivera-[]mejorada /
+ []
+
+
+Underfull \hbox (badness 1852) in paragraph at lines 281--284
+[]\T1/cmr/m/n/10.95 Creative Com-mons, ``Co-mo con-tro-lar un re-l� con un tran-sis-tor.'' [][]$\T1/cmtt/m/n/10.95 https : / / www .
+ []
+
+)
+LaTeX Info: Redefining \. on input line 202.
+LaTeX Info: Redefining \% on input line 202.
+ [112] [113
+
+
+] [114] [115
+
+] [116] (Principal.ind) (Principal.aux
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ (preliminares/resumen.aux) (preliminares/abstract.aux) (capitulos/marcoreferencia.aux) (parts/2_Dis_sist/2_Dis_sis.aux) (parts/3_Imple/3.0_Implemetacion.aux))
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\romanidx.sty
+\es@converted=\count432
+\es@processed=\count433
+\es@indexfile=\write10
+\openout10 = `Principal.eix'.
+
+ (Principal.idx)
+*****************
+Se ha procesado: Principal.idx
+Lineas leidas: 0
+Lineas convertidas: 0
+Resultado en: Principal.eix
+No se ha convertido nada. Se puede generar
+el .ind directamente de Principal.idx
+*****************
+)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 38703 strings out of 467870
+ 824498 string characters out of 5419324
+ 1376208 words of memory out of 5000000
+ 66435 multiletter control sequences out of 15000+600000
+ 747138 words of font info for 108 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 125i,18n,121p,1082b,1312s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+pdfTeX warning (dest): name{section*.14} has been referenced but does not exist, replaced by a fixed one
+
+ <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
+Output written on Principal.pdf (116 pages, 17608515 bytes).
+PDF statistics:
+ 1680 PDF objects out of 1728 (max. 8388607)
+ 293 named destinations out of 1000 (max. 500000)
+ 621 words of extra memory for PDF output out of 10000 (max. 10000000)
+

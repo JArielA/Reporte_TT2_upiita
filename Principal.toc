@@ -1,0 +1,27 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {chapter}{Agradecimientos}{ix}{chapter*.1}%
+\contentsline {chapter}{Resumen}{xiii}{chapter*.3}%
+\contentsline {chapter}{Abstract}{xv}{chapter*.4}%
+\contentsline {chapter}{\listfigurename }{xx}{chapter*.5}%
+\contentsline {chapter}{\listtablename }{xxi}{chapter*.8}%
+\contentsline {chapter}{Diseño del sistema}{xxiii}{chapter*.10}%
+\contentsline {section}{\numberline {0.1}Diseño Conceptual}{xxiii}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Necesidades y requerimientos}{xxiii}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Funcionamiento general}{xxvii}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Arquitectura funcional}{xxviii}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {0.1.4}Arquitectura física}{xxxiii}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {0.1.5}Propuesta solución}{xxxvi}{subsection.0.1.5}%
+\contentsline {subsection}{\numberline {0.1.6}Validación del sistema}{xxxviii}{subsection.0.1.6}%
+\contentsline {subsection}{\numberline {0.1.7}Selección de diseño conceptual}{xl}{subsection.0.1.7}%
+\contentsline {chapter}{Implementación del sistema}{xliii}{chapter*.11}%
+\contentsline {subsection}{\numberline {0.1.8}Sistema de administración de comportamiento $S_1$}{xliii}{subsection.0.1.8}%
+\contentsline {subsection}{\numberline {0.1.9}Sistema de procesamiento de datos $S_2$}{lv}{subsection.0.1.9}%
+\contentsline {subsection}{\numberline {0.1.10}Sistema de energía $S_3$}{lviii}{subsection.0.1.10}%
+\contentsline {subsection}{\numberline {0.1.11}Sistema de trituración $S_4$}{lxiii}{subsection.0.1.11}%
+\contentsline {subsection}{\numberline {0.1.12}Sistema de procesamiento de materia $S_5$}{lxix}{subsection.0.1.12}%
+\contentsline {subsection}{\numberline {0.1.13}Sistema estructural $S_6$}{lxxx}{subsection.0.1.13}%
+\contentsline {subsection}{\numberline {0.1.14}Integración del sistema}{lxxxiv}{subsection.0.1.14}%
+\contentsline {subsection}{\numberline {0.1.15}Integración del sistema}{xc}{subsection.0.1.15}%
+\contentsline {part}{Referencias}{cvii}{chapter*.13}%
+\contentsline {part}{Apéndices}{cxiii}{part.1}%
+\contentsline {part}{Anexos}{cxv}{part.2}%

@@ -1,0 +1,83 @@
+\babel@toc {spanish}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1}{\ignorespaces Diagrama de flujo del funcionamiento general del sistema}}{xxvii}{figure.0.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Diagrama FBS del sistema}}{xxxi}{figure.0.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces IDEF0 del sistema}}{xxxii}{figure.0.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces IDEF0 Nodo: A0}}{xxxiii}{figure.0.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Arquitectura física propuesta}}{xxxvi}{figure.0.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Conceptos Generados}}{xxxviii}{figure.0.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Boceto seleccionado}}{xli}{figure.0.7}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8}{\ignorespaces Circuito de prueba de la interfaz}}{xliv}{figure.0.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Implementación de los botones}}{xliv}{figure.0.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Menú desplegado por la interfaz}}{xlv}{figure.0.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Representación del tiempo del proceso}}{xlv}{figure.0.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Identificación del proceso en ejecución}}{xlv}{figure.0.12}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Página web compostador}}{xlvi}{figure.0.13}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Estado sensor DS18B20 y DHT11}}{xlvi}{figure.0.14}%
+\contentsline {figure}{\numberline {15}{\ignorespaces Indicador de temperatura baja}}{xlvii}{figure.0.15}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Indicador temperatura media}}{xlvii}{figure.0.16}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Error sensor DS18B20}}{xlvii}{figure.0.17}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Error sensor DHT11}}{xlviii}{figure.0.18}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Activación ventilador}}{xlviii}{figure.0.19}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Activación motor}}{xlviii}{figure.0.20}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Activación resistencia}}{xlviii}{figure.0.21}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Temporizador regresivo}}{xlviii}{figure.0.22}%
+\contentsline {figure}{\numberline {23}{\ignorespaces Base de datos }}{xlviii}{figure.0.23}%
+\contentsline {figure}{\numberline {24}{\ignorespaces Mostrar aumento de temperatura}}{l}{figure.0.24}%
+\contentsline {figure}{\numberline {25}{\ignorespaces Mostrar descenso de temperatura}}{li}{figure.0.25}%
+\contentsline {figure}{\numberline {26}{\ignorespaces Ejecutando fermentación}}{lii}{figure.0.26}%
+\contentsline {figure}{\numberline {27}{\ignorespaces Ejecutando elevación de temperatura}}{liii}{figure.0.27}%
+\contentsline {figure}{\numberline {28}{\ignorespaces Verificación del tiempo}}{liv}{figure.0.28}%
+\contentsline {figure}{\numberline {29}{\ignorespaces Conexión de los sensores en la protoboard}}{lv}{figure.0.29}%
+\contentsline {figure}{\numberline {30}{\ignorespaces Sensor DHT11 que se utilizó}}{lvi}{figure.0.30}%
+\contentsline {figure}{\numberline {31}{\ignorespaces Circuito de prueba de la interfaz}}{lvii}{figure.0.31}%
+\contentsline {figure}{\numberline {32}{\ignorespaces Sistema de trituración montado}}{lxv}{figure.0.32}%
+\contentsline {figure}{\numberline {33}{\ignorespaces Triturador atascado}}{lxvi}{figure.0.33}%
+\contentsline {figure}{\numberline {34}{\ignorespaces Materia recién salida del triturador}}{lxvii}{figure.0.34}%
+\contentsline {figure}{\numberline {35}{\ignorespaces Adaptador con cono excéntrico}}{lxviii}{figure.0.35}%
+\contentsline {figure}{\numberline {36}{\ignorespaces Contenedor de acero antes}}{lxix}{figure.0.36}%
+\contentsline {figure}{\numberline {37}{\ignorespaces Contenedor de acero con una capa de pintura}}{lxx}{figure.0.37}%
+\contentsline {figure}{\numberline {38}{\ignorespaces Contenedor montado en el eje}}{lxx}{figure.0.38}%
+\contentsline {figure}{\numberline {39}{\ignorespaces Cinturón calentador de tambos}}{lxxi}{figure.0.39}%
+\contentsline {figure}{\numberline {40}{\ignorespaces Adaptador para filtro}}{lxxii}{figure.0.40}%
+\contentsline {figure}{\numberline {41}{\ignorespaces Ajuste de parámetros software de impresión}}{lxxii}{figure.0.41}%
+\contentsline {figure}{\numberline {42}{\ignorespaces Impresión 3D adaptador para filtro}}{lxxiii}{figure.0.42}%
+\contentsline {figure}{\numberline {43}{\ignorespaces Adaptador montado en el contenedor}}{lxxiii}{figure.0.43}%
+\contentsline {figure}{\numberline {44}{\ignorespaces Adaptador ensamblado con filtro}}{lxxiv}{figure.0.44}%
+\contentsline {figure}{\numberline {45}{\ignorespaces Diseño adaptador para ventilador en SolidWorks}}{lxxiv}{figure.0.45}%
+\contentsline {figure}{\numberline {46}{\ignorespaces Impresión 3D adaptador para ventilador}}{lxxv}{figure.0.46}%
+\contentsline {figure}{\numberline {47}{\ignorespaces Montaje del sistema de aireación}}{lxxvi}{figure.0.47}%
+\contentsline {figure}{\numberline {48}{\ignorespaces Pala soldada a sección de tubo con cuerda}}{lxxvii}{figure.0.48}%
+\contentsline {figure}{\numberline {49}{\ignorespaces Proceso de fresado del eje}}{lxxvii}{figure.0.49}%
+\contentsline {figure}{\numberline {50}{\ignorespaces Instalación de los elementos del tambo sin recubrimiento}}{lxxviii}{figure.0.50}%
+\contentsline {figure}{\numberline {51}{\ignorespaces Contenedor con el recubrimiento instalado}}{lxxix}{figure.0.51}%
+\contentsline {figure}{\numberline {52}{\ignorespaces Montaje de componentes en estructura}}{lxxx}{figure.0.52}%
+\contentsline {figure}{\numberline {53}{\ignorespaces Estructura del sistema de compostaje}}{lxxxi}{figure.0.53}%
+\contentsline {figure}{\numberline {54}{\ignorespaces Montaje de componentes en estructura}}{lxxxii}{figure.0.54}%
+\contentsline {figure}{\numberline {55}{\ignorespaces Instalación del eje de aireación dentro del contenedor}}{lxxxiv}{figure.0.55}%
+\contentsline {figure}{\numberline {56}{\ignorespaces Instalación del filtro de olores}}{lxxxv}{figure.0.56}%
+\contentsline {figure}{\numberline {57}{\ignorespaces Sistema de trituración instalado}}{lxxxvi}{figure.0.57}%
+\contentsline {figure}{\numberline {58}{\ignorespaces Sistema de transmisión instalado}}{lxxxvii}{figure.0.58}%
+\contentsline {figure}{\numberline {59}{\ignorespaces Contantores instalados}}{lxxxviii}{figure.0.59}%
+\contentsline {figure}{\numberline {60}{\ignorespaces Muestra del sistema de compostaje completo}}{lxxxix}{figure.0.60}%
+\contentsline {figure}{\numberline {61}{\ignorespaces Instalación del eje de aireación dentro del contenedor}}{xc}{figure.0.61}%
+\contentsline {figure}{\numberline {62}{\ignorespaces Instalación del filtro de olores}}{xci}{figure.0.62}%
+\contentsline {figure}{\numberline {63}{\ignorespaces Sistema de trituración instalado}}{xcii}{figure.0.63}%
+\contentsline {figure}{\numberline {64}{\ignorespaces Sistema de transmisión instalado}}{xciii}{figure.0.64}%
+\contentsline {figure}{\numberline {65}{\ignorespaces Contantores instalados}}{xciv}{figure.0.65}%
+\contentsline {figure}{\numberline {66}{\ignorespaces Muestra del sistema de compostaje completo}}{xcv}{figure.0.66}%
+\contentsline {figure}{\numberline {67}{\ignorespaces Carga primera prueba}}{xcvi}{figure.0.67}%
+\contentsline {figure}{\numberline {68}{\ignorespaces Primera muestra de composta obtenida}}{xcvii}{figure.0.68}%
+\contentsline {figure}{\numberline {69}{\ignorespaces Segunda carga}}{xcviii}{figure.0.69}%
+\contentsline {figure}{\numberline {70}{\ignorespaces Segunda muestra de composta obtenida}}{xcix}{figure.0.70}%
+\contentsline {figure}{\numberline {71}{\ignorespaces Tercera prueba carga}}{c}{figure.0.71}%
+\contentsline {figure}{\numberline {72}{\ignorespaces Tercera prueba descarga}}{ci}{figure.0.72}%
+\contentsline {figure}{\numberline {73}{\ignorespaces Cuarta prueba descarga}}{cii}{figure.0.73}%
+\contentsline {figure}{\numberline {74}{\ignorespaces Quinta prueba carga}}{ciii}{figure.0.74}%
+\contentsline {figure}{\numberline {75}{\ignorespaces Quinta prueba descarga}}{civ}{figure.0.75}%
+\contentsline {figure}{\numberline {76}{\ignorespaces Sexta prueba carga}}{civ}{figure.0.76}%
+\contentsline {figure}{\numberline {77}{\ignorespaces Sexta prueba descarga}}{cv}{figure.0.77}%
