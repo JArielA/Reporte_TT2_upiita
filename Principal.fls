@@ -410,6 +410,15 @@ INPUT parts\2_Dis_sist\2_Dis_sis.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT parts\3_Imple\3.0_Implemetacion.aux
+INPUT .\parts\4_Ana\4.0_Analisis.aux
+INPUT .\parts\4_Ana\4.0_Analisis.aux
+INPUT parts\4_Ana\4.0_Analisis.aux
+INPUT .\parts\5_res\5.0_res.aux
+INPUT .\parts\5_res\5.0_res.aux
+INPUT parts\5_res\5.0_res.aux
+INPUT .\parts\6_con\6.0_con.aux
+INPUT .\parts\6_con\6.0_con.aux
+INPUT parts\6_con\6.0_con.aux
 OUTPUT Principal.aux
 INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
 INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
@@ -1185,6 +1194,61 @@ INPUT .\images\Pruebas\Pruebas_compost\descarga6.jpeg
 INPUT .\images\Pruebas\Pruebas_compost\descarga6.jpeg
 INPUT .\images\Pruebas\Pruebas_compost\descarga6.jpeg
 INPUT .\images\Pruebas\Pruebas_compost\descarga6.jpeg
+INPUT .\parts\4_Ana\4.0_Analisis.tex
+OUTPUT parts\4_Ana\4.0_Analisis.aux
+INPUT .\parts\4_Ana\4.0_Analisis.tex
+INPUT .\parts\4_Ana\4.0_Analisis.tex
+INPUT .\parts\4_Ana\4.0_Analisis.tex
+INPUT parts\4_Ana\4.0_Analisis.tex
+INPUT .\parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
+INPUT .\parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
+INPUT parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
+INPUT .\parts\4_Ana\4.2 Costos\4.2 Costos.tex
+INPUT .\parts\4_Ana\4.2 Costos\4.2 Costos.tex
+INPUT parts\4_Ana\4.2 Costos\4.2 Costos.tex
+INPUT .\images\Anexo\Reparticion_gastos.png
+INPUT .\images\Anexo\Reparticion_gastos.png
+INPUT .\images\Anexo\Reparticion_gastos.png
+INPUT .\images\Anexo\Reparticion_gastos.png
+INPUT .\images\Anexo\Reparticion_gastos.png
+INPUT .\images\Anexo\Reparticion_gastos.png
+INPUT .\images\Anexo\Reparticion_gastos.png
+INPUT .\parts\4_Ana\4.3 Valor\4.3 Valor.tex
+INPUT .\parts\4_Ana\4.3 Valor\4.3 Valor.tex
+INPUT parts\4_Ana\4.3 Valor\4.3 Valor.tex
+INPUT .\parts\5_res\5.0_res.tex
+OUTPUT parts\5_res\5.0_res.aux
+INPUT .\parts\5_res\5.0_res.tex
+INPUT .\parts\5_res\5.0_res.tex
+INPUT .\parts\5_res\5.0_res.tex
+INPUT parts\5_res\5.0_res.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.0 Analisis de resultados.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.0 Analisis de resultados.tex
+INPUT parts\5_res\5.1_analisis_resultados\5.1.0 Analisis de resultados.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.1 Propios del desarollo tec.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.1 Propios del desarollo tec.tex
+INPUT parts\5_res\5.1_analisis_resultados\5.1.1 Propios del desarollo tec.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.2 Analisis de costos.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.2 Analisis de costos.tex
+INPUT parts\5_res\5.1_analisis_resultados\5.1.2 Analisis de costos.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.3 Impacto Ambiental.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.3 Impacto Ambiental.tex
+INPUT parts\5_res\5.1_analisis_resultados\5.1.3 Impacto Ambiental.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.4 Sustentabilidad.tex
+INPUT .\parts\5_res\5.1_analisis_resultados\5.1.4 Sustentabilidad.tex
+INPUT parts\5_res\5.1_analisis_resultados\5.1.4 Sustentabilidad.tex
+INPUT .\parts\6_con\6.0_con.tex
+OUTPUT parts\6_con\6.0_con.aux
+INPUT .\parts\6_con\6.0_con.tex
+INPUT .\parts\6_con\6.0_con.tex
+INPUT .\parts\6_con\6.0_con.tex
+INPUT parts\6_con\6.0_con.tex
+INPUT .\parts\6_con\6.1_conclusiones.tex
+INPUT .\parts\6_con\6.1_conclusiones.tex
+INPUT parts\6_con\6.1_conclusiones.tex
+INPUT .\parts\6_con\6.2_recomendacion.tex
+INPUT .\parts\6_con\6.2_recomendacion.tex
+INPUT parts\6_con\6.2_recomendacion.tex
 INPUT .\Principal.bbl
 INPUT .\Principal.bbl
 INPUT Principal.bbl
@@ -1210,6 +1274,15 @@ INPUT parts\2_Dis_sist\2_Dis_sis.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT parts\3_Imple\3.0_Implemetacion.aux
+INPUT .\parts\4_Ana\4.0_Analisis.aux
+INPUT .\parts\4_Ana\4.0_Analisis.aux
+INPUT parts\4_Ana\4.0_Analisis.aux
+INPUT .\parts\5_res\5.0_res.aux
+INPUT .\parts\5_res\5.0_res.aux
+INPUT parts\5_res\5.0_res.aux
+INPUT .\parts\6_con\6.0_con.aux
+INPUT .\parts\6_con\6.0_con.aux
+INPUT parts\6_con\6.0_con.aux
 INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\romanidx.sty
 OUTPUT Principal.eix
 INPUT Principal.idx
