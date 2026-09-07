@@ -15,25 +15,25 @@
 \contentsline {subsection}{\numberline {0.1.7}Selección de diseño conceptual}{xlii}{subsection.0.1.7}%
 \contentsline {chapter}{Implementación del sistema}{xlv}{chapter*.11}%
 \contentsline {subsection}{\numberline {0.1.8}Sistema de administración de comportamiento $S_1$}{xlv}{subsection.0.1.8}%
-\contentsline {subsection}{\numberline {0.1.9}Sistema de procesamiento de datos $S_2$}{lvii}{subsection.0.1.9}%
-\contentsline {subsection}{\numberline {0.1.10}Sistema de energía $S_3$}{lx}{subsection.0.1.10}%
-\contentsline {subsection}{\numberline {0.1.11}Sistema de trituración $S_4$}{lxv}{subsection.0.1.11}%
-\contentsline {subsection}{\numberline {0.1.12}Sistema de procesamiento de materia $S_5$}{lxxi}{subsection.0.1.12}%
-\contentsline {subsection}{\numberline {0.1.13}Sistema estructural $S_6$}{lxxxiii}{subsection.0.1.13}%
-\contentsline {subsection}{\numberline {0.1.14}Integración del sistema}{lxxxvi}{subsection.0.1.14}%
-\contentsline {subsection}{\numberline {0.1.15}Integración del sistema}{xcii}{subsection.0.1.15}%
-\contentsline {chapter}{Análisis de resultados}{cix}{chapter*.12}%
-\contentsline {subsection}{\numberline {0.1.16}Análisis de ingeniería del proyecto}{cix}{subsection.0.1.16}%
-\contentsline {subsection}{\numberline {0.1.17}Análisis de costos del proyecto}{cx}{subsection.0.1.17}%
-\contentsline {subsection}{\numberline {0.1.18}Valor de nuestro trabajo}{cxix}{subsection.0.1.18}%
-\contentsline {chapter}{Análisis de resultados}{cxxi}{chapter*.13}%
-\contentsline {section}{Propios del desarrollo tecnológico o investigación}{cxxi}{section*.14}%
-\contentsline {section}{Análisis de Costos}{cxxiv}{section*.15}%
-\contentsline {section}{Impacto ambiental}{cxxviii}{section*.16}%
-\contentsline {section}{Sustentabilidad}{cxxx}{section*.17}%
-\contentsline {chapter}{Conclusiones}{cxxxi}{chapter*.18}%
-\contentsline {section}{Conclusiones}{cxxxi}{section*.19}%
-\contentsline {section}{Recomendación y trabajo a futuro}{cxxxv}{section*.20}%
-\contentsline {part}{Referencias}{cxxxix}{chapter*.22}%
-\contentsline {part}{Apéndices}{cxlv}{part.1}%
-\contentsline {part}{Anexos}{cxlvii}{part.2}%
+\contentsline {subsection}{\numberline {0.1.9}Sistema de procesamiento de datos $S_2$}{lix}{subsection.0.1.9}%
+\contentsline {subsection}{\numberline {0.1.10}Sistema de energía $S_3$}{lxii}{subsection.0.1.10}%
+\contentsline {subsection}{\numberline {0.1.11}Sistema de trituración $S_4$}{lxvii}{subsection.0.1.11}%
+\contentsline {subsection}{\numberline {0.1.12}Sistema de procesamiento de materia $S_5$}{lxxiii}{subsection.0.1.12}%
+\contentsline {subsection}{\numberline {0.1.13}Sistema estructural $S_6$}{lxxxv}{subsection.0.1.13}%
+\contentsline {subsection}{\numberline {0.1.14}Integración del sistema}{lxxxviii}{subsection.0.1.14}%
+\contentsline {subsection}{\numberline {0.1.15}Integración del sistema}{xciv}{subsection.0.1.15}%
+\contentsline {chapter}{Análisis de resultados}{cxi}{chapter*.12}%
+\contentsline {subsection}{\numberline {0.1.16}Análisis de ingeniería del proyecto}{cxi}{subsection.0.1.16}%
+\contentsline {subsection}{\numberline {0.1.17}Análisis de costos del proyecto}{cxii}{subsection.0.1.17}%
+\contentsline {subsection}{\numberline {0.1.18}Valor de nuestro trabajo}{cxxi}{subsection.0.1.18}%
+\contentsline {chapter}{Análisis de resultados}{cxxiii}{chapter*.13}%
+\contentsline {section}{Propios del desarrollo tecnológico o investigación}{cxxiii}{section*.14}%
+\contentsline {section}{Análisis de Costos}{cxxvi}{section*.15}%
+\contentsline {section}{Impacto ambiental}{cxxx}{section*.16}%
+\contentsline {section}{Sustentabilidad}{cxxxii}{section*.17}%
+\contentsline {chapter}{Conclusiones}{cxxxiii}{chapter*.18}%
+\contentsline {section}{Conclusiones}{cxxxiii}{section*.19}%
+\contentsline {section}{Recomendación y trabajo a futuro}{cxxxvii}{section*.20}%
+\contentsline {part}{Referencias}{cxli}{chapter*.22}%
+\contentsline {part}{Apéndices}{cxlvii}{part.1}%
+\contentsline {part}{Anexos}{cxlix}{part.2}%

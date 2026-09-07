@@ -55,44 +55,48 @@ Cada uno de los botones representará una de las opciones que se encontrarán en
             \label{fg:proceso_en_ejecucion}
         \end{figure}
 \textbf{Implementación monitoreo a distancia}
+
 Durante la elaboración de este proyecto, se observó que la ESP32 es un microcontrolador bastante robusto y que posee distintas características, dentro de ellas se encuentra la conexión Wi-Fi. Buscando mejorar la experiencia del usuario se consideró que era posible monitorear el funcionamiento del dispositivo a distancia. Por tal motivo, se propuso enviar las mediciones realizadas por los sensores a una página web para que el usuario pueda acceder de manera remota mediante un link y esto le permita observar el estado del dispositivo.
 La página web para escritorio posee la siguiente distribución:
 \begin{figure}[h]
             \centering
-            \includegraphics[scale=0.1]{images/Web/pagina_compostador.png}
+            \includegraphics[scale=0.3]{images/Web/pagina_compostador.png}
             
             \caption{Página web compostador}
             \label{fg:pagina_web}
         \end{figure}
+
 Partiendo de la parte superior, se presenta el estado de los sensores tanto de temperatura (DS18B20) como de humedad (DHT11). De primera mano, se presenta una gráfica con las últimas 40 mediciones enviadas cada segundo; esta gráfica se va actualizando. Sin embargo, pensando en la posibilidad de que no todos los usuarios saben interpretar una gráfica, se propuso mostrar el valor de la temperatura y la humedad en un formato sencillo como si se tratara de la lectura de un termómetro.
 
 \begin{figure}[h]
             \centering
-            \includegraphics[scale=0.1]{images/Web/temp_hum_web.png}
+            \includegraphics[scale=0.35]{images/Web/temp_hum_web.png}
             
             \caption{Estado sensor DS18B20 y DHT11}
             \label{fg:pagina_web}
         \end{figure}
+
                  Este indicador busca ser amigable con el usuario; se colocó un ícono de termómetro para que el usuario pueda asociarlo a la temperatura del sistema, el cual reacciona bajo ciertas condiciones previamente programadas, ya que conforme aumenta o disminuye la temperatura, este reacciona a los cambios. Por otro lado, también se colocó un círculo que se va iluminando conforme la temperatura avanza en porcentaje. Conforme a los rangos de temperatura, este círculo cambia de color, es decir, en un rango de temperatura mayor a los 0 °C, pero menor a los 20 °C, el círculo se iluminará de color azul cielo, indicando al usuario una temperatura baja; cuando la temperatura es mayor de 20 °C, pero menor a 50 °C, el círculo se iluminará de color naranja y, en temperaturas mayores a 50 °C, será rojo, indicando alta temperatura.
             
                 \begin{figure}[h]
                \centering
-            \includegraphics[scale=0.1]{images/Web/indicador.png}
+            \includegraphics[scale=0.5]{images/Web/indicador.png}
             
             \caption{Indicador de temperatura baja}
             \label{fg:pagina_web}
         \end{figure}
 \begin{figure}[h]
             \centering
-            \includegraphics[scale=0.1]{images/Web/indicador_temp.png}
+            \includegraphics[scale=0.5]{images/Web/indicador_temp.png}
             
             \caption{Indicador temperatura media}
             \label{fg:pagina_web}
         \end{figure}
         Como en todo sensor, existe la posibilidad de una falla en la lectura o de un daño en el componente, por lo que se propuso alertar al usuario cuando esto suceda. En el caso del sensor DS18B20, cuando este falle, arrojará una medición de 0 °C; además, la casilla donde se encuentra representado el sensor se iluminará de rojo y, en el indicador de temperatura, el círculo se irá a cero, así como el termómetro simulará no tener medición.
+        
 \begin{figure}[h]
             \centering
-            \includegraphics[scale=0.1]{images/Web/error_ds18.png}
+            \includegraphics[scale=0.45]{images/Web/error_ds18.png}
             
             \caption{Error sensor DS18B20}
             \label{fg:pagina_web}
@@ -100,44 +104,53 @@ Partiendo de la parte superior, se presenta el estado de los sensores tanto de t
         En el caso del sensor de humedad, pasa algo similar, siendo que aquí se visualiza la lectura NaN\% (Not a Number) , de igual manera la casilla se iluminará de rojo y el indicador que simula un higrómetro analógico se irá a cero y el circulo también.
         \begin{figure}[h]
             \centering
-            \includegraphics[scale=0.1]{images/Web/dht11_web.png}
+            \includegraphics[scale=0.45]{images/Web/dht11_web.png}
             
             \caption{Error sensor DHT11}
             \label{fg:pagina_web}
         \end{figure}
+
 Durante el proceso de compostaje se requiere activar algunos componentes, como es el caso de un ventilador, un motor y el cinturón para calentar el tambo. Sin embargo, saber que están activados podría ser útil para el usuario, por lo que cada que se enciende alguno de estos dispositivos, se ejecuta una animación que indica el estado de funcionamiento; cuando se apagan, la animación se detiene, simulando un estado de pausa.
-\begin{figure}[h]
+
+\begin{figure}[H]
             \centering
-            \includegraphics[scale=0.1]{images/Web/ventilador_web.png}
+            \includegraphics[scale=0.5]{images/Web/ventilador_web.png}
             
             \caption{Activación ventilador}
             \label{fg:pagina_web}
         \end{figure}
-\begin{figure}[h]
+
+\begin{figure}[H]
             \centering
-            \includegraphics[scale=0.1]{images/Web/motor_web.png}
+            \includegraphics[scale=0.5]{images/Web/motor_web.png}
             
             \caption{Activación motor}
             \label{fg:pagina_web}
         \end{figure}
-        \begin{figure}[h]
+
+\begin{figure}[H]
             \centering
-            \includegraphics[scale=0.1]{images/Web/resistencia_web.png}
+            \includegraphics[scale=0.5]{images/Web/resistencia_web.png}
             
             \caption{Activación resistencia}
             \label{fg:pagina_web}
         \end{figure}
-        Por último para saber en qué punto del proceso se encuentra, se colocó un temporizador regresivo que mediante el almacenamiento local de la página registra la hora y aunque el sitio web se actualiza, el temporizador no se reinicia.
+
+
+Por último para saber en qué punto del proceso se encuentra, se colocó un temporizador regresivo que mediante el almacenamiento local de la página registra la hora y aunque el sitio web se actualiza, el temporizador no se reinicia.
+
+
 \begin{figure}[h]
             \centering
-            \includegraphics[scale=0.1]{images/Web/temporizador_web.png}
+            \includegraphics[scale=0.5]{images/Web/temporizador_web.png}
             
             \caption{Temporizador regresivo}
             \label{fg:pagina_web}
         \end{figure}
-\begin{figure}[h]
+
+\begin{figure}[H]
             \centering
-            \includegraphics[scale=0.1]{images/Web/Db_compostador.png}
+            \includegraphics[scale=0.3]{images/Web/Db_compostador.png}
             
             \caption{Base de datos }
             \label{fg:pagina_web}
