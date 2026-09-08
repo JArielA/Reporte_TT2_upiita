@@ -1,0 +1,98 @@
+This is BibTeX, Version 0.99e
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Principal.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: preliminares/resumen.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: preliminares/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: preliminares/nomenclatura.aux
+Reallocating 'name_of_file' (item size: 1) to 32 items.
+A level-1 auxiliary file: parts/1_Mar_ref/2.0_rev_lit.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: capitulos/marcoreferencia.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: parts/2_Dis_sist/2_Dis_sis.aux
+Reallocating 'name_of_file' (item size: 1) to 28 items.
+A level-1 auxiliary file: capitulos/disedetallado.aux
+Reallocating 'name_of_file' (item size: 1) to 36 items.
+A level-1 auxiliary file: parts/3_Imple/3.0_Implemetacion.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: parts/4_Ana/4.0_Analisis.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: parts/6_con/6.0_con.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Reallocating 'name_of_file' (item size: 1) to 35 items.
+A level-1 auxiliary file: apendices/apendices/7.2.1_IDEF.aux
+Reallocating 'name_of_file' (item size: 1) to 49 items.
+A level-1 auxiliary file: apendices/apendices/7.2.2_Matriz_Morfologica.aux
+Reallocating 'name_of_file' (item size: 1) to 53 items.
+A level-1 auxiliary file: apendices/apendices/7.2.3_Criterios_de_Seleccion.aux
+Reallocating 'name_of_file' (item size: 1) to 43 items.
+A level-1 auxiliary file: apendices/apendices/7.2.4_Matrices_AHP.aux
+Reallocating 'name_of_file' (item size: 1) to 40 items.
+A level-1 auxiliary file: apendices/apendices/7.2.5_Seleccion.aux
+Reallocating 'name_of_file' (item size: 1) to 51 items.
+A level-1 auxiliary file: apendices/apendices/7.2.6_Temperatura_cilindro.aux
+Reallocating 'name_of_file' (item size: 1) to 48 items.
+A level-1 auxiliary file: apendices/apendices/7.2.7_Temperatura_final.aux
+Reallocating 'name_of_file' (item size: 1) to 48 items.
+A level-1 auxiliary file: apendices/apendices/7.2.8_Estudios_Termicos.aux
+Reallocating 'name_of_file' (item size: 1) to 50 items.
+A level-1 auxiliary file: apendices/apendices/7.2.9_Calculos_estructura.aux
+Reallocating 'name_of_file' (item size: 1) to 39 items.
+A level-1 auxiliary file: apendices/apendices/7.2.10_Control.aux
+Reallocating 'name_of_file' (item size: 1) to 43 items.
+A level-1 auxiliary file: apendices/apendices/7.2.11_Ventilacion.aux
+Reallocating 'name_of_file' (item size: 1) to 50 items.
+A level-1 auxiliary file: apendices/apendices/7.2.12_Codigo_de_programa.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: apendices/anexo1.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: apendices/anexo2.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: apendices/anexo3.aux
+Database file #1: xbiblioteca.bib
+You've used 56 entries,
+            1876 wiz_defined-function locations,
+            821 strings with 12444 characters,
+and the built_in function-call counts, 8234 in all, are:
+= -- 801
+> -- 262
+< -- 0
++ -- 122
+- -- 66
+* -- 343
+:= -- 1204
+add.period$ -- 111
+call.type$ -- 56
+change.case$ -- 21
+chr.to.int$ -- 0
+cite$ -- 56
+duplicate$ -- 407
+empty$ -- 1072
+format.name$ -- 66
+if$ -- 2110
+int.to.chr$ -- 0
+int.to.str$ -- 56
+missing$ -- 67
+newline$ -- 226
+num.names$ -- 55
+pop$ -- 328
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 113
+stack$ -- 0
+substring$ -- 6
+swap$ -- 43
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 56
+width$ -- 58
+write$ -- 528

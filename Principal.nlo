@@ -1,0 +1,38 @@
+\nomenclatureentry{ASEMARNAT@[{SEMARNAT}]\begingroup Secretar\'ia de Medio Ambiente y Recursos Naturales\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{ARSU@[{RSU}]\begingroup Residuos Sólidos Urbanos\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{ANOM@[{NOM}]\begingroup Norma Oficial Mexicana\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{AFBS@[{FBS}]\begingroup Estructura Funcional de Desglose\textit{(por sus siglas en ingl\'es Functional Breakdown Structure )}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{AIDEF-0@[{IDEF-0}]\begingroup Definici\'on de integraci\'on por modelado de funciones\textit{(por sus siglas en ingl\'es Functional Breakdown Structure )}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{ASPA @[{SPA }]\begingroup Arquitectura F\'isica del sistema\textit{(por sus siglas en ingl\'es System Physical Architecture )}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{AAHP@[{AHP}]\begingroup Proceso anal\'itico jer\'arquico \textit{(del ingl\'es Analytic Hierachy Process)}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$\rho_{2}$@[{$\rho_{2}$}]\begingroup Relaci\'on de transmisi\'on entre la catarina conducida y la catarina motriz\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$N_{1}$@[{$N_{1}$}]\begingroup N\'umero de dientes de la catarina motriz\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$N_{2}$@[{$N_{2}$}]\begingroup N\'umero de dientes de la catarina conducida\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$K_{t}$@[{$K_{t}$}]\begingroup factor de concentraci\'on de esfuerzos geom\'etricos\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$K_{f}$@[{$K_{f}$}]\begingroup Factor de correci\'on por concentraci\'on de esfuerzos\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$F_{d}$ @[{$F_{d}$ }]\begingroup actor del di\'ametro del transportador\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$f_{b}$ @[{$f_{b}$ }]\begingroup Factor del buje para colgante\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$F_{f}$@[{$F_{f}$}]\begingroup Factor de helicoidal\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$F_{m}$@[{$F_{m}$}]\begingroup Factor de material\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$F_{p}$ @[{$F_{p}$ }]\begingroup Factor de paletas\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$F_{fo}$@[{$F_{fo}$}]\begingroup Factor de sobrecarga\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$e$@[{$e$}]\begingroup Eficiencia de la transmisi\'on\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$a$@[{$a$}]\begingroup The number of angels per unit area\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$N$@[{$N$}]\begingroup The number of angels per needle point\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$A$@[{$A$}]\begingroup The area of the needle point\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$\sigma$@[{$\sigma$}]\begingroup The total mass of angels per unit area\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$m$@[{$m$}]\begingroup The mass of one angel\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$\beta$@[{$\beta$}]\begingroup The second letter of the greek alphabet\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$\alpha$@[{$\alpha$}]\begingroup The first letter of the greek alphabet\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$\mathcal {L}$@[{$\mathcal {L}$}]\begingroup  Transformada de Laplace\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{B$\mathcal {F}$@[{$\mathcal {F}$}]\begingroup  Transformada de Fourier\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$F_c$@[{$F_c$}]\begingroup {Fuerza de corte}\nomunit{\SI[group-digits=false]{}{\N}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$\tau_{c}$@[{$\tau_{c}$}]\begingroup { Esfuerzo cortante}\nomunit{\SI[group-digits=false]{}{\MPa}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$\tau_{v}$@[{$\tau_{v}$}]\begingroup {Esfuerzo variable}\nomunit{\SI[group-digits=false]{}{\MPa}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$\tau_{m}$ @[{$\tau_{m}$ }]\begingroup { Esfuerzo medio}\nomunit{\SI[group-digits=false]{}{\MPa}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$e$@[{$e$}]\begingroup {Espesor de l\'amina}\nomunit{\SI[group-digits=false]{}{\m}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$L$@[{$L$}]\begingroup {Longitud del borde de corte}\nomunit{\SI[group-digits=false]{}{\m}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$M_{t}$@[{$M_{t}$}]\begingroup {Momento de torsi\'on del eje de trituraci\'on }\nomunit{\SI[group-digits=false]{}{\N\m}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$Mt_{v}$@[{$Mt_{v}$}]\begingroup {Momento de torsi\'on variable }\nomunit{\SI[group-digits=false]{}{\N\m}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$Mt_{m}$@[{$Mt_{m}$}]\begingroup {Momento de torsi\'on medio}\nomunit{\SI[group-digits=false]{}{\N\m}}\nomeqref {0}|nompageref}{1}
+\nomenclatureentry{C$\omega$@[{$\omega$}]\begingroup {Velocidad angular}\nomunit{\SI{}{\radian\per\second}}\nomeqref {0}|nompageref}{1}

@@ -1,5 +1,56 @@
 \begin{thebibliography}{10}
 
+\bibitem{EPA2020}
+EPA, {\em In-Vessel Composting of Biosolids}.
+\newblock {Washington, D.C. } United States: Environmental Protection Agency,
+  2020.
+
+\bibitem{IRI2017}
+I.~Graessler, {\em A new V-Model for interdisciplinary product engineering}.
+\newblock {Alemania}: Paderborn University, 2017.
+
+\bibitem{CCA2017}
+CCA, {\em Carcaterización y gestión de los residuos orgánicos en América
+  del Norte, Informe sintético}.
+\newblock {Montreal} Canadá: Comisión para la Cooperación Ambiental, 2017.
+
+\bibitem{WIL2019}
+W.~Bohórquez, {\em El proceso de compostaje}.
+\newblock {Bogotá} Colombia: Universidad de La Salle, 2019.
+
+\bibitem{ONU2020}
+U.~C. T. C.~. Network, {\em In Vessel composting}.
+\newblock {}: ONU, 2020.
+
+\bibitem{SULZER2015}
+SULZER, {\em Digestión aeróbica}.
+\newblock {}: SULZER, 2015.
+
+\bibitem{INOX2019}
+INOXMIN, {\em Agitadores para tanques ¿Cómo funcionan?}
+\newblock {}: INOXMIN, 2019.
+
+\bibitem{VISE}
+{VISE}, ``Máquinas para trituracion: características y uso..''
+  \url{https://blog.vise.com.mx/maquinas-para-trituracion-caracteristicas-y-uso},
+  2021.
+\newblock [Online; accessed 14-Octubre-2021].
+
+\bibitem{SCONT2020}
+M.~Gandhi, {\em ¿Qué es un sistema de control?}
+\newblock {}: AUTYCOM, 2020.
+
+\bibitem{SINADRIVES}
+{SINADRIVES}, ``Control de maquinaria: control en lazo abierto / cerrado.''
+  \url{https://sinadrives.com/es/control-de-maquinaria-control-en-lazo-abierto-cerrado/},
+  2021.
+\newblock [Online; accessed 15-Octubre-2022].
+
+\bibitem{IHM2020}
+{AUTYCOM}, ``¿qué es un sistema mhi?.''
+  \url{https://www.autycom.com/que-es-un-sistema-hmi/}, 2020.
+\newblock [Online; accessed 17-Octubre-2022].
+
 \bibitem{Flores2018}
 D.~A. Flores~Hernández, {\em Design methodology for mechatronic systems: A
   functional approach.}
@@ -103,15 +154,6 @@ D.~Fallas, {\em Caracterizacion del proceso de compostaje y aprovechamiento del
   calor generado en un reactor bajo aireacion forzada}.
 \newblock {San José} Costa Rica: Universidad de Costa Rica, 2016.
 
-\bibitem{CCA2017}
-CCA, {\em Carcaterización y gestión de los residuos orgánicos en América
-  del Norte, Informe sintético}.
-\newblock {Montreal} Canadá: Comisión para la Cooperación Ambiental, 2017.
-
-\bibitem{WIL2019}
-W.~Bohórquez, {\em El proceso de compostaje}.
-\newblock {Bogotá} Colombia: Universidad de La Salle, 2019.
-
 \bibitem{ROJAS2021}
 C.~Rojas and L.~Yenque, {\em Revisión sistemática: Métodos de compostaje de
   residuos orgánicos}.
@@ -137,48 +179,6 @@ R.~Zink, {\em Diseño de una planta industrial de compostaje de pilas estaticas
 \bibitem{GAN2010}
 J.~de~Andalucia, {\em Sistemas y técnicas para el compostaje}.
 \newblock {Andalucia} España: Gobierno de Andalucia, 2010.
-
-\bibitem{ONU2020}
-U.~C. T. C.~. Network, {\em In Vessel composting}.
-\newblock {}: ONU, 2020.
-
-\bibitem{EPA2020}
-EPA, {\em In-Vessel Composting of Biosolids}.
-\newblock {Washington, D.C. } United States: Environmental Protection Agency,
-  2020.
-
-\bibitem{SULZER2015}
-SULZER, {\em Digestión aeróbica}.
-\newblock {}: SULZER, 2015.
-
-\bibitem{INOX2019}
-INOXMIN, {\em Agitadores para tanques ¿Cómo funcionan?}
-\newblock {}: INOXMIN, 2019.
-
-\bibitem{VISE}
-{VISE}, ``Máquinas para trituracion: características y uso..''
-  \url{https://blog.vise.com.mx/maquinas-para-trituracion-caracteristicas-y-uso},
-  2021.
-\newblock [Online; accessed 14-Octubre-2021].
-
-\bibitem{IHM2020}
-{AUTYCOM}, ``¿qué es un sistema mhi?.''
-  \url{https://www.autycom.com/que-es-un-sistema-hmi/}, 2020.
-\newblock [Online; accessed 17-Octubre-2022].
-
-\bibitem{SCONT2020}
-M.~Gandhi, {\em ¿Qué es un sistema de control?}
-\newblock {}: AUTYCOM, 2020.
-
-\bibitem{SINADRIVES}
-{SINADRIVES}, ``Control de maquinaria: control en lazo abierto / cerrado.''
-  \url{https://sinadrives.com/es/control-de-maquinaria-control-en-lazo-abierto-cerrado/},
-  2021.
-\newblock [Online; accessed 15-Octubre-2022].
-
-\bibitem{IRI2017}
-I.~Graessler, {\em A new V-Model for interdisciplinary product engineering}.
-\newblock {Alemania}: Paderborn University, 2017.
 
 \bibitem{DGN2018}
 D.~G. de~Normas, {\em NMX-AA-180-SCFI-2018 Que establece los métodos y
