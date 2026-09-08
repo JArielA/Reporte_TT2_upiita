@@ -1,39 +1,64 @@
 \babel@toc {spanish}{}\relax 
 \contentsline {chapter}{Agradecimientos}{ix}{chapter*.1}%
-\contentsline {chapter}{Resumen}{xv}{chapter*.3}%
-\contentsline {chapter}{Abstract}{xvii}{chapter*.4}%
-\contentsline {chapter}{\listfigurename }{xxii}{chapter*.5}%
-\contentsline {chapter}{\listtablename }{xxiv}{chapter*.8}%
-\contentsline {chapter}{Diseño del sistema}{xxv}{chapter*.10}%
-\contentsline {section}{\numberline {0.1}Diseño Conceptual}{xxv}{section.0.1}%
-\contentsline {subsection}{\numberline {0.1.1}Necesidades y requerimientos}{xxv}{subsection.0.1.1}%
-\contentsline {subsection}{\numberline {0.1.2}Funcionamiento general}{xxix}{subsection.0.1.2}%
-\contentsline {subsection}{\numberline {0.1.3}Arquitectura funcional}{xxx}{subsection.0.1.3}%
-\contentsline {subsection}{\numberline {0.1.4}Arquitectura física}{xxxv}{subsection.0.1.4}%
-\contentsline {subsection}{\numberline {0.1.5}Propuesta solución}{xxxviii}{subsection.0.1.5}%
-\contentsline {subsection}{\numberline {0.1.6}Validación del sistema}{xl}{subsection.0.1.6}%
-\contentsline {subsection}{\numberline {0.1.7}Selección de diseño conceptual}{xlii}{subsection.0.1.7}%
-\contentsline {chapter}{Implementación del sistema}{xlv}{chapter*.11}%
-\contentsline {subsection}{\numberline {0.1.8}Sistema de administración de comportamiento $S_1$}{xlv}{subsection.0.1.8}%
-\contentsline {subsection}{\numberline {0.1.9}Sistema de procesamiento de datos $S_2$}{lix}{subsection.0.1.9}%
-\contentsline {subsection}{\numberline {0.1.10}Sistema de energía $S_3$}{lxii}{subsection.0.1.10}%
-\contentsline {subsection}{\numberline {0.1.11}Sistema de trituración $S_4$}{lxvii}{subsection.0.1.11}%
-\contentsline {subsection}{\numberline {0.1.12}Sistema de procesamiento de materia $S_5$}{lxxiii}{subsection.0.1.12}%
-\contentsline {subsection}{\numberline {0.1.13}Sistema estructural $S_6$}{lxxxv}{subsection.0.1.13}%
-\contentsline {subsection}{\numberline {0.1.14}Integración del sistema}{lxxxviii}{subsection.0.1.14}%
-\contentsline {subsection}{\numberline {0.1.15}Integración del sistema}{xciv}{subsection.0.1.15}%
-\contentsline {chapter}{Análisis de resultados}{cxi}{chapter*.12}%
-\contentsline {subsection}{\numberline {0.1.16}Análisis de ingeniería del proyecto}{cxi}{subsection.0.1.16}%
-\contentsline {subsection}{\numberline {0.1.17}Análisis de costos del proyecto}{cxii}{subsection.0.1.17}%
-\contentsline {subsection}{\numberline {0.1.18}Valor de nuestro trabajo}{cxxi}{subsection.0.1.18}%
-\contentsline {chapter}{Análisis de resultados}{cxxiii}{chapter*.13}%
-\contentsline {section}{Propios del desarrollo tecnológico o investigación}{cxxiii}{section*.14}%
-\contentsline {section}{Análisis de Costos}{cxxvi}{section*.15}%
-\contentsline {section}{Impacto ambiental}{cxxx}{section*.16}%
-\contentsline {section}{Sustentabilidad}{cxxxii}{section*.17}%
-\contentsline {chapter}{Conclusiones}{cxxxiii}{chapter*.18}%
-\contentsline {section}{Conclusiones}{cxxxiii}{section*.19}%
-\contentsline {section}{Recomendación y trabajo a futuro}{cxxxvii}{section*.20}%
-\contentsline {part}{Referencias}{cxli}{chapter*.22}%
-\contentsline {part}{Apéndices}{cxlvii}{part.1}%
-\contentsline {part}{Anexos}{cxlix}{part.2}%
+\contentsline {chapter}{Resumen}{xiii}{chapter*.3}%
+\contentsline {chapter}{Abstract}{xv}{chapter*.4}%
+\contentsline {chapter}{\listfigurename }{xvii}{chapter*.5}%
+\contentsline {chapter}{\listtablename }{xix}{chapter*.8}%
+\contentsline {chapter}{Diseño del sistema}{xxi}{chapter*.10}%
+\contentsline {section}{\numberline {0.1}Diseño Conceptual}{xxi}{section.0.1}%
+\contentsline {subsection}{\numberline {0.1.1}Necesidades y requerimientos}{xxi}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {0.1.2}Funcionamiento general}{xxv}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {0.1.3}Arquitectura funcional}{xxvi}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {0.1.4}Arquitectura física}{xxxi}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {0.1.5}Propuesta solución}{xxxiv}{subsection.0.1.5}%
+\contentsline {subsection}{\numberline {0.1.6}Validación del sistema}{xxxvi}{subsection.0.1.6}%
+\contentsline {subsection}{\numberline {0.1.7}Selección de diseño conceptual}{xxxviii}{subsection.0.1.7}%
+\contentsline {section}{\numberline {0.2}Diseño Detallado}{xl}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Detalle módulo 1 (M{l})}{xl}{subsection.0.2.1}%
+\contentsline {subsubsection}{\numberline {0.2.1.1}Validación (M{l})}{xl}{subsubsection.0.2.1.1}%
+\contentsline {subsection}{\numberline {0.2.2}Detalle módulo 2 (M{2})}{xl}{subsection.0.2.2}%
+\contentsline {subsubsection}{\numberline {0.2.2.1}Validación (M{2})}{xl}{subsubsection.0.2.2.1}%
+\contentsline {subsection}{\numberline {0.2.3}Detalle módulo n (M{n})}{xl}{subsection.0.2.3}%
+\contentsline {subsubsection}{\numberline {0.2.3.1}Validación (M{n})}{xl}{subsubsection.0.2.3.1}%
+\contentsline {subsection}{\numberline {0.2.4}Integración sistema mecatrónico}{xl}{subsection.0.2.4}%
+\contentsline {subsection}{\numberline {0.2.5}Validación sistema mecatrónico}{xl}{subsection.0.2.5}%
+\contentsline {chapter}{Implementación del sistema}{xli}{chapter*.11}%
+\contentsline {subsection}{\numberline {0.2.6}Sistema de administración de comportamiento $S_1$}{xli}{subsection.0.2.6}%
+\contentsline {subsection}{\numberline {0.2.7}Sistema de procesamiento de datos $S_2$}{lv}{subsection.0.2.7}%
+\contentsline {subsection}{\numberline {0.2.8}Sistema de energía $S_3$}{lviii}{subsection.0.2.8}%
+\contentsline {subsection}{\numberline {0.2.9}Sistema de trituración $S_4$}{lxiii}{subsection.0.2.9}%
+\contentsline {subsection}{\numberline {0.2.10}Sistema de procesamiento de materia $S_5$}{lxix}{subsection.0.2.10}%
+\contentsline {subsection}{\numberline {0.2.11}Sistema estructural $S_6$}{lxxxi}{subsection.0.2.11}%
+\contentsline {subsection}{\numberline {0.2.12}Integración del sistema}{lxxxiv}{subsection.0.2.12}%
+\contentsline {subsection}{\numberline {0.2.13}Integración del sistema}{xc}{subsection.0.2.13}%
+\contentsline {chapter}{Análisis de resultados}{cvii}{chapter*.12}%
+\contentsline {subsection}{\numberline {0.2.14}Análisis de ingeniería del proyecto}{cvii}{subsection.0.2.14}%
+\contentsline {subsection}{\numberline {0.2.15}Análisis de costos del proyecto}{cviii}{subsection.0.2.15}%
+\contentsline {subsection}{\numberline {0.2.16}Valor de nuestro trabajo}{cxvii}{subsection.0.2.16}%
+\contentsline {chapter}{Conclusiones}{cxix}{chapter*.13}%
+\contentsline {section}{Conclusiones}{cxix}{section*.14}%
+\contentsline {section}{Recomendación y trabajo a futuro}{cxxiii}{section*.15}%
+\contentsline {part}{Referencias}{cxxvii}{chapter*.17}%
+\contentsline {part}{Apéndices}{cxxxiii}{part.1}%
+\contentsline {section}{Diagramas IDEF-0}{cxxxv}{section*.18}%
+\contentsline {section}{Apéndice 3: Diagramas IDEF-0}{cxxxv}{section*.18}%
+\contentsline {section}{Matriz Morfológica}{cxlv}{section*.19}%
+\contentsline {section}{Apéndice 2: Diagramas FBS}{cxlv}{section*.19}%
+\contentsline {section}{Descripción de Criterios de Selección}{cxlviii}{section*.20}%
+\contentsline {section}{Matrices AHP}{cli}{section*.21}%
+\contentsline {section}{Ejemplo de proceso de selección}{clviii}{section*.22}%
+\contentsline {section}{Ejemplo de cálculo de calor para un cilindro}{clxi}{section*.23}%
+\contentsline {section}{Ejemplo cálculo de temperatura final}{clxii}{section*.24}%
+\contentsline {section}{Estudios Térmicos}{clxiv}{section*.25}%
+\contentsline {section}{Cálculos de la estructura}{clxxi}{section*.26}%
+\contentsline {section}{Potencia Consumida}{clxxi}{section*.27}%
+\contentsline {section}{Diseño de la transmisión por bandas}{clxxii}{section*.28}%
+\contentsline {section}{Diseño de la cuña}{clxxiii}{section*.29}%
+\contentsline {section}{Diseño del eje de Aireación}{clxxiv}{section*.30}%
+\contentsline {section}{Ejemplo de procedimiento PID}{clxxxi}{section*.31}%
+\contentsline {section}{Simulaciones sistema de ventilación}{clxxxiv}{section*.32}%
+\contentsline {section}{Código del sistema de compostaje}{clxxxvii}{section*.33}%
+\contentsline {part}{Anexos}{ccix}{part.2}%
+\contentsline {chapter}{Anexo 1. Placa del motor de aireación}{ccxi}{appendix*.34}%
+\contentsline {chapter}{Anexo 2. Placa del motor de tituración}{ccxiii}{appendix*.35}%
+\contentsline {chapter}{Anexo 3 (Anexo título 3)}{ccxv}{appendix*.36}%

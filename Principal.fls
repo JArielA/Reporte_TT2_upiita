@@ -1,440 +1,416 @@
-PWD c:\Users\Dan\Reporte_TT2_upiita
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\Dan\Reporte_TT2_upiita\Principal.tex
+PWD c:\Users\JesusAlmaguer\OneDrive - The Ksquare Group\Documents\upiita\Trabajo_Terminal_UPIITA_IPN_2023
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\JesusAlmaguer\OneDrive - The Ksquare Group\Documents\upiita\Trabajo_Terminal_UPIITA_IPN_2023\Principal.tex
 OUTPUT Principal.log
 INPUT .\upiita.cls
 INPUT upiita.cls
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\bk11.clo
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\bk11.clo
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\bk11.clo
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\babel\babel.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\babel\txtbabel.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-spanish.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\babel\locale\es\babel-es.ini
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fancyhdr\fancyhdr.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\bk11.clo
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\bk11.clo
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\bk11.clo
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
 INPUT .\configuracion\upiitatesis.sty
 INPUT configuracion\upiitatesis.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\bbding\bbding.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\bbding\bbding.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\eucal.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\eucal.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\montserrat.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\montserrat.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\keyval.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\pifont.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\pifont.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\amssymb.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\bbding\bbding.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\bbding\bbding.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fourier\fourier-orns.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\eucal.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\eucal.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\mathrsfs.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\montserrat.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\montserrat.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1enc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\ly1enc.dfu
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1095.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\mweights\mweights.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fontaxes\fontaxes.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\figureversions\figureversions.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\xkeyval\keyval.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\pifont.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upzd.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\zapfding\pzdr.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\upsy.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\symbol\psyr.tfm
 INPUT .\configuracion\romanidx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\romanidx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\romanidx.sty
 INPUT configuracion\romanidx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\titling\titling.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\titling\titling.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fncychap\fncychap.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fncychap\fncychap.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\makeidx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\base\makeidx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\nomencl\nomencl.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\nomencl\nomencl.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\tocbasic.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\tocbasic.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\lettrine\lettrine.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\multicol.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\titling\titling.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\titling\titling.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fncychap\fncychap.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fncychap\fncychap.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\iftex\ifvtex.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\kvdefinekeys\kvdefinekeys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pdfescape\pdfescape.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\infwarerr\infwarerr.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hycolor\hycolor.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\refcount\refcount.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\stringenc\stringenc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\intcalc\intcalc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\puenc.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\url\url.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\bitset\bitset.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\bigintcalc\bigintcalc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bookmark.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\bookmark\bkm-pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdflscape\pdflscape-nometadata.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\lscape.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphics.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\trig.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pdfpages.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\eso-pic\eso-pic.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pdfpages\pppdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\makeidx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\base\makeidx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\nomencl\nomencl.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\nomencl\nomencl.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\tocbasic.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\tocbasic.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrbase.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlfile-hook.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\koma-script\scrlogo.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\caption\caption.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\siunitx\siunitx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\translations\translations.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\afterpage.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\graphics\rotating.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstpatch.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\listings.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
 OUTPUT Principal.idx
 OUTPUT Principal.nlo
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\makecell\makecell.sty
 INPUT .\arduino_code.tex
 INPUT .\arduino_code.tex
 INPUT arduino_code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistings.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistingscore.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbprocessing.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbskins.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill.image.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill.image.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzlibraryfill.image.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzlibraryfill.image.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcolorbox.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeyslibraryfiltered.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\verbatim.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\environ\environ.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\trimspaces\trimspaces.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistings.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcblistingscore.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbprocessing.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbskins.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill.image.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzfill.image.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzlibraryfill.image.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tikzfill\tikzlibraryfill.image.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT .\Principal.aux
 INPUT .\Principal.aux
 INPUT Principal.aux
-INPUT .\preliminares\resumen.aux
-INPUT .\preliminares\resumen.aux
-INPUT preliminares\resumen.aux
-INPUT .\preliminares\abstract.aux
-INPUT .\preliminares\abstract.aux
-INPUT preliminares\abstract.aux
-INPUT .\capitulos\marcoreferencia.aux
-INPUT .\capitulos\marcoreferencia.aux
-INPUT capitulos\marcoreferencia.aux
-INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
-INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
-INPUT parts\2_Dis_sist\2_Dis_sis.aux
-INPUT .\parts\3_Imple\3.0_Implemetacion.aux
-INPUT .\parts\3_Imple\3.0_Implemetacion.aux
-INPUT parts\3_Imple\3.0_Implemetacion.aux
-INPUT .\parts\4_Ana\4.0_Analisis.aux
-INPUT .\parts\4_Ana\4.0_Analisis.aux
-INPUT parts\4_Ana\4.0_Analisis.aux
-INPUT .\parts\5_res\5.0_res.aux
-INPUT .\parts\5_res\5.0_res.aux
-INPUT parts\5_res\5.0_res.aux
-INPUT .\parts\6_con\6.0_con.aux
-INPUT .\parts\6_con\6.0_con.aux
-INPUT parts\6_con\6.0_con.aux
 OUTPUT Principal.aux
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 OUTPUT Principal.pdf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\translations\dicts\translations-basic-dictionary-spanish.trsl
 INPUT .\logos\LOGOPOLI.png
 INPUT .\logos\LOGOPOLI.png
 INPUT .\logos\LOGOPOLI.png
@@ -448,54 +424,54 @@ INPUT .\logos\logoupiita.pdf
 INPUT .\logos\logoupiita.pdf
 INPUT .\logos\logoupiita.pdf
 INPUT .\logos\logoupiita.pdf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2074.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2074.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-tlf.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-tlf.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-tlf.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\eccc1095.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1440.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Bold-tlf-t1.vf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1--base.tfm
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\montserrat\zmo_bapnwu.enc
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Bold-tlf-t1.vf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1--base.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\jknappen\ursfs.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2074.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2074.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-tlf.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-tlf.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-tlf.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\eccc1095.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1200.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1440.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1440.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1440.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1200.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Bold-tlf-t1.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1--base.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\montserrat\zmo_bapnwu.enc
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Bold-tlf-t1.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-tlf-t1--base.tfm
 INPUT .\logos\LOGOPOLI.png
 INPUT .\logos\LOGOPOLI.png
 INPUT .\logos\LOGOPOLI.png
@@ -504,63 +480,52 @@ INPUT .\logos\logoupiita.pdf
 INPUT .\logos\logoupiita.pdf
 INPUT .\logos\logoupiita.pdf
 INPUT .\logos\logoupiita.pdf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1095.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-lf.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-lf.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-lf.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-lf-t1.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1095.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-lf.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-lf.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\montserrat\t1montserrat-lf.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-lf-t1.tfm
 INPUT .\preliminares\dedicatoria.tex
 INPUT .\preliminares\dedicatoria.tex
 INPUT .\preliminares\dedicatoria.tex
 INPUT .\preliminares\dedicatoria.tex
 INPUT preliminares\dedicatoria.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Bold-lf-t1.vf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-lf-t1--base.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\montserrat\zmo_umrhwx.enc
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Bold-lf-t1.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Bold-lf-t1--base.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\montserrat\zmo_umrhwx.enc
 INPUT .\preliminares\agradecimientos.tex
 INPUT .\preliminares\agradecimientos.tex
 INPUT .\preliminares\agradecimientos.tex
 INPUT .\preliminares\agradecimientos.tex
 INPUT preliminares\agradecimientos.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
-INPUT .\Principal.toc
-INPUT .\Principal.toc
-INPUT Principal.toc
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1200.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
 OUTPUT Principal.toc
 INPUT .\preliminares\resumen.tex
 INPUT .\preliminares\resumen.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0800.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ufuts.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ufuts.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ufuts.fd
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futrorn.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futrorn.vf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-orns.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 OUTPUT preliminares\resumen.aux
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ufuts.fd
 INPUT .\preliminares\resumen.tex
 INPUT .\preliminares\resumen.tex
 INPUT preliminares\resumen.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0800.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ufuts.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ufuts.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\fourier\ufuts.fd
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\futrorn.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\fourier\futrorn.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-orns.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fourier\fourier-alt.tfm
 INPUT .\preliminares\abstract.tex
 INPUT .\preliminares\abstract.tex
 OUTPUT preliminares\abstract.aux
 INPUT .\preliminares\abstract.tex
 INPUT .\preliminares\abstract.tex
 INPUT preliminares\abstract.tex
-INPUT .\Principal.lof
-INPUT .\Principal.lof
-INPUT Principal.lof
 OUTPUT Principal.lof
-INPUT .\Principal.lot
-INPUT .\Principal.lot
-INPUT Principal.lot
 OUTPUT Principal.lot
 INPUT .\capitulos\marcoreferencia.tex
 INPUT .\capitulos\marcoreferencia.tex
@@ -580,9 +545,9 @@ INPUT parts\2_Dis_sist\2.1 Diseño conceptual\2.1 Diseño Conceptual.tex
 INPUT .\parts\2_Dis_sist\2.1 Diseño conceptual\2.1.1 Necesidades y requerimientos.tex
 INPUT .\parts\2_Dis_sist\2.1 Diseño conceptual\2.1.1 Necesidades y requerimientos.tex
 INPUT parts\2_Dis_sist\2.1 Diseño conceptual\2.1.1 Necesidades y requerimientos.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
 INPUT .\parts\2_Dis_sist\2.1 Diseño conceptual\2.1.2 Principio de funcionamiento.tex
 INPUT .\parts\2_Dis_sist\2.1 Diseño conceptual\2.1.2 Principio de funcionamiento.tex
 INPUT parts\2_Dis_sist\2.1 Diseño conceptual\2.1.2 Principio de funcionamiento.tex
@@ -596,7 +561,7 @@ INPUT .\images\Capitulo 3\Presentacion del proceso\Diagrama de flujo del sistema
 INPUT .\parts\2_Dis_sist\2.1 Diseño conceptual\2.1.3 Arquitectura funcional.tex
 INPUT .\parts\2_Dis_sist\2.1 Diseño conceptual\2.1.3 Arquitectura funcional.tex
 INPUT parts\2_Dis_sist\2.1 Diseño conceptual\2.1.3 Arquitectura funcional.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
 INPUT .\images\Capitulo 3\3.1.1.2 Arquitectura funcional\FBS2.png
 INPUT .\images\Capitulo 3\3.1.1.2 Arquitectura funcional\FBS2.png
 INPUT .\images\Capitulo 3\3.1.1.2 Arquitectura funcional\FBS2.png
@@ -651,6 +616,15 @@ INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
 INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
 INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
 INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
+INPUT .\capitulos\disedetallado.tex
+INPUT .\capitulos\disedetallado.tex
+OUTPUT capitulos\disedetallado.aux
+INPUT .\capitulos\disedetallado.tex
+INPUT .\capitulos\disedetallado.tex
+INPUT capitulos\disedetallado.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
 INPUT .\parts\3_Imple\3.0_Implemetacion.tex
 OUTPUT parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.tex
@@ -660,13 +634,13 @@ INPUT parts\3_Imple\3.0_Implemetacion.tex
 INPUT .\parts\3_Imple\3.1 Sistema 1\3.1.0 Sistema 1.tex
 INPUT .\parts\3_Imple\3.1 Sistema 1\3.1.0 Sistema 1.tex
 INPUT parts\3_Imple\3.1 Sistema 1\3.1.0 Sistema 1.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT .\parts\3_Imple\3.1 Sistema 1\3.1.1 Implementacion.tex
 INPUT .\parts\3_Imple\3.1 Sistema 1\3.1.1 Implementacion.tex
 INPUT parts\3_Imple\3.1 Sistema 1\3.1.1 Implementacion.tex
@@ -712,10 +686,10 @@ INPUT .\images\Web\pagina_compostador.png
 INPUT .\images\Web\pagina_compostador.png
 INPUT .\images\Web\pagina_compostador.png
 INPUT .\images\Web\pagina_compostador.png
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
 INPUT .\images\Web\temp_hum_web.png
 INPUT .\images\Web\temp_hum_web.png
 INPUT .\images\Web\temp_hum_web.png
@@ -844,7 +818,7 @@ INPUT .\images\Capitulo_Imple\S2\DHT11_FIS.jpeg
 INPUT .\images\Capitulo_Imple\S2\DHT11_FIS.jpeg
 INPUT .\images\Capitulo_Imple\S2\DHT11_FIS.jpeg
 INPUT .\images\Capitulo_Imple\S2\DHT11_FIS.jpeg
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0600.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0600.tfm
 INPUT .\images\Capitulo_Imple\S2\SEN_FUNCIONANDO.jpeg
 INPUT .\images\Capitulo_Imple\S2\SEN_FUNCIONANDO.jpeg
 INPUT .\images\Capitulo_Imple\S2\SEN_FUNCIONANDO.jpeg
@@ -858,7 +832,7 @@ INPUT parts\3_Imple\3.3 Sistema 3\3.3.0 Sistema 3.tex
 INPUT .\parts\3_Imple\3.3 Sistema 3\3.3.1 Implementacion.tex
 INPUT .\parts\3_Imple\3.3 Sistema 3\3.3.1 Implementacion.tex
 INPUT parts\3_Imple\3.3 Sistema 3\3.3.1 Implementacion.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1095.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecti1095.tfm
 INPUT .\parts\3_Imple\3.4 Sistema 4\3.4.0 Sistema 4.tex
 INPUT .\parts\3_Imple\3.4 Sistema 4\3.4.0 Sistema 4.tex
 INPUT parts\3_Imple\3.4 Sistema 4\3.4.0 Sistema 4.tex
@@ -1116,7 +1090,7 @@ INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
 INPUT .\parts\3_Imple\3.7_Integracion\3.7.2_Validacion.tex
 INPUT .\parts\3_Imple\3.7_Integracion\3.7.2_Validacion.tex
 INPUT parts\3_Imple\3.7_Integracion\3.7.2_Validacion.tex
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1095.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbi1095.tfm
 INPUT .\images\Pruebas\Pruebas_compost\carga1.jpeg
 INPUT .\images\Pruebas\Pruebas_compost\carga1.jpeg
 INPUT .\images\Pruebas\Pruebas_compost\carga1.jpeg
@@ -1216,27 +1190,6 @@ INPUT .\images\Anexo\Reparticion_gastos.png
 INPUT .\parts\4_Ana\4.3 Valor\4.3 Valor.tex
 INPUT .\parts\4_Ana\4.3 Valor\4.3 Valor.tex
 INPUT parts\4_Ana\4.3 Valor\4.3 Valor.tex
-INPUT .\parts\5_res\5.0_res.tex
-OUTPUT parts\5_res\5.0_res.aux
-INPUT .\parts\5_res\5.0_res.tex
-INPUT .\parts\5_res\5.0_res.tex
-INPUT .\parts\5_res\5.0_res.tex
-INPUT parts\5_res\5.0_res.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.0 Analisis de resultados.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.0 Analisis de resultados.tex
-INPUT parts\5_res\5.1_analisis_resultados\5.1.0 Analisis de resultados.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.1 Propios del desarollo tec.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.1 Propios del desarollo tec.tex
-INPUT parts\5_res\5.1_analisis_resultados\5.1.1 Propios del desarollo tec.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.2 Analisis de costos.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.2 Analisis de costos.tex
-INPUT parts\5_res\5.1_analisis_resultados\5.1.2 Analisis de costos.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.3 Impacto Ambiental.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.3 Impacto Ambiental.tex
-INPUT parts\5_res\5.1_analisis_resultados\5.1.3 Impacto Ambiental.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.4 Sustentabilidad.tex
-INPUT .\parts\5_res\5.1_analisis_resultados\5.1.4 Sustentabilidad.tex
-INPUT parts\5_res\5.1_analisis_resultados\5.1.4 Sustentabilidad.tex
 INPUT .\parts\6_con\6.0_con.tex
 OUTPUT parts\6_con\6.0_con.aux
 INPUT .\parts\6_con\6.0_con.tex
@@ -1252,12 +1205,691 @@ INPUT parts\6_con\6.2_recomendacion.tex
 INPUT .\Principal.bbl
 INPUT .\Principal.bbl
 INPUT Principal.bbl
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2488.tfm
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
-INPUT .\Principal.ind
-INPUT .\Principal.ind
-INPUT Principal.ind
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt1095.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm2488.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx2488.tfm
+INPUT .\apendices\apendices\7.2.1_IDEF.tex
+OUTPUT apendices\apendices\7.2.1_IDEF.aux
+INPUT .\apendices\apendices\7.2.1_IDEF.tex
+INPUT .\apendices\apendices\7.2.1_IDEF.tex
+INPUT .\apendices\apendices\7.2.1_IDEF.tex
+INPUT apendices\apendices\7.2.1_IDEF.tex
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A0_final.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A0_final.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A0_final.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A0_final.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A0_final.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A0_final.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A0_final.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\NodoA0.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\NodoA0.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\NodoA0.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\NodoA0.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A1_final - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A1_final - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A1_final - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A1_final - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A1_final - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A1_final - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A1_final - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A2_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A2_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A2_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A2_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A2_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A2_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A2_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,3_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,1,4_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,3,1_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,3,1_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,3,1_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,3,1_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,3,1_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,3,1_conmarco - Copy.png
+INPUT .\images\Capitulo 6 Apéndices\01 IDEF 0\A,3,1_conmarco - Copy.png
+INPUT .\apendices\apendices\7.2.2_Matriz_Morfologica.tex
+OUTPUT apendices\apendices\7.2.2_Matriz_Morfologica.aux
+INPUT .\apendices\apendices\7.2.2_Matriz_Morfologica.tex
+INPUT .\apendices\apendices\7.2.2_Matriz_Morfologica.tex
+INPUT .\apendices\apendices\7.2.2_Matriz_Morfologica.tex
+INPUT apendices\apendices\7.2.2_Matriz_Morfologica.tex
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\1D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\2B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\3D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\4D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\5D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\6B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\8C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\9C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\10B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\11C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12A.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12B.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12C.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12D.png
+INPUT .\images\Capitulo 3\3.1.2.1 Matriz morfologica\12D.png
+INPUT .\apendices\apendices\7.2.3_Criterios_de_Seleccion.tex
+OUTPUT apendices\apendices\7.2.3_Criterios_de_Seleccion.aux
+INPUT .\apendices\apendices\7.2.3_Criterios_de_Seleccion.tex
+INPUT .\apendices\apendices\7.2.3_Criterios_de_Seleccion.tex
+INPUT .\apendices\apendices\7.2.3_Criterios_de_Seleccion.tex
+INPUT apendices\apendices\7.2.3_Criterios_de_Seleccion.tex
+INPUT .\apendices\apendices\7.2.4_Matrices_AHP.tex
+OUTPUT apendices\apendices\7.2.4_Matrices_AHP.aux
+INPUT .\apendices\apendices\7.2.4_Matrices_AHP.tex
+INPUT .\apendices\apendices\7.2.4_Matrices_AHP.tex
+INPUT .\apendices\apendices\7.2.4_Matrices_AHP.tex
+INPUT apendices\apendices\7.2.4_Matrices_AHP.tex
+INPUT .\apendices\apendices\7.2.5_Seleccion.tex
+OUTPUT apendices\apendices\7.2.5_Seleccion.aux
+INPUT .\apendices\apendices\7.2.5_Seleccion.tex
+INPUT .\apendices\apendices\7.2.5_Seleccion.tex
+INPUT .\apendices\apendices\7.2.5_Seleccion.tex
+INPUT apendices\apendices\7.2.5_Seleccion.tex
+INPUT .\images\Capitulo 4\3.1.1\S1\esp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\esp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\esp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\esp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\esp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\esp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\esp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\rasp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\rasp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\rasp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\rasp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\rasp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\rasp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\rasp.png
+INPUT .\images\Capitulo 4\3.1.1\S1\nano.png
+INPUT .\images\Capitulo 4\3.1.1\S1\nano.png
+INPUT .\images\Capitulo 4\3.1.1\S1\nano.png
+INPUT .\images\Capitulo 4\3.1.1\S1\nano.png
+INPUT .\images\Capitulo 4\3.1.1\S1\nano.png
+INPUT .\images\Capitulo 4\3.1.1\S1\nano.png
+INPUT .\images\Capitulo 4\3.1.1\S1\nano.png
+INPUT .\images\Capitulo 4\3.1.1\S1\mega.png
+INPUT .\images\Capitulo 4\3.1.1\S1\mega.png
+INPUT .\images\Capitulo 4\3.1.1\S1\mega.png
+INPUT .\images\Capitulo 4\3.1.1\S1\mega.png
+INPUT .\images\Capitulo 4\3.1.1\S1\mega.png
+INPUT .\images\Capitulo 4\3.1.1\S1\mega.png
+INPUT .\images\Capitulo 4\3.1.1\S1\mega.png
+INPUT .\apendices\apendices\7.2.6_Temperatura_cilindro.tex
+OUTPUT apendices\apendices\7.2.6_Temperatura_cilindro.aux
+INPUT .\apendices\apendices\7.2.6_Temperatura_cilindro.tex
+INPUT .\apendices\apendices\7.2.6_Temperatura_cilindro.tex
+INPUT .\apendices\apendices\7.2.6_Temperatura_cilindro.tex
+INPUT apendices\apendices\7.2.6_Temperatura_cilindro.tex
+INPUT .\apendices\apendices\7.2.7_Temperatura_final.tex
+OUTPUT apendices\apendices\7.2.7_Temperatura_final.aux
+INPUT .\apendices\apendices\7.2.7_Temperatura_final.tex
+INPUT .\apendices\apendices\7.2.7_Temperatura_final.tex
+INPUT .\apendices\apendices\7.2.7_Temperatura_final.tex
+INPUT apendices\apendices\7.2.7_Temperatura_final.tex
+INPUT .\apendices\apendices\7.2.8_Estudios_Termicos.tex
+OUTPUT apendices\apendices\7.2.8_Estudios_Termicos.aux
+INPUT .\apendices\apendices\7.2.8_Estudios_Termicos.tex
+INPUT .\apendices\apendices\7.2.8_Estudios_Termicos.tex
+INPUT .\apendices\apendices\7.2.8_Estudios_Termicos.tex
+INPUT apendices\apendices\7.2.8_Estudios_Termicos.tex
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Potencia_total_modelo.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Potencia_total_modelo.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Potencia_total_modelo.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Potencia_total_modelo.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Potencia_total_modelo.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Potencia_total_modelo.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Potencia_total_modelo.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciamod_3_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra3.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciasf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciasf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciasf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciasf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciasf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciasf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potenciasf_16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico16_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico16_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico16_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico16_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico16_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico16_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico16_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra16.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termicosf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Ptenciasf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Ptenciasf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Ptenciasf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Ptenciasf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Ptenciasf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Ptenciasf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Ptenciasf_31.6.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico31_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico31_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico31_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico31_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico31_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico31_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\termico31_fibra.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra31.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra31.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra31.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra31.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra31.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra31.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Est_Termicos\Potencia_fibra31.png
+INPUT .\apendices\apendices\7.2.9_Calculos_estructura.tex
+OUTPUT apendices\apendices\7.2.9_Calculos_estructura.aux
+INPUT .\apendices\apendices\7.2.9_Calculos_estructura.tex
+INPUT .\apendices\apendices\7.2.9_Calculos_estructura.tex
+INPUT .\apendices\apendices\7.2.9_Calculos_estructura.tex
+INPUT apendices\apendices\7.2.9_Calculos_estructura.tex
+INPUT .\images\Capitulo 4\s5\Factores de servicio.png
+INPUT .\images\Capitulo 4\s5\Factores de servicio.png
+INPUT .\images\Capitulo 4\s5\Factores de servicio.png
+INPUT .\images\Capitulo 4\s5\Factores de servicio.png
+INPUT .\images\Capitulo 4\s5\Factores de servicio.png
+INPUT .\images\Capitulo 4\s5\Factores de servicio.png
+INPUT .\images\Capitulo 4\s5\Factores de servicio.png
+INPUT .\images\Capitulo 4\s5\Grafica para la seleccion de bandas.png
+INPUT .\images\Capitulo 4\s5\Grafica para la seleccion de bandas.png
+INPUT .\images\Capitulo 4\s5\Grafica para la seleccion de bandas.png
+INPUT .\images\Capitulo 4\s5\Grafica para la seleccion de bandas.png
+INPUT .\images\Capitulo 4\s5\Grafica para la seleccion de bandas.png
+INPUT .\images\Capitulo 4\s5\Grafica para la seleccion de bandas.png
+INPUT .\images\Capitulo 4\s5\Grafica para la seleccion de bandas.png
+INPUT .\images\Capitulo 4\s5\Capacidad 3V.png
+INPUT .\images\Capitulo 4\s5\Capacidad 3V.png
+INPUT .\images\Capitulo 4\s5\Capacidad 3V.png
+INPUT .\images\Capitulo 4\s5\Capacidad 3V.png
+INPUT .\images\Capitulo 4\s5\Capacidad 3V.png
+INPUT .\images\Capitulo 4\s5\Capacidad 3V.png
+INPUT .\images\Capitulo 4\s5\Capacidad 3V.png
+INPUT .\images\Capitulo 4\s5\Longitudes bandas.png
+INPUT .\images\Capitulo 4\s5\Longitudes bandas.png
+INPUT .\images\Capitulo 4\s5\Longitudes bandas.png
+INPUT .\images\Capitulo 4\s5\Longitudes bandas.png
+INPUT .\images\Capitulo 4\s5\Longitudes bandas.png
+INPUT .\images\Capitulo 4\s5\Longitudes bandas.png
+INPUT .\images\Capitulo 4\s5\Longitudes bandas.png
+INPUT .\images\Capitulo 4\s5\Factor theta.png
+INPUT .\images\Capitulo 4\s5\Factor theta.png
+INPUT .\images\Capitulo 4\s5\Factor theta.png
+INPUT .\images\Capitulo 4\s5\Factor theta.png
+INPUT .\images\Capitulo 4\s5\Factor theta.png
+INPUT .\images\Capitulo 4\s5\Factor theta.png
+INPUT .\images\Capitulo 4\s5\Factor theta.png
+INPUT .\images\Capitulo 4\s5\Factor L.png
+INPUT .\images\Capitulo 4\s5\Factor L.png
+INPUT .\images\Capitulo 4\s5\Factor L.png
+INPUT .\images\Capitulo 4\s5\Factor L.png
+INPUT .\images\Capitulo 4\s5\Factor L.png
+INPUT .\images\Capitulo 4\s5\Factor L.png
+INPUT .\images\Capitulo 4\s5\Factor L.png
+INPUT .\images\Capitulo 4\s5\Tamanos Cuna.png
+INPUT .\images\Capitulo 4\s5\Tamanos Cuna.png
+INPUT .\images\Capitulo 4\s5\Tamanos Cuna.png
+INPUT .\images\Capitulo 4\s5\Tamanos Cuna.png
+INPUT .\images\Capitulo 4\s5\Tamanos Cuna.png
+INPUT .\images\Capitulo 4\s5\Tamanos Cuna.png
+INPUT .\images\Capitulo 4\s5\Tamanos Cuna.png
+INPUT .\images\Capitulo 4\s5\Resistencia a la fatiga.png
+INPUT .\images\Capitulo 4\s5\Resistencia a la fatiga.png
+INPUT .\images\Capitulo 4\s5\Resistencia a la fatiga.png
+INPUT .\images\Capitulo 4\s5\Resistencia a la fatiga.png
+INPUT .\images\Capitulo 4\s5\Resistencia a la fatiga.png
+INPUT .\images\Capitulo 4\s5\Resistencia a la fatiga.png
+INPUT .\images\Capitulo 4\s5\Resistencia a la fatiga.png
+INPUT .\images\Capitulo 4\s5\1 pala fuerzas.png
+INPUT .\images\Capitulo 4\s5\1 pala fuerzas.png
+INPUT .\images\Capitulo 4\s5\1 pala fuerzas.png
+INPUT .\images\Capitulo 4\s5\1 pala fuerzas.png
+INPUT .\images\Capitulo 4\s5\1 pala fuerzas.png
+INPUT .\images\Capitulo 4\s5\1 pala fuerzas.png
+INPUT .\images\Capitulo 4\s5\1 pala fuerzas.png
+INPUT .\images\Capitulo 4\s5\2 palas fuerzas.png
+INPUT .\images\Capitulo 4\s5\2 palas fuerzas.png
+INPUT .\images\Capitulo 4\s5\2 palas fuerzas.png
+INPUT .\images\Capitulo 4\s5\2 palas fuerzas.png
+INPUT .\images\Capitulo 4\s5\2 palas fuerzas.png
+INPUT .\images\Capitulo 4\s5\2 palas fuerzas.png
+INPUT .\images\Capitulo 4\s5\2 palas fuerzas.png
+INPUT .\apendices\apendices\7.2.10_Control.tex
+OUTPUT apendices\apendices\7.2.10_Control.aux
+INPUT .\apendices\apendices\7.2.10_Control.tex
+INPUT .\apendices\apendices\7.2.10_Control.tex
+INPUT .\apendices\apendices\7.2.10_Control.tex
+INPUT apendices\apendices\7.2.10_Control.tex
+INPUT .\images\Capitulo 3\3.1.2\comunicacion.png
+INPUT .\images\Capitulo 3\3.1.2\comunicacion.png
+INPUT .\images\Capitulo 3\3.1.2\comunicacion.png
+INPUT .\images\Capitulo 3\3.1.2\comunicacion.png
+INPUT .\images\Capitulo 3\3.1.2\comunicacion.png
+INPUT .\images\Capitulo 3\3.1.2\comunicacion.png
+INPUT .\images\Capitulo 3\3.1.2\comunicacion.png
+INPUT .\images\Capitulo 3\3.1.2\curva_calentamiento.png
+INPUT .\images\Capitulo 3\3.1.2\curva_calentamiento.png
+INPUT .\images\Capitulo 3\3.1.2\curva_calentamiento.png
+INPUT .\images\Capitulo 3\3.1.2\curva_calentamiento.png
+INPUT .\images\Capitulo 3\3.1.2\curva_calentamiento.png
+INPUT .\images\Capitulo 3\3.1.2\curva_calentamiento.png
+INPUT .\images\Capitulo 3\3.1.2\curva_calentamiento.png
+INPUT .\images\Capitulo 3\3.1.2\Ftransferencia.png
+INPUT .\images\Capitulo 3\3.1.2\Ftransferencia.png
+INPUT .\images\Capitulo 3\3.1.2\Ftransferencia.png
+INPUT .\images\Capitulo 3\3.1.2\Ftransferencia.png
+INPUT .\images\Capitulo 3\3.1.2\Ftransferencia.png
+INPUT .\images\Capitulo 3\3.1.2\Ftransferencia.png
+INPUT .\images\Capitulo 3\3.1.2\Ftransferencia.png
+INPUT .\images\Capitulo 3\3.1.2\ControlPID_comSimu.png
+INPUT .\images\Capitulo 3\3.1.2\ControlPID_comSimu.png
+INPUT .\images\Capitulo 3\3.1.2\ControlPID_comSimu.png
+INPUT .\images\Capitulo 3\3.1.2\ControlPID_comSimu.png
+INPUT .\images\Capitulo 3\3.1.2\ControlPID_comSimu.png
+INPUT .\images\Capitulo 3\3.1.2\ControlPID_comSimu.png
+INPUT .\images\Capitulo 3\3.1.2\ControlPID_comSimu.png
+INPUT .\images\Capitulo 3\3.1.2\PID_Tuner.png
+INPUT .\images\Capitulo 3\3.1.2\PID_Tuner.png
+INPUT .\images\Capitulo 3\3.1.2\PID_Tuner.png
+INPUT .\images\Capitulo 3\3.1.2\PID_Tuner.png
+INPUT .\images\Capitulo 3\3.1.2\PID_Tuner.png
+INPUT .\images\Capitulo 3\3.1.2\PID_Tuner.png
+INPUT .\images\Capitulo 3\3.1.2\PID_Tuner.png
+INPUT .\apendices\apendices\7.2.11_Ventilacion.tex
+OUTPUT apendices\apendices\7.2.11_Ventilacion.aux
+INPUT .\apendices\apendices\7.2.11_Ventilacion.tex
+INPUT .\apendices\apendices\7.2.11_Ventilacion.tex
+INPUT .\apendices\apendices\7.2.11_Ventilacion.tex
+INPUT apendices\apendices\7.2.11_Ventilacion.tex
+INPUT .\images\Capitulo 4\s5\Contenedor\flow1.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow1.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow1.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow1.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow1.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow1.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow1.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow2.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow2.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow2.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow2.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow2.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow2.png
+INPUT .\images\Capitulo 4\s5\Contenedor\flow2.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Flow_Profe_Islas.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Flow_Profe_Islas.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Flow_Profe_Islas.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Flow_Profe_Islas.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Flow_Profe_Islas.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Flow_Profe_Islas.png
+INPUT .\images\Capitulo 4\s5\Contenedor\Flow_Profe_Islas.png
+INPUT .\apendices\apendices\7.2.12_Codigo_de_programa.tex
+OUTPUT apendices\apendices\7.2.12_Codigo_de_programa.aux
+INPUT .\apendices\apendices\7.2.12_Codigo_de_programa.tex
+INPUT .\apendices\apendices\7.2.12_Codigo_de_programa.tex
+INPUT .\apendices\apendices\7.2.12_Codigo_de_programa.tex
+INPUT apendices\apendices\7.2.12_Codigo_de_programa.tex
+INPUT .\Codigo_compost.ino
+INPUT .\Codigo_compost.ino
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0900.tfm
+INPUT Codigo_compost.ino
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt0900.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx0900.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0900.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT .\apendices\anexo1.tex
+INPUT .\apendices\anexo1.tex
+OUTPUT apendices\anexo1.aux
+INPUT .\apendices\anexo1.tex
+INPUT .\apendices\anexo1.tex
+INPUT apendices\anexo1.tex
+INPUT .\images\Anexo\motor_air.png
+INPUT .\images\Anexo\motor_air.png
+INPUT .\images\Anexo\motor_air.png
+INPUT .\images\Anexo\motor_air.png
+INPUT .\images\Anexo\motor_air.png
+INPUT .\images\Anexo\motor_air.png
+INPUT .\images\Anexo\motor_air.png
+INPUT .\apendices\anexo2.tex
+INPUT .\apendices\anexo2.tex
+OUTPUT apendices\anexo2.aux
+INPUT .\apendices\anexo2.tex
+INPUT .\apendices\anexo2.tex
+INPUT apendices\anexo2.tex
+INPUT .\images\Anexo\motor_lav.png
+INPUT .\images\Anexo\motor_lav.png
+INPUT .\images\Anexo\motor_lav.png
+INPUT .\images\Anexo\motor_lav.png
+INPUT .\images\Anexo\motor_lav.png
+INPUT .\images\Anexo\motor_lav.png
+INPUT .\images\Anexo\motor_lav.png
+INPUT .\images\Anexo\motor_lav_esp.png
+INPUT .\images\Anexo\motor_lav_esp.png
+INPUT .\images\Anexo\motor_lav_esp.png
+INPUT .\images\Anexo\motor_lav_esp.png
+INPUT .\images\Anexo\motor_lav_esp.png
+INPUT .\images\Anexo\motor_lav_esp.png
+INPUT .\images\Anexo\motor_lav_esp.png
+INPUT .\apendices\anexo3.tex
+INPUT .\apendices\anexo3.tex
+OUTPUT apendices\anexo3.aux
+INPUT .\apendices\anexo3.tex
+INPUT .\apendices\anexo3.tex
+INPUT apendices\anexo3.tex
 INPUT Principal.aux
 INPUT .\preliminares\resumen.aux
 INPUT .\preliminares\resumen.aux
@@ -1271,68 +1903,131 @@ INPUT capitulos\marcoreferencia.aux
 INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
 INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
 INPUT parts\2_Dis_sist\2_Dis_sis.aux
+INPUT .\capitulos\disedetallado.aux
+INPUT .\capitulos\disedetallado.aux
+INPUT capitulos\disedetallado.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\4_Ana\4.0_Analisis.aux
 INPUT .\parts\4_Ana\4.0_Analisis.aux
 INPUT parts\4_Ana\4.0_Analisis.aux
-INPUT .\parts\5_res\5.0_res.aux
-INPUT .\parts\5_res\5.0_res.aux
-INPUT parts\5_res\5.0_res.aux
 INPUT .\parts\6_con\6.0_con.aux
 INPUT .\parts\6_con\6.0_con.aux
 INPUT parts\6_con\6.0_con.aux
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\romanidx.sty
+INPUT .\apendices\apendices\7.2.1_IDEF.aux
+INPUT .\apendices\apendices\7.2.1_IDEF.aux
+INPUT apendices\apendices\7.2.1_IDEF.aux
+INPUT .\apendices\apendices\7.2.2_Matriz_Morfologica.aux
+INPUT .\apendices\apendices\7.2.2_Matriz_Morfologica.aux
+INPUT apendices\apendices\7.2.2_Matriz_Morfologica.aux
+INPUT .\apendices\apendices\7.2.3_Criterios_de_Seleccion.aux
+INPUT .\apendices\apendices\7.2.3_Criterios_de_Seleccion.aux
+INPUT apendices\apendices\7.2.3_Criterios_de_Seleccion.aux
+INPUT .\apendices\apendices\7.2.4_Matrices_AHP.aux
+INPUT .\apendices\apendices\7.2.4_Matrices_AHP.aux
+INPUT apendices\apendices\7.2.4_Matrices_AHP.aux
+INPUT .\apendices\apendices\7.2.5_Seleccion.aux
+INPUT .\apendices\apendices\7.2.5_Seleccion.aux
+INPUT apendices\apendices\7.2.5_Seleccion.aux
+INPUT .\apendices\apendices\7.2.6_Temperatura_cilindro.aux
+INPUT .\apendices\apendices\7.2.6_Temperatura_cilindro.aux
+INPUT apendices\apendices\7.2.6_Temperatura_cilindro.aux
+INPUT .\apendices\apendices\7.2.7_Temperatura_final.aux
+INPUT .\apendices\apendices\7.2.7_Temperatura_final.aux
+INPUT apendices\apendices\7.2.7_Temperatura_final.aux
+INPUT .\apendices\apendices\7.2.8_Estudios_Termicos.aux
+INPUT .\apendices\apendices\7.2.8_Estudios_Termicos.aux
+INPUT apendices\apendices\7.2.8_Estudios_Termicos.aux
+INPUT .\apendices\apendices\7.2.9_Calculos_estructura.aux
+INPUT .\apendices\apendices\7.2.9_Calculos_estructura.aux
+INPUT apendices\apendices\7.2.9_Calculos_estructura.aux
+INPUT .\apendices\apendices\7.2.10_Control.aux
+INPUT .\apendices\apendices\7.2.10_Control.aux
+INPUT apendices\apendices\7.2.10_Control.aux
+INPUT .\apendices\apendices\7.2.11_Ventilacion.aux
+INPUT .\apendices\apendices\7.2.11_Ventilacion.aux
+INPUT apendices\apendices\7.2.11_Ventilacion.aux
+INPUT .\apendices\apendices\7.2.12_Codigo_de_programa.aux
+INPUT .\apendices\apendices\7.2.12_Codigo_de_programa.aux
+INPUT apendices\apendices\7.2.12_Codigo_de_programa.aux
+INPUT .\apendices\anexo1.aux
+INPUT .\apendices\anexo1.aux
+INPUT apendices\anexo1.aux
+INPUT .\apendices\anexo2.aux
+INPUT .\apendices\anexo2.aux
+INPUT apendices\anexo2.aux
+INPUT .\apendices\anexo3.aux
+INPUT .\apendices\anexo3.aux
+INPUT apendices\anexo3.aux
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\romanidx.sty
 OUTPUT Principal.eix
 INPUT Principal.idx
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk
-INPUT C:\Users\Dan\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Bold.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Bold.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Regular.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Regular.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-orns.pfb
-INPUT C:\Users\Dan\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-orns.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\eccc1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Bold.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Bold.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Regular.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\montserrat\Montserrat-Regular.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmex8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cmextra\cmex8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-orns.pfb
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\type1\public\fourier\fourier-orns.pfb
