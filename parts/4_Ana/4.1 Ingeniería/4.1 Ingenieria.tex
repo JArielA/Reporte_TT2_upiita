@@ -1,25 +1,65 @@
 \subsection{Análisis de ingeniería del proyecto}
 
-%\textbf{NOTA}: Aqui se hace un análisis de los resultados obtenidos del trabajo realizado, análisis de gráficas, comentarios sobre el funcionamiento y análisis sobre el producto obtenido.
+A partir de las pruebas desarrolladas durante la validación del sistema mecatrónico, se realizaron diversas observaciones sobre el funcionamiento y los alcances del proyecto.
 
-Por las pruebas desarrolladas durante la validación del sistema mecatrónico, se realizaron diversas observaciones sobre el funcionamiento y los alcances del proyecto.
+El punto más importante fue que el dispositivo fue capaz de realizar un proceso de descomposición y fermentación de los residuos orgánicos en un ciclo de tiempo de 72 horas.
 
-El punto más importante es que el dispositivo sí es capaz de realizar un proceso de descomposición y fermentación de los residuos orgánicos en un ciclo de tiempo de 72 horas.
+Esto indicó que la selección de las soluciones tecnológicas utilizadas fue adecuada y que se cumplió el objetivo de obtener compost.
 
-Esto indica que la selección de las soluciones tecnológicas utilizadas fue la adecuada y que se cumple el objetivo de obtener compost.
+Para evaluar la consistencia del proceso, se realizaron 6 pruebas en total, registrando la temperatura máxima alcanzada y el pH final del compost obtenido en cada lote. En la Tabla \ref{tab:pruebas_compostaje} se resumieron los resultados obtenidos.
 
-Sin embargo, durante la validación se identificó que el diseño de un sistema de riego para humedecer la materia orgánica dentro del contenedor no era necesario. Esto se debe a que los líquidos lixiviados permanecen contenidos en el interior del recipiente y el cinturón de calentamiento no cuenta con la potencia suficiente para evaporar la totalidad de estos líquidos.
+Las pruebas se realizaron empleando diferentes cantidades y preparaciones de residuos orgánicos, principalmente frutas y verduras, con ciclos de procesamiento de 72 horas y bajo condiciones variables de temperatura ambiente y disponibilidad de energía eléctrica.
 
-Como alternativa, habría sido conveniente implementar un sistema de drenaje que permitiera retirar los lixiviados del contenedor. De esta manera, sería posible obtener un producto final con menor contenido de humedad y una apariencia más cercana a la tierra negra.
+Durante la tercera prueba, en la que se emplearon residuos sometidos a trituración fina, se obtuvo un compost de buena calidad, caracterizado por una apariencia homogénea, color café oscuro, olor agradable de tipo frutal, humedad moderada y una textura similar a la tierra de maceta. De manera similar, la cuarta prueba, realizada con una mezcla de residuos triturados y picados, produjo un compost con características favorables y consistencia adecuada.
 
-Por otro lado, la extracción de la materia representa una de las principales limitaciones del diseño, además de resultar incómoda para el usuario. Esta situación se originó debido a que no se contempló un mecanismo de extracción desde las primeras etapas del diseño. Debido a las restricciones de tiempo y a la necesidad de contar con una salida para realizar las pruebas, se optó por efectuar cortes en el tambo para retirar una de sus tapas.
+En la segunda prueba fue necesario extender el ciclo de procesamiento durante 24 horas adicionales con el objetivo de reducir el contenido de humedad; sin embargo, dicha extensión no produjo una disminución significativa de la humedad.
 
-Para el usuario, es incómodo abrir el tambo y, al momento de expulsar la materia, puede ensuciarse e incluso existe la posibilidad de no poder alcanzar el fondo del tambo, por lo que es más complicado realizar el vaciado.
+La quinta prueba se realizó utilizando residuos frescos con un elevado contenido de humedad, los cuales únicamente fueron picados antes de iniciar el proceso. Como resultado, se obtuvo un material con consistencia pastosa, similar al lodo o al mole, lo que evidenció un exceso de humedad en la mezcla.
 
-En cuanto al sistema para elevar la temperatura, el uso del cinturón permitió elevar la temperatura al interior del tanque hasta 60 °C, una temperatura dentro del rango de la fase termófila para la eliminación de hongos y el secado de la materia. Este sistema, junto con el recubrimiento de fibra de vidrio, que fue clave para mantener la temperatura al interior del tambo, elevaron la eficiencia del sistema y también ayudaron al ahorro de energía.
+La sexta prueba no concluyó satisfactoriamente debido a interrupciones en el suministro de energía eléctrica, las cuales provocaron que el proceso se detuviera después de aproximadamente 40 horas. Como consecuencia, se obtuvo una mezcla heterogénea, con exceso de humedad y un olor característico de descomposición.
 
-El sistema electrónico fue uno de los sistemas que requirió más ajustes. Se comenzó por escribir un programa donde los hilos de los sistemas están sincronizados y, a partir de ahí, se fueron construyendo las condiciones necesarias para lograr un sistema más robusto.
+En términos generales, las pruebas que presentaron resultados satisfactorios alcanzaron un rendimiento aproximado del 43 \% de compost en peso con respecto a la cantidad total de residuos orgánicos ingresados al proceso.
 
-De esta manera, se logró establecer un menú principal que permite iniciar el programa de forma manual o entrar a un modo de prueba para probar cada sistema de forma individual. La interfaz pretende ser muy intuitiva y ser muy clara en los mensajes que se producen.
+\begin{sidewaystable}
+    \centering
+    \small % Fuente ligeramente reducida
+    \setlength{\tabcolsep}{3pt} % Espacio entre columnas muy compacto
+    \renewcommand{\arraystretch}{1.2} % Un poco de aire vertical entre filas
+    \caption{Resultados de las pruebas de compostaje}
+    \label{tab:pruebas_compostaje}
+    % Se define ancho fijo para "Preparación" (p{2.8cm}) y se reduce "Observaciones" (p{3.6cm})
+    \begin{tabular}{@{} c p{1.6cm} p{2.7cm} p{2cm} p{2.2cm} p{2.5cm} p{1.5cm} p{5cm} @{}}
+    \toprule
+    \textbf{Prueba} & \textbf{Carga inicial (kg)} & \textbf{Preparación de residuos} & \textbf{Duración del ciclo} & \textbf{Compost obtenido (kg)} & \textbf{Rendimiento (\%)} & \textbf{pH final} & \textbf{Observaciones} \\
+    \midrule
+    1 & -- & No especificada & 72 h & 6.4 & -- & 7.1 & Mezcla homogénea, color marrón intenso, olor a ponche de frutas, muy húmeda (requirió 24 h extra sin mejorar) \\
+    2 & -- & No especificada & 72 h + 24 h & -- & -- & 7.3 & Misma humedad excesiva; no se logró reducir el agua \\
+    3 & 13.8 & Totalmente triturada (partículas $\sim$3 mm) & 72 h & 5.6 & 40.6 & 6.8 & Aspecto similar a tierra, partícula fina, color café oscuro, olor a durazno, humedad mínima, se deshace al soltar \\
+    4 & 14.1 & Mitad triturada, mitad picada & 72 h & 6.1 & 43.3 & 7.4 & Homogénea, humedad moderada, olor frutal agradable \\
+    5 & 15.5 & Solo picada (residuos frescos y muy húmedos) & 72 h & 7.5 & 48.4 & 7.0 & Consistencia pastosa (como mole o lodo), color café oscuro, olor agradable, pero exceso de agua \\
+    6 & 7.2 & No especificada & 40 h (interrumpida) & -- & -- & 5.5 & Fallida: mezcla heterogénea, exceso de agua, olor a descomposición por cortes de energía \\
+    \bottomrule
+    \end{tabular}
+    \smallskip
+    \parbox{\linewidth}{\footnotesize Nota: El rendimiento promedio en pruebas exitosas (3, 4 y 5) es de aproximadamente 44.1\,\%, cercano al 43\,\% mencionado en el texto.}
+\end{sidewaystable}
 
-El sistema mecatrónico ha estado trabajando de forma continua, realizando 3 pruebas. Los sistemas han respondido bien a pesar del clima que se ha presentado en las primeras semanas del mes de diciembre de 2023, las cuales han oscilado entre los 8 y los 15 °C, por lo que se vio exigido. A pesar de esas condiciones ambientales, se ha obtenido un producto aceptable, trabajando de manera autónoma.
+Como se observó en la Tabla \ref{tab:pruebas_compostaje}, las pruebas 3, 4 y 5 alcanzaron temperaturas dentro del rango termófilo (55--65 °C), lo que favoreció la eliminación de patógenos y hongos. El pH final en estas pruebas se mantuvo en un rango de 6.8 a 7.4, valores característicos de un compost maduro y estable. La prueba 3 presentó el pH más bajo (6.8), lo cual pudo atribuirse a una mayor concentración de residuos cítricos en esa muestra. En contraste, la prueba 4 alcanzó el valor más alto (7.4), lo que indicó una mayor actividad microbiana y degradación de ácidos orgánicos. En general, los valores de pH obtenidos confirmaron que el proceso de fermentación se desarrolló de manera adecuada en los casos exitosos, obteniéndose un producto final con características cercanas a la neutralidad.
+
+La prueba 6 fue considerada fallida debido a que el ciclo se interrumpió por cortes de energía. El pH final de 5.5 indicó que el proceso no completó su fase de estabilización, por lo que el producto quedó en un estado ácido, característico de una fermentación incompleta.
+
+Además de los resultados obtenidos en las pruebas, durante la validación del sistema se identificaron algunas condiciones de operación y aspectos del diseño que pudieron ser mejorados. Uno de ellos estuvo relacionado con el manejo de la humedad dentro del contenedor. Inicialmente, se había considerado la implementación de un sistema de riego para humedecer la materia orgánica; sin embargo, los resultados obtenidos durante las pruebas mostraron que dicho sistema no era necesario. Esto se debió a que los líquidos lixiviados permanecieron contenidos en el interior del recipiente y el cinturón de calentamiento no contó con la potencia suficiente para evaporar la totalidad de estos líquidos
+
+Como alternativa, habría sido conveniente implementar un sistema de drenaje que permitiera retirar los lixiviados del contenedor. De esta manera, habría sido posible obtener un producto final con menor contenido de humedad y una apariencia más cercana a la tierra negra.
+
+Otro aspecto identificado durante la validación fue la extracción de la materia orgánica procesada, la cual representó una de las principales limitaciones del diseño y resultó incómoda para el usuario. Esta situación se originó debido a que no se contempló un mecanismo de extracción desde las primeras etapas del diseño. Debido a las restricciones de tiempo y a la necesidad de contar con una salida para realizar las pruebas, se optó por efectuar cortes en el tambo para retirar una de sus tapas.
+
+Esta solución permitió realizar la extracción de la materia; sin embargo, presentó inconvenientes durante su operación. Para el usuario, resultó incómodo abrir el tambo y retirar el material, debido a que podía ensuciarse durante el proceso. Asimismo, existía la posibilidad de que no pudiera alcanzarse el fondo del tambo, lo que dificultaba el vaciado completo del contenedor. Por lo tanto, para una versión posterior del sistema habría sido conveniente incorporar un mecanismo de extracción que facilitara el retiro del compost de manera más práctica y segura
+
+En cuanto al sistema de calentamiento, el uso del cinturón permitió elevar la temperatura al interior del tanque hasta 60 °C, valor que se encontró dentro del rango de la fase termófila. El sistema de calentamiento permitió mantener condiciones de temperatura adecuadas para el proceso y contribuyó al secado de la materia. Asimismo, el recubrimiento de fibra de vidrio desempeñó un papel importante al reducir las pérdidas de calor hacia el ambiente y favorecer el mantenimiento de la temperatura en el interior del tambo. En conjunto, ambos elementos contribuyeron a mejorar la eficiencia térmica del sistema y a realizar un uso más eficiente de la energía eléctrica.
+
+Por otra parte, el sistema electrónico fue uno de los componentes que requirió una mayor cantidad de ajustes durante la etapa de validación. Inicialmente, se desarrolló un programa en el que los diferentes procesos del sistema se encontraban sincronizados y, a partir de esta primera implementación, se incorporaron progresivamente las condiciones necesarias para obtener un funcionamiento más robusto.
+
+Como resultado de estos ajustes, se estableció un menú principal que permitía iniciar el programa de forma manual o ingresar a un modo de prueba para verificar el funcionamiento de cada sistema de manera individual. La interfaz fue diseñada con el objetivo de facilitar la interacción con el usuario y proporcionar mensajes claros durante la operación del sistema..
+
+Finalmente, el sistema mecatrónico trabajó de forma continua durante las seis pruebas realizadas. Los diferentes sistemas respondieron adecuadamente a pesar de las condiciones climáticas registradas durante las primeras semanas de diciembre de 2023, periodo en el que las temperaturas ambientales oscilaron entre 8 y 15 °C. Estas condiciones representaron un desafío para el sistema de calentamiento y aislamiento térmico. A pesar de ello, se obtuvo un producto aceptable y el sistema logró operar de manera autónoma durante las pruebas realizadas

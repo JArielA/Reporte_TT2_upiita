@@ -261,6 +261,8 @@ INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\s
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
 OUTPUT Principal.idx
 OUTPUT Principal.nlo
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\comment\comment.sty
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\tools\tabularx.sty
@@ -1189,31 +1191,6 @@ INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
 INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
 INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
 INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
-INPUT parts\3_Imple\3.7_Integracion\3.7.1_Integracion_del_dispositivo.tex
-INPUT .\images\Capitulo_Imple\S7\palas_dentro.jpeg
-INPUT .\images\Capitulo_Imple\S7\palas_dentro.jpeg
-INPUT .\images\Capitulo_Imple\S7\palas_dentro.jpeg
-INPUT .\images\Capitulo_Imple\S7\palas_dentro.jpeg
-INPUT .\images\Capitulo_Imple\S7\perfora.jpeg
-INPUT .\images\Capitulo_Imple\S7\perfora.jpeg
-INPUT .\images\Capitulo_Imple\S7\perfora.jpeg
-INPUT .\images\Capitulo_Imple\S7\perfora.jpeg
-INPUT .\images\Capitulo_Imple\S7\Sal_trituracion.jpeg
-INPUT .\images\Capitulo_Imple\S7\Sal_trituracion.jpeg
-INPUT .\images\Capitulo_Imple\S7\Sal_trituracion.jpeg
-INPUT .\images\Capitulo_Imple\S7\Sal_trituracion.jpeg
-INPUT .\images\Capitulo_Imple\S7\motor.jpeg
-INPUT .\images\Capitulo_Imple\S7\motor.jpeg
-INPUT .\images\Capitulo_Imple\S7\motor.jpeg
-INPUT .\images\Capitulo_Imple\S7\motor.jpeg
-INPUT .\images\Capitulo_Imple\S7\cableado.jpeg
-INPUT .\images\Capitulo_Imple\S7\cableado.jpeg
-INPUT .\images\Capitulo_Imple\S7\cableado.jpeg
-INPUT .\images\Capitulo_Imple\S7\cableado.jpeg
-INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
-INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
-INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
-INPUT .\images\Capitulo_Imple\S7\sistema_integrado.jpeg
 INPUT .\parts\3_Imple\3.7_Integracion\3.7.2_Validacion.tex
 INPUT .\parts\3_Imple\3.7_Integracion\3.7.2_Validacion.tex
 INPUT parts\3_Imple\3.7_Integracion\3.7.2_Validacion.tex
@@ -1304,6 +1281,23 @@ INPUT parts\4_Ana\4.0_Analisis.tex
 INPUT .\parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
 INPUT .\parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
 INPUT parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm1000.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0900.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT .\parts\4_Ana\4.2 Costos\4.2 Costos.tex
 INPUT .\parts\4_Ana\4.2 Costos\4.2 Costos.tex
 INPUT parts\4_Ana\4.2 Costos\4.2 Costos.tex
@@ -1966,18 +1960,10 @@ INPUT .\apendices\apendices\7.2.12_Codigo_de_programa.tex
 INPUT apendices\apendices\7.2.12_Codigo_de_programa.tex
 INPUT .\Codigo_compost.ino
 INPUT .\Codigo_compost.ino
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0900.tfm
 INPUT Codigo_compost.ino
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ectt0900.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx0900.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0900.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi9.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy9.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex9.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT .\apendices\anexo1.tex
 INPUT .\apendices\anexo1.tex
 OUTPUT apendices\anexo1.aux
@@ -2105,14 +2091,18 @@ INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dp
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx0900.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt0900.pk
-INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
-INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ectt1095.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1095.pk
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk
