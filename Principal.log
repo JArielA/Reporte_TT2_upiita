@@ -1,16 +1,16 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  9 SEP 2026 15:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  10 SEP 2026 09:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/JesusAlmaguer/OneDrive - The Ksquare Group/Documents/upiita/Trabajo_Terminal_UPIITA_IPN_2023/Principal.tex"
-(c:/Users/JesusAlmaguer/OneDrive - The Ksquare Group/Documents/upiita/Trabajo_Terminal_UPIITA_IPN_2023/Principal.tex
+**c:/Users/Dan/Reporte_TT2_upiita/Principal.tex
+(c:/Users/Dan/Reporte_TT2_upiita/Principal.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
 Copyright Juan Carlos Guzmán Salgado Griselda Sánchez Otero Diego Alonso Flores Hernández
 (upiita.cls
 Document Class: upiita 2004/02/16 v1.4f Standard LaTeX document class
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLaTeX and XeLaTeX
 \babel@savecnt=\count275
 LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input line 2068.
@@ -22,7 +22,7 @@ LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) o
 LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) on input line 2101.
 \U@D=\dimen148
 \l@unhyphenated=\language79
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count276
 Package babel Info: Configuration files are deprecated, as
@@ -32,12 +32,12 @@ Package babel Info: Configuration files are deprecated, as
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex)
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 4320.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks17
 \es@quotdepth=\count277
@@ -48,11 +48,11 @@ Package babel Info: Making > an active character on input line 722.
 ))
 LaTeX Encoding Info:    Redeclaring text command \guillemotleft (encoding OT1) on input line 149.
 LaTeX Encoding Info:    Redeclaring text command \guillemotright (encoding OT1) on input line 149.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks18
 \inpenc@posthook=\toks19
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@headwidth=\skip49
 \f@nch@offset@elh=\skip50
@@ -69,7 +69,7 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip61
 \f@nch@widthR=\skip62
 \@temptokenb=\toks20
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\bk11.clo
 File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count278
@@ -84,7 +84,7 @@ File: bk11.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip63
 \belowcaptionskip=\skip64
 \bibindent=\dimen149
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count287
 )) (configuracion/upiitatesis.sty
@@ -94,7 +94,7 @@ LaTeX Warning: You have requested package `configuracion/upiitatesis',
                but the package provides `upiitatesis'.
 
 Package: upiitatesis 2023/05/09v2 LaTeX package (Revised chapters)
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen150
 \ar@mcellbox=\box53
@@ -103,7 +103,7 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \extratabsurround=\skip65
 \backup@length=\skip66
 \ar@cellbox=\box54
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks22
 \symAMSa=\mathgroup4
@@ -111,21 +111,21 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip67
 
 For additional information on amsmath, use the `?' option.
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks23
 \ex@=\dimen152
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen153
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count288
@@ -175,30 +175,30 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks27
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/bbding\bbding.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/bbding\bbding.sty
 Package: bbding 1999/04/15 v1.01 Dingbats symbols
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/fourier\fourier-orns.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fourier\fourier-orns.sty
 Package: fourier-orns 2024/09/08 2.4 fourier-ornaments package
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.sty
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\eucal.sty
 Package: eucal 2009/06/22 v3.00 Euler Script fonts
 LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 (Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\montserrat.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\montserrat.sty
 Package: montserrat 2019/11/07 v1.03
- `montserrat' v1.03, 2019/11/07 Style file for Montserrat and Alternates (msharpe) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+ `montserrat' v1.03, 2019/11/07 Style file for Montserrat and Alternates (msharpe) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1enc.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1enc.def
 File: ly1enc.def 2022/06/11 v0.8 TeX 'n ANSI encoding (DPC/KB)
 Now handling font encoding LY1 ...
 ... processing UTF-8 mapping file for font encoding LY1
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\ly1enc.dfu
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\ly1enc.dfu
 File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -325,33 +325,33 @@ File: ly1enc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+FB04 (decimal 64260)
    defining Unicode char U+FB05 (decimal 64261)
    defining Unicode char U+FB06 (decimal 64262)
-))) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
 Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
 Applying: [2024-11-01] Use figureversions if present on input line 74.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/figureversions\figureversions.sty
 Package: figureversions 2025-04-29 v1.0.1 Figure versions
 )
 Already applied: [0000-00-00] Fall back to v1 on input line 76.
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks28
 \XKV@tempa@toks=\toks29
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
 \XKV@depth=\count300
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
 Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
 LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
 File: upzd.fd 2001/06/04 font definitions for U/pzd.
 )
 LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
 File: upsy.fd 2001/06/04 font definitions for U/psy.
-)) (configuracion/romanidx.sty) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
+)) (configuracion/romanidx.sty) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.sty
 File: lettrine.sty 2025-12-06 v2.83 (Daniel Flipo)
 \c@DefaultLines=\count301
 \c@DefaultDepth=\count302
@@ -381,10 +381,10 @@ File: lettrine.sty 2025-12-06 v2.83 (Daniel Flipo)
 \L@finaldp=\dimen181
 
 Loading lettrine.cfg
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg)
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg)
 \Lettrine@tweaks=\toks30
 \Llist@everypar=\toks31
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@tracingmulticols=\count305
 \mult@box=\box58
@@ -454,24 +454,24 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \colbreak@box=\box103
 \mc@col@check@num=\count314
 \g__mc_curr_col_int=\count315
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/nextpage\nextpage.sty
 Package: nextpage 2009/09/03 v1.1a additional page commands
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
 LaTeX Info: Redefining \color on input line 762.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -481,14 +481,14 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/titling\titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip72
 \thanksmargin=\skip73
 \droptitle=\skip74
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box104
 \beforetitleunit=\skip75
@@ -499,7 +499,7 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen193
 \titlewidthlast=\dimen194
 \titlewidthfirst=\dimen195
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \RW=\skip77
 \mylen=\skip78
@@ -508,11 +508,11 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \py=\skip81
 \pyy=\skip82
 \pxx=\skip83
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2026/03/07 v6.0 Page Geometry
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count316
@@ -527,51 +527,51 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen258
 \Gm@layoutvoffset=\dimen259
 \Gm@dimlist=\toks33
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count319
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen260
 \Hy@linkcounter=\count320
 \Hy@pagecounter=\count321
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count322
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -585,15 +585,15 @@ Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count323
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen261
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count324
@@ -615,45 +615,45 @@ Package hyperref Warning: Option `pdfpagelabels' is turned off
 \c@Hfootnote=\count326
 )
 Package hyperref Info: Driver: hpdftex.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
 \Fld@listcount=\count327
 \c@bookmark@seq@number=\count328
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip84
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2026-05-21 v1.32 PDF bookmarks (HO)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count329
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2026-05-21 v1.32 bookmark driver for pdfTeX (HO)
 \BKM@id=\count330
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nometadata.sty
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 ))
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count331
 \calc@Bcount=\count332
@@ -665,11 +665,11 @@ LaTeX Info: Redefining \setlength on input line 86.
 LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Ccount=\count333
 \calc@Cskip=\skip87
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
 \ESO@tempdima=\dimen266
 \ESO@tempdimb=\dimen267
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 \Gin@req@height=\dimen268
 \Gin@req@width=\dimen269
@@ -677,7 +677,7 @@ Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 \AM@pagewidth=\dimen270
 \AM@pageheight=\dimen271
 \AM@fboxrule=\dimen272
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2026/03/30 v0.6h Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count334
@@ -688,19 +688,19 @@ File: pppdftex.def 2026/03/30 v0.6h Pdfpages driver for pdfTeX (AM)
 \AM@lof@heading=\toks36
 \c@AM@survey=\count336
 \AM@templatesizebox=\box106
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/nomencl\nomencl.sty
 Package: nomencl 2021/11/10 v5.6 Nomenclature package
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.sty
 Package: tocbasic 2026/02/02 v3.49.2 KOMA-Script package (handling toc-files)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
 Package: scrbase 2026/02/02 v3.49.2 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.sty
 Package: scrlfile 2026/02/02 v3.49.2 KOMA-Script package (file load hooks)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
 Package: scrlfile-hook 2026/02/02 v3.49.2 KOMA-Script package (using LaTeX hooks)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2026/02/02 v3.49.2 KOMA-Script package (logo)
 )))
 Applying: [2021/05/01] Usage of raw or classic option list on input line 254.
@@ -714,7 +714,7 @@ Package tocbasic Info: setting babel extension for `nls' on input line 188.
 \nomlabelwidth=\dimen273
 \nom@tempdim=\dimen274
 \nomitemsep=\skip89
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
 Package: siunitx 2026-08-23 v3.5.6 A comprehensive (SI) units package
 \l__siunitx_number_uncert_offset_int=\count337
 \l__siunitx_number_exponent_fixed_int=\count338
@@ -728,7 +728,7 @@ Package: siunitx 2026-08-23 v3.5.6 A comprehensive (SI) units package
 \l__siunitx_number_group_min_int=\count346
 \l__siunitx_number_group_minimum_int=\count347
 \l__siunitx_compound_count_int=\count348
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/translations\translations.sty
 Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages (CN)
 )
 \l__siunitx_table_tmp_box=\box108
@@ -747,24 +747,24 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_sexagesimal_tmp_dim=\dimen279
 \l__siunitx_sexagesimal_marker_box=\box114
 \l__siunitx_sexagesimal_unit_box=\box115
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
 \AP@output=\toks37
 \AP@partial=\box116
 \AP@footins=\box117
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
 \everycr=\toks38
 \minrowclearance=\skip90
 \rownum=\count352
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count353
 \float@exts=\toks39
 \float@box=\box118
 \@float@everytoks=\toks40
 \@floatcapt=\box119
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip91
 \LTright=\skip92
@@ -782,20 +782,20 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \c@LT@tables=\count357
 \c@LT@chunks=\count358
 \LT@p@ftn=\toks41
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip95
 \multirow@cntb=\count359
 \multirow@dima=\skip96
 \bigstrutjot=\dimen281
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
 \c@r@tfl@t=\count360
 \rotFPtop=\skip97
 \rotFPbot=\skip98
 \rot@float@box=\box125
 \rot@mess@toks=\toks42
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count361
 \lst@gtempboxa=\box126
 \lst@token=\toks43
@@ -808,14 +808,14 @@ Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
 \lst@newlines=\count365
 \lst@lineno=\count366
 \lst@maxwidth=\dimen285
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 \c@lstnumber=\count367
 \lst@skipnumbers=\count368
 \lst@framebox=\box127
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
 ))
 Package: listings 2025/11/14 1.11b (Carsten Heinz)
@@ -826,7 +826,7 @@ Package: listings 2025/11/14 1.11b (Carsten Heinz)
     but found:
         2025/11/14 1.11b (Carsten Heinz)
     so I'm assuming it got fixed.
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.sty
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip99
 \subfigcapskip=\skip100
@@ -842,7 +842,7 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg)
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cfg)
 \subfig@top=\skip103
 \subfig@bottom=\skip104
 )
@@ -878,7 +878,7 @@ Writing index file Principal.idx
 \openout4 = `Principal.nlo'.
 
 Package nomencl Info: Writing nomenclature file Principal.nlo on input line 438.
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen288
 \lightrulewidth=\dimen289
@@ -897,9 +897,9 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count398
 \@lastruleclass=\count399
 \@thisrulewidth=\dimen300
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/comment\comment.sty
 \CommentStream=\write5
- Excluding comment 'comment') (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+ Excluding comment 'comment') (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
 Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@col@width=\dimen301
 \TX@old@table=\dimen302
@@ -908,29 +908,29 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen305
 \TX@cols=\count400
 \TX@ftn=\toks44
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen306
 \c@nlinenum=\count401
 \TeXr@lab=\toks45
-) (arduino_code.tex (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
+) (arduino_code.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
 Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks46
 \pgfutil@tempdima=\dimen307
 \pgfutil@tempdimb=\dimen308
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box128
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
 ))
 Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks47
 \pgfkeys@temptoks=\toks48
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks49
 ))
 \pgf@x=\dimen309
@@ -953,32 +953,32 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \t@pgf@tokb=\toks51
 \t@pgf@tokc=\toks52
 \pgf@sys@id@count=\count406
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfsyssoftpath@smallbuffer@items=\count407
 \pgfsyssoftpath@bigbuffer@items=\count408
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen319
 \pgfmath@count=\count409
 \pgfmath@box=\box129
 \pgfmath@toks=\toks53
 \pgfmath@stack@operand=\toks54
 \pgfmath@stack@operation=\toks55
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count410
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@picminx=\dimen320
 \pgf@picmaxx=\dimen321
@@ -994,75 +994,75 @@ File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@yy=\dimen331
 \pgf@zx=\dimen332
 \pgf@zy=\dimen333
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@path@lastx=\dimen334
 \pgf@path@lasty=\dimen335
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@shorten@end@additional=\dimen336
 \pgf@shorten@start@additional=\dimen337
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfpic=\box130
 \pgf@hbox=\box131
 \pgf@layerbox@main=\box132
 \pgf@picture@serial@count=\count411
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgflinewidth=\dimen338
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@pt@x=\dimen339
 \pgf@pt@y=\dimen340
 \pgf@pt@temp=\dimen341
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfarrowsep=\dimen342
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@max=\dimen343
 \pgf@sys@shading@range@num=\count412
 \pgf@shadingcount=\count413
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfexternal@startupbox=\box133
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfnodeparttextbox=\box134
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@nodesepstart=\dimen344
 \pgf@nodesepend=\dimen345
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen346
 \pgffor@skip=\dimen347
 \pgffor@stack=\toks56
 \pgffor@toks=\toks57
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgf@plot@mark@count=\count414
 \pgfplotmarksize=\dimen348
@@ -1083,23 +1083,23 @@ File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \tikznumberofchildren=\count416
 \tikznumberofcurrentchild=\count417
 \tikz@fig@count=\count418
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmatrixcurrentrow=\count419
 \pgfmatrixcurrentcolumn=\count420
 \pgf@matrix@numberofcolumns=\count421
 )
 \tikz@expandcount=\count422
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
-))) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
+))) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks58
 \verbatim@line=\toks59
 \verbatim@in@stream=\read4
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/trimspaces\trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 ))
 \tcb@titlebox=\box139
@@ -1115,30 +1115,30 @@ Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 \tcb@temp=\box145
 \tcb@temp=\box146
 \tcb@temp=\box147
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistings.code.tex
 Library (tcolorbox): 'tcblistings.code.tex' version '6.9.0'
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcblistingscore.code.tex
 Library (tcolorbox): 'tcblistingscore.code.tex' version '6.9.0'
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbprocessing.code.tex
 Library (tcolorbox): 'tcbprocessing.code.tex' version '6.9.0'
 )
 \c@tcblisting=\count426
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskins.code.tex
 Library (tcolorbox): 'tcbskins.code.tex' version '6.9.0'
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image.sty
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzfill.image.sty
 Package: tikzfill.image 2026/04/23 v1.2.0 Image filling library for TikZ
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tikzfill\tikzlibraryfill.image.code.tex
 File: tikzlibraryfill.image.code.tex 2026/04/23 v1.2.0 Image filling library
 \l__tikzfill_tmpa_dim=\dimen358
 \l__tikzfill_tmpb_dim=\dimen359
 \l__tikzfill_img_box=\box148
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcbskinsjigsaw.code.tex
 Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '6.9.0'
-)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+)) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 )) (Principal.aux
 LaTeX Info: Redefining \. on input line 13.
@@ -1238,7 +1238,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 119.
 LaTeX Font Info:    ... okay on input line 119.
 LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 119.
 LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 119.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/ly1\ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
 LaTeX Font Info:    ... okay on input line 119.
@@ -1250,7 +1250,7 @@ LaTeX Info: Redefining \. on input line 119.
 LaTeX Info: Redefining \% on input line 119.
 \c@mv@tabular=\count427
 \c@mv@boldtabular=\count428
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count429
 \scratchdimen=\dimen360
@@ -1263,10 +1263,10 @@ LaTeX Info: Redefining \% on input line 119.
 \MPnumerator=\count433
 \makeMPintoPDFobject=\count434
 \everyMPtoPDFconversion=\toks61
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+) (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 *geometry* driver: auto-detecting
@@ -1304,7 +1304,7 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 119.
-(C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
+(C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\translations-basic-dictionary-spanish.trsl
 File: translations-basic-dictionary-spanish.trsl (spanish translation file `translations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' for `spanish'. on input line 119.
@@ -1321,19 +1321,19 @@ File: logos/logoupiita.pdf Graphic file (type pdf)
 Package pdftex.def Info: logos/logoupiita.pdf  used on input line 125.
 (pdftex.def)             Requested size: 56.9055pt x 39.86452pt.
 LaTeX Font Info:    Trying to load font information for U+msa on input line 125.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 125.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 125.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for T1+Montserrat-TLF on input line 125.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\t1montserrat-tlf.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\t1montserrat-tlf.fd
 File: T1Montserrat-TLF.fd 2019/11/07 (autoinst) Font definitions for T1/Montserrat-TLF.
 )
 
@@ -1361,7 +1361,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1
 
-{C:/Users/JesusAlmaguer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/montserrat/zmo_bapnwu.enc} <./logos/LOGOPOLI.png> <./logos/logoupiita.pdf>]
+{C:/Users/Dan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/montserrat/zmo_bapnwu.enc} <./logos/LOGOPOLI.png> <./logos/logoupiita.pdf>]
 File: logos/LOGOPOLI.png Graphic file (type png)
 <use logos/LOGOPOLI.png>
 Package pdftex.def Info: logos/LOGOPOLI.png  used on input line 126.
@@ -1437,19 +1437,25 @@ l.127 \dedicatoria
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+Montserrat-LF on input line 127.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\t1montserrat-lf.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/montserrat\t1montserrat-lf.fd
 File: T1Montserrat-LF.fd 2019/11/07 (autoinst) Font definitions for T1/Montserrat-LF.
 )
 LaTeX Font Info:    Font shape `T1/Montserrat-LF/bold/n' will be
 (Font)              scaled to size 20.74pt on input line 127.
- (preliminares/dedicatoria.tex)
+ (preliminares/dedicatoria.tex
 pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.127 \dedicatoria
-                                %%%modificar archivo dedica.tex [2
+l.1  \chapter
+             {Dedicatoria} [2
 
-{C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/montserrat/zmo_umrhwx.enc}]
+{C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/montserrat/zmo_umrhwx.enc}]
+LaTeX Font Info:    Font shape `T1/Montserrat-LF/regular/n' will be
+(Font)              scaled to size 14.4pt on input line 1.
+ [3
+
+
+]) [4]
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
@@ -1462,10 +1468,7 @@ l.128 \agradecimientos
 
 ] [8
 
-]
-LaTeX Font Info:    Font shape `T1/Montserrat-LF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 1.
- [9
+] [9
 
 ]) [10] (Principal.toc
 LaTeX Info: Redefining \. on input line 1.
@@ -1482,7 +1485,7 @@ LaTeX Info: Redefining \% on input line 43.
 Package babel Info: 'spanish' activates 'spanish' shorthands.
 (babel)             Reported on input line 43.
 LaTeX Font Info:    Trying to load font information for U+futs on input line 43.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/fourier\ufuts.fd
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/fourier\ufuts.fd
 File: ufuts.fd 2024/07/22 Fontinst v1.933 font definitions for U/futs.
 ) [12]
 LaTeX Info: Redefining \. on input line 67.
@@ -1524,14 +1527,14 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 ]
-LaTeX Info: Redefining \. on input line 52.
-LaTeX Info: Redefining \% on input line 52.
+LaTeX Info: Redefining \. on input line 53.
+LaTeX Info: Redefining \% on input line 53.
  [20]
-LaTeX Info: Redefining \. on input line 80.
-LaTeX Info: Redefining \% on input line 80.
+LaTeX Info: Redefining \. on input line 81.
+LaTeX Info: Redefining \% on input line 81.
  [21]
-LaTeX Info: Redefining \. on input line 109.
-LaTeX Info: Redefining \% on input line 109.
+LaTeX Info: Redefining \. on input line 110.
+LaTeX Info: Redefining \% on input line 110.
  [22])
 \tf@lof=\write8
 \openout8 = `Principal.lof'.
@@ -1709,7 +1712,7 @@ Underfull \hbox (badness 2626) in paragraph at lines 29--29
 []|\T1/cmr/m/n/10.95 De nu-la a
  []
 
-<images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png, id=604, 698.61pt x 467.7475pt>
+<images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png, id=614, 698.61pt x 467.7475pt>
 File: images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png Graphic file (type png)
 <use images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png>
 Package pdftex.def Info: images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png  used on input line 50.
@@ -1826,12 +1829,12 @@ LaTeX Info: Redefining \% on input line 108.
 
 LaTeX Warning: Reference `fg' on page 8 undefined on input line 6.
 
-<images/Capitulo 1/2.2.2 Marco procedimental/VDI.png, id=649, 670.505pt x 576.1525pt>
+<images/Capitulo 1/2.2.2 Marco procedimental/VDI.png, id=659, 670.505pt x 576.1525pt>
 File: images/Capitulo 1/2.2.2 Marco procedimental/VDI.png Graphic file (type png)
 <use images/Capitulo 1/2.2.2 Marco procedimental/VDI.png>
 Package pdftex.def Info: images/Capitulo 1/2.2.2 Marco procedimental/VDI.png  used on input line 10.
 (pdftex.def)             Requested size: 201.15305pt x 172.84708pt.
-<images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png, id=651, 1702.36pt x 388.45125pt>
+<images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png, id=661, 1702.36pt x 388.45125pt>
 File: images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png Graphic file (type png)
 <use images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png>
 Package pdftex.def Info: images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png  used on input line 19.
@@ -1899,7 +1902,7 @@ LaTeX Info: Redefining \% on input line 61.
 
 
 ]) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.2 Principio de funcionamiento.tex
-<images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png, id=688, 1168.8468pt x 1013.7072pt>
+<images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png, id=698, 1168.8468pt x 1013.7072pt>
 File: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png Graphic file (type png)
 <use images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png>
 Package pdftex.def Info: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png  used on input line 9.
@@ -1918,7 +1921,7 @@ LaTeX Info: Redefining \% on input line 19.
 LaTeX Info: Redefining \. on input line 53.
 LaTeX Info: Redefining \% on input line 53.
  [17]
-<images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png, id=706, 1579.9025pt x 1241.63875pt>
+<images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png, id=716, 1579.9025pt x 1241.63875pt>
 File: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png Graphic file (type png)
 <use images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png  used on input line 62.
@@ -1930,7 +1933,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Info: Redefining \. on input line 67.
 LaTeX Info: Redefining \% on input line 67.
 [18]
-<images/Capitulo 6 Apéndices/01 IDEF 0/General.png, id=711, 1541.2782pt x 1176.0738pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/General.png, id=721, 1541.2782pt x 1176.0738pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/General.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/General.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/General.png  used on input line 71.
@@ -1950,7 +1953,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) h
                                                   \__shipout_drop_firstpage_...
 l.78 
       <./images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>]
-<images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png, id=718, 1593.45313pt x 1213.53375pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png, id=728, 1593.45313pt x 1213.53375pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used on input line 81.
@@ -1981,7 +1984,7 @@ l.5
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
  [22]
-<images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png, id=737, 2176.60236pt x 1287.3696pt>
+<images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png, id=748, 2176.60236pt x 1287.3696pt>
 File: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png Graphic file (type png)
 <use images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png  used on input line 24.
@@ -2003,7 +2006,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) h
                                                   \__shipout_drop_firstpage_...
 l.5 D
      entro de ella se trazan diversas rutas de diseño a través de las cual... <./images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png>]
-<images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png, id=751, 1181.41376pt x 566.115pt>
+<images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png, id=761, 1181.41376pt x 566.115pt>
 File: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png Graphic file (type png)
 <use images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png>
 Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png  used on input line 36.
@@ -2037,7 +2040,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{table.2.4}) ha
                                                   \__shipout_drop_firstpage_...
 l.1 \subsection{Selección de diseño conceptual}
                                                  ]
-<images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png, id=770, 566.115pt x 611.28375pt>
+<images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png, id=781, 566.115pt x 611.28375pt>
 File: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png Graphic file (type png)
 <use images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png>
 Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png  used on input line 45.
@@ -2100,12 +2103,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 ]
-<images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg, id=792, 2900.8375pt x 1132.23pt>
+<images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg, id=802, 2900.8375pt x 1132.23pt>
 File: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg  used on input line 21.
 (pdftex.def)             Requested size: 290.10074pt x 113.22963pt.
-<images/Capitulo_Imple/S1/interfaz/botones_int.jpeg, id=793, 1497.595pt x 1606.0pt>
+<images/Capitulo_Imple/S1/interfaz/botones_int.jpeg, id=803, 1497.595pt x 1606.0pt>
 File: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg  used on input line 28.
@@ -2130,22 +2133,22 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) h
                                                   \__shipout_drop_firstpage_...
 l.33 \clearpage
                 <./images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>]
-<images/Capitulo_Imple/S1/interfaz/menu.jpeg, id=806, 3011.25pt x 1893.0725pt>
+<images/Capitulo_Imple/S1/interfaz/menu.jpeg, id=817, 3011.25pt x 1893.0725pt>
 File: images/Capitulo_Imple/S1/interfaz/menu.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/menu.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/menu.jpeg  used on input line 38.
 (pdftex.def)             Requested size: 167.11256pt x 105.05809pt.
-<images/Capitulo_Imple/S1/interfaz/tiempo.jpeg, id=807, 3011.25pt x 1730.465pt>
+<images/Capitulo_Imple/S1/interfaz/tiempo.jpeg, id=818, 3011.25pt x 1730.465pt>
 File: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/tiempo.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg  used on input line 45.
 (pdftex.def)             Requested size: 167.11256pt x 96.03401pt.
-<images/Capitulo_Imple/S1/interfaz/proceso.jpeg, id=808, 3011.25pt x 1734.48pt>
+<images/Capitulo_Imple/S1/interfaz/proceso.jpeg, id=819, 3011.25pt x 1734.48pt>
 File: images/Capitulo_Imple/S1/interfaz/proceso.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/proceso.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/proceso.jpeg  used on input line 52.
 (pdftex.def)             Requested size: 167.11256pt x 96.25684pt.
-<images/Web/pagina_compostador.png, id=809, 1425.07407pt x 669.2503pt>
+<images/Web/pagina_compostador.png, id=820, 1425.07407pt x 669.2503pt>
 File: images/Web/pagina_compostador.png Graphic file (type png)
 <use images/Web/pagina_compostador.png>
 Package pdftex.def Info: images/Web/pagina_compostador.png  used on input line 63.
@@ -2170,7 +2173,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.5}) h
                                                   \__shipout_drop_firstpage_...
 l.68 
       <./images/Capitulo_Imple/S1/interfaz/menu.jpeg> <./images/Capitulo_Imple/S1/interfaz/tiempo.jpeg> <./images/Capitulo_Imple/S1/interfaz/proceso.jpeg>]
-<images/Web/temp_hum_web.png, id=814, 1156.32pt x 324.46219pt>
+<images/Web/temp_hum_web.png, id=825, 1156.32pt x 324.46219pt>
 File: images/Web/temp_hum_web.png Graphic file (type png)
 <use images/Web/temp_hum_web.png>
 Package pdftex.def Info: images/Web/temp_hum_web.png  used on input line 73.
@@ -2190,12 +2193,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.6}) h
                                                   \__shipout_drop_firstpage_...
 l.80 
       <./images/Web/pagina_compostador.png>]
-<images/Web/indicador.png, id=820, 272.51813pt x 130.23656pt>
+<images/Web/indicador.png, id=830, 272.51813pt x 130.23656pt>
 File: images/Web/indicador.png Graphic file (type png)
 <use images/Web/indicador.png>
 Package pdftex.def Info: images/Web/indicador.png  used on input line 83.
 (pdftex.def)             Requested size: 136.25873pt x 65.11812pt.
-<images/Web/indicador_temp.png, id=821, 268.75406pt x 124.96687pt>
+<images/Web/indicador_temp.png, id=831, 268.75406pt x 124.96687pt>
 File: images/Web/indicador_temp.png Graphic file (type png)
 <use images/Web/indicador_temp.png>
 Package pdftex.def Info: images/Web/indicador_temp.png  used on input line 90.
@@ -2218,12 +2221,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9}) h
                                                   \__shipout_drop_firstpage_...
 l.96 
       <./images/Web/temp_hum_web.png> <./images/Web/indicador.png> <./images/Web/indicador_temp.png>]
-<images/Web/error_ds18.png, id=827, 568.37344pt x 337.26pt>
+<images/Web/error_ds18.png, id=837, 568.37344pt x 337.26pt>
 File: images/Web/error_ds18.png Graphic file (type png)
 <use images/Web/error_ds18.png>
 Package pdftex.def Info: images/Web/error_ds18.png  used on input line 99.
 (pdftex.def)             Requested size: 255.76569pt x 151.7656pt.
-<images/Web/dht11_web.png, id=828, 564.60938pt x 328.97906pt>
+<images/Web/dht11_web.png, id=838, 564.60938pt x 328.97906pt>
 File: images/Web/dht11_web.png Graphic file (type png)
 <use images/Web/dht11_web.png>
 Package pdftex.def Info: images/Web/dht11_web.png  used on input line 107.
@@ -2241,27 +2244,27 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.11}) 
                                                   \__shipout_drop_firstpage_...
 l.114 
        <./images/Web/error_ds18.png> <./images/Web/dht11_web.png>]
-<images/Web/ventilador_web.png, id=833, 270.25969pt x 127.97812pt>
+<images/Web/ventilador_web.png, id=843, 270.25969pt x 127.97812pt>
 File: images/Web/ventilador_web.png Graphic file (type png)
 <use images/Web/ventilador_web.png>
 Package pdftex.def Info: images/Web/ventilador_web.png  used on input line 117.
 (pdftex.def)             Requested size: 135.1295pt x 63.98889pt.
-<images/Web/motor_web.png, id=834, 269.50688pt x 123.46124pt>
+<images/Web/motor_web.png, id=844, 269.50688pt x 123.46124pt>
 File: images/Web/motor_web.png Graphic file (type png)
 <use images/Web/motor_web.png>
 Package pdftex.def Info: images/Web/motor_web.png  used on input line 125.
 (pdftex.def)             Requested size: 134.7531pt x 61.73045pt.
-<images/Web/resistencia_web.png, id=835, 268.75406pt x 124.96687pt>
+<images/Web/resistencia_web.png, id=845, 268.75406pt x 124.96687pt>
 File: images/Web/resistencia_web.png Graphic file (type png)
 <use images/Web/resistencia_web.png>
 Package pdftex.def Info: images/Web/resistencia_web.png  used on input line 133.
 (pdftex.def)             Requested size: 134.3767pt x 62.48328pt.
-<images/Web/temporizador_web.png, id=836, 271.0125pt x 126.4725pt>
+<images/Web/temporizador_web.png, id=846, 271.0125pt x 126.4725pt>
 File: images/Web/temporizador_web.png Graphic file (type png)
 <use images/Web/temporizador_web.png>
 Package pdftex.def Info: images/Web/temporizador_web.png  used on input line 145.
 (pdftex.def)             Requested size: 135.5059pt x 63.23608pt.
-<images/Web/Db_compostador.png, id=837, 1041.8925pt x 553.31718pt>
+<images/Web/Db_compostador.png, id=847, 1041.8925pt x 553.31718pt>
 File: images/Web/Db_compostador.png Graphic file (type png)
 <use images/Web/Db_compostador.png>
 Package pdftex.def Info: images/Web/Db_compostador.png  used on input line 153.
@@ -2297,7 +2300,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.16}) 
                                                   \__shipout_drop_firstpage_...
 l.158 \clearpage
                  <./images/Web/Db_compostador.png>]) (parts/3_Imple/3.1 Sistema 1/3.1.2 Verificacion.tex
-<images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg, id=847, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg, id=858, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg  used on input line 9.
@@ -2319,7 +2322,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.17}) 
                                                   \__shipout_drop_firstpage_...
 l.14 \clearpage
                 <./images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>]
-<images/Pruebas/Pruebas_S1/mostrar_datos.jpeg, id=858, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/mostrar_datos.jpeg, id=868, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg  used on input line 20.
@@ -2334,7 +2337,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.18}) 
                                                   \__shipout_drop_firstpage_...
 l.25 \clearpage
                 <./images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>]
-<images/Pruebas/Pruebas_S1/fermentacion.jpeg, id=865, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/fermentacion.jpeg, id=875, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/fermentacion.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/fermentacion.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/fermentacion.jpeg  used on input line 31.
@@ -2349,7 +2352,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.19}) 
                                                   \__shipout_drop_firstpage_...
 l.35 \clearpage
                 <./images/Pruebas/Pruebas_S1/fermentacion.jpeg>]
-<images/Pruebas/Pruebas_S1/elevando_temp.jpeg, id=870, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/elevando_temp.jpeg, id=880, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/elevando_temp.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/elevando_temp.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/elevando_temp.jpeg  used on input line 39.
@@ -2364,7 +2367,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.20}) 
                                                   \__shipout_drop_firstpage_...
 l.44 \clearpage
                 <./images/Pruebas/Pruebas_S1/elevando_temp.jpeg>]
-<images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg, id=876, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg, id=886, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg  used on input line 50.
@@ -2392,7 +2395,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
 (parts/3_Imple/3.2 Sistema 2/3.2.1 Implemetacion.tex
-<images/Capitulo_Imple/S2/CTO_SEN.jpeg, id=882, 4015.0pt x 3011.25pt>
+<images/Capitulo_Imple/S2/CTO_SEN.jpeg, id=893, 4015.0pt x 3011.25pt>
 File: images/Capitulo_Imple/S2/CTO_SEN.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/CTO_SEN.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/CTO_SEN.jpeg  used on input line 7.
@@ -2407,12 +2410,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.22}) 
                                                   \__shipout_drop_firstpage_...
 l.11 \clearpage
                 <./images/Capitulo_Imple/S2/CTO_SEN.jpeg>]
-<images/Capitulo_Imple/S2/DHT11_FIS.jpeg, id=888, 1327.96124pt x 1606.0pt>
+<images/Capitulo_Imple/S2/DHT11_FIS.jpeg, id=899, 1327.96124pt x 1606.0pt>
 File: images/Capitulo_Imple/S2/DHT11_FIS.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/DHT11_FIS.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/DHT11_FIS.jpeg  used on input line 17.
 (pdftex.def)             Requested size: 132.8039pt x 160.6094pt.
-<images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg, id=890, 2938.98pt x 2830.575pt>
+<images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg, id=901, 2938.98pt x 2830.575pt>
 File: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg  used on input line 26.
@@ -2574,7 +2577,7 @@ LaTeX Info: Redefining \% on input line 8.
 [54
 
 ]
-<images/Capitulo_Imple/S4/trituracion.jpeg, id=934, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S4/trituracion.jpeg, id=944, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S4/trituracion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S4/trituracion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S4/trituracion.jpeg  used on input line 24.
@@ -2596,7 +2599,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.25}) 
                                                   \__shipout_drop_firstpage_...
 l.29 \clearpage
                 <./images/Capitulo_Imple/S4/trituracion.jpeg>]) (parts/3_Imple/3.4 Sistema 4/3.4.2 Verificacion.tex
-<images/Capitulo_Imple/S7/atorado.jpeg, id=944, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/atorado.jpeg, id=954, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/atorado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/atorado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/atorado.jpeg  used on input line 11.
@@ -2614,7 +2617,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.26}) 
                                                   \__shipout_drop_firstpage_...
 l.17 
       <./images/Capitulo_Imple/S7/atorado.jpeg>]
-<images/Capitulo_Imple/S7/triturado.jpeg, id=950, 4015.0pt x 3011.25pt>
+<images/Capitulo_Imple/S7/triturado.jpeg, id=961, 4015.0pt x 3011.25pt>
 File: images/Capitulo_Imple/S7/triturado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/triturado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/triturado.jpeg  used on input line 30.
@@ -2627,7 +2630,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.27}) 
                                                   \__shipout_drop_firstpage_...
 l.35  \clearpage
                  <./images/Capitulo_Imple/S7/triturado.jpeg>]
-<images/Pruebas/Pruebas_S4/cono_excentrico.jpg, id=955, 418.56375pt x 395.97937pt>
+<images/Pruebas/Pruebas_S4/cono_excentrico.jpg, id=966, 418.56375pt x 395.97937pt>
 File: images/Pruebas/Pruebas_S4/cono_excentrico.jpg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S4/cono_excentrico.jpg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S4/cono_excentrico.jpg  used on input line 44.
@@ -2655,7 +2658,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 2.
 
 (parts/3_Imple/3.5 Sistema 5/3.5.1 Implementacion.tex
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg, id=961, 1204.5pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg, id=971, 1204.5pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg  used on input line 12.
@@ -2670,12 +2673,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.29}) 
                                                   \__shipout_drop_firstpage_...
 l.17 \newpage
               <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg, id=966, 677.53125pt x 950.80219pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg, id=976, 677.53125pt x 950.80219pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg  used on input line 20.
 (pdftex.def)             Requested size: 121.95036pt x 171.13701pt.
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg, id=967, 1606.0pt x 903.375pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg, id=977, 1606.0pt x 903.375pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg  used on input line 29.
@@ -2693,7 +2696,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.31}) 
                                                   \__shipout_drop_firstpage_...
 l.33         \newpage
                       <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>]
-<images/Capitulo_Imple/S5/Actuadores/calentador.png, id=973, 659.46375pt x 538.01pt>
+<images/Capitulo_Imple/S5/Actuadores/calentador.png, id=983, 659.46375pt x 538.01pt>
 File: images/Capitulo_Imple/S5/Actuadores/calentador.png Graphic file (type png)
 <use images/Capitulo_Imple/S5/Actuadores/calentador.png>
 Package pdftex.def Info: images/Capitulo_Imple/S5/Actuadores/calentador.png  used on input line 42.
@@ -2713,7 +2716,7 @@ LaTeX Warning: Command \textdegree invalid in math mode on input line 48.
 LaTeX Warning: Command \textdegree invalid in math mode on input line 48.
 
 Missing character: There is no � in font cmr10!
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png, id=974, 548.80031pt x 441.90094pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png, id=984, 548.80031pt x 441.90094pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png  used on input line 57.
@@ -2721,7 +2724,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adapta
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png, id=975, 595.47469pt x 482.55281pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png, id=985, 595.47469pt x 482.55281pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png  used on input line 66.
@@ -2747,12 +2750,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.34}) 
                                                   \__shipout_drop_firstpage_...
 l.70  \newpage
                <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg, id=984, 676.02562pt x 1005.7575pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg, id=995, 676.02562pt x 1005.7575pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg  used on input line 74.
 (pdftex.def)             Requested size: 121.67935pt x 181.02853pt.
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg, id=985, 903.375pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg, id=996, 903.375pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg  used on input line 83.
@@ -2770,17 +2773,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.36}) 
                                                   \__shipout_drop_firstpage_...
 l.88  \newpage
                <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg, id=990, 903.375pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg, id=1001, 903.375pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg  used on input line 91.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
-<images/Pruebas_S5/pieza_ventilador.jpg, id=991, 565.36218pt x 417.81094pt>
+<images/Pruebas_S5/pieza_ventilador.jpg, id=1002, 565.36218pt x 417.81094pt>
 File: images/Pruebas_S5/pieza_ventilador.jpg Graphic file (type jpg)
 <use images/Pruebas_S5/pieza_ventilador.jpg>
 Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador.jpg  used on input line 98.
 (pdftex.def)             Requested size: 84.80066pt x 62.66893pt.
-<images/Pruebas_S5/pieza_ventilador_impresa.png, id=992, 755.07094pt x 703.87968pt>
+<images/Pruebas_S5/pieza_ventilador_impresa.png, id=1003, 755.07094pt x 703.87968pt>
 File: images/Pruebas_S5/pieza_ventilador_impresa.png Graphic file (type png)
 <use images/Pruebas_S5/pieza_ventilador_impresa.png>
 Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador_impresa.png  used on input line 105.
@@ -2802,7 +2805,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.38}) 
                                                   \__shipout_drop_firstpage_...
 l.115 
        <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg> <./images/Pruebas_S5/pieza_ventilador.jpg>]
-<images/Capitulo_Imple/S5/Aireacion.jpeg, id=999, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S5/Aireacion.jpeg, id=1009, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/Aireacion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/Aireacion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S5/Aireacion.jpeg  used on input line 126.
@@ -2819,7 +2822,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.39}) 
                                                   \__shipout_drop_firstpage_...
 l.133 
        <./images/Pruebas_S5/pieza_ventilador_impresa.png>]
-<images/Pruebas_S5/pala_soldada.jpeg, id=1004, 1606.0pt x 903.375pt>
+<images/Pruebas_S5/pala_soldada.jpeg, id=1014, 1606.0pt x 903.375pt>
 File: images/Pruebas_S5/pala_soldada.jpeg Graphic file (type jpg)
 <use images/Pruebas_S5/pala_soldada.jpeg>
 Package pdftex.def Info: images/Pruebas_S5/pala_soldada.jpeg  used on input line 138.
@@ -2828,7 +2831,7 @@ Package pdftex.def Info: images/Pruebas_S5/pala_soldada.jpeg  used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo_Imple/S5/fresado.JPG, id=1006, 3276.24pt x 2457.18pt>
+<images/Capitulo_Imple/S5/fresado.JPG, id=1016, 3276.24pt x 2457.18pt>
 File: images/Capitulo_Imple/S5/fresado.JPG Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/fresado.JPG>
 Package pdftex.def Info: images/Capitulo_Imple/S5/fresado.JPG  used on input line 148.
@@ -2836,7 +2839,7 @@ Package pdftex.def Info: images/Capitulo_Imple/S5/fresado.JPG  used on input lin
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg, id=1008, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg, id=1018, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg  used on input line 158.
@@ -2868,7 +2871,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.42}) 
                                                   \__shipout_drop_firstpage_...
 l.164 
        <./images/Pruebas_S5/pala_soldada.jpeg> <./images/Capitulo_Imple/S5/fresado.JPG>]
-<images/Capitulo_Imple/S5/tambo_solo.jpeg, id=1018, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S5/tambo_solo.jpeg, id=1028, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/tambo_solo.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/tambo_solo.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_solo.jpeg  used on input line 167.
@@ -2914,7 +2917,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
 (parts/3_Imple/3.6 Sistema 6/3.6.1 Implementacion.tex
-<images/Capitulo_Imple/S6/estructura.jpeg, id=1033, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S6/estructura.jpeg, id=1043, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S6/estructura.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S6/estructura.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S6/estructura.jpeg  used on input line 13.
@@ -2927,7 +2930,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.45}) 
                                                   \__shipout_drop_firstpage_...
 l.18  \clearpage
                  <./images/Capitulo_Imple/S6/estructura.jpeg>]) (parts/3_Imple/3.6 Sistema 6/3.6.2 Verificacion.tex
-<images/Pruebas_S6/montar_componentes.jpeg, id=1038, 1092.08pt x 1606.0pt>
+<images/Pruebas_S6/montar_componentes.jpeg, id=1048, 1092.08pt x 1606.0pt>
 File: images/Pruebas_S6/montar_componentes.jpeg Graphic file (type jpg)
 <use images/Pruebas_S6/montar_componentes.jpeg>
 Package pdftex.def Info: images/Pruebas_S6/montar_componentes.jpeg  used on input line 6.
@@ -2945,7 +2948,7 @@ l.16 \newpage
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
  [74])) (parts/3_Imple/3.7_Integracion/3.7_Integracion.tex (parts/3_Imple/3.7_Integracion/3.7.1_Integracion_del_dispositivo.tex
-<images/Capitulo_Imple/S7/palas_dentro.jpeg, id=1048, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/palas_dentro.jpeg, id=1058, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/palas_dentro.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/palas_dentro.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/palas_dentro.jpeg  used on input line 9.
@@ -2958,7 +2961,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.47}) 
                                                   \__shipout_drop_firstpage_...
 l.14  \clearpage
                  <./images/Capitulo_Imple/S7/palas_dentro.jpeg>]
-<images/Capitulo_Imple/S7/perfora.jpeg, id=1054, 1606.0pt x 1204.5pt>
+<images/Capitulo_Imple/S7/perfora.jpeg, id=1065, 1606.0pt x 1204.5pt>
 File: images/Capitulo_Imple/S7/perfora.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/perfora.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/perfora.jpeg  used on input line 21.
@@ -2973,7 +2976,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.48}) 
                                                   \__shipout_drop_firstpage_...
 l.26  \clearpage
                  <./images/Capitulo_Imple/S7/perfora.jpeg>]
-<images/Capitulo_Imple/S7/Sal_trituracion.jpeg, id=1060, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/Sal_trituracion.jpeg, id=1071, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/Sal_trituracion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Sal_trituracion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Sal_trituracion.jpeg  used on input line 31.
@@ -2988,7 +2991,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.49}) 
                                                   \__shipout_drop_firstpage_...
 l.36 \clearpage
                 <./images/Capitulo_Imple/S7/Sal_trituracion.jpeg>]
-<images/Capitulo_Imple/S7/motor.jpeg, id=1067, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/motor.jpeg, id=1077, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/motor.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/motor.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/motor.jpeg  used on input line 43.
@@ -3003,7 +3006,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.50}) 
                                                   \__shipout_drop_firstpage_...
 l.48 \clearpage
                 <./images/Capitulo_Imple/S7/motor.jpeg>]
-<images/Capitulo_Imple/S7/cableado.jpeg, id=1073, 1606.0pt x 1204.5pt>
+<images/Capitulo_Imple/S7/cableado.jpeg, id=1083, 1606.0pt x 1204.5pt>
 File: images/Capitulo_Imple/S7/cableado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/cableado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/cableado.jpeg  used on input line 53.
@@ -3018,7 +3021,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.51}) 
                                                   \__shipout_drop_firstpage_...
 l.60 \clearpage
                 <./images/Capitulo_Imple/S7/cableado.jpeg>]
-<images/Capitulo_Imple/S7/sistema_integrado.jpeg, id=1079, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/sistema_integrado.jpeg, id=1089, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/sistema_integrado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/sistema_integrado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/sistema_integrado.jpeg  used on input line 65.
@@ -3033,7 +3036,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.52}) 
                                                   \__shipout_drop_firstpage_...
 l.70  \clearpage
                  <./images/Capitulo_Imple/S7/sistema_integrado.jpeg>]) (parts/3_Imple/3.7_Integracion/3.7.2_Validacion.tex
-<images/Pruebas/Pruebas_compost/carga1.jpeg, id=1084, 1033.8625pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga1.jpeg, id=1094, 1033.8625pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga1.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga1.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga1.jpeg  used on input line 12.
@@ -3048,7 +3051,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.53}) 
                                                   \__shipout_drop_firstpage_...
 l.16 \clearpage
                 <./images/Pruebas/Pruebas_compost/carga1.jpeg>]
-<images/Capitulo_Imple/S7/Val/Prueba1.jpeg, id=1090, 963.6pt x 1284.8pt>
+<images/Capitulo_Imple/S7/Val/Prueba1.jpeg, id=1101, 963.6pt x 1284.8pt>
 File: images/Capitulo_Imple/S7/Val/Prueba1.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Val/Prueba1.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba1.jpeg  used on input line 26.
@@ -3063,7 +3066,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.54}) 
                                                   \__shipout_drop_firstpage_...
 l.30 \clearpage
                 <./images/Capitulo_Imple/S7/Val/Prueba1.jpeg>]
-<images/Pruebas/Pruebas_compost/carga2.jpeg, id=1095, 677.53125pt x 1132.23pt>
+<images/Pruebas/Pruebas_compost/carga2.jpeg, id=1106, 677.53125pt x 1132.23pt>
 File: images/Pruebas/Pruebas_compost/carga2.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga2.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga2.jpeg  used on input line 39.
@@ -3078,7 +3081,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.55}) 
                                                   \__shipout_drop_firstpage_...
 l.43 \clearpage
                 <./images/Pruebas/Pruebas_compost/carga2.jpeg>]
-<images/Capitulo_Imple/S7/Val/Prueba2.jpeg, id=1101, 963.6pt x 1284.8pt>
+<images/Capitulo_Imple/S7/Val/Prueba2.jpeg, id=1111, 963.6pt x 1284.8pt>
 File: images/Capitulo_Imple/S7/Val/Prueba2.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Val/Prueba2.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba2.jpeg  used on input line 51.
@@ -3093,7 +3096,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.56}) 
                                                   \__shipout_drop_firstpage_...
 l.55 \clearpage
                 <./images/Capitulo_Imple/S7/Val/Prueba2.jpeg>]
-<images/Pruebas/Pruebas_compost/carga3.jpeg, id=1106, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga3.jpeg, id=1116, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga3.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga3.jpeg  used on input line 64.
@@ -3111,12 +3114,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.3.57}) 
                                                   \__shipout_drop_firstpage_...
 l.70 
       <./images/Pruebas/Pruebas_compost/carga3.jpeg>]
-<images/Pruebas/Pruebas_compost/descarga3.jpeg, id=1111, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga3.jpeg, id=1121, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga3.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga3.jpeg  used on input line 73.
 (pdftex.def)             Requested size: 180.6672pt x 240.8896pt.
-<images/Pruebas/Pruebas_compost/descarga4.jpeg, id=1112, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga4.jpeg, id=1122, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga4.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga4.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga4.jpeg  used on input line 84.
@@ -3125,7 +3128,7 @@ Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga4.jpeg  used on 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Pruebas/Pruebas_compost/carga5.jpeg, id=1113, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga5.jpeg, id=1123, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga5.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga5.jpeg  used on input line 94.
@@ -3133,7 +3136,7 @@ Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga5.jpeg  used on inp
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Pruebas/Pruebas_compost/descarga5.jpeg, id=1114, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga5.jpeg, id=1124, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga5.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga5.jpeg  used on input line 101.
@@ -3152,12 +3155,12 @@ l.105
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Pruebas/Pruebas_compost/carga6.jpeg, id=1119, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga6.jpeg, id=1129, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga6.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga6.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga6.jpeg  used on input line 110.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
-<images/Pruebas/Pruebas_compost/descarga6.jpeg, id=1120, 782.925pt x 1043.9pt>
+<images/Pruebas/Pruebas_compost/descarga6.jpeg, id=1130, 782.925pt x 1043.9pt>
 File: images/Pruebas/Pruebas_compost/descarga6.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga6.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga6.jpeg  used on input line 117.
@@ -3295,7 +3298,7 @@ LaTeX Info: Redefining \% on input line 60.
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
  [95]
-<images/Anexo/Reparticion_gastos.png, id=1175, 1059.96pt x 879.285pt>
+<images/Anexo/Reparticion_gastos.png, id=1185, 1059.96pt x 879.285pt>
 File: images/Anexo/Reparticion_gastos.png Graphic file (type png)
 <use images/Anexo/Reparticion_gastos.png>
 Package pdftex.def Info: images/Anexo/Reparticion_gastos.png  used on input line 202.
@@ -3546,7 +3549,7 @@ LaTeX Info: Redefining \% on input line 213.
 \openout2 = `apendices/apendices/7.2.1_IDEF.aux'.
 
  (apendices/apendices/7.2.1_IDEF.tex
-<images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png, id=1368, 1591.9475pt x 1220.56pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png, id=1378, 1591.9475pt x 1220.56pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png  used on input line 7.
@@ -3568,7 +3571,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png, id=1373, 1591.9475pt x 1215.03937pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png, id=1383, 1591.9475pt x 1215.03937pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png  used on input line 19.
@@ -3576,7 +3579,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png, id=1374, 1594.95876pt x 1215.03937pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png, id=1384, 1594.95876pt x 1215.03937pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png  used on input line 25.
@@ -3584,7 +3587,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Co
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png, id=1375, 1585.42313pt x 1206.00563pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png, id=1385, 1585.42313pt x 1206.00563pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png  used on input line 31.
@@ -3592,7 +3595,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Co
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png, id=1376, 1578.89874pt x 1173.38374pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png, id=1386, 1578.89874pt x 1173.38374pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png  used on input line 37.
@@ -3600,7 +3603,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Co
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png, id=1377, 1582.91376pt x 1197.97563pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png, id=1387, 1582.91376pt x 1197.97563pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png  used on input line 49.
@@ -3608,7 +3611,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco -
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png, id=1378, 1591.9475pt x 1227.58624pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png, id=1388, 1591.9475pt x 1227.58624pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png  used on input line 55.
@@ -3616,7 +3619,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco -
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png, id=1379, 1570.36688pt x 1219.05438pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png, id=1389, 1570.36688pt x 1219.05438pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png  used on input line 61.
@@ -3640,142 +3643,142 @@ LaTeX Info: Redefining \% on input line 216.
 \openout2 = `apendices/apendices/7.2.2_Matriz_Morfologica.aux'.
 
  (apendices/apendices/7.2.2_Matriz_Morfologica.tex
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png, id=1426, 157.58875pt x 132.495pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png, id=1437, 157.58875pt x 132.495pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png  used on input line 26.
 (pdftex.def)             Requested size: 31.51718pt x 26.49852pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png, id=1427, 178.6675pt x 140.525pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png, id=1438, 178.6675pt x 140.525pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png  used on input line 26.
 (pdftex.def)             Requested size: 35.73286pt x 28.10449pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png, id=1428, 197.73875pt x 152.57pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png, id=1439, 197.73875pt x 152.57pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png  used on input line 26.
 (pdftex.def)             Requested size: 39.54704pt x 30.51346pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png, id=1429, 162.6075pt x 139.52126pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png, id=1440, 162.6075pt x 139.52126pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png  used on input line 26.
 (pdftex.def)             Requested size: 32.52092pt x 27.90375pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png, id=1430, 106.3975pt x 143.53625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png, id=1441, 106.3975pt x 143.53625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png  used on input line 26.
 (pdftex.def)             Requested size: 21.27911pt x 28.70673pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png, id=1431, 213.79875pt x 137.51375pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png, id=1442, 213.79875pt x 137.51375pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png  used on input line 26.
 (pdftex.def)             Requested size: 42.75899pt x 27.50226pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png, id=1432, 199.74625pt x 111.41624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png, id=1443, 199.74625pt x 111.41624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png  used on input line 26.
 (pdftex.def)             Requested size: 59.92433pt x 33.42513pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png, id=1433, 144.54pt x 120.45pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png, id=1444, 144.54pt x 120.45pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png  used on input line 26.
 (pdftex.def)             Requested size: 43.36232pt x 36.13527pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png, id=1434, 185.69376pt x 129.48375pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png, id=1445, 185.69376pt x 129.48375pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png  used on input line 26.
 (pdftex.def)             Requested size: 55.70854pt x 38.84541pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png, id=1435, 177.66376pt x 124.465pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png, id=1446, 177.66376pt x 124.465pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png  used on input line 26.
 (pdftex.def)             Requested size: 53.29953pt x 37.33978pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png, id=1436, 163.61125pt x 123.46124pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png, id=1447, 163.61125pt x 123.46124pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png  used on input line 26.
 (pdftex.def)             Requested size: 49.08374pt x 37.03865pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png, id=1437, 149.55875pt x 140.525pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png, id=1448, 149.55875pt x 140.525pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png  used on input line 26.
 (pdftex.def)             Requested size: 44.86797pt x 42.15782pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png, id=1438, 189.70876pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png, id=1449, 189.70876pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png  used on input line 26.
 (pdftex.def)             Requested size: 56.91306pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png, id=1439, 155.58125pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png, id=1450, 155.58125pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png  used on input line 26.
 (pdftex.def)             Requested size: 46.67473pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png, id=1440, 130.4875pt x 130.4875pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png, id=1451, 130.4875pt x 130.4875pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png  used on input line 26.
 (pdftex.def)             Requested size: 39.14655pt x 39.14655pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png, id=1441, 198.7425pt x 119.44624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png, id=1452, 198.7425pt x 119.44624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png  used on input line 26.
 (pdftex.def)             Requested size: 59.6232pt x 35.83414pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png, id=1442, 135.50626pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png, id=1453, 135.50626pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png  used on input line 26.
 (pdftex.def)             Requested size: 40.65218pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png, id=1443, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png, id=1454, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png, id=1444, 732.7375pt x 704.6325pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png, id=1455, 732.7375pt x 704.6325pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png  used on input line 26.
 (pdftex.def)             Requested size: 43.96234pt x 42.27612pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png, id=1445, 431.6125pt x 419.5675pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png, id=1456, 431.6125pt x 419.5675pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png  used on input line 26.
 (pdftex.def)             Requested size: 47.47751pt x 46.15256pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png, id=1446, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png, id=1457, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png, id=1447, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png, id=1458, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png, id=1448, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png, id=1459, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png, id=1449, 106.3975pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png, id=1460, 106.3975pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png  used on input line 26.
 (pdftex.def)             Requested size: 31.91948pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png, id=1450, 197.73875pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png, id=1461, 197.73875pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png  used on input line 26.
 (pdftex.def)             Requested size: 59.32208pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png, id=1451, 210.7875pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png, id=1462, 210.7875pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png  used on input line 26.
 (pdftex.def)             Requested size: 63.23672pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png, id=1452, 479.7925pt x 423.5825pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png, id=1463, 479.7925pt x 423.5825pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png  used on input line 26.
 (pdftex.def)             Requested size: 47.98206pt x 42.36072pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png, id=1453, 609.27625pt x 675.52374pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png, id=1464, 609.27625pt x 675.52374pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png  used on input line 26.
@@ -3788,37 +3791,37 @@ Overfull \hbox (11.66574pt too wide) in paragraph at lines 10--27
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png, id=1454, 497.86pt x 334.24875pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png, id=1465, 497.86pt x 334.24875pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png  used on input line 40.
 (pdftex.def)             Requested size: 49.78891pt x 33.42682pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png, id=1455, 749.80125pt x 625.33624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png, id=1466, 749.80125pt x 625.33624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png  used on input line 40.
 (pdftex.def)             Requested size: 59.98532pt x 50.02791pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png, id=1456, 362.35374pt x 352.31625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png, id=1467, 362.35374pt x 352.31625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png  used on input line 40.
 (pdftex.def)             Requested size: 54.35071pt x 52.84515pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png, id=1457, 500.87125pt x 272.01625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png, id=1468, 500.87125pt x 272.01625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png  used on input line 40.
 (pdftex.def)             Requested size: 75.12744pt x 40.80067pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png, id=1458, 578.16pt x 471.7625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png, id=1469, 578.16pt x 471.7625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png  used on input line 40.
 (pdftex.def)             Requested size: 57.81938pt x 47.179pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png, id=1459, 377.41pt x 212.795pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png, id=1470, 377.41pt x 212.795pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png  used on input line 40.
 (pdftex.def)             Requested size: 75.48065pt x 42.55824pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png, id=1460, 263.98625pt x 263.98625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png, id=1471, 263.98625pt x 263.98625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png  used on input line 40.
@@ -4028,22 +4031,22 @@ l.219 ...e{apendices/apendices/7.2.4_Matrices_AHP}
 \openout2 = `apendices/apendices/7.2.5_Seleccion.aux'.
 
  (apendices/apendices/7.2.5_Seleccion.tex
-<images/Capitulo 4/3.1.1/S1/esp.png, id=1525, 480.79625pt x 407.5225pt>
+<images/Capitulo 4/3.1.1/S1/esp.png, id=1535, 480.79625pt x 407.5225pt>
 File: images/Capitulo 4/3.1.1/S1/esp.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/esp.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/esp.png  used on input line 28.
 (pdftex.def)             Requested size: 72.11632pt x 61.12573pt.
-<images/Capitulo 4/3.1.1/S1/rasp.png, id=1526, 489.83pt x 389.455pt>
+<images/Capitulo 4/3.1.1/S1/rasp.png, id=1536, 489.83pt x 389.455pt>
 File: images/Capitulo 4/3.1.1/S1/rasp.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/rasp.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/rasp.png  used on input line 28.
 (pdftex.def)             Requested size: 73.47133pt x 58.41573pt.
-<images/Capitulo 4/3.1.1/S1/nano.png, id=1527, 404.51125pt x 355.3275pt>
+<images/Capitulo 4/3.1.1/S1/nano.png, id=1537, 404.51125pt x 355.3275pt>
 File: images/Capitulo 4/3.1.1/S1/nano.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/nano.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/nano.png  used on input line 28.
 (pdftex.def)             Requested size: 60.67406pt x 53.29681pt.
-<images/Capitulo 4/3.1.1/S1/mega.png, id=1528, 453.695pt x 375.4025pt>
+<images/Capitulo 4/3.1.1/S1/mega.png, id=1538, 453.695pt x 375.4025pt>
 File: images/Capitulo 4/3.1.1/S1/mega.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/mega.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/mega.png  used on input line 28.
@@ -4104,12 +4107,12 @@ LaTeX Info: Redefining \% on input line 222.
 \openout2 = `apendices/apendices/7.2.8_Estudios_Termicos.aux'.
 
  (apendices/apendices/7.2.8_Estudios_Termicos.tex
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png, id=1564, 599.99156pt x 371.13657pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png, id=1574, 599.99156pt x 371.13657pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png  used on input line 7.
 (pdftex.def)             Requested size: 239.99237pt x 148.45198pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png, id=1565, 590.95781pt x 431.36156pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png, id=1575, 590.95781pt x 431.36156pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png  used on input line 16.
@@ -4129,12 +4132,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.Alph0.3
                                                   \__shipout_drop_firstpage_...
 l.19         \end{figure} \newpage
                                    <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png>]
-<images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png, id=1570, 203.25937pt x 49.68562pt>
+<images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png, id=1580, 203.25937pt x 49.68562pt>
 File: images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png  used on input line 23.
 (pdftex.def)             Requested size: 162.60771pt x 39.74855pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png, id=1573, 688.07062pt x 388.45125pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png, id=1583, 688.07062pt x 388.45125pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png  used on input line 34.
@@ -4152,7 +4155,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.Alph0.5
                                                   \__shipout_drop_firstpage_...
 l.42 Y
        esto se puede observar en la potencia de salida, presentando los sigu... <./images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png, id=1579, 718.93594pt x 411.03563pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png, id=1589, 718.93594pt x 411.03563pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png  used on input line 46.
@@ -4163,7 +4166,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.Alph0.6
                                                   \__shipout_drop_firstpage_...
 l.49     \end{figure}\newpage
                               <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png, id=1584, 158.84344pt x 52.69687pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png, id=1594, 158.84344pt x 52.69687pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png  used on input line 53.
@@ -4176,17 +4179,17 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.Alph0.7
                                                   \__shipout_drop_firstpage_...
 l.62 ...ntenedor en un escenario similar. \newpage
                                                    <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png, id=1592, 614.295pt x 362.85562pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png, id=1603, 614.295pt x 362.85562pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png  used on input line 68.
 (pdftex.def)             Requested size: 307.14674pt x 181.42737pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png, id=1593, 204.765pt x 50.43843pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png, id=1604, 204.765pt x 50.43843pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png  used on input line 75.
 (pdftex.def)             Requested size: 184.28677pt x 45.39415pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png, id=1594, 639.13782pt x 342.5297pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png, id=1605, 639.13782pt x 342.5297pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png  used on input line 84.
@@ -4195,7 +4198,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png, id=1595, 158.84344pt x 52.69687pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png, id=1606, 158.84344pt x 52.69687pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png  used on input line 91.
@@ -4203,7 +4206,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_f
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png, id=1596, 557.08125pt x 337.26pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png, id=1607, 557.08125pt x 337.26pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png  used on input line 100.
@@ -4211,7 +4214,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png, id=1597, 203.25937pt x 48.93282pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png, id=1608, 203.25937pt x 48.93282pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png  used on input line 107.
@@ -4219,7 +4222,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png, id=1598, 602.25pt x 335.75438pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png, id=1609, 602.25pt x 335.75438pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png  used on input line 116.
@@ -4227,7 +4230,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png, id=1599, 158.84344pt x 48.93282pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png, id=1610, 158.84344pt x 48.93282pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png  used on input line 123.
@@ -4293,12 +4296,12 @@ LaTeX Info: Redefining \% on input line 34.
 
 
 ]
-<images/Capitulo 4/s5/Factores de servicio.png, id=1617, 415.5525pt x 252.945pt>
+<images/Capitulo 4/s5/Factores de servicio.png, id=1627, 415.5525pt x 252.945pt>
 File: images/Capitulo 4/s5/Factores de servicio.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factores de servicio.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factores de servicio.png  used on input line 40.
 (pdftex.def)             Requested size: 332.44244pt x 202.35626pt.
-<images/Capitulo 4/s5/Grafica para la seleccion de bandas.png, id=1619, 430.60875pt x 279.0425pt>
+<images/Capitulo 4/s5/Grafica para la seleccion de bandas.png, id=1629, 430.60875pt x 279.0425pt>
 File: images/Capitulo 4/s5/Grafica para la seleccion de bandas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Grafica para la seleccion de bandas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Grafica para la seleccion de bandas.png  used on input line 47.
@@ -4307,7 +4310,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Grafica para la seleccion de banda
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Capacidad 3V.png, id=1621, 374.39874pt x 316.18124pt>
+<images/Capitulo 4/s5/Capacidad 3V.png, id=1631, 374.39874pt x 316.18124pt>
 File: images/Capitulo 4/s5/Capacidad 3V.png Graphic file (type png)
 <use images/Capitulo 4/s5/Capacidad 3V.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Capacidad 3V.png  used on input line 54.
@@ -4315,7 +4318,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Capacidad 3V.png  used on input li
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Longitudes bandas.png, id=1623, 345.29pt x 212.795pt>
+<images/Capitulo 4/s5/Longitudes bandas.png, id=1633, 345.29pt x 212.795pt>
 File: images/Capitulo 4/s5/Longitudes bandas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Longitudes bandas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Longitudes bandas.png  used on input line 61.
@@ -4329,7 +4332,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.Alph0.1
                                                   \__shipout_drop_firstpage_...
 l.65 \newpage
               <./images/Capitulo 4/s5/Factores de servicio.png>]
-<images/Capitulo 4/s5/Factor theta.png, id=1630, 278.03876pt x 165.61874pt>
+<images/Capitulo 4/s5/Factor theta.png, id=1640, 278.03876pt x 165.61874pt>
 File: images/Capitulo 4/s5/Factor theta.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factor theta.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factor theta.png  used on input line 69.
@@ -4338,7 +4341,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Factor theta.png  used on input li
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Factor L.png, id=1632, 406.51875pt x 183.68625pt>
+<images/Capitulo 4/s5/Factor L.png, id=1642, 406.51875pt x 183.68625pt>
 File: images/Capitulo 4/s5/Factor L.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factor L.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factor L.png  used on input line 75.
@@ -4346,7 +4349,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Factor L.png  used on input line 7
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Tamanos Cuna.png, id=1634, 714.67pt x 620.3175pt>
+<images/Capitulo 4/s5/Tamanos Cuna.png, id=1644, 714.67pt x 620.3175pt>
 File: images/Capitulo 4/s5/Tamanos Cuna.png Graphic file (type png)
 <use images/Capitulo 4/s5/Tamanos Cuna.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Tamanos Cuna.png  used on input line 86.
@@ -4390,7 +4393,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--116
 
  []
 
-<images/Capitulo 4/s5/Resistencia a la fatiga.png, id=1654, 542.025pt x 412.54124pt>
+<images/Capitulo 4/s5/Resistencia a la fatiga.png, id=1664, 542.025pt x 412.54124pt>
 File: images/Capitulo 4/s5/Resistencia a la fatiga.png Graphic file (type png)
 <use images/Capitulo 4/s5/Resistencia a la fatiga.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Resistencia a la fatiga.png  used on input line 119.
@@ -4398,7 +4401,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Resistencia a la fatiga.png  used 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/1 pala fuerzas.png, id=1656, 583.17876pt x 578.16pt>
+<images/Capitulo 4/s5/1 pala fuerzas.png, id=1666, 583.17876pt x 578.16pt>
 File: images/Capitulo 4/s5/1 pala fuerzas.png Graphic file (type png)
 <use images/Capitulo 4/s5/1 pala fuerzas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/1 pala fuerzas.png  used on input line 125.
@@ -4408,7 +4411,7 @@ Overfull \hbox (22.96515pt too wide) in paragraph at lines 125--126
  [][] 
  []
 
-<images/Capitulo 4/s5/2 palas fuerzas.png, id=1657, 589.20125pt x 584.1825pt>
+<images/Capitulo 4/s5/2 palas fuerzas.png, id=1667, 589.20125pt x 584.1825pt>
 File: images/Capitulo 4/s5/2 palas fuerzas.png Graphic file (type png)
 <use images/Capitulo 4/s5/2 palas fuerzas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/2 palas fuerzas.png  used on input line 131.
@@ -4453,12 +4456,12 @@ l.224 ...ices/apendices/7.2.9_Calculos_estructura}
 \openout2 = `apendices/apendices/7.2.10_Control.aux'.
 
  (apendices/apendices/7.2.10_Control.tex
-<images/Capitulo 3/3.1.2/comunicacion.png, id=1684, 888.31876pt x 238.64156pt>
+<images/Capitulo 3/3.1.2/comunicacion.png, id=1695, 888.31876pt x 238.64156pt>
 File: images/Capitulo 3/3.1.2/comunicacion.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/comunicacion.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/comunicacion.png  used on input line 9.
 (pdftex.def)             Requested size: 355.32121pt x 95.45493pt.
-<images/Capitulo 3/3.1.2/curva_calentamiento.png, id=1686, 592.46344pt x 535.2497pt>
+<images/Capitulo 3/3.1.2/curva_calentamiento.png, id=1697, 592.46344pt x 535.2497pt>
 File: images/Capitulo 3/3.1.2/curva_calentamiento.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/curva_calentamiento.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/curva_calentamiento.png  used on input line 18.
@@ -4467,7 +4470,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/curva_calentamiento.png  used o
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/Ftransferencia.png, id=1688, 447.92343pt x 380.92313pt>
+<images/Capitulo 3/3.1.2/Ftransferencia.png, id=1699, 447.92343pt x 380.92313pt>
 File: images/Capitulo 3/3.1.2/Ftransferencia.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/Ftransferencia.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/Ftransferencia.png  used on input line 26.
@@ -4475,7 +4478,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/Ftransferencia.png  used on inp
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/ControlPID_comSimu.png, id=1691, 770.88pt x 370.38374pt>
+<images/Capitulo 3/3.1.2/ControlPID_comSimu.png, id=1702, 770.88pt x 370.38374pt>
 File: images/Capitulo 3/3.1.2/ControlPID_comSimu.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/ControlPID_comSimu.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/ControlPID_comSimu.png  used on input line 36.
@@ -4483,7 +4486,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/ControlPID_comSimu.png  used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/PID_Tuner.png, id=1692, 1404.74812pt x 767.11594pt>
+<images/Capitulo 3/3.1.2/PID_Tuner.png, id=1703, 1404.74812pt x 767.11594pt>
 File: images/Capitulo 3/3.1.2/PID_Tuner.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/PID_Tuner.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/PID_Tuner.png  used on input line 43.
@@ -4530,7 +4533,7 @@ l.225 \include{apendices/apendices/7.2.10_Control}
 \openout2 = `apendices/apendices/7.2.11_Ventilacion.aux'.
 
  (apendices/apendices/7.2.11_Ventilacion.tex
-<images/Capitulo 4/s5/Contenedor/flow1.png, id=1706, 899.61093pt x 518.6878pt>
+<images/Capitulo 4/s5/Contenedor/flow1.png, id=1716, 899.61093pt x 518.6878pt>
 File: images/Capitulo 4/s5/Contenedor/flow1.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/flow1.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/flow1.png  used on input line 7.
@@ -4545,12 +4548,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{figure.Alph0.3
                                                   \__shipout_drop_firstpage_...
 l.13 ...or por las que el aire no circula.\newpage
                                                    <./images/Capitulo 4/s5/Contenedor/flow1.png>]
-<images/Capitulo 4/s5/Contenedor/flow2.png, id=1713, 820.56563pt x 405.01312pt>
+<images/Capitulo 4/s5/Contenedor/flow2.png, id=1723, 820.56563pt x 405.01312pt>
 File: images/Capitulo 4/s5/Contenedor/flow2.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/flow2.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/flow2.png  used on input line 17.
 (pdftex.def)             Requested size: 328.22043pt x 162.00237pt.
-<images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png, id=1714, 770.88pt x 480.29437pt>
+<images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png, id=1724, 770.88pt x 480.29437pt>
 File: images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png  used on input line 26.
@@ -4670,7 +4673,7 @@ LaTeX Info: Redefining \% on input line 703.
 \openout2 = `apendices/anexo1.aux'.
 
  (apendices/anexo1.tex
-<images/Anexo/motor_air.png, id=2534, 998.73125pt x 652.4375pt>
+<images/Anexo/motor_air.png, id=2545, 998.73125pt x 652.4375pt>
 File: images/Anexo/motor_air.png Graphic file (type png)
 <use images/Anexo/motor_air.png>
 Package pdftex.def Info: images/Anexo/motor_air.png  used on input line 8.
@@ -4693,12 +4696,12 @@ l.231 \include{apendices/anexo1}
 
 
 ]
-<images/Anexo/motor_lav.png, id=2544, 653.44125pt x 468.75125pt>
+<images/Anexo/motor_lav.png, id=2554, 653.44125pt x 468.75125pt>
 File: images/Anexo/motor_lav.png Graphic file (type png)
 <use images/Anexo/motor_lav.png>
 Package pdftex.def Info: images/Anexo/motor_lav.png  used on input line 8.
 (pdftex.def)             Requested size: 326.71982pt x 234.37505pt.
-<images/Anexo/motor_lav_esp.png, id=2545, 185.69376pt x 123.46124pt>
+<images/Anexo/motor_lav_esp.png, id=2555, 185.69376pt x 123.46124pt>
 File: images/Anexo/motor_lav_esp.png Graphic file (type png)
 <use images/Anexo/motor_lav_esp.png>
 Package pdftex.def Info: images/Anexo/motor_lav_esp.png  used on input line 15.
@@ -4749,7 +4752,7 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
  ***********
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\romanidx.sty
+ (C:\Users\Dan\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\romanidx.sty
 \es@converted=\count436
 \es@processed=\count437
 \es@indexfile=\write10
@@ -4773,17 +4776,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 41848 strings out of 467871
- 932441 string characters out of 5414505
+ 41852 strings out of 467870
+ 916883 string characters out of 5419324
  1780184 words of memory out of 5000000
- 68454 multiletter control sequences out of 15000+600000
+ 68456 multiletter control sequences out of 15000+600000
  786621 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,18n,121p,1190b,2979s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
-Output written on Principal.pdf (230 pages, 26829557 bytes).
+ 125i,18n,121p,1118b,2979s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
+Output written on Principal.pdf (232 pages, 26835065 bytes).
 PDF statistics:
- 3863 PDF objects out of 4296 (max. 8388607)
- 1216 named destinations out of 1440 (max. 500000)
- 1443 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3881 PDF objects out of 4296 (max. 8388607)
+ 1219 named destinations out of 1440 (max. 500000)
+ 1451 words of extra memory for PDF output out of 10000 (max. 10000000)
 
