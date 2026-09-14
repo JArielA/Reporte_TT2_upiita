@@ -4,45 +4,45 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {1.1}{\ignorespaces Tipos de proceso de compostaje}}{3}{table.1.1}%
-\contentsline {table}{\numberline {1.2}{\ignorespaces Tipos de agitadores}}{6}{table.1.2}%
+\contentsline {table}{\numberline {1.1}{\ignorespaces Tipos de proceso de compostaje}}{3}{table.caption.11}%
+\contentsline {table}{\numberline {1.2}{\ignorespaces Tipos de agitadores}}{6}{table.caption.13}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {2.1}{\ignorespaces Necesidades}}{12}{table.2.1}%
-\contentsline {table}{\numberline {2.2}{\ignorespaces Requerimientos}}{13}{table.2.2}%
-\contentsline {table}{\numberline {2.3}{\ignorespaces Modelos propuestos}}{25}{table.2.3}%
-\contentsline {table}{\numberline {2.4}{\ignorespaces Cuantificación de los criterios}}{27}{table.2.4}%
-\contentsline {table}{\numberline {2.5}{\ignorespaces Modelo seleccionado}}{28}{table.2.5}%
+\contentsline {table}{\numberline {2.1}{\ignorespaces Necesidades}}{12}{table.caption.16}%
+\contentsline {table}{\numberline {2.2}{\ignorespaces Requerimientos}}{13}{table.caption.17}%
+\contentsline {table}{\numberline {2.3}{\ignorespaces Modelos propuestos}}{25}{table.caption.23}%
+\contentsline {table}{\numberline {2.4}{\ignorespaces Cuantificación de los criterios}}{27}{table.caption.25}%
+\contentsline {table}{\numberline {2.5}{\ignorespaces Modelo seleccionado}}{28}{table.caption.26}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {3.1}{\ignorespaces Valores de potencia de los elementos eléctricos del sistema}}{49}{table.3.1}%
-\contentsline {table}{\numberline {3.2}{\ignorespaces Consumo energético en fermentación}}{50}{table.3.2}%
-\contentsline {table}{\numberline {3.3}{\ignorespaces Consumo energético en aireación}}{51}{table.3.3}%
-\contentsline {table}{\numberline {3.4}{\ignorespaces Consumo energético cuando se eleva la temperatura}}{51}{table.3.4}%
-\contentsline {table}{\numberline {3.5}{\ignorespaces Consumo energético del sistema de trituración}}{52}{table.3.5}%
-\contentsline {table}{\numberline {3.6}{\ignorespaces Consumo total de los elementos eléctricos del sistema}}{53}{table.3.6}%
+\contentsline {table}{\numberline {3.1}{\ignorespaces Valores de potencia de los elementos eléctricos del sistema}}{48}{table.caption.52}%
+\contentsline {table}{\numberline {3.2}{\ignorespaces Consumo energético en fermentación}}{49}{table.caption.53}%
+\contentsline {table}{\numberline {3.3}{\ignorespaces Consumo energético en aireación}}{50}{table.caption.54}%
+\contentsline {table}{\numberline {3.4}{\ignorespaces Consumo energético cuando se eleva la temperatura}}{50}{table.caption.55}%
+\contentsline {table}{\numberline {3.5}{\ignorespaces Consumo energético del sistema de trituración}}{51}{table.caption.56}%
+\contentsline {table}{\numberline {3.6}{\ignorespaces Consumo total de los elementos eléctricos del sistema}}{52}{table.caption.57}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces Resultados de las pruebas de compostaje}}{93}{table.4.1}%
-\contentsline {table}{\numberline {4.2}{\ignorespaces Cotos de elementos mecánicos}}{97}{table.4.2}%
-\contentsline {table}{\numberline {4.3}{\ignorespaces Cotos de la tornillería}}{98}{table.4.3}%
-\contentsline {table}{\numberline {4.4}{\ignorespaces Cotos de elementos electrónicos}}{99}{table.4.4}%
-\contentsline {table}{\numberline {4.5}{\ignorespaces Cotos de elementos eléctricos}}{100}{table.4.5}%
-\contentsline {table}{\numberline {4.6}{\ignorespaces Cotos de materiales}}{100}{table.4.6}%
-\contentsline {table}{\numberline {4.7}{\ignorespaces Cotos de elementos consumibles}}{101}{table.4.7}%
-\contentsline {table}{\numberline {4.8}{\ignorespaces Cotos de Herramientas}}{101}{table.4.8}%
-\contentsline {table}{\numberline {4.9}{\ignorespaces Cotos de mano de obra externa}}{102}{table.4.9}%
-\contentsline {table}{\numberline {4.10}{\ignorespaces Cotos totales del proyecto}}{102}{table.4.10}%
+\contentsline {table}{\numberline {4.1}{\ignorespaces Resultados de las pruebas de compostaje}}{99}{table.caption.102}%
+\contentsline {table}{\numberline {4.2}{\ignorespaces Cotos de elementos mecánicos}}{103}{table.caption.103}%
+\contentsline {table}{\numberline {4.3}{\ignorespaces Cotos de la tornillería}}{104}{table.caption.104}%
+\contentsline {table}{\numberline {4.4}{\ignorespaces Cotos de elementos electrónicos}}{105}{table.caption.105}%
+\contentsline {table}{\numberline {4.5}{\ignorespaces Cotos de elementos eléctricos}}{106}{table.caption.106}%
+\contentsline {table}{\numberline {4.6}{\ignorespaces Cotos de materiales}}{107}{table.caption.107}%
+\contentsline {table}{\numberline {4.7}{\ignorespaces Cotos de elementos consumibles}}{108}{table.caption.108}%
+\contentsline {table}{\numberline {4.8}{\ignorespaces Cotos de Herramientas}}{108}{table.caption.109}%
+\contentsline {table}{\numberline {4.9}{\ignorespaces Cotos de mano de obra externa}}{109}{table.caption.110}%
+\contentsline {table}{\numberline {4.10}{\ignorespaces Cotos totales del proyecto}}{109}{table.caption.111}%
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {11}{\ignorespaces Matriz morfológica para el diseño del sistema de compostaje}}{132}{table.Alph0.11}%
-\contentsline {table}{\numberline {12}{\ignorespaces Cuantificación de los criterios}}{136}{table.Alph0.12}%
-\contentsline {table}{\numberline {13}{\ignorespaces Valores asignados para la evaluación de criterios}}{137}{table.Alph0.13}%
-\contentsline {table}{\numberline {14}{\ignorespaces AHP modulo de trituración}}{138}{table.Alph0.14}%
-\contentsline {table}{\numberline {15}{\ignorespaces AHP contenedor Y palas}}{139}{table.Alph0.15}%
-\contentsline {table}{\numberline {16}{\ignorespaces AHP Transmisión de movimiento y medir temperatura}}{140}{table.Alph0.16}%
-\contentsline {table}{\numberline {17}{\ignorespaces AHP Medir humedad, Aumentar Temperatura y humedad}}{141}{table.Alph0.17}%
-\contentsline {table}{\numberline {18}{\ignorespaces AHP Oxigenación del sistema y unidad de procesamiento}}{142}{table.Alph0.18}%
-\contentsline {table}{\numberline {19}{\ignorespaces AHP Interfaz Hombre - maquina}}{143}{table.Alph0.19}%
-\contentsline {table}{\numberline {20}{\ignorespaces Tarjetas de desarrollo}}{144}{table.Alph0.20}%
-\contentsline {table}{\numberline {21}{\ignorespaces Ponderaciones para la matriz de decisión}}{145}{table.Alph0.21}%
-\contentsline {table}{\numberline {22}{\ignorespaces Ejemplo de toma de decisión de la tarjeta de desarrollo}}{146}{table.Alph0.22}%
+\contentsline {table}{\numberline {11}{\ignorespaces Matriz morfológica para el diseño del sistema de compostaje}}{140}{table.caption.129}%
+\contentsline {table}{\numberline {12}{\ignorespaces Cuantificación de los criterios}}{144}{table.caption.132}%
+\contentsline {table}{\numberline {13}{\ignorespaces Valores asignados para la evaluación de criterios}}{145}{table.caption.134}%
+\contentsline {table}{\numberline {14}{\ignorespaces AHP modulo de trituración}}{146}{table.caption.135}%
+\contentsline {table}{\numberline {15}{\ignorespaces AHP contenedor Y palas}}{147}{table.caption.136}%
+\contentsline {table}{\numberline {16}{\ignorespaces AHP Transmisión de movimiento y medir temperatura}}{148}{table.caption.137}%
+\contentsline {table}{\numberline {17}{\ignorespaces AHP Medir humedad, Aumentar Temperatura y humedad}}{149}{table.caption.138}%
+\contentsline {table}{\numberline {18}{\ignorespaces AHP Oxigenación del sistema y unidad de procesamiento}}{150}{table.caption.139}%
+\contentsline {table}{\numberline {19}{\ignorespaces AHP Interfaz Hombre - maquina}}{151}{table.caption.140}%
+\contentsline {table}{\numberline {20}{\ignorespaces Tarjetas de desarrollo}}{152}{table.caption.142}%
+\contentsline {table}{\numberline {21}{\ignorespaces Ponderaciones para la matriz de decisión}}{153}{table.caption.143}%
+\contentsline {table}{\numberline {22}{\ignorespaces Ejemplo de toma de decisión de la tarjeta de desarrollo}}{154}{table.caption.144}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

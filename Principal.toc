@@ -38,41 +38,41 @@
 \contentsline {subsection}{\numberline {2.2.5}Validación sistema mecatrónico}{30}{subsection.2.2.5}%
 \contentsline {chapter}{\numberline {3}Implementación del sistema}{31}{chapter.3}%
 \contentsline {subsection}{\numberline {3.0.1}Sistema de administración de comportamiento $S_1$}{31}{subsection.3.0.1}%
-\contentsline {subsection}{\numberline {3.0.2}Sistema de procesamiento de datos $S_2$}{46}{subsection.3.0.2}%
-\contentsline {subsection}{\numberline {3.0.3}Sistema de energía $S_3$}{49}{subsection.3.0.3}%
+\contentsline {subsection}{\numberline {3.0.2}Sistema de procesamiento de datos $S_2$}{45}{subsection.3.0.2}%
+\contentsline {subsection}{\numberline {3.0.3}Sistema de energía $S_3$}{48}{subsection.3.0.3}%
 \contentsline {subsection}{\numberline {3.0.4}Sistema de trituración $S_4$}{54}{subsection.3.0.4}%
 \contentsline {subsection}{\numberline {3.0.5}Sistema de procesamiento de materia $S_5$}{60}{subsection.3.0.5}%
 \contentsline {subsection}{\numberline {3.0.6}Sistema estructural $S_6$}{72}{subsection.3.0.6}%
 \contentsline {subsection}{\numberline {3.0.7}Integración del sistema}{75}{subsection.3.0.7}%
-\contentsline {chapter}{\numberline {4}Análisis de resultados}{91}{chapter.4}%
-\contentsline {subsection}{\numberline {4.0.1}Análisis de ingeniería del proyecto}{91}{subsection.4.0.1}%
-\contentsline {subsection}{\numberline {4.0.2}Análisis de costos del proyecto}{95}{subsection.4.0.2}%
-\contentsline {subsection}{\numberline {4.0.3}Valor de nuestro trabajo}{104}{subsection.4.0.3}%
-\contentsline {chapter}{Conclusiones}{105}{chapter*.11}%
-\contentsline {section}{Conclusiones}{105}{section*.12}%
-\contentsline {section}{Recomendación y trabajo a futuro}{109}{section*.13}%
-\contentsline {part}{Referencias}{113}{chapter*.15}%
-\contentsline {part}{Apéndices}{119}{part.1}%
-\contentsline {section}{Diagramas IDEF-0}{121}{section*.16}%
-\contentsline {section}{Apéndice 3: Diagramas IDEF-0}{121}{section*.16}%
-\contentsline {section}{Matriz Morfológica}{131}{section*.17}%
-\contentsline {section}{Apéndice 2: Diagramas FBS}{131}{section*.17}%
-\contentsline {section}{Descripción de Criterios de Selección}{134}{section*.18}%
-\contentsline {section}{Matrices AHP}{137}{section*.19}%
-\contentsline {section}{Ejemplo de proceso de selección}{144}{section*.20}%
-\contentsline {section}{Ejemplo de cálculo de calor para un cilindro}{147}{section*.21}%
-\contentsline {section}{Ejemplo cálculo de temperatura final}{148}{section*.22}%
-\contentsline {section}{Estudios Térmicos}{150}{section*.23}%
-\contentsline {section}{Cálculos de la estructura}{157}{section*.24}%
-\contentsline {section}{Potencia Consumida}{157}{section*.25}%
-\contentsline {section}{Diseño de la transmisión por bandas}{158}{section*.26}%
-\contentsline {section}{Diseño de la cuña}{159}{section*.27}%
-\contentsline {section}{Diseño del eje de Aireación}{160}{section*.28}%
-\contentsline {section}{Ejemplo de procedimiento PID}{167}{section*.29}%
-\contentsline {section}{Simulaciones sistema de ventilación}{170}{section*.30}%
-\contentsline {section}{Código del sistema de compostaje}{173}{section*.31}%
-\contentsline {part}{Anexos}{195}{part.2}%
-\contentsline {chapter}{Anexo 1. Placa del motor de aireación}{197}{appendix*.32}%
-\contentsline {chapter}{Anexo 2. Placa del motor de tituración}{199}{appendix*.33}%
-\contentsline {chapter}{Anexo 3 (Anexo título 3)}{201}{appendix*.34}%
-\contentsline {part}{\indexname }{204}{section*.35}%
+\contentsline {chapter}{\numberline {4}Análisis de resultados}{97}{chapter.4}%
+\contentsline {subsection}{\numberline {4.0.1}Análisis de ingeniería del proyecto}{97}{subsection.4.0.1}%
+\contentsline {subsection}{\numberline {4.0.2}Análisis de costos del proyecto}{101}{subsection.4.0.2}%
+\contentsline {subsection}{\numberline {4.0.3}Valor de nuestro trabajo}{111}{subsection.4.0.3}%
+\contentsline {chapter}{Conclusiones}{113}{chapter*.113}%
+\contentsline {section}{Conclusiones}{113}{section*.114}%
+\contentsline {section}{Recomendación y trabajo a futuro}{117}{section*.115}%
+\contentsline {part}{Referencias}{121}{chapter*.117}%
+\contentsline {part}{Apéndices}{127}{part.1}%
+\contentsline {section}{Diagramas IDEF-0}{129}{section*.118}%
+\contentsline {section}{Apéndice 3: Diagramas IDEF-0}{129}{section*.118}%
+\contentsline {section}{Matriz Morfológica}{139}{section*.128}%
+\contentsline {section}{Apéndice 2: Diagramas FBS}{139}{section*.128}%
+\contentsline {section}{Descripción de Criterios de Selección}{142}{section*.131}%
+\contentsline {section}{Matrices AHP}{145}{section*.133}%
+\contentsline {section}{Ejemplo de proceso de selección}{152}{section*.141}%
+\contentsline {section}{Ejemplo de cálculo de calor para un cilindro}{155}{section*.145}%
+\contentsline {section}{Ejemplo cálculo de temperatura final}{156}{section*.146}%
+\contentsline {section}{Estudios Térmicos}{158}{section*.147}%
+\contentsline {section}{Cálculos de la estructura}{165}{section*.162}%
+\contentsline {section}{Potencia Consumida}{165}{section*.163}%
+\contentsline {section}{Diseño de la transmisión por bandas}{166}{section*.164}%
+\contentsline {section}{Diseño de la cuña}{167}{section*.171}%
+\contentsline {section}{Diseño del eje de Aireación}{168}{section*.173}%
+\contentsline {section}{Ejemplo de procedimiento PID}{175}{section*.177}%
+\contentsline {section}{Simulaciones sistema de ventilación}{178}{section*.183}%
+\contentsline {section}{Código del sistema de compostaje}{181}{section*.187}%
+\contentsline {part}{Anexos}{203}{part.2}%
+\contentsline {chapter}{Anexo 1. Placa del motor de aireación}{205}{appendix*.188}%
+\contentsline {chapter}{Anexo 2. Placa del motor de tituración}{207}{appendix*.190}%
+\contentsline {chapter}{Anexo 3 (Anexo título 3)}{209}{appendix*.193}%
+\contentsline {part}{\indexname }{212}{section*.194}%
