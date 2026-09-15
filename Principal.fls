@@ -471,9 +471,6 @@ INPUT apendices\anexo1.aux
 INPUT .\apendices\anexo2.aux
 INPUT .\apendices\anexo2.aux
 INPUT apendices\anexo2.aux
-INPUT .\apendices\anexo3.aux
-INPUT .\apendices\anexo3.aux
-INPUT apendices\anexo3.aux
 OUTPUT Principal.aux
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\ly1\ly1ptm.fd
@@ -2104,12 +2101,6 @@ INPUT .\images\Anexo\motor_lav_esp.png
 INPUT .\images\Anexo\motor_lav_esp.png
 INPUT .\images\Anexo\motor_lav_esp.png
 INPUT .\images\Anexo\motor_lav_esp.png
-INPUT .\apendices\anexo3.tex
-INPUT .\apendices\anexo3.tex
-OUTPUT apendices\anexo3.aux
-INPUT .\apendices\anexo3.tex
-INPUT .\apendices\anexo3.tex
-INPUT apendices\anexo3.tex
 INPUT .\Principal.ind
 INPUT .\Principal.ind
 INPUT Principal.ind
@@ -2186,9 +2177,6 @@ INPUT apendices\anexo1.aux
 INPUT .\apendices\anexo2.aux
 INPUT .\apendices\anexo2.aux
 INPUT apendices\anexo2.aux
-INPUT .\apendices\anexo3.aux
-INPUT .\apendices\anexo3.aux
-INPUT apendices\anexo3.aux
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex\latex\babel-spanish\romanidx.sty
 OUTPUT Principal.eix
 INPUT Principal.idx

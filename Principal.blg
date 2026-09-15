@@ -52,12 +52,10 @@ Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: apendices/anexo1.aux
 Reallocating 'name_of_file' (item size: 1) to 21 items.
 A level-1 auxiliary file: apendices/anexo2.aux
-Reallocating 'name_of_file' (item size: 1) to 21 items.
-A level-1 auxiliary file: apendices/anexo3.aux
 Database file #1: xbiblioteca.bib
 You've used 56 entries,
             1876 wiz_defined-function locations,
-            821 strings with 12444 characters,
+            820 strings with 12424 characters,
 and the built_in function-call counts, 8234 in all, are:
 = -- 801
 > -- 262

@@ -54,9 +54,7 @@
 \contentsline {part}{Referencias}{121}{chapter*.117}%
 \contentsline {part}{Apéndices}{127}{part.1}%
 \contentsline {section}{Diagramas IDEF-0}{129}{section*.118}%
-\contentsline {section}{Apéndice 3: Diagramas IDEF-0}{129}{section*.118}%
 \contentsline {section}{Matriz Morfológica}{139}{section*.128}%
-\contentsline {section}{Apéndice 2: Diagramas FBS}{139}{section*.128}%
 \contentsline {section}{Descripción de Criterios de Selección}{142}{section*.131}%
 \contentsline {section}{Matrices AHP}{145}{section*.133}%
 \contentsline {section}{Ejemplo de proceso de selección}{152}{section*.141}%
@@ -74,5 +72,3 @@
 \contentsline {part}{Anexos}{203}{part.2}%
 \contentsline {chapter}{Anexo 1. Placa del motor de aireación}{205}{appendix*.188}%
 \contentsline {chapter}{Anexo 2. Placa del motor de tituración}{207}{appendix*.190}%
-\contentsline {chapter}{Anexo 3 (Anexo título 3)}{209}{appendix*.193}%
-\contentsline {part}{\indexname }{212}{section*.194}%

@@ -8,7 +8,7 @@ Las diferentes subrutinas se comunican por medio de banderas internas, declarada
 
 El hilo principal se encarga de recibir la señal de inicio al proceso de compostaje, arrancando la interfaz; también se encarga de iniciar los registros necesarios para verificar el avance del tiempo.
 
-Un segundo hilo es el encargado de registrar el tiempo general del proceso, sumando una unidad a un registro llamado "Segundos" cada vez que se realiza una pausa con un periodo de 1 segundo. En este mismo hilo, se realiza una secuencia de instrucciones para agrupar los minutos y las horas para al final, cuando se cumpla el ciclo total de 72 horas, mandará una bandera que indique el fin del proceso y detenga las tareas de los actuadores.
+Un segundo hilo es el encargado de registrar el tiempo general del proceso, sumando una unidad a un registro llamado "Segundos", cada vez que se realiza una pausa con un periodo de 1 segundo. En este mismo hilo, se realiza una secuencia de instrucciones para agrupar los minutos y las horas para al final, cuando se cumpla el ciclo total de 72 horas, mandará una bandera que indique el fin del proceso y detenga las tareas de los actuadores.
 
 El tercer hilo se encarga de coordinar los procesos de aireación, los cuales activarán el eje de aireación junto al sistema de ventilación por 10 minutos cada 3 horas, para mezclar y oxigenar los residuos.
 
