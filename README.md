@@ -1,7 +1,5 @@
 # Checklist de correcciones — Trabajo Terminal
 
-Marca cada casilla `- [ ]` → `- [x]` al corregir el punto (en GitHub basta con darle clic).
-
 ## Estructura y continuidad
 
 - [ ] **Sección 2.2 "Diseño Detallado" (pág. 30)** — solo tiene encabezados de plantilla (`2.2.1 Detalle módulo 1 (Ml)`, etc.) sin contenido. Redactar el contenido real o eliminar la sección.
