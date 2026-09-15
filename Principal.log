@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  14 SEP 2026 22:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  14 SEP 2026 22:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2749,94 +2749,91 @@ LaTeX Info: Redefining \% on input line 132.
 <images/Pruebas/Resultados/muestra_1.jpeg, id=1141, 902.37125pt x 1604.99625pt>
 File: images/Pruebas/Resultados/muestra_1.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_1.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_1.jpeg  used on input line 144.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_1.jpeg  used on input line 146.
 (pdftex.def)             Requested size: 124.20143pt x 220.90195pt.
 <images/Pruebas/Resultados/muestra_1_colorimetria.jpeg, id=1142, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_1_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_1_colorimetria.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_1_colorimetria.jpeg  used on input line 151.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_1_colorimetria.jpeg  used on input line 153.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
 <images/Pruebas/Resultados/muestra_1_phmetro.jpeg, id=1143, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_1_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_1_phmetro.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_1_phmetro.jpeg  used on input line 158.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_1_phmetro.jpeg  used on input line 160.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
-LaTeX Info: Redefining \. on input line 167.
-LaTeX Info: Redefining \% on input line 167.
- [91
-
- <./images/Pruebas/Resultados/muestra_1.jpeg> <./images/Pruebas/Resultados/muestra_1_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_1_phmetro.jpeg>]
-<images/Pruebas/Resultados/muestra_2.jpeg, id=1150, 902.37125pt x 1604.99625pt>
+<images/Pruebas/Resultados/muestra_2.jpeg, id=1145, 902.37125pt x 1604.99625pt>
 File: images/Pruebas/Resultados/muestra_2.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_2.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_2.jpeg  used on input line 174.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_2.jpeg  used on input line 176.
 (pdftex.def)             Requested size: 124.20143pt x 220.90195pt.
-<images/Pruebas/Resultados/muestra_2_colorimetria.jpeg, id=1151, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_2_colorimetria.jpeg, id=1146, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_2_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_2_colorimetria.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_2_colorimetria.jpeg  used on input line 181.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_2_colorimetria.jpeg  used on input line 183.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
-<images/Pruebas/Resultados/muestra_2_phmetro.jpeg, id=1152, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_2_phmetro.jpeg, id=1147, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_2_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_2_phmetro.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_2_phmetro.jpeg  used on input line 188.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_2_phmetro.jpeg  used on input line 190.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
-<images/Pruebas/Resultados/muestra_3.jpeg, id=1154, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_3.jpeg, id=1149, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_3.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_3.jpeg  used on input line 204.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_3.jpeg  used on input line 206.
 (pdftex.def)             Requested size: 133.07489pt x 177.42021pt.
-<images/Pruebas/Resultados/muestra_3_colorimetria.jpeg, id=1155, 1606.0pt x 1204.5pt>
+<images/Pruebas/Resultados/muestra_3_colorimetria.jpeg, id=1150, 1606.0pt x 1204.5pt>
 File: images/Pruebas/Resultados/muestra_3_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_3_colorimetria.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_3_colorimetria.jpeg  used on input line 211.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_3_colorimetria.jpeg  used on input line 213.
 (pdftex.def)             Requested size: 141.94836pt x 106.45213pt.
-<images/Pruebas/Resultados/muestra_3_phmetro.jpeg, id=1156, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_3_phmetro.jpeg, id=1151, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_3_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_3_phmetro.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_3_phmetro.jpeg  used on input line 218.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_3_phmetro.jpeg  used on input line 220.
 (pdftex.def)             Requested size: 133.07489pt x 177.42021pt.
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [91
 
-Underfull \vbox (badness 1253) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 225.
-LaTeX Info: Redefining \% on input line 225.
- [92 <./images/Pruebas/Resultados/muestra_2.jpeg> <./images/Pruebas/Resultados/muestra_2_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_2_phmetro.jpeg>]
+]
+LaTeX Info: Redefining \. on input line 227.
+LaTeX Info: Redefining \% on input line 227.
+ [92 <./images/Pruebas/Resultados/muestra_1.jpeg> <./images/Pruebas/Resultados/muestra_1_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_1_phmetro.jpeg> <./images/Pruebas/Resultados/muestra_2.jpeg> <./images/Pruebas/Resultados/muestra_2_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_2_phmetro.jpeg>]
 <images/Pruebas/Resultados/muestra_4.jpeg, id=1162, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_4.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_4.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_4.jpeg  used on input line 234.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_4.jpeg  used on input line 236.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
 <images/Pruebas/Resultados/muestra_4_colorimetria.jpeg, id=1163, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_4_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_4_colorimetria.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_4_colorimetria.jpeg  used on input line 241.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_4_colorimetria.jpeg  used on input line 243.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
 <images/Pruebas/Resultados/muestra_4_phmetro.jpeg, id=1164, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_4_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_4_phmetro.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_4_phmetro.jpeg  used on input line 248.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_4_phmetro.jpeg  used on input line 250.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 255.
-LaTeX Info: Redefining \% on input line 255.
+LaTeX Info: Redefining \. on input line 257.
+LaTeX Info: Redefining \% on input line 257.
  [93 <./images/Pruebas/Resultados/muestra_3.jpeg> <./images/Pruebas/Resultados/muestra_3_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_3_phmetro.jpeg>]
 <images/Pruebas/Resultados/muestra_5.jpeg, id=1171, 902.37125pt x 1604.99625pt>
 File: images/Pruebas/Resultados/muestra_5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_5.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_5.jpeg  used on input line 264.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_5.jpeg  used on input line 266.
 (pdftex.def)             Requested size: 141.94836pt x 252.46988pt.
 <images/Pruebas/Resultados/muestra_5_colorimetria.jpeg, id=1172, 1606.0pt x 1204.5pt>
 File: images/Pruebas/Resultados/muestra_5_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_5_colorimetria.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_5_colorimetria.jpeg  used on input line 271.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_5_colorimetria.jpeg  used on input line 273.
 (pdftex.def)             Requested size: 141.94836pt x 106.45213pt.
 <images/Pruebas/Resultados/muestra_5_phmetro.jpeg, id=1173, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_5_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_5_phmetro.jpeg>
-Package pdftex.def Info: images/Pruebas/Resultados/muestra_5_phmetro.jpeg  used on input line 278.
+Package pdftex.def Info: images/Pruebas/Resultados/muestra_5_phmetro.jpeg  used on input line 280.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
 )))
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -4108,9 +4105,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{section*.193} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
-Output written on Principal.pdf (236 pages, 28677723 bytes).
+Output written on Principal.pdf (236 pages, 28678447 bytes).
 PDF statistics:
- 3877 PDF objects out of 4296 (max. 8388607)
+ 3880 PDF objects out of 4296 (max. 8388607)
  1228 named destinations out of 1440 (max. 500000)
  1430 words of extra memory for PDF output out of 10000 (max. 10000000)
 
