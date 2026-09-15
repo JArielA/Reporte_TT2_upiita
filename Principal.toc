@@ -27,15 +27,6 @@
 \contentsline {subsection}{\numberline {2.1.5}Propuesta solución}{24}{subsection.2.1.5}%
 \contentsline {subsection}{\numberline {2.1.6}Validación del sistema}{26}{subsection.2.1.6}%
 \contentsline {subsection}{\numberline {2.1.7}Selección de diseño conceptual}{28}{subsection.2.1.7}%
-\contentsline {section}{\numberline {2.2}Diseño Detallado}{30}{section.2.2}%
-\contentsline {subsection}{\numberline {2.2.1}Detalle módulo 1 (M{l})}{30}{subsection.2.2.1}%
-\contentsline {subsubsection}{\numberline {2.2.1.1}Validación (M{l})}{30}{subsubsection.2.2.1.1}%
-\contentsline {subsection}{\numberline {2.2.2}Detalle módulo 2 (M{2})}{30}{subsection.2.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.2.1}Validación (M{2})}{30}{subsubsection.2.2.2.1}%
-\contentsline {subsection}{\numberline {2.2.3}Detalle módulo n (M{n})}{30}{subsection.2.2.3}%
-\contentsline {subsubsection}{\numberline {2.2.3.1}Validación (M{n})}{30}{subsubsection.2.2.3.1}%
-\contentsline {subsection}{\numberline {2.2.4}Integración sistema mecatrónico}{30}{subsection.2.2.4}%
-\contentsline {subsection}{\numberline {2.2.5}Validación sistema mecatrónico}{30}{subsection.2.2.5}%
 \contentsline {chapter}{\numberline {3}Implementación del sistema}{31}{chapter.3}%
 \contentsline {subsection}{\numberline {3.0.1}Sistema de administración de comportamiento $S_1$}{31}{subsection.3.0.1}%
 \contentsline {subsection}{\numberline {3.0.2}Sistema de procesamiento de datos $S_2$}{45}{subsection.3.0.2}%
@@ -71,4 +62,4 @@
 \contentsline {section}{Código del sistema de compostaje}{181}{section*.187}%
 \contentsline {part}{Anexos}{203}{part.2}%
 \contentsline {chapter}{Anexo 1. Placa del motor de aireación}{205}{appendix*.188}%
-\contentsline {chapter}{Anexo 2. Placa del motor de tituración}{207}{appendix*.190}%
+\contentsline {chapter}{Anexo 2. Placa del motor de trituración}{207}{appendix*.190}%

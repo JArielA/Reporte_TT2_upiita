@@ -13,8 +13,6 @@ Reallocating 'name_of_file' (item size: 1) to 30 items.
 A level-1 auxiliary file: capitulos/marcoreferencia.aux
 Reallocating 'name_of_file' (item size: 1) to 31 items.
 A level-1 auxiliary file: parts/2_Dis_sist/2_Dis_sis.aux
-Reallocating 'name_of_file' (item size: 1) to 28 items.
-A level-1 auxiliary file: capitulos/disedetallado.aux
 Reallocating 'name_of_file' (item size: 1) to 36 items.
 A level-1 auxiliary file: parts/3_Imple/3.0_Implemetacion.aux
 Reallocating 'name_of_file' (item size: 1) to 29 items.
@@ -55,7 +53,7 @@ A level-1 auxiliary file: apendices/anexo2.aux
 Database file #1: xbiblioteca.bib
 You've used 56 entries,
             1876 wiz_defined-function locations,
-            820 strings with 12424 characters,
+            819 strings with 12405 characters,
 and the built_in function-call counts, 8234 in all, are:
 = -- 801
 > -- 262

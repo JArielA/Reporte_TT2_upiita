@@ -417,9 +417,6 @@ INPUT capitulos\marcoreferencia.aux
 INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
 INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
 INPUT parts\2_Dis_sist\2_Dis_sis.aux
-INPUT .\capitulos\disedetallado.aux
-INPUT .\capitulos\disedetallado.aux
-INPUT capitulos\disedetallado.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT parts\3_Imple\3.0_Implemetacion.aux
@@ -744,15 +741,6 @@ INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
 INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
 INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
 INPUT .\images\Capitulo 3\3.2.5 Diseño Conceptual\Boceto seleccionado.png
-INPUT .\capitulos\disedetallado.tex
-INPUT .\capitulos\disedetallado.tex
-OUTPUT capitulos\disedetallado.aux
-INPUT .\capitulos\disedetallado.tex
-INPUT .\capitulos\disedetallado.tex
-INPUT capitulos\disedetallado.tex
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\vf\public\montserrat\Montserrat-Regular-lf-t1.vf
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\montserrat\Montserrat-Regular-lf-t1--base.tfm
 INPUT .\parts\3_Imple\3.0_Implemetacion.tex
 OUTPUT parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.tex
@@ -2123,9 +2111,6 @@ INPUT capitulos\marcoreferencia.aux
 INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
 INPUT .\parts\2_Dis_sist\2_Dis_sis.aux
 INPUT parts\2_Dis_sist\2_Dis_sis.aux
-INPUT .\capitulos\disedetallado.aux
-INPUT .\capitulos\disedetallado.aux
-INPUT capitulos\disedetallado.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT .\parts\3_Imple\3.0_Implemetacion.aux
 INPUT parts\3_Imple\3.0_Implemetacion.aux
