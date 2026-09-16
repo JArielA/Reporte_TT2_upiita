@@ -754,12 +754,26 @@ INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\c
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
 INPUT .\parts\3_Imple\3.1 Sistema 1\3.1.1 Implementacion.tex
 INPUT .\parts\3_Imple\3.1 Sistema 1\3.1.1 Implementacion.tex
 INPUT parts\3_Imple\3.1 Sistema 1\3.1.1 Implementacion.tex
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
+INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT .\images\Capitulo_Imple\S1\interfaz\cto_interfaz_imp.jpeg
 INPUT .\images\Capitulo_Imple\S1\interfaz\cto_interfaz_imp.jpeg
 INPUT .\images\Capitulo_Imple\S1\interfaz\cto_interfaz_imp.jpeg
@@ -1374,13 +1388,6 @@ INPUT parts\4_Ana\4.0_Analisis.tex
 INPUT .\parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
 INPUT .\parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
 INPUT parts\4_Ana\4.1 Ingeniería\4.1 Ingenieria.tex
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam10.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam7.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
-INPUT C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs7.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecbx1000.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\ecrm0900.tfm
 INPUT C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm

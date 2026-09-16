@@ -28,17 +28,29 @@
 \contentsline {subsection}{\numberline {2.1.6}Validación del sistema}{26}{subsection.2.1.6}%
 \contentsline {subsection}{\numberline {2.1.7}Selección de diseño conceptual}{28}{subsection.2.1.7}%
 \contentsline {chapter}{\numberline {3}Implementación del sistema}{31}{chapter.3}%
-\contentsline {subsection}{\numberline {3.0.1}Sistema de administración de comportamiento $S_1$}{31}{subsection.3.0.1}%
-\contentsline {subsection}{\numberline {3.0.2}Sistema de procesamiento de datos $S_2$}{45}{subsection.3.0.2}%
-\contentsline {subsection}{\numberline {3.0.3}Sistema de energía $S_3$}{48}{subsection.3.0.3}%
-\contentsline {subsection}{\numberline {3.0.4}Sistema de trituración $S_4$}{54}{subsection.3.0.4}%
-\contentsline {subsection}{\numberline {3.0.5}Sistema de procesamiento de materia $S_5$}{60}{subsection.3.0.5}%
-\contentsline {subsection}{\numberline {3.0.6}Sistema estructural $S_6$}{72}{subsection.3.0.6}%
-\contentsline {subsection}{\numberline {3.0.7}Integración del sistema}{75}{subsection.3.0.7}%
+\contentsline {section}{\numberline {3.1}Sistema de administración de comportamiento $S_1$}{31}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Implementación $S_1$}{31}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Validación $S_1$}{40}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Sistema de procesamiento de datos $S_2$}{46}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Implementación $S_2$}{46}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Sistema de energía $S_3$}{49}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Implementación $S_3$}{49}{subsection.3.3.1}%
+\contentsline {section}{\numberline {3.4}Sistema de trituración $S_4$}{55}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Implementación $S_4$}{55}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Validación $S_4$}{58}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Sistema de procesamiento de materia $S_5$}{61}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Implementación $S_5$}{61}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Validación $S_5$}{71}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Sistema estructural $S_6$}{74}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Implementación $S_6$}{74}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Validación $S_6$}{76}{subsection.3.6.2}%
+\contentsline {section}{\numberline {3.7}Integración del sistema}{78}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}Integración Sistema Mecatrónico}{78}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Validación Sistema Mecatrónico}{84}{subsection.3.7.2}%
 \contentsline {chapter}{\numberline {4}Análisis de resultados}{97}{chapter.4}%
-\contentsline {subsection}{\numberline {4.0.1}Análisis de ingeniería del proyecto}{97}{subsection.4.0.1}%
-\contentsline {subsection}{\numberline {4.0.2}Análisis de costos del proyecto}{101}{subsection.4.0.2}%
-\contentsline {subsection}{\numberline {4.0.3}Valor de nuestro trabajo}{111}{subsection.4.0.3}%
+\contentsline {section}{\numberline {4.1}Análisis de ingeniería del proyecto}{97}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Análisis de costos del proyecto}{102}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Valor de nuestro trabajo}{111}{section.4.3}%
 \contentsline {chapter}{Conclusiones}{113}{chapter*.113}%
 \contentsline {section}{Conclusiones}{113}{section*.114}%
 \contentsline {section}{Recomendación y trabajo a futuro}{117}{section*.115}%
