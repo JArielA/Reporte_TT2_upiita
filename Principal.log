@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  25 OCT 2026 18:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  25 OCT 2026 23:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -3047,14 +3047,19 @@ LaTeX Info: Redefining \% on input line 60.
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
  [101] (parts/4_Ana/4.2 Costos/4.2 Costos.tex
-<images/Anexo/Reparticion_gastos.png, id=1250, 1059.96pt x 879.285pt>
-File: images/Anexo/Reparticion_gastos.png Graphic file (type png)
-<use images/Anexo/Reparticion_gastos.png>
-Package pdftex.def Info: images/Anexo/Reparticion_gastos.png  used on input line 202.
-(pdftex.def)             Requested size: 423.97649pt x 351.70778pt.
+<images/Anexo/Reparticion_gastos.jpg, id=1250, 1140.26pt x 945.5325pt>
+File: images/Anexo/Reparticion_gastos.jpg Graphic file (type jpg)
+<use images/Anexo/Reparticion_gastos.jpg>
+Package pdftex.def Info: images/Anexo/Reparticion_gastos.jpg  used on input line 202.
+(pdftex.def)             Requested size: 456.09592pt x 378.2063pt.
+
+Overfull \hbox (12.51743pt too wide) in paragraph at lines 202--203
+ [][] 
+ []
+
 LaTeX Info: Redefining \. on input line 206.
 LaTeX Info: Redefining \% on input line 206.
- [102]
+[102]
 LaTeX Info: Redefining \. on input line 206.
 LaTeX Info: Redefining \% on input line 206.
  [103]
@@ -3081,7 +3086,7 @@ LaTeX Info: Redefining \% on input line 207.
  [109]
 LaTeX Info: Redefining \. on input line 207.
 LaTeX Info: Redefining \% on input line 207.
- [110 <./images/Anexo/Reparticion_gastos.png>]) (parts/4_Ana/4.3 Valor/4.3 Valor.tex))
+ [110 <./images/Anexo/Reparticion_gastos.jpg>]) (parts/4_Ana/4.3 Valor/4.3 Valor.tex))
 LaTeX Info: Redefining \. on input line 194.
 LaTeX Info: Redefining \% on input line 194.
  [111
@@ -3094,33 +3099,32 @@ LaTeX Info: Redefining \% on input line 194.
 
 
 
-] (parts/6_con/6.1_conclusiones.tex [113
+] (parts/6_con/6.1_conclusiones.tex
+Underfull \vbox (badness 1127) has occurred while \output is active []
+
+ [113
 
 ]
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 22.
+LaTeX Info: Redefining \% on input line 22.
  [114]
-LaTeX Info: Redefining \. on input line 33.
-LaTeX Info: Redefining \% on input line 33.
- [115]
-LaTeX Info: Redefining \. on input line 50.
-LaTeX Info: Redefining \% on input line 50.
- [116]) (parts/6_con/6.2_recomendacion.tex
+LaTeX Info: Redefining \. on input line 41.
+LaTeX Info: Redefining \% on input line 41.
+ [115]) (parts/6_con/6.2_recomendacion.tex
 LaTeX Info: Redefining \. on input line 16.
 LaTeX Info: Redefining \% on input line 16.
- [117
+ [116
 
 ]
 LaTeX Info: Redefining \. on input line 26.
 LaTeX Info: Redefining \% on input line 26.
- [118]
+ [117]
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [119])) [120
+ [118])) (Principal.bbl [119
 
 
 
-] (Principal.bbl [121
 
 
 ]
@@ -3135,7 +3139,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 50--53
 
 LaTeX Info: Redefining \. on input line 100.
 LaTeX Info: Redefining \% on input line 100.
-[122]
+[120]
 Underfull \hbox (badness 2050) in paragraph at lines 123--128
 \T1/cmr/m/n/10.95 nues-tras co-ci-nas.'' [][]$\T1/cmtt/m/n/10.95 https : / / www . xatakahome . com / electrodomesticos-[]innovadores /
  []
@@ -3147,10 +3151,10 @@ Overfull \hbox (11.2405pt too wide) in paragraph at lines 123--128
 
 LaTeX Info: Redefining \. on input line 152.
 LaTeX Info: Redefining \% on input line 152.
-[123]
+[121]
 LaTeX Info: Redefining \. on input line 210.
 LaTeX Info: Redefining \% on input line 210.
- [124]
+ [122]
 Underfull \hbox (badness 10000) in paragraph at lines 223--228
 []\T1/cmr/m/n/10.95 Naylamp me-ca-tro-nics, ``Tu-to-rial sen-sor de tem-pe-ra-tu-ra y hu-me-
  []
@@ -3202,7 +3206,7 @@ Underfull \hbox (badness 4120) in paragraph at lines 247--251
 
 LaTeX Info: Redefining \. on input line 262.
 LaTeX Info: Redefining \% on input line 262.
-[125]
+[123]
 Underfull \hbox (badness 10000) in paragraph at lines 264--267
 []\T1/cmr/m/n/10.95 INEGI, ``Cli-ma.'' [][]$\T1/cmtt/m/n/10.95 https : / / cuentame . inegi . org . mx / monografias / informacion / df /
  []
@@ -3240,14 +3244,14 @@ Underfull \hbox (badness 2205) in paragraph at lines 282--285
 )
 LaTeX Info: Redefining \. on input line 214.
 LaTeX Info: Redefining \% on input line 214.
- [126] [127
+ [124] [125
 
 
-] [128]
+] [126]
 \openout2 = `apendices/apendices/7.2.1_IDEF.aux'.
 
  (apendices/apendices/7.2.1_IDEF.tex
-<images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png, id=1451, 1591.9475pt x 1220.56pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png, id=1442, 1591.9475pt x 1220.56pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png  used on input line 7.
@@ -3258,7 +3262,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
-[129
+[127
 
 ]
 File: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png Graphic file (type png)
@@ -3269,7 +3273,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png, id=1457, 1591.9475pt x 1215.03937pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png, id=1447, 1591.9475pt x 1215.03937pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png  used on input line 19.
@@ -3277,7 +3281,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png, id=1458, 1594.95876pt x 1215.03937pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png, id=1448, 1594.95876pt x 1215.03937pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png  used on input line 25.
@@ -3285,7 +3289,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Co
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png, id=1459, 1585.42313pt x 1206.00563pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png, id=1449, 1585.42313pt x 1206.00563pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png  used on input line 31.
@@ -3293,7 +3297,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Co
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png, id=1460, 1578.89874pt x 1173.38374pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png, id=1450, 1578.89874pt x 1173.38374pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png  used on input line 37.
@@ -3301,7 +3305,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Co
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png, id=1461, 1582.91376pt x 1197.97563pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png, id=1451, 1582.91376pt x 1197.97563pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png  used on input line 49.
@@ -3309,7 +3313,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco -
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png, id=1462, 1591.9475pt x 1227.58624pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png, id=1452, 1591.9475pt x 1227.58624pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png  used on input line 55.
@@ -3317,7 +3321,7 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco -
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png, id=1463, 1570.36688pt x 1219.05438pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png, id=1453, 1570.36688pt x 1219.05438pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png  used on input line 61.
@@ -3325,19 +3329,19 @@ Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco -
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [130 <./images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png>]
+) [128 <./images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png>]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [131] [132 <./images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png>]
+ [129] [130 <./images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png>]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [133 <./images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png>] [134 <./images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png>]
+ [131 <./images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png>] [132 <./images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png>]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [135 <./images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png>] [136 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png>]
+ [133 <./images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png>] [134 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png>]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [137 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png>] [138 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png>]
+ [135 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png>] [136 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png>]
 \openout2 = `apendices/apendices/7.2.2_Matriz_Morfologica.aux'.
 
  (apendices/apendices/7.2.2_Matriz_Morfologica.tex
@@ -3346,144 +3350,144 @@ Package caption Warning: \label without proper reference on input line 28.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `tab:morfologica' on page 139 undefined on input line 5.
+LaTeX Warning: Reference `tab:morfologica' on page 137 undefined on input line 5.
 
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png, id=1519, 157.58875pt x 132.495pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png, id=1510, 157.58875pt x 132.495pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png  used on input line 26.
 (pdftex.def)             Requested size: 31.51718pt x 26.49852pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png, id=1520, 178.6675pt x 140.525pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png, id=1511, 178.6675pt x 140.525pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png  used on input line 26.
 (pdftex.def)             Requested size: 35.73286pt x 28.10449pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png, id=1521, 197.73875pt x 152.57pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png, id=1512, 197.73875pt x 152.57pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png  used on input line 26.
 (pdftex.def)             Requested size: 39.54704pt x 30.51346pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png, id=1522, 162.6075pt x 139.52126pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png, id=1513, 162.6075pt x 139.52126pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png  used on input line 26.
 (pdftex.def)             Requested size: 32.52092pt x 27.90375pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png, id=1523, 106.3975pt x 143.53625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png, id=1514, 106.3975pt x 143.53625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png  used on input line 26.
 (pdftex.def)             Requested size: 21.27911pt x 28.70673pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png, id=1524, 213.79875pt x 137.51375pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png, id=1515, 213.79875pt x 137.51375pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png  used on input line 26.
 (pdftex.def)             Requested size: 42.75899pt x 27.50226pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png, id=1525, 199.74625pt x 111.41624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png, id=1516, 199.74625pt x 111.41624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png  used on input line 26.
 (pdftex.def)             Requested size: 59.92433pt x 33.42513pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png, id=1526, 144.54pt x 120.45pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png, id=1517, 144.54pt x 120.45pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png  used on input line 26.
 (pdftex.def)             Requested size: 43.36232pt x 36.13527pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png, id=1527, 185.69376pt x 129.48375pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png, id=1518, 185.69376pt x 129.48375pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png  used on input line 26.
 (pdftex.def)             Requested size: 55.70854pt x 38.84541pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png, id=1528, 177.66376pt x 124.465pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png, id=1519, 177.66376pt x 124.465pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png  used on input line 26.
 (pdftex.def)             Requested size: 53.29953pt x 37.33978pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png, id=1529, 163.61125pt x 123.46124pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png, id=1520, 163.61125pt x 123.46124pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png  used on input line 26.
 (pdftex.def)             Requested size: 49.08374pt x 37.03865pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png, id=1530, 149.55875pt x 140.525pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png, id=1521, 149.55875pt x 140.525pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png  used on input line 26.
 (pdftex.def)             Requested size: 44.86797pt x 42.15782pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png, id=1531, 189.70876pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png, id=1522, 189.70876pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png  used on input line 26.
 (pdftex.def)             Requested size: 56.91306pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png, id=1532, 155.58125pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png, id=1523, 155.58125pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png  used on input line 26.
 (pdftex.def)             Requested size: 46.67473pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png, id=1533, 130.4875pt x 130.4875pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png, id=1524, 130.4875pt x 130.4875pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png  used on input line 26.
 (pdftex.def)             Requested size: 39.14655pt x 39.14655pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png, id=1534, 198.7425pt x 119.44624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png, id=1525, 198.7425pt x 119.44624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png  used on input line 26.
 (pdftex.def)             Requested size: 59.6232pt x 35.83414pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png, id=1535, 135.50626pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png, id=1526, 135.50626pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png  used on input line 26.
 (pdftex.def)             Requested size: 40.65218pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png, id=1536, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png, id=1527, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png, id=1537, 732.7375pt x 704.6325pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png, id=1528, 732.7375pt x 704.6325pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png  used on input line 26.
 (pdftex.def)             Requested size: 43.96234pt x 42.27612pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png, id=1538, 431.6125pt x 419.5675pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png, id=1529, 431.6125pt x 419.5675pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png  used on input line 26.
 (pdftex.def)             Requested size: 47.47751pt x 46.15256pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png, id=1539, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png, id=1530, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png, id=1540, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png, id=1531, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png, id=1541, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png, id=1532, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png, id=1542, 106.3975pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png, id=1533, 106.3975pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png  used on input line 26.
 (pdftex.def)             Requested size: 31.91948pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png, id=1543, 197.73875pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png, id=1534, 197.73875pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png  used on input line 26.
 (pdftex.def)             Requested size: 59.32208pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png, id=1544, 210.7875pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png, id=1535, 210.7875pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png  used on input line 26.
 (pdftex.def)             Requested size: 63.23672pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png, id=1545, 479.7925pt x 423.5825pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png, id=1536, 479.7925pt x 423.5825pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png  used on input line 26.
 (pdftex.def)             Requested size: 47.98206pt x 42.36072pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png, id=1546, 609.27625pt x 675.52374pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png, id=1537, 609.27625pt x 675.52374pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png  used on input line 26.
@@ -3496,37 +3500,37 @@ Overfull \hbox (11.66574pt too wide) in paragraph at lines 10--27
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png, id=1547, 497.86pt x 334.24875pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png, id=1538, 497.86pt x 334.24875pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png  used on input line 40.
 (pdftex.def)             Requested size: 49.78891pt x 33.42682pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png, id=1548, 749.80125pt x 625.33624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png, id=1539, 749.80125pt x 625.33624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png  used on input line 40.
 (pdftex.def)             Requested size: 59.98532pt x 50.02791pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png, id=1549, 362.35374pt x 352.31625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png, id=1540, 362.35374pt x 352.31625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png  used on input line 40.
 (pdftex.def)             Requested size: 54.35071pt x 52.84515pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png, id=1550, 500.87125pt x 272.01625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png, id=1541, 500.87125pt x 272.01625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png  used on input line 40.
 (pdftex.def)             Requested size: 75.12744pt x 40.80067pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png, id=1551, 578.16pt x 471.7625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png, id=1542, 578.16pt x 471.7625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png  used on input line 40.
 (pdftex.def)             Requested size: 57.81938pt x 47.179pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png, id=1552, 377.41pt x 212.795pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png, id=1543, 377.41pt x 212.795pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png  used on input line 40.
 (pdftex.def)             Requested size: 75.48065pt x 42.55824pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png, id=1553, 263.98625pt x 263.98625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png, id=1544, 263.98625pt x 263.98625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png  used on input line 40.
@@ -3541,17 +3545,17 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 44.
 LaTeX Info: Redefining \% on input line 44.
-[139
+[137
 
 
 
-]) [140 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png (PNG copy)>]
+]) [138 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png (PNG copy)>]
 LaTeX Info: Redefining \. on input line 218.
 LaTeX Info: Redefining \% on input line 218.
- [141 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png (PNG copy)>]
+ [139 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png (PNG copy)>]
 \openout2 = `apendices/apendices/7.2.3_Criterios_de_Seleccion.aux'.
 
- (apendices/apendices/7.2.3_Criterios_de_Seleccion.tex [142
+ (apendices/apendices/7.2.3_Criterios_de_Seleccion.tex [140
 
 
 
@@ -3631,7 +3635,7 @@ LaTeX Warning: Float too large for page by 30.40498pt on input line 59.
 )
 LaTeX Info: Redefining \. on input line 219.
 LaTeX Info: Redefining \% on input line 219.
- [143] [144]
+ [141] [142]
 \openout2 = `apendices/apendices/7.2.4_Matrices_AHP.aux'.
 
  (apendices/apendices/7.2.4_Matrices_AHP.tex
@@ -3661,39 +3665,39 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 )
 LaTeX Info: Redefining \. on input line 220.
 LaTeX Info: Redefining \% on input line 220.
- [145
+ [143
 
 
 
-] [146]
+] [144]
+LaTeX Info: Redefining \. on input line 220.
+LaTeX Info: Redefining \% on input line 220.
+ [145] [146]
 LaTeX Info: Redefining \. on input line 220.
 LaTeX Info: Redefining \% on input line 220.
  [147] [148]
 LaTeX Info: Redefining \. on input line 220.
 LaTeX Info: Redefining \% on input line 220.
- [149] [150]
-LaTeX Info: Redefining \. on input line 220.
-LaTeX Info: Redefining \% on input line 220.
- [151]
+ [149]
 \openout2 = `apendices/apendices/7.2.5_Seleccion.aux'.
 
  (apendices/apendices/7.2.5_Seleccion.tex
-<images/Capitulo 4/3.1.1/S1/esp.png, id=1618, 480.79625pt x 407.5225pt>
+<images/Capitulo 4/3.1.1/S1/esp.png, id=1609, 480.79625pt x 407.5225pt>
 File: images/Capitulo 4/3.1.1/S1/esp.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/esp.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/esp.png  used on input line 28.
 (pdftex.def)             Requested size: 72.11632pt x 61.12573pt.
-<images/Capitulo 4/3.1.1/S1/rasp.png, id=1619, 489.83pt x 389.455pt>
+<images/Capitulo 4/3.1.1/S1/rasp.png, id=1610, 489.83pt x 389.455pt>
 File: images/Capitulo 4/3.1.1/S1/rasp.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/rasp.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/rasp.png  used on input line 28.
 (pdftex.def)             Requested size: 73.47133pt x 58.41573pt.
-<images/Capitulo 4/3.1.1/S1/nano.png, id=1620, 404.51125pt x 355.3275pt>
+<images/Capitulo 4/3.1.1/S1/nano.png, id=1611, 404.51125pt x 355.3275pt>
 File: images/Capitulo 4/3.1.1/S1/nano.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/nano.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/nano.png  used on input line 28.
 (pdftex.def)             Requested size: 60.67406pt x 53.29681pt.
-<images/Capitulo 4/3.1.1/S1/mega.png, id=1621, 453.695pt x 375.4025pt>
+<images/Capitulo 4/3.1.1/S1/mega.png, id=1612, 453.695pt x 375.4025pt>
 File: images/Capitulo 4/3.1.1/S1/mega.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/mega.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/mega.png  used on input line 28.
@@ -3703,27 +3707,27 @@ Overfull \hbox (11.67914pt too wide) in paragraph at lines 12--30
  [][] 
  []
 
-[152
+[150
 
 
 
  <./images/Capitulo 4/3.1.1/S1/esp.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/rasp.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/nano.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/mega.png (PNG copy)>])
 LaTeX Info: Redefining \. on input line 221.
 LaTeX Info: Redefining \% on input line 221.
- [153] [154]
+ [151] [152]
 \openout2 = `apendices/apendices/7.2.6_Temperatura_cilindro.aux'.
 
  (apendices/apendices/7.2.6_Temperatura_cilindro.tex)
 LaTeX Info: Redefining \. on input line 222.
 LaTeX Info: Redefining \% on input line 222.
- [155
+ [153
 
 
 
 ]
 \openout2 = `apendices/apendices/7.2.7_Temperatura_final.aux'.
 
- (apendices/apendices/7.2.7_Temperatura_final.tex [156
+ (apendices/apendices/7.2.7_Temperatura_final.tex [154
 
 
 
@@ -3735,63 +3739,63 @@ Overfull \hbox (23.03581pt too wide) detected at line 46
 )
 LaTeX Info: Redefining \. on input line 223.
 LaTeX Info: Redefining \% on input line 223.
- [157]
+ [155]
 \openout2 = `apendices/apendices/7.2.8_Estudios_Termicos.aux'.
 
  (apendices/apendices/7.2.8_Estudios_Termicos.tex
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png, id=1657, 599.99156pt x 371.13657pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png, id=1648, 599.99156pt x 371.13657pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png  used on input line 7.
 (pdftex.def)             Requested size: 239.99237pt x 148.45198pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png, id=1658, 590.95781pt x 431.36156pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png, id=1649, 590.95781pt x 431.36156pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png  used on input line 16.
 (pdftex.def)             Requested size: 236.37894pt x 172.54156pt.
- [158
+ [156
 
 
 
  <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png>]
-<images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png, id=1663, 203.25937pt x 49.68562pt>
+<images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png, id=1654, 203.25937pt x 49.68562pt>
 File: images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png  used on input line 23.
 (pdftex.def)             Requested size: 162.60771pt x 39.74855pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png, id=1666, 688.07062pt x 388.45125pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png, id=1657, 688.07062pt x 388.45125pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png  used on input line 34.
 (pdftex.def)             Requested size: 275.22337pt x 155.37773pt.
 LaTeX Info: Redefining \. on input line 42.
 LaTeX Info: Redefining \% on input line 42.
- [159 <./images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png, id=1673, 718.93594pt x 411.03563pt>
+ [157 <./images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>]
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png, id=1663, 718.93594pt x 411.03563pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png  used on input line 46.
 (pdftex.def)             Requested size: 287.56927pt x 164.41133pt.
- [160 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png, id=1678, 158.84344pt x 52.69687pt>
+ [158 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>]
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png, id=1668, 158.84344pt x 52.69687pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png  used on input line 53.
 (pdftex.def)             Requested size: 142.95776pt x 47.42673pt.
 LaTeX Info: Redefining \. on input line 62.
 LaTeX Info: Redefining \% on input line 62.
- [161 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png, id=1686, 614.295pt x 362.85562pt>
+ [159 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>]
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png, id=1677, 614.295pt x 362.85562pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png  used on input line 68.
 (pdftex.def)             Requested size: 307.14674pt x 181.42737pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png, id=1687, 204.765pt x 50.43843pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png, id=1678, 204.765pt x 50.43843pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png  used on input line 75.
 (pdftex.def)             Requested size: 184.28677pt x 45.39415pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png, id=1688, 639.13782pt x 342.5297pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png, id=1679, 639.13782pt x 342.5297pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png  used on input line 84.
@@ -3800,7 +3804,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png, id=1689, 158.84344pt x 52.69687pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png, id=1680, 158.84344pt x 52.69687pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png  used on input line 91.
@@ -3808,7 +3812,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_f
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png, id=1690, 557.08125pt x 337.26pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png, id=1681, 557.08125pt x 337.26pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png  used on input line 100.
@@ -3816,7 +3820,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png, id=1691, 203.25937pt x 48.93282pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png, id=1682, 203.25937pt x 48.93282pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png  used on input line 107.
@@ -3824,7 +3828,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png, id=1692, 602.25pt x 335.75438pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png, id=1683, 602.25pt x 335.75438pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png  used on input line 116.
@@ -3832,7 +3836,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png, id=1693, 158.84344pt x 48.93282pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png, id=1684, 158.84344pt x 48.93282pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png  used on input line 123.
@@ -3840,10 +3844,10 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_f
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [162 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png>]
+) [160 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png>]
 LaTeX Info: Redefining \. on input line 224.
 LaTeX Info: Redefining \% on input line 224.
- [163 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png>] [164 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png>]
+ [161 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png>] [162 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png>]
 \openout2 = `apendices/apendices/7.2.9_Calculos_estructura.aux'.
 
  (apendices/apendices/7.2.9_Calculos_estructura.tex
@@ -3853,17 +3857,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
-[165
+[163
 
 
 
 ]
-<images/Capitulo 4/s5/Factores de servicio.png, id=1711, 415.5525pt x 252.945pt>
+<images/Capitulo 4/s5/Factores de servicio.png, id=1701, 415.5525pt x 252.945pt>
 File: images/Capitulo 4/s5/Factores de servicio.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factores de servicio.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factores de servicio.png  used on input line 40.
 (pdftex.def)             Requested size: 332.44244pt x 202.35626pt.
-<images/Capitulo 4/s5/Grafica para la seleccion de bandas.png, id=1713, 430.60875pt x 279.0425pt>
+<images/Capitulo 4/s5/Grafica para la seleccion de bandas.png, id=1703, 430.60875pt x 279.0425pt>
 File: images/Capitulo 4/s5/Grafica para la seleccion de bandas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Grafica para la seleccion de bandas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Grafica para la seleccion de bandas.png  used on input line 47.
@@ -3872,7 +3876,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Grafica para la seleccion de banda
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Capacidad 3V.png, id=1715, 374.39874pt x 316.18124pt>
+<images/Capitulo 4/s5/Capacidad 3V.png, id=1705, 374.39874pt x 316.18124pt>
 File: images/Capitulo 4/s5/Capacidad 3V.png Graphic file (type png)
 <use images/Capitulo 4/s5/Capacidad 3V.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Capacidad 3V.png  used on input line 54.
@@ -3880,7 +3884,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Capacidad 3V.png  used on input li
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Longitudes bandas.png, id=1717, 345.29pt x 212.795pt>
+<images/Capitulo 4/s5/Longitudes bandas.png, id=1707, 345.29pt x 212.795pt>
 File: images/Capitulo 4/s5/Longitudes bandas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Longitudes bandas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Longitudes bandas.png  used on input line 61.
@@ -3888,8 +3892,8 @@ Package pdftex.def Info: images/Capitulo 4/s5/Longitudes bandas.png  used on inp
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[166 <./images/Capitulo 4/s5/Factores de servicio.png>]
-<images/Capitulo 4/s5/Factor theta.png, id=1724, 278.03876pt x 165.61874pt>
+[164 <./images/Capitulo 4/s5/Factores de servicio.png>]
+<images/Capitulo 4/s5/Factor theta.png, id=1714, 278.03876pt x 165.61874pt>
 File: images/Capitulo 4/s5/Factor theta.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factor theta.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factor theta.png  used on input line 69.
@@ -3898,7 +3902,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Factor theta.png  used on input li
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Factor L.png, id=1726, 406.51875pt x 183.68625pt>
+<images/Capitulo 4/s5/Factor L.png, id=1716, 406.51875pt x 183.68625pt>
 File: images/Capitulo 4/s5/Factor L.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factor L.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factor L.png  used on input line 75.
@@ -3906,7 +3910,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Factor L.png  used on input line 7
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Tamanos Cuna.png, id=1728, 714.67pt x 620.3175pt>
+<images/Capitulo 4/s5/Tamanos Cuna.png, id=1718, 714.67pt x 620.3175pt>
 File: images/Capitulo 4/s5/Tamanos Cuna.png Graphic file (type png)
 <use images/Capitulo 4/s5/Tamanos Cuna.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Tamanos Cuna.png  used on input line 86.
@@ -3916,15 +3920,15 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Info: Redefining \. on input line 90.
 LaTeX Info: Redefining \% on input line 90.
-[167 <./images/Capitulo 4/s5/Grafica para la seleccion de bandas.png>] [168 <./images/Capitulo 4/s5/Capacidad 3V.png>]
+[165 <./images/Capitulo 4/s5/Grafica para la seleccion de bandas.png>] [166 <./images/Capitulo 4/s5/Capacidad 3V.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 109--116
 
  []
 
 LaTeX Info: Redefining \. on input line 116.
 LaTeX Info: Redefining \% on input line 116.
-[169 <./images/Capitulo 4/s5/Longitudes bandas.png> <./images/Capitulo 4/s5/Factor theta.png>]
-<images/Capitulo 4/s5/Resistencia a la fatiga.png, id=1747, 542.025pt x 412.54124pt>
+[167 <./images/Capitulo 4/s5/Longitudes bandas.png> <./images/Capitulo 4/s5/Factor theta.png>]
+<images/Capitulo 4/s5/Resistencia a la fatiga.png, id=1738, 542.025pt x 412.54124pt>
 File: images/Capitulo 4/s5/Resistencia a la fatiga.png Graphic file (type png)
 <use images/Capitulo 4/s5/Resistencia a la fatiga.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Resistencia a la fatiga.png  used on input line 119.
@@ -3933,7 +3937,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Resistencia a la fatiga.png  used 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/1 pala fuerzas.png, id=1749, 583.17876pt x 578.16pt>
+<images/Capitulo 4/s5/1 pala fuerzas.png, id=1740, 583.17876pt x 578.16pt>
 File: images/Capitulo 4/s5/1 pala fuerzas.png Graphic file (type png)
 <use images/Capitulo 4/s5/1 pala fuerzas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/1 pala fuerzas.png  used on input line 125.
@@ -3943,7 +3947,7 @@ Overfull \hbox (22.96515pt too wide) in paragraph at lines 125--126
  [][] 
  []
 
-<images/Capitulo 4/s5/2 palas fuerzas.png, id=1750, 589.20125pt x 584.1825pt>
+<images/Capitulo 4/s5/2 palas fuerzas.png, id=1741, 589.20125pt x 584.1825pt>
 File: images/Capitulo 4/s5/2 palas fuerzas.png Graphic file (type png)
 <use images/Capitulo 4/s5/2 palas fuerzas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/2 palas fuerzas.png  used on input line 131.
@@ -3953,22 +3957,22 @@ Overfull \hbox (27.78314pt too wide) in paragraph at lines 131--132
  [][] 
  []
 
-) [170 <./images/Capitulo 4/s5/Factor L.png>]
+) [168 <./images/Capitulo 4/s5/Factor L.png>]
 LaTeX Info: Redefining \. on input line 225.
 LaTeX Info: Redefining \% on input line 225.
- [171 <./images/Capitulo 4/s5/Tamanos Cuna.png>] [172 <./images/Capitulo 4/s5/Resistencia a la fatiga.png>]
+ [169 <./images/Capitulo 4/s5/Tamanos Cuna.png>] [170 <./images/Capitulo 4/s5/Resistencia a la fatiga.png>]
 LaTeX Info: Redefining \. on input line 225.
 LaTeX Info: Redefining \% on input line 225.
- [173 <./images/Capitulo 4/s5/1 pala fuerzas.png>] [174 <./images/Capitulo 4/s5/2 palas fuerzas.png>]
+ [171 <./images/Capitulo 4/s5/1 pala fuerzas.png>] [172 <./images/Capitulo 4/s5/2 palas fuerzas.png>]
 \openout2 = `apendices/apendices/7.2.10_Control.aux'.
 
  (apendices/apendices/7.2.10_Control.tex
-<images/Capitulo 3/3.1.2/comunicacion.png, id=1778, 888.31876pt x 238.64156pt>
+<images/Capitulo 3/3.1.2/comunicacion.png, id=1769, 888.31876pt x 238.64156pt>
 File: images/Capitulo 3/3.1.2/comunicacion.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/comunicacion.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/comunicacion.png  used on input line 9.
 (pdftex.def)             Requested size: 355.32121pt x 95.45493pt.
-<images/Capitulo 3/3.1.2/curva_calentamiento.png, id=1780, 592.46344pt x 535.2497pt>
+<images/Capitulo 3/3.1.2/curva_calentamiento.png, id=1771, 592.46344pt x 535.2497pt>
 File: images/Capitulo 3/3.1.2/curva_calentamiento.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/curva_calentamiento.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/curva_calentamiento.png  used on input line 18.
@@ -3977,7 +3981,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/curva_calentamiento.png  used o
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/Ftransferencia.png, id=1782, 447.92343pt x 380.92313pt>
+<images/Capitulo 3/3.1.2/Ftransferencia.png, id=1773, 447.92343pt x 380.92313pt>
 File: images/Capitulo 3/3.1.2/Ftransferencia.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/Ftransferencia.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/Ftransferencia.png  used on input line 26.
@@ -3985,7 +3989,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/Ftransferencia.png  used on inp
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/ControlPID_comSimu.png, id=1785, 770.88pt x 370.38374pt>
+<images/Capitulo 3/3.1.2/ControlPID_comSimu.png, id=1776, 770.88pt x 370.38374pt>
 File: images/Capitulo 3/3.1.2/ControlPID_comSimu.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/ControlPID_comSimu.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/ControlPID_comSimu.png  used on input line 36.
@@ -3993,7 +3997,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/ControlPID_comSimu.png  used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/PID_Tuner.png, id=1786, 1404.74812pt x 767.11594pt>
+<images/Capitulo 3/3.1.2/PID_Tuner.png, id=1777, 1404.74812pt x 767.11594pt>
 File: images/Capitulo 3/3.1.2/PID_Tuner.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/PID_Tuner.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/PID_Tuner.png  used on input line 43.
@@ -4004,33 +4008,33 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 )
 LaTeX Info: Redefining \. on input line 226.
 LaTeX Info: Redefining \% on input line 226.
- [175
+ [173
 
 
 
- <./images/Capitulo 3/3.1.2/comunicacion.png>] [176 <./images/Capitulo 3/3.1.2/curva_calentamiento.png> <./images/Capitulo 3/3.1.2/Ftransferencia.png>]
+ <./images/Capitulo 3/3.1.2/comunicacion.png>] [174 <./images/Capitulo 3/3.1.2/curva_calentamiento.png> <./images/Capitulo 3/3.1.2/Ftransferencia.png>]
 LaTeX Info: Redefining \. on input line 226.
 LaTeX Info: Redefining \% on input line 226.
- [177 <./images/Capitulo 3/3.1.2/ControlPID_comSimu.png> <./images/Capitulo 3/3.1.2/PID_Tuner.png>]
+ [175 <./images/Capitulo 3/3.1.2/ControlPID_comSimu.png> <./images/Capitulo 3/3.1.2/PID_Tuner.png>]
 \openout2 = `apendices/apendices/7.2.11_Ventilacion.aux'.
 
  (apendices/apendices/7.2.11_Ventilacion.tex
-<images/Capitulo 4/s5/Contenedor/flow1.png, id=1800, 899.61093pt x 518.6878pt>
+<images/Capitulo 4/s5/Contenedor/flow1.png, id=1790, 899.61093pt x 518.6878pt>
 File: images/Capitulo 4/s5/Contenedor/flow1.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/flow1.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/flow1.png  used on input line 7.
 (pdftex.def)             Requested size: 359.838pt x 207.47144pt.
- [178
+ [176
 
 
 
  <./images/Capitulo 4/s5/Contenedor/flow1.png>]
-<images/Capitulo 4/s5/Contenedor/flow2.png, id=1807, 820.56563pt x 405.01312pt>
+<images/Capitulo 4/s5/Contenedor/flow2.png, id=1797, 820.56563pt x 405.01312pt>
 File: images/Capitulo 4/s5/Contenedor/flow2.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/flow2.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/flow2.png  used on input line 17.
 (pdftex.def)             Requested size: 328.22043pt x 162.00237pt.
-<images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png, id=1808, 770.88pt x 480.29437pt>
+<images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png, id=1798, 770.88pt x 480.29437pt>
 File: images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png  used on input line 26.
@@ -4042,128 +4046,128 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 )
 LaTeX Info: Redefining \. on input line 227.
 LaTeX Info: Redefining \% on input line 227.
- [179 <./images/Capitulo 4/s5/Contenedor/flow2.png>] [180 <./images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png>]
+ [177 <./images/Capitulo 4/s5/Contenedor/flow2.png>] [178 <./images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png>]
 \openout2 = `apendices/apendices/7.2.12_Codigo_de_programa.aux'.
 
  (apendices/apendices/7.2.12_Codigo_de_programa.tex (Codigo_compost.ino
 LaTeX Info: Redefining \. on input line 28.
 LaTeX Info: Redefining \% on input line 28.
- [181
+ [179
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [182]
+ [180]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Info: Redefining \. on input line 93.
 LaTeX Info: Redefining \% on input line 93.
+ [181]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [182]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 161.
+LaTeX Info: Redefining \% on input line 161.
  [183]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [184]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 161.
-LaTeX Info: Redefining \% on input line 161.
+LaTeX Info: Redefining \. on input line 229.
+LaTeX Info: Redefining \% on input line 229.
  [185]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [186]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 229.
-LaTeX Info: Redefining \% on input line 229.
+LaTeX Info: Redefining \. on input line 296.
+LaTeX Info: Redefining \% on input line 296.
  [187]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [188]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 296.
-LaTeX Info: Redefining \% on input line 296.
+LaTeX Info: Redefining \. on input line 364.
+LaTeX Info: Redefining \% on input line 364.
  [189]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [190]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 364.
-LaTeX Info: Redefining \% on input line 364.
+LaTeX Info: Redefining \. on input line 432.
+LaTeX Info: Redefining \% on input line 432.
  [191]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [192]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 432.
-LaTeX Info: Redefining \% on input line 432.
+LaTeX Info: Redefining \. on input line 500.
+LaTeX Info: Redefining \% on input line 500.
  [193]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [194]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
+LaTeX Info: Redefining \. on input line 568.
+LaTeX Info: Redefining \% on input line 568.
  [195]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [196]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 568.
-LaTeX Info: Redefining \% on input line 568.
+LaTeX Info: Redefining \. on input line 635.
+LaTeX Info: Redefining \% on input line 635.
  [197]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [198]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 635.
-LaTeX Info: Redefining \% on input line 635.
- [199]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [200]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 LaTeX Info: Redefining \. on input line 703.
 LaTeX Info: Redefining \% on input line 703.
- [201])) [202] [203
+ [199])) [200] [201
 
 
 
-] [204]
+] [202]
 \openout2 = `apendices/anexo1.aux'.
 
  (apendices/anexo1.tex
-<images/Anexo/motor_air.png, id=2628, 998.73125pt x 652.4375pt>
+<images/Anexo/motor_air.png, id=2619, 998.73125pt x 652.4375pt>
 File: images/Anexo/motor_air.png Graphic file (type png)
 <use images/Anexo/motor_air.png>
 Package pdftex.def Info: images/Anexo/motor_air.png  used on input line 8.
 (pdftex.def)             Requested size: 399.48541pt x 260.97037pt.
-) [205
+) [203
 
 
 
  <./images/Anexo/motor_air.png (PNG copy)>]
 \openout2 = `apendices/anexo2.aux'.
 
- (apendices/anexo2.tex [206
+ (apendices/anexo2.tex [204
 
 
 
 
 ]
-<images/Anexo/motor_lav.png, id=2637, 653.44125pt x 468.75125pt>
+<images/Anexo/motor_lav.png, id=2628, 653.44125pt x 468.75125pt>
 File: images/Anexo/motor_lav.png Graphic file (type png)
 <use images/Anexo/motor_lav.png>
 Package pdftex.def Info: images/Anexo/motor_lav.png  used on input line 8.
 (pdftex.def)             Requested size: 326.71982pt x 234.37505pt.
-<images/Anexo/motor_lav_esp.png, id=2638, 185.69376pt x 123.46124pt>
+<images/Anexo/motor_lav_esp.png, id=2629, 185.69376pt x 123.46124pt>
 File: images/Anexo/motor_lav_esp.png Graphic file (type png)
 <use images/Anexo/motor_lav_esp.png>
 Package pdftex.def Info: images/Anexo/motor_lav_esp.png  used on input line 15.
@@ -4172,12 +4176,12 @@ Package pdftex.def Info: images/Anexo/motor_lav_esp.png  used on input line 15.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [207
+) [205
 
  <./images/Anexo/motor_lav.png (PNG copy)>]
 LaTeX Info: Redefining \. on input line 233.
 LaTeX Info: Redefining \% on input line 233.
- [208 <./images/Anexo/motor_lav_esp.png (PNG copy)>] (Principal.ind) (Principal.aux
+ [206 <./images/Anexo/motor_lav_esp.png (PNG copy)>] (Principal.ind) (Principal.aux
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
  (preliminares/resumen.aux) (preliminares/abstract.aux) (preliminares/nomenclatura.aux) (parts/1_Mar_ref/2.0_rev_lit.aux) (capitulos/marcoreferencia.aux) (parts/2_Dis_sist/2_Dis_sis.aux) (parts/3_Imple/3.0_Implemetacion.aux) (parts/4_Ana/4.0_Analisis.aux) (parts/6_con/6.0_con.aux) (apendices/apendices/7.2.1_IDEF.aux) (apendices/apendices/7.2.2_Matriz_Morfologica.aux) (apendices/apendices/7.2.3_Criterios_de_Seleccion.aux) (apendices/apendices/7.2.4_Matrices_AHP.aux) (apendices/apendices/7.2.5_Seleccion.aux) (apendices/apendices/7.2.6_Temperatura_cilindro.aux) (apendices/apendices/7.2.7_Temperatura_final.aux) (apendices/apendices/7.2.8_Estudios_Termicos.aux) (apendices/apendices/7.2.9_Calculos_estructura.aux) (apendices/apendices/7.2.10_Control.aux) (apendices/apendices/7.2.11_Ventilacion.aux) (apendices/apendices/7.2.12_Codigo_de_programa.aux) (apendices/anexo1.aux) (apendices/anexo2.aux))
@@ -4209,8 +4213,8 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 43267 strings out of 467870
- 948493 string characters out of 5419324
+ 43265 strings out of 467870
+ 948477 string characters out of 5419324
  1803305 words of memory out of 5000000
  69858 multiletter control sequences out of 15000+600000
  772002 words of font info for 137 fonts, out of 8000000 for 9000
@@ -4220,9 +4224,9 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{section*.194} has been referenced but does not exist, replaced by a fixed one
 
  <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\Dan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Dan/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
-Output written on Principal.pdf (236 pages, 28765166 bytes).
+Output written on Principal.pdf (234 pages, 28961184 bytes).
 PDF statistics:
- 3945 PDF objects out of 4296 (max. 8388607)
- 1241 named destinations out of 1440 (max. 500000)
+ 3935 PDF objects out of 4296 (max. 8388607)
+ 1239 named destinations out of 1440 (max. 500000)
  1531 words of extra memory for PDF output out of 10000 (max. 10000000)
 
