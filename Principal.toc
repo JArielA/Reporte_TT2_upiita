@@ -50,28 +50,30 @@
 \contentsline {chapter}{\numberline {4}Análisis de resultados}{97}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Análisis de ingeniería del proyecto}{97}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Análisis de costos del proyecto}{102}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Valor del trabajo presentado}{111}{section.4.3}%
-\contentsline {chapter}{Conclusiones}{113}{chapter*.114}%
-\contentsline {section}{Conclusiones}{113}{section*.115}%
-\contentsline {section}{Recomendación y trabajo a futuro}{116}{section*.116}%
-\contentsline {part}{Referencias}{119}{chapter*.118}%
-\contentsline {part}{Apéndices}{125}{part.1}%
-\contentsline {section}{Diagramas IDEF-0}{127}{section*.119}%
-\contentsline {section}{Matriz Morfológica}{137}{section*.129}%
-\contentsline {section}{Descripción de Criterios de Selección}{140}{section*.132}%
-\contentsline {section}{Matrices AHP}{143}{section*.134}%
-\contentsline {section}{Ejemplo de proceso de selección}{150}{section*.142}%
-\contentsline {section}{Ejemplo de cálculo de calor para un cilindro}{153}{section*.146}%
-\contentsline {section}{Ejemplo cálculo de temperatura final}{154}{section*.147}%
-\contentsline {section}{Estudios Térmicos}{156}{section*.148}%
-\contentsline {section}{Cálculos de la estructura}{163}{section*.163}%
-\contentsline {section}{Potencia Consumida}{163}{section*.164}%
-\contentsline {section}{Diseño de la transmisión por bandas}{164}{section*.165}%
-\contentsline {section}{Diseño de la cuña}{165}{section*.172}%
-\contentsline {section}{Diseño del eje de Aireación}{166}{section*.174}%
-\contentsline {section}{Ejemplo de procedimiento PID}{173}{section*.178}%
-\contentsline {section}{Simulaciones sistema de ventilación}{176}{section*.184}%
-\contentsline {section}{Código del sistema de compostaje}{179}{section*.188}%
-\contentsline {part}{Anexos}{201}{part.2}%
-\contentsline {chapter}{Anexo 1. Placa del motor de aireación}{203}{appendix*.189}%
-\contentsline {chapter}{Anexo 2. Placa del motor de trituración}{205}{appendix*.191}%
+\contentsline {section}{\numberline {4.3}Aportación del trabajo presentado}{111}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Estimación de horas invertidas}{112}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Estimación del costo de mano de obra de ingeniería}{114}{section.4.5}%
+\contentsline {chapter}{Conclusiones}{115}{chapter*.115}%
+\contentsline {section}{Conclusiones}{115}{section*.116}%
+\contentsline {section}{Recomendación y trabajo a futuro}{118}{section*.117}%
+\contentsline {part}{Referencias}{121}{chapter*.119}%
+\contentsline {part}{Apéndices}{127}{part.1}%
+\contentsline {section}{Diagramas IDEF-0}{129}{section*.120}%
+\contentsline {section}{Matriz Morfológica}{139}{section*.130}%
+\contentsline {section}{Descripción de Criterios de Selección}{142}{section*.133}%
+\contentsline {section}{Matrices AHP}{145}{section*.135}%
+\contentsline {section}{Ejemplo de proceso de selección}{152}{section*.143}%
+\contentsline {section}{Ejemplo de cálculo de calor para un cilindro}{155}{section*.147}%
+\contentsline {section}{Ejemplo cálculo de temperatura final}{156}{section*.148}%
+\contentsline {section}{Estudios Térmicos}{158}{section*.149}%
+\contentsline {section}{Cálculos de la estructura}{165}{section*.164}%
+\contentsline {section}{Potencia Consumida}{165}{section*.165}%
+\contentsline {section}{Diseño de la transmisión por bandas}{166}{section*.166}%
+\contentsline {section}{Diseño de la cuña}{167}{section*.173}%
+\contentsline {section}{Diseño del eje de Aireación}{168}{section*.175}%
+\contentsline {section}{Ejemplo de procedimiento PID}{175}{section*.179}%
+\contentsline {section}{Simulaciones sistema de ventilación}{178}{section*.185}%
+\contentsline {section}{Código del sistema de compostaje}{181}{section*.189}%
+\contentsline {part}{Anexos}{203}{part.2}%
+\contentsline {chapter}{Anexo 1. Placa del motor de aireación}{205}{appendix*.190}%
+\contentsline {chapter}{Anexo 2. Placa del motor de trituración}{207}{appendix*.192}%
