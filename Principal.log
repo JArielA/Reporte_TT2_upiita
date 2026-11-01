@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  29 OCT 2026 22:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.9.3)  31 OCT 2026 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -187,6 +187,24 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 Package: eucal 2009/06/22 v3.00 Euler Script fonts
 LaTeX Font Info:    Overwriting math alphabet `\EuScript' in version `bold'
 (Font)                  U/eus/m/n --> U/eus/b/n on input line 33.
+) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen161
+\Gin@req@width=\dimen162
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup6
@@ -337,9 +355,9 @@ Already applied: [0000-00-00] Fall back to v1 on input line 76.
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
-\XKV@toks=\toks28
-\XKV@tempa@toks=\toks29
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
 \XKV@depth=\count300
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
@@ -355,55 +373,55 @@ File: upsy.fd 2001/06/04 font definitions for U/psy.
 File: lettrine.sty 2025-12-06 v2.83 (Daniel Flipo)
 \c@DefaultLines=\count301
 \c@DefaultDepth=\count302
-\DefaultFindent=\dimen161
-\DefaultNindent=\dimen162
-\DefaultSlope=\dimen163
-\DiscardVskip=\dimen164
+\DefaultFindent=\dimen163
+\DefaultNindent=\dimen164
+\DefaultSlope=\dimen165
+\DiscardVskip=\dimen166
 \L@lbox=\box57
 \c@L@lines=\count303
 \c@L@depth=\count304
-\L@Pindent=\dimen165
-\L@Findent=\dimen166
-\L@Nindent=\dimen167
-\L@lraise=\dimen168
-\L@first=\dimen169
-\L@next=\dimen170
-\L@slope=\dimen171
-\L@height=\dimen172
-\L@novskip=\dimen173
-\L@target@ht=\dimen174
-\L@target@dp=\dimen175
-\L@target@tht=\dimen176
-\LettrineWidth=\dimen177
-\LettrineHeight=\dimen178
-\LettrineDepth=\dimen179
-\L@finalht=\dimen180
-\L@finaldp=\dimen181
+\L@Pindent=\dimen167
+\L@Findent=\dimen168
+\L@Nindent=\dimen169
+\L@lraise=\dimen170
+\L@first=\dimen171
+\L@next=\dimen172
+\L@slope=\dimen173
+\L@height=\dimen174
+\L@novskip=\dimen175
+\L@target@ht=\dimen176
+\L@target@dp=\dimen177
+\L@target@tht=\dimen178
+\LettrineWidth=\dimen179
+\LettrineHeight=\dimen180
+\LettrineDepth=\dimen181
+\L@finalht=\dimen182
+\L@finaldp=\dimen183
 
 Loading lettrine.cfg
 (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/lettrine\lettrine.cfg)
-\Lettrine@tweaks=\toks30
-\Llist@everypar=\toks31
+\Lettrine@tweaks=\toks31
+\Llist@everypar=\toks32
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@tracingmulticols=\count305
 \mult@box=\box58
-\multicol@leftmargin=\dimen182
+\multicol@leftmargin=\dimen184
 \c@unbalance=\count306
 \c@collectmore=\count307
 \doublecol@number=\count308
 \multicoltolerance=\count309
 \multicolpretolerance=\count310
-\full@width=\dimen183
-\page@free=\dimen184
-\premulticols=\dimen185
-\postmulticols=\dimen186
+\full@width=\dimen185
+\page@free=\dimen186
+\premulticols=\dimen187
+\postmulticols=\dimen188
 \multicolsep=\skip70
 \multicolbaselineskip=\skip71
 \partial@page=\box59
 \last@line=\box60
 \mc@boxedresult=\box61
-\maxbalancingoverflow=\dimen187
+\maxbalancingoverflow=\dimen189
 \mult@rightbox=\box62
 \mult@grightbox=\box63
 \mult@firstbox=\box64
@@ -447,9 +465,9 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \c@minrows=\count311
 \c@columnbadness=\count312
 \c@finalcolumnbadness=\count313
-\last@try=\dimen188
-\multicolovershoot=\dimen189
-\multicolundershoot=\dimen190
+\last@try=\dimen190
+\multicolovershoot=\dimen191
+\multicolundershoot=\dimen192
 \mult@nat@firstbox=\box102
 \colbreak@box=\box103
 \mc@col@check@num=\count314
@@ -462,9 +480,7 @@ Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+ (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
@@ -493,12 +509,12 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box104
 \beforetitleunit=\skip75
 \aftertitleunit=\skip76
-\ttl@plus=\dimen191
-\ttl@minus=\dimen192
-\ttl@toksa=\toks32
-\titlewidth=\dimen193
-\titlewidthlast=\dimen194
-\titlewidthfirst=\dimen195
+\ttl@plus=\dimen193
+\ttl@minus=\dimen194
+\ttl@toksa=\toks33
+\titlewidth=\dimen195
+\titlewidthlast=\dimen196
+\titlewidthfirst=\dimen197
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/fncychap\fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \RW=\skip77
@@ -518,15 +534,15 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@cnth=\count316
 \Gm@cntv=\count317
 \c@Gm@tempcnt=\count318
-\Gm@bindingoffset=\dimen196
-\Gm@wd@mp=\dimen197
-\Gm@odd@mp=\dimen198
-\Gm@even@mp=\dimen199
-\Gm@layoutwidth=\dimen256
-\Gm@layoutheight=\dimen257
-\Gm@layouthoffset=\dimen258
-\Gm@layoutvoffset=\dimen259
-\Gm@dimlist=\toks33
+\Gm@bindingoffset=\dimen198
+\Gm@wd@mp=\dimen199
+\Gm@odd@mp=\dimen256
+\Gm@even@mp=\dimen257
+\Gm@layoutwidth=\dimen258
+\Gm@layoutheight=\dimen259
+\Gm@layouthoffset=\dimen260
+\Gm@layoutvoffset=\dimen261
+\Gm@dimlist=\toks34
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
@@ -560,7 +576,7 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
-\@linkdim=\dimen260
+\@linkdim=\dimen262
 \Hy@linkcounter=\count320
 \Hy@pagecounter=\count321
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
@@ -590,15 +606,15 @@ Package hyperref Info: Bookmarks ON on input line 4462.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4801.
-\XeTeXLinkMargin=\dimen261
+\XeTeXLinkMargin=\dimen263
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count324
-\Field@Width=\dimen262
-\Fld@charsize=\dimen263
+\Field@Width=\dimen264
+\Fld@charsize=\dimen265
 Package hyperref Info: Hyper figures OFF on input line 6078.
 Package hyperref Info: Link nesting OFF on input line 6083.
 Package hyperref Info: Hyper index ON on input line 6086.
@@ -641,15 +657,7 @@ Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
 Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
-Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
-Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 106.
-))
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 )) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
@@ -657,8 +665,8 @@ Package: pdfpages 2026/03/30 v0.6h Insert pages of external PDF documents (AM)
 Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
 \calc@Acount=\count331
 \calc@Bcount=\count332
-\calc@Adimen=\dimen264
-\calc@Bdimen=\dimen265
+\calc@Adimen=\dimen266
+\calc@Bdimen=\dimen267
 \calc@Askip=\skip85
 \calc@Bskip=\skip86
 LaTeX Info: Redefining \setlength on input line 86.
@@ -667,12 +675,8 @@ LaTeX Info: Redefining \addtolength on input line 87.
 \calc@Cskip=\skip87
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2026/05/31 v3.0e eso-pic (RN)
-\ESO@tempdima=\dimen266
-\ESO@tempdimb=\dimen267
-) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
-Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
-\Gin@req@height=\dimen268
-\Gin@req@width=\dimen269
+\ESO@tempdima=\dimen268
+\ESO@tempdimb=\dimen269
 )
 \AM@pagewidth=\dimen270
 \AM@pageheight=\dimen271
@@ -682,10 +686,10 @@ File: pppdftex.def 2026/03/30 v0.6h Pdfpages driver for pdfTeX (AM)
 )
 \pdfpages@includegraphics@status=\count334
 \AM@pagebox=\box105
-\AM@global@opts=\toks34
+\AM@global@opts=\toks35
 \AM@pagecnt=\count335
-\AM@toc@title=\toks35
-\AM@lof@heading=\toks36
+\AM@toc@title=\toks36
+\AM@lof@heading=\toks37
 \c@AM@survey=\count336
 \AM@templatesizebox=\box106
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.sty
@@ -749,20 +753,20 @@ Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages 
 \l__siunitx_sexagesimal_unit_box=\box115
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\afterpage.sty
 Package: afterpage 2023/07/04 v1.08 After-Page Package (DPC)
-\AP@output=\toks37
+\AP@output=\toks38
 \AP@partial=\box116
 \AP@footins=\box117
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
-\everycr=\toks38
+\everycr=\toks39
 \minrowclearance=\skip90
 \rownum=\count352
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count353
-\float@exts=\toks39
+\float@exts=\toks40
 \float@box=\box118
-\@float@everytoks=\toks40
+\@float@everytoks=\toks41
 \@floatcapt=\box119
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
@@ -781,7 +785,7 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LT@rows=\count356
 \c@LT@tables=\count357
 \c@LT@chunks=\count358
-\LT@p@ftn=\toks41
+\LT@p@ftn=\toks42
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip95
@@ -794,11 +798,11 @@ Package: rotating 2025/01/14 v2.16e rotated objects in LaTeX
 \rotFPtop=\skip97
 \rotFPbot=\skip98
 \rot@float@box=\box125
-\rot@mess@toks=\toks42
+\rot@mess@toks=\toks43
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count361
 \lst@gtempboxa=\box126
-\lst@token=\toks43
+\lst@token=\toks44
 \lst@length=\count362
 \lst@currlwidth=\dimen282
 \lst@column=\count363
@@ -889,7 +893,7 @@ Writing index file Principal.idx
 \@nomenclaturefile=\write4
 \openout4 = `Principal.nlo'.
 
-Package nomencl Info: Writing nomenclature file Principal.nlo on input line 438.
+Package nomencl Info: Writing nomenclature file Principal.nlo on input line 439.
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen294
@@ -919,16 +923,16 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@target=\dimen310
 \TX@delta=\dimen311
 \TX@cols=\count400
-\TX@ftn=\toks44
+\TX@ftn=\toks45
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 \rotheadsize=\dimen312
 \c@nlinenum=\count401
-\TeXr@lab=\toks45
+\TeXr@lab=\toks46
 ) (arduino_code.tex (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tcolorbox\tcolorbox.sty
 Package: tcolorbox 2025/11/28 version 6.9.0 text color boxes
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
-\pgfutil@everybye=\toks46
+\pgfutil@everybye=\toks47
 \pgfutil@tempdima=\dimen313
 \pgfutil@tempdimb=\dimen314
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
@@ -940,10 +944,10 @@ Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
 Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks47
-\pgfkeys@temptoks=\toks48
+\pgfkeys@pathtoks=\toks48
+\pgfkeys@temptoks=\toks49
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks49
+\pgfkeys@tmptoks=\toks50
 ))
 \pgf@x=\dimen315
 \pgf@y=\dimen316
@@ -961,9 +965,9 @@ Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
 \c@pgf@countb=\count403
 \c@pgf@countc=\count404
 \c@pgf@countd=\count405
-\t@pgf@toka=\toks50
-\t@pgf@tokb=\toks51
-\t@pgf@tokc=\toks52
+\t@pgf@toka=\toks51
+\t@pgf@tokb=\toks52
+\t@pgf@tokc=\toks53
 \pgf@sys@id@count=\count406
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
@@ -985,9 +989,9 @@ Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
 \pgfmath@dimen=\dimen325
 \pgfmath@count=\count409
 \pgfmath@box=\box129
-\pgfmath@toks=\toks53
-\pgfmath@stack@operand=\toks54
-\pgfmath@stack@operation=\toks55
+\pgfmath@toks=\toks54
+\pgfmath@stack@operand=\toks55
+\pgfmath@stack@operation=\toks56
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count410
 )) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
@@ -1070,8 +1074,8 @@ Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
 Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
 \pgffor@iter=\dimen352
 \pgffor@skip=\dimen353
-\pgffor@stack=\toks56
-\pgffor@toks=\toks57
+\pgffor@stack=\toks57
+\pgffor@toks=\toks58
 )) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
@@ -1106,8 +1110,8 @@ File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 ))) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/tools\verbatim.sty
 Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks58
-\verbatim@line=\toks59
+\every@verbatim=\toks59
+\verbatim@line=\toks60
 \verbatim@in@stream=\read4
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/environ\environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
@@ -1233,27 +1237,28 @@ LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 120.
 LaTeX Font Info:    ... okay on input line 120.
 LaTeX Info: Redefining \. on input line 120.
 LaTeX Info: Redefining \% on input line 120.
-\c@mv@tabular=\count427
-\c@mv@boldtabular=\count428
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count429
+\scratchcounter=\count427
 \scratchdimen=\dimen366
 \scratchbox=\box149
-\nofMPsegments=\count430
-\nofMParguments=\count431
-\everyMPshowfont=\toks60
-\MPscratchCnt=\count432
+\nofMPsegments=\count428
+\nofMParguments=\count429
+\everyMPshowfont=\toks61
+\MPscratchCnt=\count430
 \MPscratchDim=\dimen367
-\MPnumerator=\count433
-\makeMPintoPDFobject=\count434
-\everyMPtoPDFconversion=\toks61
+\MPnumerator=\count431
+\makeMPintoPDFobject=\count432
+\everyMPtoPDFconversion=\toks62
 ) (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\JesusAlmaguer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+\c@mv@tabular=\count433
+\c@mv@boldtabular=\count434
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1701,7 +1706,7 @@ Underfull \hbox (badness 2626) in paragraph at lines 29--29
 []|\T1/cmr/m/n/10.95 De nu-la a
  []
 
-<images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png, id=632, 698.61pt x 467.7475pt>
+<images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png, id=636, 698.61pt x 467.7475pt>
 File: images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png Graphic file (type png)
 <use images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png>
 Package pdftex.def Info: images/Capitulo 1/1.2.1 Marco teorico/Proceso In vessel.png  used on input line 50.
@@ -1803,12 +1808,12 @@ LaTeX Info: Redefining \% on input line 108.
 
 LaTeX Warning: Reference `fg' on page 8 undefined on input line 6.
 
-<images/Capitulo 1/2.2.2 Marco procedimental/VDI.png, id=678, 670.505pt x 576.1525pt>
+<images/Capitulo 1/2.2.2 Marco procedimental/VDI.png, id=682, 670.505pt x 576.1525pt>
 File: images/Capitulo 1/2.2.2 Marco procedimental/VDI.png Graphic file (type png)
 <use images/Capitulo 1/2.2.2 Marco procedimental/VDI.png>
 Package pdftex.def Info: images/Capitulo 1/2.2.2 Marco procedimental/VDI.png  used on input line 10.
 (pdftex.def)             Requested size: 201.15305pt x 172.84708pt.
-<images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png, id=681, 1702.36pt x 388.45125pt>
+<images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png, id=685, 1702.36pt x 388.45125pt>
 File: images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png Graphic file (type png)
 <use images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png>
 Package pdftex.def Info: images/Capitulo 1/2.2.2 Marco procedimental/Metodologia.png  used on input line 19.
@@ -1856,7 +1861,7 @@ LaTeX Info: Redefining \% on input line 61.
 
 
 ]) (parts/2_Dis_sist/2.1 Diseño conceptual/2.1.2 Principio de funcionamiento.tex
-<images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png, id=719, 1168.8468pt x 1013.7072pt>
+<images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png, id=723, 1168.8468pt x 1013.7072pt>
 File: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png Graphic file (type png)
 <use images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png>
 Package pdftex.def Info: images/Capitulo 3/Presentacion del proceso/Diagrama de flujo del sistema.png  used on input line 9.
@@ -1870,7 +1875,7 @@ LaTeX Info: Redefining \% on input line 19.
 LaTeX Info: Redefining \. on input line 53.
 LaTeX Info: Redefining \% on input line 53.
  [17]
-<images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png, id=737, 1579.9025pt x 1241.63875pt>
+<images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png, id=741, 1579.9025pt x 1241.63875pt>
 File: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png Graphic file (type png)
 <use images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png  used on input line 62.
@@ -1882,7 +1887,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 LaTeX Info: Redefining \. on input line 67.
 LaTeX Info: Redefining \% on input line 67.
 [18]
-<images/Capitulo 6 Apéndices/01 IDEF 0/General.png, id=742, 1541.2782pt x 1176.0738pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/General.png, id=746, 1541.2782pt x 1176.0738pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/General.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/General.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/General.png  used on input line 71.
@@ -1897,7 +1902,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 78.
 LaTeX Info: Redefining \% on input line 78.
  [19 <./images/Capitulo 3/3.1.1.2 Arquitectura funcional/FBS2.png>]
-<images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png, id=749, 1593.45313pt x 1213.53375pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png, id=753, 1593.45313pt x 1213.53375pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png>
 Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used on input line 89.
@@ -1923,7 +1928,7 @@ LaTeX Info: Redefining \% on input line 13.
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
  [23]
-<images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png, id=773, 2176.60236pt x 1287.3696pt>
+<images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png, id=777, 2176.60236pt x 1287.3696pt>
 File: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png Graphic file (type png)
 <use images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.1.3 Arquitectura fisica/Arquitectura fisica.png  used on input line 25.
@@ -1934,7 +1939,7 @@ LaTeX Info: Redefining \% on input line 30.
 LaTeX Info: Redefining \. on input line 32.
 LaTeX Info: Redefining \% on input line 32.
  [25]
-<images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png, id=787, 1181.41376pt x 566.115pt>
+<images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png, id=791, 1181.41376pt x 566.115pt>
 File: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png Graphic file (type png)
 <use images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png>
 Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/ConceptosGenerados.png  used on input line 37.
@@ -1949,7 +1954,7 @@ LaTeX Info: Redefining \% on input line 47.
 LaTeX Info: Redefining \. on input line 38.
 LaTeX Info: Redefining \% on input line 38.
  [28]
-<images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png, id=807, 566.115pt x 611.28375pt>
+<images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png, id=811, 566.115pt x 611.28375pt>
 File: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png Graphic file (type png)
 <use images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png>
 Package pdftex.def Info: images/Capitulo 3/3.2.5 Diseño Conceptual/Boceto seleccionado.png  used on input line 47.
@@ -1996,12 +2001,12 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [31
 
 ]
-<images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg, id=824, 2900.8375pt x 1132.23pt>
+<images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg, id=828, 2900.8375pt x 1132.23pt>
 File: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/cto_interfaz_imp.jpeg  used on input line 23.
 (pdftex.def)             Requested size: 290.10074pt x 113.22963pt.
-<images/Capitulo_Imple/S1/interfaz/botones_int.jpeg, id=825, 1497.595pt x 1606.0pt>
+<images/Capitulo_Imple/S1/interfaz/botones_int.jpeg, id=829, 1497.595pt x 1606.0pt>
 File: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/botones_int.jpeg  used on input line 30.
@@ -2016,22 +2021,22 @@ LaTeX Info: Redefining \% on input line 35.
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
  [33 <./images/Capitulo_Imple/S1/interfaz/botones_int.jpeg>]
-<images/Capitulo_Imple/S1/interfaz/menu.jpeg, id=839, 3011.25pt x 1893.0725pt>
+<images/Capitulo_Imple/S1/interfaz/menu.jpeg, id=843, 3011.25pt x 1893.0725pt>
 File: images/Capitulo_Imple/S1/interfaz/menu.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/menu.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/menu.jpeg  used on input line 40.
 (pdftex.def)             Requested size: 167.11256pt x 105.05809pt.
-<images/Capitulo_Imple/S1/interfaz/tiempo.jpeg, id=840, 3011.25pt x 1730.465pt>
+<images/Capitulo_Imple/S1/interfaz/tiempo.jpeg, id=844, 3011.25pt x 1730.465pt>
 File: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/tiempo.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/tiempo.jpeg  used on input line 47.
 (pdftex.def)             Requested size: 167.11256pt x 96.03401pt.
-<images/Capitulo_Imple/S1/interfaz/proceso.jpeg, id=841, 3011.25pt x 1734.48pt>
+<images/Capitulo_Imple/S1/interfaz/proceso.jpeg, id=845, 3011.25pt x 1734.48pt>
 File: images/Capitulo_Imple/S1/interfaz/proceso.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S1/interfaz/proceso.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S1/interfaz/proceso.jpeg  used on input line 54.
 (pdftex.def)             Requested size: 167.11256pt x 96.25684pt.
-<images/Web/pagina_compostador.png, id=842, 1425.07407pt x 669.2503pt>
+<images/Web/pagina_compostador.png, id=846, 1425.07407pt x 669.2503pt>
 File: images/Web/pagina_compostador.png Graphic file (type png)
 <use images/Web/pagina_compostador.png>
 Package pdftex.def Info: images/Web/pagina_compostador.png  used on input line 65.
@@ -2041,7 +2046,7 @@ LaTeX Info: Redefining \% on input line 70.
  [34
 
  <./images/Capitulo_Imple/S1/interfaz/menu.jpeg> <./images/Capitulo_Imple/S1/interfaz/tiempo.jpeg> <./images/Capitulo_Imple/S1/interfaz/proceso.jpeg>]
-<images/Web/temp_hum_web.png, id=847, 1156.32pt x 324.46219pt>
+<images/Web/temp_hum_web.png, id=851, 1156.32pt x 324.46219pt>
 File: images/Web/temp_hum_web.png Graphic file (type png)
 <use images/Web/temp_hum_web.png>
 Package pdftex.def Info: images/Web/temp_hum_web.png  used on input line 75.
@@ -2053,17 +2058,17 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Info: Redefining \. on input line 82.
 LaTeX Info: Redefining \% on input line 82.
 [35 <./images/Web/pagina_compostador.png>]
-<images/Web/indicador.png, id=852, 272.51813pt x 130.23656pt>
+<images/Web/indicador.png, id=856, 272.51813pt x 130.23656pt>
 File: images/Web/indicador.png Graphic file (type png)
 <use images/Web/indicador.png>
 Package pdftex.def Info: images/Web/indicador.png  used on input line 85.
 (pdftex.def)             Requested size: 136.25873pt x 65.11812pt.
-<images/Web/indicador_temp.png, id=853, 268.75406pt x 124.96687pt>
+<images/Web/indicador_temp.png, id=857, 268.75406pt x 124.96687pt>
 File: images/Web/indicador_temp.png Graphic file (type png)
 <use images/Web/indicador_temp.png>
 Package pdftex.def Info: images/Web/indicador_temp.png  used on input line 92.
 (pdftex.def)             Requested size: 134.3767pt x 62.48328pt.
-<images/Web/error_ds18.png, id=854, 568.37344pt x 337.26pt>
+<images/Web/error_ds18.png, id=858, 568.37344pt x 337.26pt>
 File: images/Web/error_ds18.png Graphic file (type png)
 <use images/Web/error_ds18.png>
 Package pdftex.def Info: images/Web/error_ds18.png  used on input line 101.
@@ -2072,7 +2077,7 @@ Package pdftex.def Info: images/Web/error_ds18.png  used on input line 101.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Web/dht11_web.png, id=855, 564.60938pt x 328.97906pt>
+<images/Web/dht11_web.png, id=859, 564.60938pt x 328.97906pt>
 File: images/Web/dht11_web.png Graphic file (type png)
 <use images/Web/dht11_web.png>
 Package pdftex.def Info: images/Web/dht11_web.png  used on input line 109.
@@ -2080,7 +2085,7 @@ Package pdftex.def Info: images/Web/dht11_web.png  used on input line 109.
 LaTeX Info: Redefining \. on input line 114.
 LaTeX Info: Redefining \% on input line 114.
 [36 <./images/Web/temp_hum_web.png> <./images/Web/indicador.png> <./images/Web/indicador_temp.png>]
-<images/Web/ventilador_web.png, id=861, 270.25969pt x 127.97812pt>
+<images/Web/ventilador_web.png, id=865, 270.25969pt x 127.97812pt>
 File: images/Web/ventilador_web.png Graphic file (type png)
 <use images/Web/ventilador_web.png>
 Package pdftex.def Info: images/Web/ventilador_web.png  used on input line 119.
@@ -2088,22 +2093,22 @@ Package pdftex.def Info: images/Web/ventilador_web.png  used on input line 119.
 LaTeX Info: Redefining \. on input line 124.
 LaTeX Info: Redefining \% on input line 124.
  [37 <./images/Web/error_ds18.png> <./images/Web/dht11_web.png>]
-<images/Web/motor_web.png, id=866, 269.50688pt x 123.46124pt>
+<images/Web/motor_web.png, id=870, 269.50688pt x 123.46124pt>
 File: images/Web/motor_web.png Graphic file (type png)
 <use images/Web/motor_web.png>
 Package pdftex.def Info: images/Web/motor_web.png  used on input line 127.
 (pdftex.def)             Requested size: 134.7531pt x 61.73045pt.
-<images/Web/resistencia_web.png, id=867, 268.75406pt x 124.96687pt>
+<images/Web/resistencia_web.png, id=871, 268.75406pt x 124.96687pt>
 File: images/Web/resistencia_web.png Graphic file (type png)
 <use images/Web/resistencia_web.png>
 Package pdftex.def Info: images/Web/resistencia_web.png  used on input line 135.
 (pdftex.def)             Requested size: 134.3767pt x 62.48328pt.
-<images/Web/temporizador_web.png, id=868, 271.0125pt x 126.4725pt>
+<images/Web/temporizador_web.png, id=872, 271.0125pt x 126.4725pt>
 File: images/Web/temporizador_web.png Graphic file (type png)
 <use images/Web/temporizador_web.png>
 Package pdftex.def Info: images/Web/temporizador_web.png  used on input line 147.
 (pdftex.def)             Requested size: 135.5059pt x 63.23608pt.
-<images/Web/Db_compostador.png, id=869, 1041.8925pt x 553.31718pt>
+<images/Web/Db_compostador.png, id=873, 1041.8925pt x 553.31718pt>
 File: images/Web/Db_compostador.png Graphic file (type png)
 <use images/Web/Db_compostador.png>
 Package pdftex.def Info: images/Web/Db_compostador.png  used on input line 155.
@@ -2129,7 +2134,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-<images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg, id=880, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg, id=884, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg  used on input line 9.
@@ -2145,7 +2150,7 @@ LaTeX Info: Redefining \% on input line 14.
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
  [41 <./images/Pruebas/Pruebas_S1/mostrar_aumento_temperatura.jpeg>]
-<images/Pruebas/Pruebas_S1/mostrar_datos.jpeg, id=890, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/mostrar_datos.jpeg, id=894, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/mostrar_datos.jpeg  used on input line 20.
@@ -2155,7 +2160,7 @@ LaTeX Info: Redefining \% on input line 25.
  [42
 
  <./images/Pruebas/Pruebas_S1/mostrar_datos.jpeg>]
-<images/Pruebas/Pruebas_S1/fermentacion.jpeg, id=897, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/fermentacion.jpeg, id=901, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/fermentacion.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/fermentacion.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/fermentacion.jpeg  used on input line 31.
@@ -2165,7 +2170,7 @@ LaTeX Info: Redefining \% on input line 35.
  [43
 
  <./images/Pruebas/Pruebas_S1/fermentacion.jpeg>]
-<images/Pruebas/Pruebas_S1/elevando_temp.jpeg, id=902, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/elevando_temp.jpeg, id=906, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/elevando_temp.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/elevando_temp.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/elevando_temp.jpeg  used on input line 39.
@@ -2175,7 +2180,7 @@ LaTeX Info: Redefining \% on input line 44.
  [44
 
  <./images/Pruebas/Pruebas_S1/elevando_temp.jpeg>]
-<images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg, id=908, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg, id=912, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S1/conteo_tiempo.jpeg  used on input line 50.
@@ -2210,7 +2215,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-<images/Capitulo_Imple/S2/CTO_SEN.jpeg, id=915, 4015.0pt x 3011.25pt>
+<images/Capitulo_Imple/S2/CTO_SEN.jpeg, id=919, 4015.0pt x 3011.25pt>
 File: images/Capitulo_Imple/S2/CTO_SEN.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/CTO_SEN.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/CTO_SEN.jpeg  used on input line 9.
@@ -2220,12 +2225,12 @@ LaTeX Info: Redefining \% on input line 13.
 [46
 
  <./images/Capitulo_Imple/S2/CTO_SEN.jpeg>]
-<images/Capitulo_Imple/S2/DHT11_FIS.jpeg, id=921, 1327.96124pt x 1606.0pt>
+<images/Capitulo_Imple/S2/DHT11_FIS.jpeg, id=925, 1327.96124pt x 1606.0pt>
 File: images/Capitulo_Imple/S2/DHT11_FIS.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/DHT11_FIS.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/DHT11_FIS.jpeg  used on input line 19.
 (pdftex.def)             Requested size: 132.8039pt x 160.6094pt.
-<images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg, id=923, 2938.98pt x 2830.575pt>
+<images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg, id=927, 2938.98pt x 2830.575pt>
 File: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S2/SEN_FUNCIONANDO.jpeg  used on input line 28.
@@ -2371,7 +2376,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--10
 
  []
 
-<images/Capitulo_Imple/S4/molin.jpg, id=965, 209.26534pt x 198.54396pt>
+<images/Capitulo_Imple/S4/molin.jpg, id=969, 209.26534pt x 198.54396pt>
 File: images/Capitulo_Imple/S4/molin.jpg Graphic file (type jpg)
 <use images/Capitulo_Imple/S4/molin.jpg>
 Package pdftex.def Info: images/Capitulo_Imple/S4/molin.jpg  used on input line 13.
@@ -2381,7 +2386,7 @@ LaTeX Info: Redefining \% on input line 18.
 [55
 
  <./images/Capitulo_Imple/S4/molin.jpg>]
-<images/Capitulo_Imple/S4/trituracion.jpeg, id=971, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S4/trituracion.jpeg, id=975, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S4/trituracion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S4/trituracion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S4/trituracion.jpeg  used on input line 34.
@@ -2410,7 +2415,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-<images/Capitulo_Imple/S7/atorado.jpeg, id=982, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/atorado.jpeg, id=986, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/atorado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/atorado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/atorado.jpeg  used on input line 11.
@@ -2423,7 +2428,7 @@ LaTeX Info: Redefining \% on input line 17.
  [58
 
  <./images/Capitulo_Imple/S7/atorado.jpeg>]
-<images/Capitulo_Imple/S7/triturado.jpeg, id=988, 4015.0pt x 3011.25pt>
+<images/Capitulo_Imple/S7/triturado.jpeg, id=992, 4015.0pt x 3011.25pt>
 File: images/Capitulo_Imple/S7/triturado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/triturado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/triturado.jpeg  used on input line 30.
@@ -2431,7 +2436,7 @@ Package pdftex.def Info: images/Capitulo_Imple/S7/triturado.jpeg  used on input 
 LaTeX Info: Redefining \. on input line 35.
 LaTeX Info: Redefining \% on input line 35.
  [59 <./images/Capitulo_Imple/S7/triturado.jpeg>]
-<images/Pruebas/Pruebas_S4/cono_excentrico.jpg, id=993, 418.56375pt x 395.97937pt>
+<images/Pruebas/Pruebas_S4/cono_excentrico.jpg, id=997, 418.56375pt x 395.97937pt>
 File: images/Pruebas/Pruebas_S4/cono_excentrico.jpg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_S4/cono_excentrico.jpg>
 Package pdftex.def Info: images/Pruebas/Pruebas_S4/cono_excentrico.jpg  used on input line 44.
@@ -2466,7 +2471,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg, id=998, 1204.5pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg, id=1002, 1204.5pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg  used on input line 13.
@@ -2479,7 +2484,7 @@ LaTeX Info: Redefining \% on input line 18.
 [61
 
 ]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg, id=1003, 677.53125pt x 950.80219pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg, id=1007, 677.53125pt x 950.80219pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg  used on input line 21.
@@ -2490,7 +2495,7 @@ Underfull \vbox (badness 4120) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 27.
 LaTeX Info: Redefining \% on input line 27.
  [62 <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_antes.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/contenedor_despues.jpg>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg, id=1008, 1606.0pt x 903.375pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg, id=1012, 1606.0pt x 903.375pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg  used on input line 30.
@@ -2498,12 +2503,12 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_
 LaTeX Info: Redefining \. on input line 34.
 LaTeX Info: Redefining \% on input line 34.
  [63 <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/tambo_montado.jpg>]
-<images/Capitulo_Imple/S5/Actuadores/calentador.png, id=1015, 659.46375pt x 538.01pt>
+<images/Capitulo_Imple/S5/Actuadores/calentador.png, id=1019, 659.46375pt x 538.01pt>
 File: images/Capitulo_Imple/S5/Actuadores/calentador.png Graphic file (type png)
 <use images/Capitulo_Imple/S5/Actuadores/calentador.png>
 Package pdftex.def Info: images/Capitulo_Imple/S5/Actuadores/calentador.png  used on input line 45.
 (pdftex.def)             Requested size: 131.89041pt x 107.60008pt.
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png, id=1016, 548.80031pt x 441.90094pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png, id=1020, 548.80031pt x 441.90094pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png  used on input line 60.
@@ -2515,7 +2520,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Info: Redefining \. on input line 66.
 LaTeX Info: Redefining \% on input line 66.
 [64 <./images/Capitulo_Imple/S5/Actuadores/calentador.png (PNG copy)>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png, id=1022, 595.47469pt x 482.55281pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png, id=1026, 595.47469pt x 482.55281pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png  used on input line 69.
@@ -2523,12 +2528,12 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_fi
 LaTeX Info: Redefining \. on input line 73.
 LaTeX Info: Redefining \% on input line 73.
  [65 <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptador_filtro.png> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_1.png>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg, id=1027, 676.02562pt x 1005.7575pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg, id=1031, 676.02562pt x 1005.7575pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg  used on input line 77.
 (pdftex.def)             Requested size: 121.67935pt x 181.02853pt.
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg, id=1028, 903.375pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg, id=1032, 903.375pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg  used on input line 86.
@@ -2536,17 +2541,17 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adapta
 LaTeX Info: Redefining \. on input line 91.
 LaTeX Info: Redefining \% on input line 91.
  [66 <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/imp_filtro_2.jpg> <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado2.jpg>]
-<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg, id=1033, 903.375pt x 1606.0pt>
+<images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg, id=1037, 903.375pt x 1606.0pt>
 File: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg Graphic file (type jpg)
 <use images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg  used on input line 94.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
-<images/Pruebas_S5/pieza_ventilador.jpg, id=1034, 565.36218pt x 417.81094pt>
+<images/Pruebas_S5/pieza_ventilador.jpg, id=1038, 565.36218pt x 417.81094pt>
 File: images/Pruebas_S5/pieza_ventilador.jpg Graphic file (type jpg)
 <use images/Pruebas_S5/pieza_ventilador.jpg>
 Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador.jpg  used on input line 102.
 (pdftex.def)             Requested size: 84.80066pt x 62.66893pt.
-<images/Pruebas_S5/pieza_ventilador_impresa.png, id=1035, 755.07094pt x 703.87968pt>
+<images/Pruebas_S5/pieza_ventilador_impresa.png, id=1039, 755.07094pt x 703.87968pt>
 File: images/Pruebas_S5/pieza_ventilador_impresa.png Graphic file (type png)
 <use images/Pruebas_S5/pieza_ventilador_impresa.png>
 Package pdftex.def Info: images/Pruebas_S5/pieza_ventilador_impresa.png  used on input line 109.
@@ -2558,7 +2563,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Info: Redefining \. on input line 119.
 LaTeX Info: Redefining \% on input line 119.
 [67 <./images/Capitulo 4/s5/Contenedor/Contenedor_imple/adaptadorfilt_montado.jpg> <./images/Pruebas_S5/pieza_ventilador.jpg>]
-<images/Capitulo_Imple/S5/Aireacion.jpeg, id=1041, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S5/Aireacion.jpeg, id=1045, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/Aireacion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/Aireacion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S5/Aireacion.jpeg  used on input line 130.
@@ -2570,7 +2575,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Info: Redefining \. on input line 138.
 LaTeX Info: Redefining \% on input line 138.
 [68 <./images/Pruebas_S5/pieza_ventilador_impresa.png>]
-<images/Pruebas_S5/pala_soldada.jpeg, id=1046, 1606.0pt x 903.375pt>
+<images/Pruebas_S5/pala_soldada.jpeg, id=1050, 1606.0pt x 903.375pt>
 File: images/Pruebas_S5/pala_soldada.jpeg Graphic file (type jpg)
 <use images/Pruebas_S5/pala_soldada.jpeg>
 Package pdftex.def Info: images/Pruebas_S5/pala_soldada.jpeg  used on input line 143.
@@ -2579,7 +2584,7 @@ Package pdftex.def Info: images/Pruebas_S5/pala_soldada.jpeg  used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo_Imple/S5/fresado.JPG, id=1048, 3276.24pt x 2457.18pt>
+<images/Capitulo_Imple/S5/fresado.JPG, id=1052, 3276.24pt x 2457.18pt>
 File: images/Capitulo_Imple/S5/fresado.JPG Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/fresado.JPG>
 Package pdftex.def Info: images/Capitulo_Imple/S5/fresado.JPG  used on input line 153.
@@ -2599,12 +2604,12 @@ Overfull \vbox (4.26555pt too high) has occurred while \output is active []
 LaTeX Info: Redefining \. on input line 161.
 LaTeX Info: Redefining \% on input line 161.
  [70 <./images/Pruebas_S5/pala_soldada.jpeg> <./images/Capitulo_Imple/S5/fresado.JPG>]
-<images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg, id=1059, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg, id=1063, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_sin_cubrir.jpeg  used on input line 164.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
-<images/Capitulo_Imple/S5/tambo_solo.jpeg, id=1061, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S5/tambo_solo.jpeg, id=1065, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S5/tambo_solo.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S5/tambo_solo.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S5/tambo_solo.jpeg  used on input line 173.
@@ -2662,7 +2667,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-<images/Capitulo_Imple/S6/estructura.jpeg, id=1075, 903.375pt x 1606.0pt>
+<images/Capitulo_Imple/S6/estructura.jpeg, id=1079, 903.375pt x 1606.0pt>
 File: images/Capitulo_Imple/S6/estructura.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S6/estructura.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S6/estructura.jpeg  used on input line 15.
@@ -2691,7 +2696,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 1.
 
-<images/Pruebas_S6/montar_componentes.jpeg, id=1085, 1092.08pt x 1606.0pt>
+<images/Pruebas_S6/montar_componentes.jpeg, id=1089, 1092.08pt x 1606.0pt>
 File: images/Pruebas_S6/montar_componentes.jpeg Graphic file (type jpg)
 <use images/Pruebas_S6/montar_componentes.jpeg>
 Package pdftex.def Info: images/Pruebas_S6/montar_componentes.jpeg  used on input line 7.
@@ -2704,7 +2709,7 @@ LaTeX Info: Redefining \% on input line 16.
 LaTeX Info: Redefining \. on input line 17.
 LaTeX Info: Redefining \% on input line 17.
  [77])) (parts/3_Imple/3.7_Integracion/3.7_Integracion.tex (parts/3_Imple/3.7_Integracion/3.7.1_Integracion_del_dispositivo.tex
-<images/Capitulo_Imple/S7/palas_dentro.jpeg, id=1095, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/palas_dentro.jpeg, id=1099, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/palas_dentro.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/palas_dentro.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/palas_dentro.jpeg  used on input line 9.
@@ -2712,7 +2717,7 @@ Package pdftex.def Info: images/Capitulo_Imple/S7/palas_dentro.jpeg  used on inp
 LaTeX Info: Redefining \. on input line 14.
 LaTeX Info: Redefining \% on input line 14.
  [78 <./images/Capitulo_Imple/S7/palas_dentro.jpeg>]
-<images/Capitulo_Imple/S7/perfora.jpeg, id=1101, 1606.0pt x 1204.5pt>
+<images/Capitulo_Imple/S7/perfora.jpeg, id=1105, 1606.0pt x 1204.5pt>
 File: images/Capitulo_Imple/S7/perfora.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/perfora.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/perfora.jpeg  used on input line 21.
@@ -2722,7 +2727,7 @@ LaTeX Info: Redefining \% on input line 26.
  [79
 
  <./images/Capitulo_Imple/S7/perfora.jpeg>]
-<images/Capitulo_Imple/S7/Sal_trituracion.jpeg, id=1107, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/Sal_trituracion.jpeg, id=1111, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/Sal_trituracion.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Sal_trituracion.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Sal_trituracion.jpeg  used on input line 31.
@@ -2732,7 +2737,7 @@ LaTeX Info: Redefining \% on input line 36.
  [80
 
  <./images/Capitulo_Imple/S7/Sal_trituracion.jpeg>]
-<images/Capitulo_Imple/S7/motor.jpeg, id=1113, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/motor.jpeg, id=1117, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/motor.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/motor.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/motor.jpeg  used on input line 43.
@@ -2742,7 +2747,7 @@ LaTeX Info: Redefining \% on input line 48.
  [81
 
  <./images/Capitulo_Imple/S7/motor.jpeg>]
-<images/Capitulo_Imple/S7/cableado.jpeg, id=1120, 1606.0pt x 1204.5pt>
+<images/Capitulo_Imple/S7/cableado.jpeg, id=1124, 1606.0pt x 1204.5pt>
 File: images/Capitulo_Imple/S7/cableado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/cableado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/cableado.jpeg  used on input line 53.
@@ -2752,7 +2757,7 @@ LaTeX Info: Redefining \% on input line 60.
  [82
 
  <./images/Capitulo_Imple/S7/cableado.jpeg>]
-<images/Capitulo_Imple/S7/sistema_integrado.jpeg, id=1126, 1204.5pt x 1606.0pt>
+<images/Capitulo_Imple/S7/sistema_integrado.jpeg, id=1130, 1204.5pt x 1606.0pt>
 File: images/Capitulo_Imple/S7/sistema_integrado.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/sistema_integrado.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/sistema_integrado.jpeg  used on input line 65.
@@ -2762,7 +2767,7 @@ LaTeX Info: Redefining \% on input line 70.
  [83
 
  <./images/Capitulo_Imple/S7/sistema_integrado.jpeg>]) (parts/3_Imple/3.7_Integracion/3.7.2_Validacion.tex
-<images/Pruebas/Pruebas_compost/carga1.jpeg, id=1131, 1033.8625pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga1.jpeg, id=1135, 1033.8625pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga1.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga1.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga1.jpeg  used on input line 11.
@@ -2772,7 +2777,7 @@ LaTeX Info: Redefining \% on input line 15.
  [84
 
  <./images/Pruebas/Pruebas_compost/carga1.jpeg>]
-<images/Capitulo_Imple/S7/Val/Prueba1.jpeg, id=1137, 963.6pt x 1284.8pt>
+<images/Capitulo_Imple/S7/Val/Prueba1.jpeg, id=1141, 963.6pt x 1284.8pt>
 File: images/Capitulo_Imple/S7/Val/Prueba1.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Val/Prueba1.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba1.jpeg  used on input line 25.
@@ -2782,7 +2787,7 @@ LaTeX Info: Redefining \% on input line 29.
  [85
 
  <./images/Capitulo_Imple/S7/Val/Prueba1.jpeg>]
-<images/Pruebas/Pruebas_compost/carga2.jpeg, id=1142, 677.53125pt x 1132.23pt>
+<images/Pruebas/Pruebas_compost/carga2.jpeg, id=1146, 677.53125pt x 1132.23pt>
 File: images/Pruebas/Pruebas_compost/carga2.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga2.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga2.jpeg  used on input line 39.
@@ -2792,7 +2797,7 @@ LaTeX Info: Redefining \% on input line 47.
  [86
 
  <./images/Pruebas/Pruebas_compost/carga2.jpeg>]
-<images/Capitulo_Imple/S7/Val/Prueba2.jpeg, id=1147, 963.6pt x 1284.8pt>
+<images/Capitulo_Imple/S7/Val/Prueba2.jpeg, id=1151, 963.6pt x 1284.8pt>
 File: images/Capitulo_Imple/S7/Val/Prueba2.jpeg Graphic file (type jpg)
 <use images/Capitulo_Imple/S7/Val/Prueba2.jpeg>
 Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba2.jpeg  used on input line 50.
@@ -2800,12 +2805,12 @@ Package pdftex.def Info: images/Capitulo_Imple/S7/Val/Prueba2.jpeg  used on inpu
 LaTeX Info: Redefining \. on input line 60.
 LaTeX Info: Redefining \% on input line 60.
  [87 <./images/Capitulo_Imple/S7/Val/Prueba2.jpeg>]
-<images/Pruebas/Pruebas_compost/carga3.jpeg, id=1153, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga3.jpeg, id=1157, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga3.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga3.jpeg  used on input line 64.
 (pdftex.def)             Requested size: 99.37155pt x 176.66054pt.
-<images/Pruebas/Pruebas_compost/descarga3.jpeg, id=1154, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga3.jpeg, id=1158, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga3.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga3.jpeg  used on input line 73.
@@ -2815,7 +2820,7 @@ LaTeX Info: Redefining \% on input line 77.
  [88
 
  <./images/Pruebas/Pruebas_compost/carga3.jpeg> <./images/Pruebas/Pruebas_compost/descarga3.jpeg>]
-<images/Pruebas/Pruebas_compost/descarga4.jpeg, id=1159, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga4.jpeg, id=1163, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga4.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga4.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga4.jpeg  used on input line 85.
@@ -2825,7 +2830,7 @@ LaTeX Info: Redefining \% on input line 90.
  [89
 
  <./images/Pruebas/Pruebas_compost/descarga4.jpeg>]
-<images/Pruebas/Pruebas_compost/carga5.jpeg, id=1164, 1204.5pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga5.jpeg, id=1168, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga5.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga5.jpeg  used on input line 97.
@@ -2835,12 +2840,12 @@ LaTeX Info: Redefining \% on input line 103.
  [90
 
  <./images/Pruebas/Pruebas_compost/carga5.jpeg>]
-<images/Pruebas/Pruebas_compost/descarga5.jpeg, id=1169, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/descarga5.jpeg, id=1173, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/descarga5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga5.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga5.jpeg  used on input line 107.
 (pdftex.def)             Requested size: 135.5004pt x 240.8896pt.
-<images/Pruebas/Pruebas_compost/carga6.jpeg, id=1170, 903.375pt x 1606.0pt>
+<images/Pruebas/Pruebas_compost/carga6.jpeg, id=1174, 903.375pt x 1606.0pt>
 File: images/Pruebas/Pruebas_compost/carga6.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/carga6.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga6.jpeg  used on input line 119.
@@ -2849,7 +2854,7 @@ Package pdftex.def Info: images/Pruebas/Pruebas_compost/carga6.jpeg  used on inp
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Pruebas/Pruebas_compost/descarga6.jpeg, id=1171, 782.925pt x 1043.9pt>
+<images/Pruebas/Pruebas_compost/descarga6.jpeg, id=1175, 782.925pt x 1043.9pt>
 File: images/Pruebas/Pruebas_compost/descarga6.jpeg Graphic file (type jpg)
 <use images/Pruebas/Pruebas_compost/descarga6.jpeg>
 Package pdftex.def Info: images/Pruebas/Pruebas_compost/descarga6.jpeg  used on input line 128.
@@ -2865,17 +2870,17 @@ LaTeX Info: Redefining \% on input line 135.
 LaTeX Info: Redefining \. on input line 135.
 LaTeX Info: Redefining \% on input line 135.
  [92 <./images/Pruebas/Pruebas_compost/carga6.jpeg> <./images/Pruebas/Pruebas_compost/descarga6.jpeg>]
-<images/Pruebas/Resultados/muestra_1.jpeg, id=1184, 902.37125pt x 1604.99625pt>
+<images/Pruebas/Resultados/muestra_1.jpeg, id=1188, 902.37125pt x 1604.99625pt>
 File: images/Pruebas/Resultados/muestra_1.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_1.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_1.jpeg  used on input line 149.
 (pdftex.def)             Requested size: 102.02115pt x 181.44818pt.
-<images/Pruebas/Resultados/muestra_1_colorimetria.jpeg, id=1185, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_1_colorimetria.jpeg, id=1189, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_1_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_1_colorimetria.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_1_colorimetria.jpeg  used on input line 156.
 (pdftex.def)             Requested size: 137.50824pt x 183.32605pt.
-<images/Pruebas/Resultados/muestra_1_phmetro.jpeg, id=1186, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_1_phmetro.jpeg, id=1190, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_1_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_1_phmetro.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_1_phmetro.jpeg  used on input line 163.
@@ -2885,32 +2890,32 @@ LaTeX Info: Redefining \% on input line 170.
  [93
 
  <./images/Pruebas/Resultados/muestra_1.jpeg> <./images/Pruebas/Resultados/muestra_1_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_1_phmetro.jpeg>]
-<images/Pruebas/Resultados/muestra_2.jpeg, id=1194, 902.37125pt x 1604.99625pt>
+<images/Pruebas/Resultados/muestra_2.jpeg, id=1198, 902.37125pt x 1604.99625pt>
 File: images/Pruebas/Resultados/muestra_2.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_2.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_2.jpeg  used on input line 180.
 (pdftex.def)             Requested size: 106.46127pt x 189.33403pt.
-<images/Pruebas/Resultados/muestra_2_colorimetria.jpeg, id=1195, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_2_colorimetria.jpeg, id=1199, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_2_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_2_colorimetria.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_2_colorimetria.jpeg  used on input line 187.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
-<images/Pruebas/Resultados/muestra_2_phmetro.jpeg, id=1196, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_2_phmetro.jpeg, id=1200, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_2_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_2_phmetro.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_2_phmetro.jpeg  used on input line 194.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
-<images/Pruebas/Resultados/muestra_3.jpeg, id=1198, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_3.jpeg, id=1202, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_3.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_3.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_3.jpeg  used on input line 210.
 (pdftex.def)             Requested size: 124.20143pt x 165.58403pt.
-<images/Pruebas/Resultados/muestra_3_colorimetria.jpeg, id=1199, 1606.0pt x 1204.5pt>
+<images/Pruebas/Resultados/muestra_3_colorimetria.jpeg, id=1203, 1606.0pt x 1204.5pt>
 File: images/Pruebas/Resultados/muestra_3_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_3_colorimetria.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_3_colorimetria.jpeg  used on input line 217.
 (pdftex.def)             Requested size: 150.81505pt x 113.10538pt.
-<images/Pruebas/Resultados/muestra_3_phmetro.jpeg, id=1200, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_3_phmetro.jpeg, id=1204, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_3_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_3_phmetro.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_3_phmetro.jpeg  used on input line 224.
@@ -2923,17 +2928,17 @@ LaTeX Info: Redefining \% on input line 231.
  [94
 
  <./images/Pruebas/Resultados/muestra_2.jpeg> <./images/Pruebas/Resultados/muestra_2_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_2_phmetro.jpeg>]
-<images/Pruebas/Resultados/muestra_4.jpeg, id=1206, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_4.jpeg, id=1210, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_4.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_4.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_4.jpeg  used on input line 240.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
-<images/Pruebas/Resultados/muestra_4_colorimetria.jpeg, id=1207, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_4_colorimetria.jpeg, id=1211, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_4_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_4_colorimetria.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_4_colorimetria.jpeg  used on input line 247.
 (pdftex.def)             Requested size: 141.94836pt x 189.2564pt.
-<images/Pruebas/Resultados/muestra_4_phmetro.jpeg, id=1208, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_4_phmetro.jpeg, id=1212, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_4_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_4_phmetro.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_4_phmetro.jpeg  used on input line 254.
@@ -2941,17 +2946,17 @@ Package pdftex.def Info: images/Pruebas/Resultados/muestra_4_phmetro.jpeg  used 
 LaTeX Info: Redefining \. on input line 263.
 LaTeX Info: Redefining \% on input line 263.
  [95 <./images/Pruebas/Resultados/muestra_3.jpeg> <./images/Pruebas/Resultados/muestra_3_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_3_phmetro.jpeg> <./images/Pruebas/Resultados/muestra_4.jpeg> <./images/Pruebas/Resultados/muestra_4_colorimetria.jpeg> <./images/Pruebas/Resultados/muestra_4_phmetro.jpeg>]
-<images/Pruebas/Resultados/muestra_5.jpeg, id=1214, 902.37125pt x 1604.99625pt>
+<images/Pruebas/Resultados/muestra_5.jpeg, id=1218, 902.37125pt x 1604.99625pt>
 File: images/Pruebas/Resultados/muestra_5.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_5.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_5.jpeg  used on input line 270.
 (pdftex.def)             Requested size: 97.5878pt x 173.56232pt.
-<images/Pruebas/Resultados/muestra_5_colorimetria.jpeg, id=1215, 1606.0pt x 1204.5pt>
+<images/Pruebas/Resultados/muestra_5_colorimetria.jpeg, id=1219, 1606.0pt x 1204.5pt>
 File: images/Pruebas/Resultados/muestra_5_colorimetria.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_5_colorimetria.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_5_colorimetria.jpeg  used on input line 277.
 (pdftex.def)             Requested size: 159.68852pt x 119.75864pt.
-<images/Pruebas/Resultados/muestra_5_phmetro.jpeg, id=1216, 1204.5pt x 1606.0pt>
+<images/Pruebas/Resultados/muestra_5_phmetro.jpeg, id=1220, 1204.5pt x 1606.0pt>
 File: images/Pruebas/Resultados/muestra_5_phmetro.jpeg Graphic file (type jpg)
 <use images/Pruebas/Resultados/muestra_5_phmetro.jpeg>
 Package pdftex.def Info: images/Pruebas/Resultados/muestra_5_phmetro.jpeg  used on input line 284.
@@ -3047,7 +3052,7 @@ LaTeX Info: Redefining \% on input line 60.
 LaTeX Info: Redefining \. on input line 4.
 LaTeX Info: Redefining \% on input line 4.
  [101] (parts/4_Ana/4.2 Costos/4.2 Costos.tex
-<images/Anexo/Reparticion_gastos.jpg, id=1256, 1140.26pt x 945.5325pt>
+<images/Anexo/Reparticion_gastos.jpg, id=1260, 1140.26pt x 945.5325pt>
 File: images/Anexo/Reparticion_gastos.jpg Graphic file (type jpg)
 <use images/Anexo/Reparticion_gastos.jpg>
 Package pdftex.def Info: images/Anexo/Reparticion_gastos.jpg  used on input line 202.
@@ -3268,97 +3273,93 @@ LaTeX Info: Redefining \% on input line 214.
 \openout2 = `apendices/apendices/7.2.1_IDEF.aux'.
 
  (apendices/apendices/7.2.1_IDEF.tex
-<images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png, id=1456, 1591.9475pt x 1220.56pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png, id=1459, 1591.9475pt x 1220.56pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png  used on input line 7.
-(pdftex.def)             Requested size: 557.18997pt x 427.2024pt.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png  used on input line 8.
+(pdftex.def)             Requested size: 477.58794pt x 366.17082pt.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+ [129
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-LaTeX Info: Redefining \. on input line 9.
-LaTeX Info: Redefining \% on input line 9.
-[129
-
-]
+ <./images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png>]
 File: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used on input line 13.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/NodoA0.png  used on input line 15.
 (pdftex.def)             Requested size: 557.71695pt x 424.74318pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png, id=1462, 1591.9475pt x 1215.03937pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png, id=1467, 1591.9475pt x 1215.03937pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png  used on input line 19.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png  used on input line 21.
 (pdftex.def)             Requested size: 557.18997pt x 425.27016pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png, id=1463, 1594.95876pt x 1215.03937pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png, id=1468, 1594.95876pt x 1215.03937pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png  used on input line 25.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png  used on input line 27.
 (pdftex.def)             Requested size: 558.24394pt x 425.27016pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png, id=1464, 1585.42313pt x 1206.00563pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png, id=1469, 1585.42313pt x 1206.00563pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png  used on input line 31.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png  used on input line 33.
 (pdftex.def)             Requested size: 554.90642pt x 422.10829pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png, id=1465, 1578.89874pt x 1173.38374pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png, id=1470, 1578.89874pt x 1173.38374pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png  used on input line 37.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png  used on input line 39.
 (pdftex.def)             Requested size: 552.62285pt x 410.69046pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png, id=1466, 1582.91376pt x 1197.97563pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png, id=1471, 1582.91376pt x 1197.97563pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png  used on input line 49.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png  used on input line 51.
 (pdftex.def)             Requested size: 554.02812pt x 419.29774pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png, id=1467, 1591.9475pt x 1227.58624pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png, id=1472, 1591.9475pt x 1227.58624pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png  used on input line 55.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png  used on input line 57.
 (pdftex.def)             Requested size: 557.18997pt x 429.66162pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png, id=1468, 1570.36688pt x 1219.05438pt>
+<images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png, id=1473, 1570.36688pt x 1219.05438pt>
 File: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png Graphic file (type png)
 <use images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png>
-Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png  used on input line 61.
+Package pdftex.def Info: images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png  used on input line 63.
 (pdftex.def)             Requested size: 549.63666pt x 426.67543pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [130 <./images/Capitulo 6 Apéndices/01 IDEF 0/A0_final.png>]
+) [130]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [131] [132 <./images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png>]
+ [131 <./images/Capitulo 6 Apéndices/01 IDEF 0/A1_final - Copy.png>] [132 <./images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png>]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [133 <./images/Capitulo 6 Apéndices/01 IDEF 0/A2_conmarco - Copy.png>] [134 <./images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png>]
+ [133 <./images/Capitulo 6 Apéndices/01 IDEF 0/A3_conmarco - Copy.png>] [134 <./images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png>]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [135 <./images/Capitulo 6 Apéndices/01 IDEF 0/A4_conmarco - Copy.png>] [136 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png>]
+ [135 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,3_conmarco - Copy.png>] [136 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png>]
 LaTeX Info: Redefining \. on input line 217.
 LaTeX Info: Redefining \% on input line 217.
- [137 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,1,4_conmarco - Copy.png>] [138 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png>]
+ [137 <./images/Capitulo 6 Apéndices/01 IDEF 0/A,3,1_conmarco - Copy.png>]
 \openout2 = `apendices/apendices/7.2.2_Matriz_Morfologica.aux'.
 
  (apendices/apendices/7.2.2_Matriz_Morfologica.tex
@@ -3367,144 +3368,144 @@ Package caption Warning: \label without proper reference on input line 28.
 See the caption package documentation for explanation.
 
 
-LaTeX Warning: Reference `tab:morfologica' on page 139 undefined on input line 5.
+LaTeX Warning: Reference `tab:morfologica' on page 138 undefined on input line 5.
 
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png, id=1524, 157.58875pt x 132.495pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png, id=1523, 157.58875pt x 132.495pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png  used on input line 26.
 (pdftex.def)             Requested size: 31.51718pt x 26.49852pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png, id=1525, 178.6675pt x 140.525pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png, id=1524, 178.6675pt x 140.525pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png  used on input line 26.
 (pdftex.def)             Requested size: 35.73286pt x 28.10449pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png, id=1526, 197.73875pt x 152.57pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png, id=1525, 197.73875pt x 152.57pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png  used on input line 26.
 (pdftex.def)             Requested size: 39.54704pt x 30.51346pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png, id=1527, 162.6075pt x 139.52126pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png, id=1526, 162.6075pt x 139.52126pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png  used on input line 26.
 (pdftex.def)             Requested size: 32.52092pt x 27.90375pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png, id=1528, 106.3975pt x 143.53625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png, id=1527, 106.3975pt x 143.53625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png  used on input line 26.
 (pdftex.def)             Requested size: 21.27911pt x 28.70673pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png, id=1529, 213.79875pt x 137.51375pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png, id=1528, 213.79875pt x 137.51375pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png  used on input line 26.
 (pdftex.def)             Requested size: 42.75899pt x 27.50226pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png, id=1530, 199.74625pt x 111.41624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png, id=1529, 199.74625pt x 111.41624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png  used on input line 26.
 (pdftex.def)             Requested size: 59.92433pt x 33.42513pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png, id=1531, 144.54pt x 120.45pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png, id=1530, 144.54pt x 120.45pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png  used on input line 26.
 (pdftex.def)             Requested size: 43.36232pt x 36.13527pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png, id=1532, 185.69376pt x 129.48375pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png, id=1531, 185.69376pt x 129.48375pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png  used on input line 26.
 (pdftex.def)             Requested size: 55.70854pt x 38.84541pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png, id=1533, 177.66376pt x 124.465pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png, id=1532, 177.66376pt x 124.465pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png  used on input line 26.
 (pdftex.def)             Requested size: 53.29953pt x 37.33978pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png, id=1534, 163.61125pt x 123.46124pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png, id=1533, 163.61125pt x 123.46124pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png  used on input line 26.
 (pdftex.def)             Requested size: 49.08374pt x 37.03865pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png, id=1535, 149.55875pt x 140.525pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png, id=1534, 149.55875pt x 140.525pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png  used on input line 26.
 (pdftex.def)             Requested size: 44.86797pt x 42.15782pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png, id=1536, 189.70876pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png, id=1535, 189.70876pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png  used on input line 26.
 (pdftex.def)             Requested size: 56.91306pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png, id=1537, 155.58125pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png, id=1536, 155.58125pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png  used on input line 26.
 (pdftex.def)             Requested size: 46.67473pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png, id=1538, 130.4875pt x 130.4875pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png, id=1537, 130.4875pt x 130.4875pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png  used on input line 26.
 (pdftex.def)             Requested size: 39.14655pt x 39.14655pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png, id=1539, 198.7425pt x 119.44624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png, id=1538, 198.7425pt x 119.44624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png  used on input line 26.
 (pdftex.def)             Requested size: 59.6232pt x 35.83414pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png, id=1540, 135.50626pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png, id=1539, 135.50626pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png  used on input line 26.
 (pdftex.def)             Requested size: 40.65218pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png, id=1541, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png, id=1540, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png, id=1542, 732.7375pt x 704.6325pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png, id=1541, 732.7375pt x 704.6325pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png  used on input line 26.
 (pdftex.def)             Requested size: 43.96234pt x 42.27612pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png, id=1543, 431.6125pt x 419.5675pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png, id=1542, 431.6125pt x 419.5675pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png  used on input line 26.
 (pdftex.def)             Requested size: 47.47751pt x 46.15256pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png, id=1544, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png, id=1543, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png, id=1545, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png, id=1544, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png, id=1546, 118.4425pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png, id=1545, 118.4425pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png  used on input line 26.
 (pdftex.def)             Requested size: 35.53302pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png, id=1547, 106.3975pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png, id=1546, 106.3975pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png  used on input line 26.
 (pdftex.def)             Requested size: 31.91948pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png, id=1548, 197.73875pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png, id=1547, 197.73875pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png  used on input line 26.
 (pdftex.def)             Requested size: 59.32208pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png, id=1549, 210.7875pt x 118.4425pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png, id=1548, 210.7875pt x 118.4425pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png  used on input line 26.
 (pdftex.def)             Requested size: 63.23672pt x 35.53302pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png, id=1550, 479.7925pt x 423.5825pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png, id=1549, 479.7925pt x 423.5825pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png  used on input line 26.
 (pdftex.def)             Requested size: 47.98206pt x 42.36072pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png, id=1551, 609.27625pt x 675.52374pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png, id=1550, 609.27625pt x 675.52374pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png  used on input line 26.
@@ -3517,37 +3518,37 @@ Overfull \hbox (11.66574pt too wide) in paragraph at lines 10--27
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png, id=1552, 497.86pt x 334.24875pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png, id=1551, 497.86pt x 334.24875pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png  used on input line 40.
 (pdftex.def)             Requested size: 49.78891pt x 33.42682pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png, id=1553, 749.80125pt x 625.33624pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png, id=1552, 749.80125pt x 625.33624pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png  used on input line 40.
 (pdftex.def)             Requested size: 59.98532pt x 50.02791pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png, id=1554, 362.35374pt x 352.31625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png, id=1553, 362.35374pt x 352.31625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png  used on input line 40.
 (pdftex.def)             Requested size: 54.35071pt x 52.84515pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png, id=1555, 500.87125pt x 272.01625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png, id=1554, 500.87125pt x 272.01625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png  used on input line 40.
 (pdftex.def)             Requested size: 75.12744pt x 40.80067pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png, id=1556, 578.16pt x 471.7625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png, id=1555, 578.16pt x 471.7625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png  used on input line 40.
 (pdftex.def)             Requested size: 57.81938pt x 47.179pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png, id=1557, 377.41pt x 212.795pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png, id=1556, 377.41pt x 212.795pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png  used on input line 40.
 (pdftex.def)             Requested size: 75.48065pt x 42.55824pt.
-<images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png, id=1558, 263.98625pt x 263.98625pt>
+<images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png, id=1557, 263.98625pt x 263.98625pt>
 File: images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png  used on input line 40.
@@ -3560,19 +3561,20 @@ Overfull \hbox (11.66777pt too wide) in paragraph at lines 33--41
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 44.
-LaTeX Info: Redefining \% on input line 44.
-[139
+[138
 
 
 
-]) [140 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png (PNG copy)>]
+])
 LaTeX Info: Redefining \. on input line 218.
 LaTeX Info: Redefining \% on input line 218.
- [141 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png (PNG copy)>]
+ [139 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/1D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/2B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/3D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/4D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/5D.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/6B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/8C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/9C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/10B.png (PNG copy)>] [140 <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/11C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12A.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12B.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12C.png (PNG copy)> <./images/Capitulo 3/3.1.2.1 Matriz morfologica/12D.png (PNG copy)>]
 \openout2 = `apendices/apendices/7.2.3_Criterios_de_Seleccion.aux'.
 
- (apendices/apendices/7.2.3_Criterios_de_Seleccion.tex [142
+ (apendices/apendices/7.2.3_Criterios_de_Seleccion.tex
+LaTeX Info: Redefining \. on input line 30.
+LaTeX Info: Redefining \% on input line 30.
+ [141
 
 
 
@@ -3649,10 +3651,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 
 LaTeX Warning: Float too large for page by 30.40498pt on input line 59.
 
-)
+) [142]
 LaTeX Info: Redefining \. on input line 219.
 LaTeX Info: Redefining \% on input line 219.
- [143] [144]
+ [143]
 \openout2 = `apendices/apendices/7.2.4_Matrices_AHP.aux'.
 
  (apendices/apendices/7.2.4_Matrices_AHP.tex
@@ -3679,42 +3681,39 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)
+) [144
+
+
+
+]
 LaTeX Info: Redefining \. on input line 220.
 LaTeX Info: Redefining \% on input line 220.
- [145
-
-
-
-] [146]
+ [145] [146]
 LaTeX Info: Redefining \. on input line 220.
 LaTeX Info: Redefining \% on input line 220.
  [147] [148]
 LaTeX Info: Redefining \. on input line 220.
 LaTeX Info: Redefining \% on input line 220.
  [149] [150]
-LaTeX Info: Redefining \. on input line 220.
-LaTeX Info: Redefining \% on input line 220.
- [151]
 \openout2 = `apendices/apendices/7.2.5_Seleccion.aux'.
 
  (apendices/apendices/7.2.5_Seleccion.tex
-<images/Capitulo 4/3.1.1/S1/esp.png, id=1623, 480.79625pt x 407.5225pt>
+<images/Capitulo 4/3.1.1/S1/esp.png, id=1622, 480.79625pt x 407.5225pt>
 File: images/Capitulo 4/3.1.1/S1/esp.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/esp.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/esp.png  used on input line 28.
 (pdftex.def)             Requested size: 72.11632pt x 61.12573pt.
-<images/Capitulo 4/3.1.1/S1/rasp.png, id=1624, 489.83pt x 389.455pt>
+<images/Capitulo 4/3.1.1/S1/rasp.png, id=1623, 489.83pt x 389.455pt>
 File: images/Capitulo 4/3.1.1/S1/rasp.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/rasp.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/rasp.png  used on input line 28.
 (pdftex.def)             Requested size: 73.47133pt x 58.41573pt.
-<images/Capitulo 4/3.1.1/S1/nano.png, id=1625, 404.51125pt x 355.3275pt>
+<images/Capitulo 4/3.1.1/S1/nano.png, id=1624, 404.51125pt x 355.3275pt>
 File: images/Capitulo 4/3.1.1/S1/nano.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/nano.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/nano.png  used on input line 28.
 (pdftex.def)             Requested size: 60.67406pt x 53.29681pt.
-<images/Capitulo 4/3.1.1/S1/mega.png, id=1626, 453.695pt x 375.4025pt>
+<images/Capitulo 4/3.1.1/S1/mega.png, id=1625, 453.695pt x 375.4025pt>
 File: images/Capitulo 4/3.1.1/S1/mega.png Graphic file (type png)
 <use images/Capitulo 4/3.1.1/S1/mega.png>
 Package pdftex.def Info: images/Capitulo 4/3.1.1/S1/mega.png  used on input line 28.
@@ -3724,27 +3723,29 @@ Overfull \hbox (11.67914pt too wide) in paragraph at lines 12--30
  [][] 
  []
 
-[152
+LaTeX Info: Redefining \. on input line 39.
+LaTeX Info: Redefining \% on input line 39.
+[151
 
 
 
- <./images/Capitulo 4/3.1.1/S1/esp.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/rasp.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/nano.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/mega.png (PNG copy)>])
+ <./images/Capitulo 4/3.1.1/S1/esp.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/rasp.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/nano.png (PNG copy)> <./images/Capitulo 4/3.1.1/S1/mega.png (PNG copy)>]) [152]
 LaTeX Info: Redefining \. on input line 221.
 LaTeX Info: Redefining \% on input line 221.
- [153] [154]
+ [153]
 \openout2 = `apendices/apendices/7.2.6_Temperatura_cilindro.aux'.
 
- (apendices/apendices/7.2.6_Temperatura_cilindro.tex)
-LaTeX Info: Redefining \. on input line 222.
-LaTeX Info: Redefining \% on input line 222.
- [155
+ (apendices/apendices/7.2.6_Temperatura_cilindro.tex) [154
 
 
 
 ]
 \openout2 = `apendices/apendices/7.2.7_Temperatura_final.aux'.
 
- (apendices/apendices/7.2.7_Temperatura_final.tex [156
+ (apendices/apendices/7.2.7_Temperatura_final.tex
+LaTeX Info: Redefining \. on input line 27.
+LaTeX Info: Redefining \% on input line 27.
+ [155
 
 
 
@@ -3753,66 +3754,63 @@ Overfull \hbox (23.03581pt too wide) detected at line 46
 []
  []
 
-)
-LaTeX Info: Redefining \. on input line 223.
-LaTeX Info: Redefining \% on input line 223.
- [157]
+) [156]
 \openout2 = `apendices/apendices/7.2.8_Estudios_Termicos.aux'.
 
  (apendices/apendices/7.2.8_Estudios_Termicos.tex
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png, id=1662, 599.99156pt x 371.13657pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png, id=1661, 599.99156pt x 371.13657pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png  used on input line 7.
 (pdftex.def)             Requested size: 239.99237pt x 148.45198pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png, id=1663, 590.95781pt x 431.36156pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png, id=1662, 590.95781pt x 431.36156pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png  used on input line 16.
 (pdftex.def)             Requested size: 236.37894pt x 172.54156pt.
- [158
+LaTeX Info: Redefining \. on input line 19.
+LaTeX Info: Redefining \% on input line 19.
+ [157
 
 
 
  <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_3.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3.png>]
-<images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png, id=1668, 203.25937pt x 49.68562pt>
+<images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png, id=1667, 203.25937pt x 49.68562pt>
 File: images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png  used on input line 23.
 (pdftex.def)             Requested size: 162.60771pt x 39.74855pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png, id=1671, 688.07062pt x 388.45125pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png, id=1670, 688.07062pt x 388.45125pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png  used on input line 34.
 (pdftex.def)             Requested size: 275.22337pt x 155.37773pt.
-LaTeX Info: Redefining \. on input line 42.
-LaTeX Info: Redefining \% on input line 42.
- [159 <./images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png, id=1678, 718.93594pt x 411.03563pt>
+ [158 <./images/Capitulo 4/s5/Contenedor/Potencia_total_modelo.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico3_fibra.png>]
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png, id=1676, 718.93594pt x 411.03563pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png  used on input line 46.
 (pdftex.def)             Requested size: 287.56927pt x 164.41133pt.
- [160 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png, id=1683, 158.84344pt x 52.69687pt>
+LaTeX Info: Redefining \. on input line 49.
+LaTeX Info: Redefining \% on input line 49.
+ [159 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciamod_3_fibra.png>]
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png, id=1682, 158.84344pt x 52.69687pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png  used on input line 53.
 (pdftex.def)             Requested size: 142.95776pt x 47.42673pt.
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
- [161 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>]
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png, id=1691, 614.295pt x 362.85562pt>
+ [160 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra3.png>]
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png, id=1690, 614.295pt x 362.85562pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png  used on input line 68.
 (pdftex.def)             Requested size: 307.14674pt x 181.42737pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png, id=1692, 204.765pt x 50.43843pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png, id=1691, 204.765pt x 50.43843pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png  used on input line 75.
 (pdftex.def)             Requested size: 184.28677pt x 45.39415pt.
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png, id=1693, 639.13782pt x 342.5297pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png, id=1692, 639.13782pt x 342.5297pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png  used on input line 84.
@@ -3821,7 +3819,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png, id=1694, 158.84344pt x 52.69687pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png, id=1693, 158.84344pt x 52.69687pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png  used on input line 91.
@@ -3829,7 +3827,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_f
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png, id=1695, 557.08125pt x 337.26pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png, id=1694, 557.08125pt x 337.26pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png  used on input line 100.
@@ -3837,7 +3835,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png, id=1696, 203.25937pt x 48.93282pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png, id=1695, 203.25937pt x 48.93282pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png  used on input line 107.
@@ -3845,7 +3843,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png, id=1697, 602.25pt x 335.75438pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png, id=1696, 602.25pt x 335.75438pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png  used on input line 116.
@@ -3853,7 +3851,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png, id=1698, 158.84344pt x 48.93282pt>
+<images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png, id=1697, 158.84344pt x 48.93282pt>
 File: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png  used on input line 123.
@@ -3861,10 +3859,13 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_f
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [162 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png>]
+)
 LaTeX Info: Redefining \. on input line 224.
 LaTeX Info: Redefining \% on input line 224.
- [163 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png>] [164 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png>]
+ [161 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potenciasf_16.png>] [162 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico16_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra16.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termicosf_31.6.png>]
+LaTeX Info: Redefining \. on input line 224.
+LaTeX Info: Redefining \% on input line 224.
+ [163 <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Ptenciasf_31.6.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/termico31_fibra.png> <./images/Capitulo 4/s5/Contenedor/Est_Termicos/Potencia_fibra31.png>]
 \openout2 = `apendices/apendices/7.2.9_Calculos_estructura.aux'.
 
  (apendices/apendices/7.2.9_Calculos_estructura.tex
@@ -3872,19 +3873,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-LaTeX Info: Redefining \. on input line 34.
-LaTeX Info: Redefining \% on input line 34.
-[165
+[164
 
 
 
 ]
-<images/Capitulo 4/s5/Factores de servicio.png, id=1716, 415.5525pt x 252.945pt>
+<images/Capitulo 4/s5/Factores de servicio.png, id=1714, 415.5525pt x 252.945pt>
 File: images/Capitulo 4/s5/Factores de servicio.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factores de servicio.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factores de servicio.png  used on input line 40.
 (pdftex.def)             Requested size: 332.44244pt x 202.35626pt.
-<images/Capitulo 4/s5/Grafica para la seleccion de bandas.png, id=1718, 430.60875pt x 279.0425pt>
+<images/Capitulo 4/s5/Grafica para la seleccion de bandas.png, id=1716, 430.60875pt x 279.0425pt>
 File: images/Capitulo 4/s5/Grafica para la seleccion de bandas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Grafica para la seleccion de bandas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Grafica para la seleccion de bandas.png  used on input line 47.
@@ -3893,7 +3892,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Grafica para la seleccion de banda
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Capacidad 3V.png, id=1720, 374.39874pt x 316.18124pt>
+<images/Capitulo 4/s5/Capacidad 3V.png, id=1718, 374.39874pt x 316.18124pt>
 File: images/Capitulo 4/s5/Capacidad 3V.png Graphic file (type png)
 <use images/Capitulo 4/s5/Capacidad 3V.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Capacidad 3V.png  used on input line 54.
@@ -3901,7 +3900,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Capacidad 3V.png  used on input li
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/Longitudes bandas.png, id=1722, 345.29pt x 212.795pt>
+<images/Capitulo 4/s5/Longitudes bandas.png, id=1720, 345.29pt x 212.795pt>
 File: images/Capitulo 4/s5/Longitudes bandas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Longitudes bandas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Longitudes bandas.png  used on input line 61.
@@ -3909,8 +3908,10 @@ Package pdftex.def Info: images/Capitulo 4/s5/Longitudes bandas.png  used on inp
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[166 <./images/Capitulo 4/s5/Factores de servicio.png>]
-<images/Capitulo 4/s5/Factor theta.png, id=1729, 278.03876pt x 165.61874pt>
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
+[165 <./images/Capitulo 4/s5/Factores de servicio.png>]
+<images/Capitulo 4/s5/Factor theta.png, id=1728, 278.03876pt x 165.61874pt>
 File: images/Capitulo 4/s5/Factor theta.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factor theta.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factor theta.png  used on input line 69.
@@ -3919,7 +3920,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Factor theta.png  used on input li
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Factor L.png, id=1731, 406.51875pt x 183.68625pt>
+<images/Capitulo 4/s5/Factor L.png, id=1730, 406.51875pt x 183.68625pt>
 File: images/Capitulo 4/s5/Factor L.png Graphic file (type png)
 <use images/Capitulo 4/s5/Factor L.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Factor L.png  used on input line 75.
@@ -3927,7 +3928,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Factor L.png  used on input line 7
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 4/s5/Tamanos Cuna.png, id=1733, 714.67pt x 620.3175pt>
+<images/Capitulo 4/s5/Tamanos Cuna.png, id=1732, 714.67pt x 620.3175pt>
 File: images/Capitulo 4/s5/Tamanos Cuna.png Graphic file (type png)
 <use images/Capitulo 4/s5/Tamanos Cuna.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Tamanos Cuna.png  used on input line 86.
@@ -3935,17 +3936,16 @@ Package pdftex.def Info: images/Capitulo 4/s5/Tamanos Cuna.png  used on input li
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-LaTeX Info: Redefining \. on input line 90.
-LaTeX Info: Redefining \% on input line 90.
-[167 <./images/Capitulo 4/s5/Grafica para la seleccion de bandas.png>] [168 <./images/Capitulo 4/s5/Capacidad 3V.png>]
+[166 <./images/Capitulo 4/s5/Grafica para la seleccion de bandas.png>]
+LaTeX Info: Redefining \. on input line 105.
+LaTeX Info: Redefining \% on input line 105.
+ [167 <./images/Capitulo 4/s5/Capacidad 3V.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 109--116
 
  []
 
-LaTeX Info: Redefining \. on input line 116.
-LaTeX Info: Redefining \% on input line 116.
-[169 <./images/Capitulo 4/s5/Longitudes bandas.png> <./images/Capitulo 4/s5/Factor theta.png>]
-<images/Capitulo 4/s5/Resistencia a la fatiga.png, id=1752, 542.025pt x 412.54124pt>
+[168 <./images/Capitulo 4/s5/Longitudes bandas.png> <./images/Capitulo 4/s5/Factor theta.png>]
+<images/Capitulo 4/s5/Resistencia a la fatiga.png, id=1751, 542.025pt x 412.54124pt>
 File: images/Capitulo 4/s5/Resistencia a la fatiga.png Graphic file (type png)
 <use images/Capitulo 4/s5/Resistencia a la fatiga.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Resistencia a la fatiga.png  used on input line 119.
@@ -3954,7 +3954,7 @@ Package pdftex.def Info: images/Capitulo 4/s5/Resistencia a la fatiga.png  used 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/Capitulo 4/s5/1 pala fuerzas.png, id=1754, 583.17876pt x 578.16pt>
+<images/Capitulo 4/s5/1 pala fuerzas.png, id=1753, 583.17876pt x 578.16pt>
 File: images/Capitulo 4/s5/1 pala fuerzas.png Graphic file (type png)
 <use images/Capitulo 4/s5/1 pala fuerzas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/1 pala fuerzas.png  used on input line 125.
@@ -3964,7 +3964,7 @@ Overfull \hbox (22.96515pt too wide) in paragraph at lines 125--126
  [][] 
  []
 
-<images/Capitulo 4/s5/2 palas fuerzas.png, id=1755, 589.20125pt x 584.1825pt>
+<images/Capitulo 4/s5/2 palas fuerzas.png, id=1754, 589.20125pt x 584.1825pt>
 File: images/Capitulo 4/s5/2 palas fuerzas.png Graphic file (type png)
 <use images/Capitulo 4/s5/2 palas fuerzas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/2 palas fuerzas.png  used on input line 131.
@@ -3974,22 +3974,25 @@ Overfull \hbox (27.78314pt too wide) in paragraph at lines 131--132
  [][] 
  []
 
-) [170 <./images/Capitulo 4/s5/Factor L.png>]
+)
 LaTeX Info: Redefining \. on input line 225.
 LaTeX Info: Redefining \% on input line 225.
- [171 <./images/Capitulo 4/s5/Tamanos Cuna.png>] [172 <./images/Capitulo 4/s5/Resistencia a la fatiga.png>]
+ [169 <./images/Capitulo 4/s5/Factor L.png>] [170 <./images/Capitulo 4/s5/Tamanos Cuna.png>]
 LaTeX Info: Redefining \. on input line 225.
 LaTeX Info: Redefining \% on input line 225.
- [173 <./images/Capitulo 4/s5/1 pala fuerzas.png>] [174 <./images/Capitulo 4/s5/2 palas fuerzas.png>]
+ [171 <./images/Capitulo 4/s5/Resistencia a la fatiga.png>] [172 <./images/Capitulo 4/s5/1 pala fuerzas.png>]
+LaTeX Info: Redefining \. on input line 225.
+LaTeX Info: Redefining \% on input line 225.
+ [173 <./images/Capitulo 4/s5/2 palas fuerzas.png>]
 \openout2 = `apendices/apendices/7.2.10_Control.aux'.
 
  (apendices/apendices/7.2.10_Control.tex
-<images/Capitulo 3/3.1.2/comunicacion.png, id=1783, 888.31876pt x 238.64156pt>
+<images/Capitulo 3/3.1.2/comunicacion.png, id=1782, 888.31876pt x 238.64156pt>
 File: images/Capitulo 3/3.1.2/comunicacion.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/comunicacion.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/comunicacion.png  used on input line 9.
 (pdftex.def)             Requested size: 355.32121pt x 95.45493pt.
-<images/Capitulo 3/3.1.2/curva_calentamiento.png, id=1785, 592.46344pt x 535.2497pt>
+<images/Capitulo 3/3.1.2/curva_calentamiento.png, id=1784, 592.46344pt x 535.2497pt>
 File: images/Capitulo 3/3.1.2/curva_calentamiento.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/curva_calentamiento.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/curva_calentamiento.png  used on input line 18.
@@ -3998,7 +4001,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/curva_calentamiento.png  used o
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/Ftransferencia.png, id=1787, 447.92343pt x 380.92313pt>
+<images/Capitulo 3/3.1.2/Ftransferencia.png, id=1786, 447.92343pt x 380.92313pt>
 File: images/Capitulo 3/3.1.2/Ftransferencia.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/Ftransferencia.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/Ftransferencia.png  used on input line 26.
@@ -4006,7 +4009,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/Ftransferencia.png  used on inp
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/ControlPID_comSimu.png, id=1790, 770.88pt x 370.38374pt>
+<images/Capitulo 3/3.1.2/ControlPID_comSimu.png, id=1789, 770.88pt x 370.38374pt>
 File: images/Capitulo 3/3.1.2/ControlPID_comSimu.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/ControlPID_comSimu.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/ControlPID_comSimu.png  used on input line 36.
@@ -4014,7 +4017,7 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/ControlPID_comSimu.png  used on
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/Capitulo 3/3.1.2/PID_Tuner.png, id=1791, 1404.74812pt x 767.11594pt>
+<images/Capitulo 3/3.1.2/PID_Tuner.png, id=1790, 1404.74812pt x 767.11594pt>
 File: images/Capitulo 3/3.1.2/PID_Tuner.png Graphic file (type png)
 <use images/Capitulo 3/3.1.2/PID_Tuner.png>
 Package pdftex.def Info: images/Capitulo 3/3.1.2/PID_Tuner.png  used on input line 43.
@@ -4022,36 +4025,35 @@ Package pdftex.def Info: images/Capitulo 3/3.1.2/PID_Tuner.png  used on input li
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)
+) [174
+
+
+
+ <./images/Capitulo 3/3.1.2/comunicacion.png>]
 LaTeX Info: Redefining \. on input line 226.
 LaTeX Info: Redefining \% on input line 226.
- [175
-
-
-
- <./images/Capitulo 3/3.1.2/comunicacion.png>] [176 <./images/Capitulo 3/3.1.2/curva_calentamiento.png> <./images/Capitulo 3/3.1.2/Ftransferencia.png>]
-LaTeX Info: Redefining \. on input line 226.
-LaTeX Info: Redefining \% on input line 226.
- [177 <./images/Capitulo 3/3.1.2/ControlPID_comSimu.png> <./images/Capitulo 3/3.1.2/PID_Tuner.png>]
+ [175 <./images/Capitulo 3/3.1.2/curva_calentamiento.png> <./images/Capitulo 3/3.1.2/Ftransferencia.png>] [176 <./images/Capitulo 3/3.1.2/ControlPID_comSimu.png> <./images/Capitulo 3/3.1.2/PID_Tuner.png>]
 \openout2 = `apendices/apendices/7.2.11_Ventilacion.aux'.
 
  (apendices/apendices/7.2.11_Ventilacion.tex
-<images/Capitulo 4/s5/Contenedor/flow1.png, id=1805, 899.61093pt x 518.6878pt>
+<images/Capitulo 4/s5/Contenedor/flow1.png, id=1803, 899.61093pt x 518.6878pt>
 File: images/Capitulo 4/s5/Contenedor/flow1.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/flow1.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/flow1.png  used on input line 7.
 (pdftex.def)             Requested size: 359.838pt x 207.47144pt.
- [178
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+ [177
 
 
 
  <./images/Capitulo 4/s5/Contenedor/flow1.png>]
-<images/Capitulo 4/s5/Contenedor/flow2.png, id=1812, 820.56563pt x 405.01312pt>
+<images/Capitulo 4/s5/Contenedor/flow2.png, id=1811, 820.56563pt x 405.01312pt>
 File: images/Capitulo 4/s5/Contenedor/flow2.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/flow2.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/flow2.png  used on input line 17.
 (pdftex.def)             Requested size: 328.22043pt x 162.00237pt.
-<images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png, id=1813, 770.88pt x 480.29437pt>
+<images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png, id=1812, 770.88pt x 480.29437pt>
 File: images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png Graphic file (type png)
 <use images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png>
 Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png  used on input line 26.
@@ -4060,131 +4062,73 @@ Package pdftex.def Info: images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png  u
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-)
+) [178 <./images/Capitulo 4/s5/Contenedor/flow2.png>]
 LaTeX Info: Redefining \. on input line 227.
 LaTeX Info: Redefining \% on input line 227.
- [179 <./images/Capitulo 4/s5/Contenedor/flow2.png>] [180 <./images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png>]
+ [179 <./images/Capitulo 4/s5/Contenedor/Flow_Profe_Islas.png>]
 \openout2 = `apendices/apendices/7.2.12_Codigo_de_programa.aux'.
 
- (apendices/apendices/7.2.12_Codigo_de_programa.tex (Codigo_compost.ino
-LaTeX Info: Redefining \. on input line 28.
-LaTeX Info: Redefining \% on input line 28.
- [181
+ (apendices/apendices/7.2.12_Codigo_de_programa.tex (Codigo_compost.ino [180
 
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
+LaTeX Info: Redefining \. on input line 59.
+LaTeX Info: Redefining \% on input line 59.
+ [181]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [182]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 93.
-LaTeX Info: Redefining \% on input line 93.
+LaTeX Info: Redefining \. on input line 127.
+LaTeX Info: Redefining \% on input line 127.
  [183]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [184]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 161.
-LaTeX Info: Redefining \% on input line 161.
- [185]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [186]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 229.
-LaTeX Info: Redefining \% on input line 229.
- [187]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [188]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 296.
-LaTeX Info: Redefining \% on input line 296.
- [189]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [190]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 364.
-LaTeX Info: Redefining \% on input line 364.
- [191]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [192]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 432.
-LaTeX Info: Redefining \% on input line 432.
- [193]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [194]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
- [195]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [196]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 568.
-LaTeX Info: Redefining \% on input line 568.
- [197]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [198]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 635.
-LaTeX Info: Redefining \% on input line 635.
- [199]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [200]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 703.
-LaTeX Info: Redefining \% on input line 703.
- [201])) [202] [203
+ [184])
+<images/Anexo/QR codigo compostador.png, id=2005, 302.3295pt x 289.08pt>
+File: images/Anexo/QR codigo compostador.png Graphic file (type png)
+<use images/Anexo/QR codigo compostador.png>
+Package pdftex.def Info: images/Anexo/QR codigo compostador.png  used on input line 14.
+(pdftex.def)             Requested size: 377.91093pt x 361.3491pt.
+)
+LaTeX Info: Redefining \. on input line 228.
+LaTeX Info: Redefining \% on input line 228.
+ [185 <./images/Anexo/QR codigo compostador.png>] [186
 
 
 
-] [204]
+] [187] [188]
 \openout2 = `apendices/anexo1.aux'.
 
  (apendices/anexo1.tex
-<images/Anexo/motor_air.png, id=2633, 998.73125pt x 652.4375pt>
+<images/Anexo/motor_air.png, id=2027, 998.73125pt x 652.4375pt>
 File: images/Anexo/motor_air.png Graphic file (type png)
 <use images/Anexo/motor_air.png>
 Package pdftex.def Info: images/Anexo/motor_air.png  used on input line 8.
 (pdftex.def)             Requested size: 399.48541pt x 260.97037pt.
-) [205
+) [189
 
 
 
  <./images/Anexo/motor_air.png (PNG copy)>]
 \openout2 = `apendices/anexo2.aux'.
 
- (apendices/anexo2.tex [206
+ (apendices/anexo2.tex [190
 
 
 
 
 ]
-<images/Anexo/motor_lav.png, id=2642, 653.44125pt x 468.75125pt>
+<images/Anexo/motor_lav.png, id=2037, 653.44125pt x 468.75125pt>
 File: images/Anexo/motor_lav.png Graphic file (type png)
 <use images/Anexo/motor_lav.png>
 Package pdftex.def Info: images/Anexo/motor_lav.png  used on input line 8.
 (pdftex.def)             Requested size: 326.71982pt x 234.37505pt.
-<images/Anexo/motor_lav_esp.png, id=2643, 185.69376pt x 123.46124pt>
+<images/Anexo/motor_lav_esp.png, id=2038, 185.69376pt x 123.46124pt>
 File: images/Anexo/motor_lav_esp.png Graphic file (type png)
 <use images/Anexo/motor_lav_esp.png>
 Package pdftex.def Info: images/Anexo/motor_lav_esp.png  used on input line 15.
@@ -4193,12 +4137,12 @@ Package pdftex.def Info: images/Anexo/motor_lav_esp.png  used on input line 15.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [207
+) [191
 
  <./images/Anexo/motor_lav.png (PNG copy)>]
 LaTeX Info: Redefining \. on input line 233.
 LaTeX Info: Redefining \% on input line 233.
- [208 <./images/Anexo/motor_lav_esp.png (PNG copy)>] (Principal.ind) (Principal.aux
+ [192 <./images/Anexo/motor_lav_esp.png (PNG copy)>] (Principal.ind) (Principal.aux
 LaTeX Info: Redefining \. on input line 13.
 LaTeX Info: Redefining \% on input line 13.
  (preliminares/resumen.aux) (preliminares/abstract.aux) (preliminares/nomenclatura.aux) (parts/1_Mar_ref/2.0_rev_lit.aux) (capitulos/marcoreferencia.aux) (parts/2_Dis_sist/2_Dis_sis.aux) (parts/3_Imple/3.0_Implemetacion.aux) (parts/4_Ana/4.0_Analisis.aux) (parts/6_con/6.0_con.aux) (apendices/apendices/7.2.1_IDEF.aux) (apendices/apendices/7.2.2_Matriz_Morfologica.aux) (apendices/apendices/7.2.3_Criterios_de_Seleccion.aux) (apendices/apendices/7.2.4_Matrices_AHP.aux) (apendices/apendices/7.2.5_Seleccion.aux) (apendices/apendices/7.2.6_Temperatura_cilindro.aux) (apendices/apendices/7.2.7_Temperatura_final.aux) (apendices/apendices/7.2.8_Estudios_Termicos.aux) (apendices/apendices/7.2.9_Calculos_estructura.aux) (apendices/apendices/7.2.10_Control.aux) (apendices/apendices/7.2.11_Ventilacion.aux) (apendices/apendices/7.2.12_Codigo_de_programa.aux) (apendices/anexo1.aux) (apendices/anexo2.aux))
@@ -4230,20 +4174,20 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 43274 strings out of 467871
- 963783 string characters out of 5414505
- 1803309 words of memory out of 5000000
- 69861 multiletter control sequences out of 15000+600000
- 772002 words of font info for 137 fonts, out of 8000000 for 9000
+ 42680 strings out of 467871
+ 952214 string characters out of 5414505
+ 1743414 words of memory out of 5000000
+ 69826 multiletter control sequences out of 15000+600000
+ 771665 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,18n,145p,1190b,2973s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,18n,145p,1190b,2981s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-pdfTeX warning (dest): name{section*.195} has been referenced but does not exist, replaced by a fixed one
+pdfTeX warning (dest): name{section*.196} has been referenced but does not exist, replaced by a fixed one
 
- <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
-Output written on Principal.pdf (236 pages, 28969939 bytes).
+ <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0600.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbi1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1095.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti1440.pk> <C:\Users\JesusAlmaguer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\eccc1095.pk><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Bold.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/montserrat/Montserrat-Regular.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/JesusAlmaguer/AppData/Local/Programs/MiKTeX/fonts/type1/public/fourier/fourier-orns.pfb>
+Output written on Principal.pdf (220 pages, 28905185 bytes).
 PDF statistics:
- 3961 PDF objects out of 4296 (max. 8388607)
- 1244 named destinations out of 1440 (max. 500000)
- 1547 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3238 PDF objects out of 3580 (max. 8388607)
+ 686 named destinations out of 1000 (max. 500000)
+ 1552 words of extra memory for PDF output out of 10000 (max. 10000000)
 
